@@ -1,0 +1,31 @@
+θεριστής   290   θήκη
+
+[ἕνα σ]πόρον ἕνα (deleted in pap.) καὶ θερισμόν, a lease "for one year, for one seed-time and harvest," *BGU* II. 594⁵ (A.D. 70–80) μετὰ τὸν θερισμὸ[ν ἐργολ]αβήσομα[ι, and *P Flor* I. 80⁹ (i/ii A.D.) ἀρξόμεθα δὲ τ[οῦ] θερισμ[ο]ῦ ἄ[ρτ]ι ἐὰν κελευσθῶμεν ὑπό σου. See also τὰ θέριστρα with reference to harvesting operations in *P Oxy* II. 277⁸ (B.C. 19).
+
+## θεριστής.
+
+*P Hib* I. 44⁶ (B.C. 253–2) ὡσαύτως δὲ καὶ τοὺς ἐπιγεγραμμένους θεριστὰς κατὰ τὴν δοθεῖσάν σοι γραφήν, "and likewise the harvesters who have been levied in accordance with the list given to you," *P Flor* I. 80⁸ (i/ii A.D.) ἓξ θερισταί. For the adj. θεριστικός see *P Magd* 8⁵ (B.C. 218) δρέπανον θεριστικόν. The word survives in MGr.
+
+## θέρμη.
+
+We have no ex. of this subst. = "heat," as in Ac 28³ (see Hobart, p. 287 f. for medical exx.), but it is common in connexion with public "baths," e.g. *P Oxy* I. 54¹³ (A.D. 201) εἰς ἐπιμέλειαν ἐπισκευῆς καὶ κατασκευῆς Ἀδριανῶν θερμῶν, "to superintend the repairs and fixtures of the baths of Hadrian" (Edd.), *ib.* III. 473⁵ (A.D. 138–160) τὰ[ς] τῶν μειζόνων θερμῶν ἐπιμελείας, *ib.* VI. 896⁸ (A.D. 316), τοῦ εὐτυχῶς ἐπισκευαζομένου Τραιανῶν Ἀδριανῶν θερμῶν δημοσίου τῆς αὐτῆς πόλεως βαλανίου. With the rare form θέρμη Rutherford (*NP*, p. 198) compares κάκη and λεύκη, λεύκαι being applied to a form of leprosy (like the English term "the blues"): so in MGr ζέστη = "heat," ψύχρα = "cold weather."
+
+## θέρος.
+
+*P Hib* I. 27⁸³ (a calendar—B.C. 301–240) ἔλεγεν δὲ [δύο] τὰς πορείας εἶναι τοῦ ἡλίου μίαν μὲν τὴν διορίζουσαν νύκτα καὶ ἡμέραν μίαν δὲ τὴν διορίζουσαν χειμῶνα καὶ θέρος, "he said that the courses of the sun were two, one dividing night and day and one dividing winter and summer" (Edd.). *OGIS* 56⁵⁹ (B.C. 237) ἐν τῶι χειμῶνι . . . ἐν τῶι θέρει. In *P Flor* II. 150⁸ (A.D. 267) ὥστε . . . πατῆσαι τὰ ἐν τῷ αἰγιαλῷ θέρη, the word is = "crop." For the adj. see *BGU* IV. 1188⁵ (B.C. 15–4) τὰ θερινὰ ἔργα, and *P Oxy* IV. 810 (A.D. 134–5) where land is to be cultivated χόρτῳ εἰς κοπὴν καὶ θερινὴν ἐπινομήν. Θέριστρον apparently = "a summer garment" (as in LXX Gen 24⁶⁵ al.) occurs in *P Petr* I. 12²⁸ (iii/B.C.) (= III. p. 18). MGr θέρος, "summer."
+
+## Θευδᾶς.
+
+The name occurs in a sepulchral inscr. from Hierapolis, *Syll* 872, where Flavius Zeuxis, ἐργαστής (? a *frumentarius*: he speaks of his seventy-two voyages past Cape Malea to Italy. His name suggests a late date in i/A.D., or not far on in ii/A.D.), has two sons, Flavius Theodorus and Flavius Theudas. On the ordinary assumption (Blass-Debrunner *Gr.* § 125, 2) this would be like having a Theodore and a Teddy as baptismal names of brothers. Are we to infer that Theudas is short for something else, say Theodotus? To judge without an exhaustive study, the abbreviated names were used together with the full forms much as they are with us: thus Acusilaus in *P Tebt* II. 409 (A.D. 5) is Acûs on the back of the letter, and in *P Oxy* I. 119 (ii/iii A.D.) (= *Selections*, p. 102 f.) young Theon calls himself Theonas in the address. In *P Oxy* X. 1242⁴⁻¹⁴ (early iii/A.D.) we hear of Θεύδης as one of the members of a Jewish embassy to Trajan.
+
+## θεωρέω.
+
+A tendency to use θεωρέω more lightly might be deduced from such passages as *P Tebt* I. 58²⁵ (B.C. 111) οὗτος οὖν θεωρήσας με ὡς προσεδρεύοντα καθ᾽ ἡμέραν ὥσπερ δεδειλίακε, "seeing me in daily attendance he has as it were turned coward" (Edd.), though "watched" will translate it here; *ib.* 61 (*b*)⁸³ (B.C. 118–7) ἀξιόω[ν] . . . συνθεωρεῖσθαι, "*cognosci*," and again 373 θεωρῆσ[θαι] (*l.* τεθεωρῆσ[θαι) ἐκ τῆ[ς] γε[γεν]ημένης εἰκασίας μετὰ ταῦτα, "it was perceived from the subsequent estimate." But whether the verb belonged to the *Volkssprache* (Blass *N.T. Grammatik*², p. 59, *s.v.* ὁρᾶν) or not, it was hardly a synonym of ὁράω: cf. the use of the two verbs in Jn 16¹⁶ (Abbott *Joh. Voc.*, p. 104 ff.). See *P Oxy* I. 33 *verso* iii.⁹ (ii/A.D.) θεωρήσατε ἕνα ἀπ᾽ αἰῶνος ἀπαγόμ[ενο]ν, "behold one led off to death" (lit. "from life"), *P Giss* I. 19⁵ (ii/A.D.) ὡς δὲ οὐτὲ ἴχνος ἐθεώρο[υν, of a woman searching for her husband, and the Christian *P Heid* 6⁸ (iv/A.D.) (= *Selections*, p. 126) ἐγῖθεν (*l.* ἐκεῖθεν) θεωροῦμέν σε τὸν δεσπότην καὶ κενὸν (*l.* καινὸν) (π)ά[τ]ρω[να, "wherefore we regard you as master and new patron." Similarly from the inscrr. *OGIS* 751⁵ (ii/B.C.) θεωρῶν οὖν ὑμᾶς μετανενοηκότας τε ἐπὶ τοῖ[ς] προημαρτημένοις, *Priene* 113⁷⁸ (i/B.C.) τελειῶν δ᾽ ὁ μετὰ ταῦτα χρόνος ἐθεωρεῖτο πρὸς τὴν εἰς τὸ πλῆ[θος] ἀρέσκειαν, and *OGIS* 666¹⁶ (c. A.D. 55) ἡ Αἴγυπτος, τὰς τοῦ Νείλου δωρεὰς ἐπαυξομένας κατ᾽ ἔτος θεωροῦσα, νῦν μᾶλλον ἀπέλαυσε τῆς δικαίας ἀναβάσεως τοῦ θεοῦ. Boisacq (p. 343) derives the word from θέα and ὁράω. MGr θωρῶ = θεωρῶ (see Thumb *Hellen.*, p. 17).
+
+## θεωρία.
+
+With the use of this subst. in Lk 23⁴⁸ we may compare *P Tebt* I. 33⁶ (B.C. 112) (= *Selections*, p. 30), where arrangements are made for the reception of a Roman senator who is making the voyage to Egypt "to see the sights"—ἀνάπλουν . . . ἐπὶ θεωρίαν ποιούμενος: cf. *P Oxy* VII. 1025⁸ (late iii/A.D.) τῶν θεωριῶν, "the spectacles" at a village festival. It refers to a judicial "investigation" in *P Tor* I. 1viii.⁵ (B.C. 117–6) καὶ μὴ προσεκτέον αὐτῶι ἐφ᾽ ἑτέραν θεωρίαν μεταφέροντι τὴν γεγονυῖαν αὐτῶι πρὸς ἄλλους περὶ οὐδη(π)οτοῦν πράγματος ἀμφισβήτησιν, and to an agricultural "survey" in *P Amh* II. 68⁵² (late i/A.D.) ἐκ τῆς νυνεὶ κατ᾽ ἀγρὸν θεωρίας: in *Michel* 509⁹ (B.C. 241) ἐκδεξάμενος τάς τε παρούσας θεωρίας πρ[επ]όντως, it = "embassy," "mission." MGr θωριά, "look," "glance," θεωρία, "theory." For θεώρημα see *P Lond* 121¹⁷⁸ (magic—iii/A.D.) (= I. p. 99); for θεώρησις *CP Herm* I. 7¹: ⁵ (ii/A.D.?), and for θεωρός *OGIS* 232 (iii/B.C.). *P Oxy* III. 473⁵ (A.D. 138–60) τὰ τε [θ]εωρικὰ χρήματα are the funds provided for theatrical displays: see also Wilcken *Ostr.* i. p. 373 f.
+
+## θήκη.
+
+With the use of this word = "scabbard," "sheath," in Jn 18¹¹ cf. *P Petr* III. 140 (*a*)⁴ (accounts) περικεφαλαίας καὶ θήκης. For the more ordinary meaning "box," "chest," see *P Ryl* II. 148¹⁸ (A.D. 40) θήκην ἀννήσου, "a store of anise," *BGU* III. 781ⁱⁱⁱ·⁶ (i/A.D.) πίναξ μέγας ἐν θήκῃ, *P Giss* I. 47²⁴ (time of Hadrian) (= *Chrest.* I. p. 383)
