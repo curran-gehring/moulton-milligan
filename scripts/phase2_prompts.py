@@ -17,22 +17,34 @@ and emit one JSON object per entry.
 
 **For each lexical entry on this page, emit a JSON object with these fields:**
 - `lemma_greek` — the headword in polytonic Greek, Unicode NFC. Diacritics matter.
+  **Preserve trailing period if present in the source.** MM typesets headwords
+  with a period (e.g. `ἀγγέλλω.`); keep it. Do not strip.
 - `body_markdown` — the full entry body, lightly cleaned (preserve italics for
   papyri abbreviations like *P.Oxy.*, *BGU*, *v/A.D.*).
 - `papyri_citations_raw` — JSON array of citation strings, **exactly as written
-  on the page**. PRESERVE `ib.`, `ibid.`, `id.`, and other anaphoric shortcuts —
-  do NOT expand them to the underlying citation. Phase 4 handles normalization.
-  Example: `["P Oxy I. 33⁵ (ii/A.D.)", "ib. 71 ff."]` is correct;
-  `["P Oxy I. 33⁵ (ii/A.D.)", "P Oxy I. 71 ff."]` is wrong (over-expanded).
+  on the page**. This array is the **SUPERSET of all non-NT citations** that
+  MM uses as evidence. It includes:
+    - papyri (P.Oxy., BGU, PSI, P.Lond., P.Par., P.Lille, etc.)
+    - inscriptions (OGIS, Syll., IG, Priene, Magn., etc.)
+    - ostraca (O.Tait, O.Mich., etc.)
+    - LXX, Apocrypha, Deuterocanonical (Wisd, Sir, Judith, Tob, 1-4 Macc, etc.)
+    - classical/patristic literary citations (Plut., Aristoph., Justin M., etc.)
+    - any other non-NT reference cited as supporting evidence
+  Phase 4 will classify and normalize. Your job is to capture the citation
+  strings, not categorize them.
+  - **PRESERVE** `ib.`, `ibid.`, `id.`, and other anaphoric shortcuts — do NOT
+    expand them. Example: `["P Oxy I. 33⁵", "ib. 71 ff."]` is correct;
+    expanding `ib.` to `P Oxy I. 71 ff.` is wrong.
+  - **Preserve series/work context on chained citations.** If the page reads
+    "Michel 459, 521" or "P Par 63⁵⁸, 63⁹¹" (multiple refs sharing a series),
+    emit each chain member with its full series prefix:
+    `["Michel 459", "Michel 521"]`, NOT `["Michel 459", "521"]`.
 - `nt_references_raw` — JSON array of **New Testament references ONLY**
   (Matthew through Revelation, including the General Epistles, the Pastorals,
   Hebrews, and Revelation), as written. Empty array if none.
-  - **Do NOT include OT/LXX references** (Genesis, Psalms, Isaiah, Hosea, etc.).
-  - **Do NOT include Apocrypha/Deuterocanonical references** (Wisdom, Sirach,
-    Tobit, Judith, 1-4 Maccabees, etc.).
-  - **Do NOT include pseudepigrapha or classical references.**
-  - Those non-NT references belong inside `body_markdown` as part of the entry
-    text, never in this array.
+  - **OT/LXX, Apocrypha, classical, patristic refs do NOT belong here.**
+    Those go in `papyri_citations_raw` (per above), or stay in body prose if
+    only mentioned in passing.
   - **Preserve book context on chained references.** If the page reads
     "Rev 6⁶, 7³" or "Matt 5:1, 7:24" (multiple refs sharing a book name),
     emit each chain member with its full book prefix:
