@@ -174,6 +174,19 @@ def main() -> int:
     open_dis = src.execute(
         "SELECT COUNT(*) FROM disagreements WHERE resolution IS NULL"
     ).fetchone()[0]
+    resolved_dis = src.execute(
+        "SELECT COUNT(*) FROM disagreements WHERE resolution IS NOT NULL"
+    ).fetchone()[0]
+    phase5_resolutions = src.execute(
+        """
+        SELECT resolution_by, COUNT(*) AS c
+          FROM disagreements
+         WHERE resolution_by LIKE 'auto:%'
+           AND resolution_by != 'auto:strongs-snap'
+         GROUP BY resolution_by
+         ORDER BY c DESC
+        """
+    ).fetchall()
     needs_review_count = src.execute(
         "SELECT COUNT(*) FROM entries WHERE needs_review=1"
     ).fetchone()[0]
@@ -187,6 +200,38 @@ def main() -> int:
         100.0 * (verdicts["agree"] + verdicts["minor"]) / total_entries
     ) if total_entries else 0
 
+    phase5_breakdown = (
+        "\n".join(f"- `{row['resolution_by']}` — {row['c']}" for row in phase5_resolutions)
+        if phase5_resolutions
+        else "_(no Phase 5 auto-resolutions on record)_"
+    )
+
+    # Emit the manual disagreement queue alongside the rest of the deliverables.
+    manual_tsv = OUT_DIR / "disagreements_manual.tsv"
+    manual_rows = src.execute(
+        """
+        SELECT d.id, e.page_no, e.strongs, e.lemma_greek, d.field,
+               d.producer_value, d.reviewer_value
+          FROM disagreements d
+          JOIN entries e ON e.id = d.entry_id
+         WHERE d.resolution IS NULL
+         ORDER BY e.page_no, e.position_on_page, d.field
+        """
+    ).fetchall()
+    with manual_tsv.open("w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f, delimiter="\t", quoting=csv.QUOTE_MINIMAL)
+        w.writerow([
+            "disagreement_id", "page_no", "strongs", "lemma_greek", "field",
+            "producer_value", "reviewer_value",
+        ])
+        for r in manual_rows:
+            w.writerow([
+                r["id"], r["page_no"], r["strongs"] or "", r["lemma_greek"] or "",
+                r["field"],
+                (r["producer_value"] or "").replace("\t", " ").replace("\n", "\\n"),
+                (r["reviewer_value"] or "").replace("\t", " ").replace("\n", "\\n"),
+            ])
+
     report = f"""# Moulton-Milligan Digitization — Report
 
 Generated: {now}
@@ -194,9 +239,10 @@ Generated: {now}
 ## Scope of this export
 
 **Alpha-chunk preview** — pages 31–80 only (first ~50 lexicon-body pages).
-Phase 4 (citation normalization) and Phase 5 (disagreement resolution) are
-**skipped** for this preview; `papyri_citations` field holds the raw
-as-written strings from `papyri_citations_raw`.
+Phase 4 (citation normalization) is skipped for this preview; `papyri_citations`
+field holds the raw as-written strings from `papyri_citations_raw`. Phase 5
+(disagreement resolution) has run deterministic auto-policies; remaining
+cases requiring human judgment are surfaced in `disagreements_manual.tsv`.
 
 This export uses the **relaxed filter** (all entries included).
 Pass `--strict` to apply spec §6's `needs_review=0` filter ({needs_review_count}
@@ -233,13 +279,20 @@ Spec §8 gate: ≥75% Strong's coverage — **{'PASS' if strongs_pct >= 75 else 
 
 agree+minor rate: **{audit_pct:.1f}%** (spec §8 gate: ≥85%) — **{'PASS' if audit_pct >= 85 else 'FAIL'}**.
 
-Open disagreements (Phase 5 work): **{open_dis}**.
+## Phase 5 disagreement resolution
+
+- Resolved: **{resolved_dis}** (auto-policies)
+- Remaining manual queue: **{open_dis}** (see `disagreements_manual.tsv`)
+
+Auto-resolution breakdown:
+{phase5_breakdown}
 
 ## Files in this export
 
 - `mm.sqlite` — primary deliverable, GRDB.swift-compatible
 - `mm.jsonl` — one entry per line
 - `mm.tsv` — tab-separated, STEPBible-style header
+- `disagreements_manual.tsv` — residual Phase 5 queue (rows needing human judgment)
 - `report.md` — this file
 
 ## Known limitations
@@ -247,7 +300,7 @@ Open disagreements (Phase 5 work): **{open_dis}**.
 1. Pages 1–30 (front matter + abbreviation tables) NOT parsed.
 2. Pages 81–735 NOT parsed (Phase 2 continues over time).
 3. `papyri_citations` is raw-as-written, not normalized (Phase 4 unskipped).
-4. {open_dis} open disagreements not resolved (Phase 5 unskipped).
+4. {open_dis} disagreements remain in the manual queue (Phase 5 partial).
 5. Continuation-from-prior-page entries sometimes have inferred lemma rather
    than the true prior-page headword. See entries with
    `notes: "continuation from prior page"`.
@@ -259,6 +312,7 @@ Open disagreements (Phase 5 work): **{open_dis}**.
     print(f"wrote {mm_sqlite}: {inserted} entries (dedup skipped {dedup_skipped})")
     print(f"wrote {mm_jsonl}")
     print(f"wrote {mm_tsv}")
+    print(f"wrote {manual_tsv}: {len(manual_rows)} manual-queue rows")
     print(f"wrote {report_path}")
     print()
     print(f"Strong's coverage: {strongs_pct:.1f}% (gate >= 75%) {'PASS' if strongs_pct >= 75 else 'FAIL'}")
