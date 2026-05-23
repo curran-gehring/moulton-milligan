@@ -1,0 +1,31 @@
+δεῖπνον — δεκαοκτώ    **139**
+
+## δεῖπνον.
+
+In a lengthy account of private expenses, P Oxy IV. 736⁵⁶ (c. A.D. 1), we find the entry ἀσπαράγῳ(ν) [δίπνῳ Ἀντί(ᾶτος) ὅτ' εἰς τὸ περίδ[ι]πνο(ν) Ἀθηί ) γναφέω(ς) (ἡμιωβέλιον), “asparagus for the dinner of Antas when (he went) to the funeral feast of Athe . . . the fuller ½ ob.” (Edd.): cf. *ib.* 738¹ (c. A.D. 1) δίπνωι ε Κανωπικὸν ἧπαρ, “for dinner on the 5th a Canopic liver. For δειπνητήριον = “a civic banqueting-hall” see the inscription of the time of Vespasian (A.D. 69-79) in P Fay p. 33. Another compound, δειπνοκλήτωρ, occurs in the remarkable alternative version of the parable of Lk 14¹⁶, found in D Φ *al* after Mt 20²⁸. Nestle, *Text. Criticism*, p. 257, remarks that Artemidorus (*ap.* Athenaeus) called the ἐλέατρος by this name—“a manager of the table, taster” (LS). He equates it to a Syriac phrase = “master of the feast,” and claims it as belonging to the later popular language. It may accordingly represent not the entertainer but the *nomenclator*—the slave who acted as marshal at a dinner-party. Δεῖπνον is not frequent in our documents, but it survives in MGr. We might add P Lond 219(*a*) recto ʰ·² (ii/B.C.) (= II. p. 2), where in accounts concerning . . . inner (περὶ δεῖπνον) the beer (ζύτου) costs 40 dr. a *chous* (early 6 pints), which the editor observes was a high price.
+
+## δεισιδαιμονία.
+
+In *OGIS* 455⁵⁴ (B.C. 39) a temple-precinct of the goddess Aphrodite is declared ἄσυλον—αὐτῷ δικαίῳ ταὐτῇ τε δεισιδαιμονίᾳ, “*eodem jure eademque religione*” as the temple of Artemis at Ephesus. It is in this general sense of “religion,” without any pronouncement as to whether it was right or wrong, that the word is to be understood in Ac 25¹⁹.
+
+## δεισιδαίμων.
+
+Beyond the neutral sense attached to the subst. in the passage cited *s.v.* δεισιδαιμονία, we have no light to throw upon the exact force of the phrase κατὰ πάντα δεισιδαι­μονεστέρους in Ac 17²². A convenient summary of the translations given to it with their varying shades of condemnation and commendation will be found in *ExpT* xviii. p. 485 ff. See also A. W. Verrall's comments, *ib.* xix. p. 43: he renders “exceedingly god-fearing,” but accepts the view that it is meant to be a neutral term. L. R. Farnell *Greece and Babylon*, p. 193 n, remarks on the prevailing bad sense of the word (as in the *Characters* of Theophrastus) in connexion with the exclusion of fear and humility from religious virtues. We find the adj. meaning “reverent” in the epitaph of a *mimus*, *Kaibel* 607³ (iii/A.D.) πᾶσι φίλος θνητοῖς εἴς τ' ἀθανάτους δεισιδαίμων.
+
+The adverb occurs *bis* in Aristeas 129 with reference to unclean foods—δεισιδαιμόνως γὰρ τὰ πλεῖστα τὴν νομοθεσίαν ἔχειν, ἐν δὲ τούτοις παντελῶς δεισιδαιμόνως, “for the law is scrupulous in most things, but in these matters it is excessively scrupulous” (Thackeray). There is a good list of occurrences in D. B. Durham *Menander*, p. 53.
+
+## δέκα.
+
+The indeterminate use of δέκα to denote simply a period of time, which is found in Biblical Greek (Gen 24⁵⁵, Numb 11¹⁹, Dan 1¹⁵, Rev 2¹⁰), may be illustrated from P Petr III. 36 verso² where a prisoner complains that he has been harshly treated in prison—λιμῷ παραπολλύμενος μῆνές εἰσιν δέκα, “p[er]ishing from hunger for the last ten months”; and from a more literary source in the *Mimes* of Herodas I. 24 — δέκ' εἰσὶ μῆνες, during which a husband, who has gone on a journey to Egypt, does not write to his wife. See further Lumbroso in *Archiv* iv. p. 319f., where some parallels are quoted from literary Κοινή. Of course there is no proof that the above is not to be taken literally.
+
+## δεκαδύο.
+
+In the Ptolemaic papyri this is the regular form, *e. g.* P Petr II. 27(1)⁵ (B.C. 236) ἐκ μετρητῶν δεκαδύο, and so .⁸, P Amh II. 47⁵ (B.C. 113) πυροῦ ἀρτάβας δέκα δύο ἄτοκα. The only exception which Mayser (*Gr.* p. 316) has noted is P Vat F⁸¹ (B.C. 157). Similarly in inscriptions from about i/B.C. we find δεκαδύο, as well as δώδεκα, *e.g. CIA* II. 476⁶ (ii/i B.C.) δραχμὰς δέκα δύο: see Meisterhans *Gr.* p. 159. In ostraca δώδεκα greatly predominates over δέκα δύο. In *Proleg.* p. 96 n.² there is an unfortunate mistake, due to trusting Wellhausen: the mistake is copied in Thackeray *Gr.* i. p. 188 n¹. Wellhausen says (*Einleitung in die drei ersten Evangelien*¹, p. 11), “Zwölf in D an den beiden Stellen, wo die Zahl ausgeschrieben ist (Mt 19²⁸, Lk 9¹⁷), δεκαδύο und nicht δώδεκα heisst.” (So far as one can tell, in the absence of an index, he has dropped the statement in ed.²) As a matter of fact, D has δώδεκα in Mt 9²⁰, 11¹, Lk 9¹³, Jn 6¹³, 6⁷¹, 11⁹, Ac 19⁷. Not only D but W shows δέκα δύο (ι̅β̅, according to Sanders, p. 24). P Flor II. 141 (A.D. 264) has instructive differences between three scribes. The first writer mentions οἴνου δίχωρα δώδ[εκ]α—γί(νεται) οἴ(νου) δίχω(ρα) ιβ; the second, who endorses it, writes δώδεκα; the third writes a receipt for δίχωρα [δε]καδύο. The last is a φροντιστής or “superintendent of inland revenue,” and unless a big hand is evidence (see under γράμμα) no less educated than Alypius or his correspondent Heroninus. In P Lond 1171¹ (B.C. 8) (= III. p. 177) we find τῆς ιβμήνου, “the 12 month”: cf. for gender τὰν δευ­τέραν ἑξάμηϊνον, *Syll* 718⁵ (i/B.C.). Thackeray remarks (*l.c.*) that δεκαδύο was a shortlived attempt to displace δώδεκα, much in vogue in the Ptolemaic age, but in LXX only predominant in Chron and Judith. Δώδεκα stands alone in MGr.
+
+## δεκαέξ
+
+stands in Rev 13¹⁸ C, and is probably original, in view of Deissmann's convincing exposition in *LAE*, p. 275 ff. (καισαρ θεὸς = 616). It is universal in papyri and other Κοινή monuments: the old forms with καί and the unit first disappeared early from all the 'teens—see J. H. Moulton *Gram.* II. § 71 (1). MGr. δεκάξι and δεκαέξι preserve the original wavering between δεκαέξ and δέκα ἕξ. It may be noticed that here and elsewhere Greek business documents, like our own, often repeat the numeral in letters after writing it in full: hence *e. g. Preisigke* 1930 (A.D. 68) ἀργ. δραχ. δέκα ἐξ γ(ίνονται) (δραχμὰς) ις:
+
+## δεκαοκτώ
+
+occurs in Lk 13¹¹: see J. H. Moulton *Gram. l.c.* under δεκαέξ. No illustration need be given. MGr has both

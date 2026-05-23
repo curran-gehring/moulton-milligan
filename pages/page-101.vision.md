@@ -1,0 +1,31 @@
+had emigrated from inability to meet the heavier taxation) it seems to mean "the village once had a full strength of 27 contributors." (It should be noted that Prof. Hunt, in *The Year's Work* for 1912, p. 135, included this document among transcriptions which "show signs of inexperience.")
+
+## ἀποτίθημι.
+
+The phrase of Mt 14⁸ (LXX al.) is found nearly in P Eleph 12 (B.C. 223–2) γεγράφαμεν . . . τῶι φυλακίτηι . . . ἀποθέσθαι αὐτοὺς εἰς τὴν φυλακήν. The label on a mummy, *Preisigke* 3553, has ἀποτεθ(ειμένη) following ἔνδον ἐστίν, "is enclosed within." In P Flor II. 125² (A.D. 254) τὰ ἀποτεθέντα γένη ἐν Φιλαγρίδι is "the goods that were stored at P." So P Ryl II. 125¹⁴ (A.D. 28–9) τὰ ὑπὸ τῆς μητρός μου ἀποτεθειμένα ἐν πυξιδίῳ ἔτι ἀπὸ τοῦ ις [ἔτους] Καίσαρος, "certain articles deposited in a little box by my mother as far back as in the 16th year of Augustus" (Edd.). A weakening of the sense of the verb is seen in the fourth century P Oxy I. 120¹⁸ παραμένοντά μοι ἄχρις ἂν γνῶ πῶς τὰ κατ' αἰμαὶ ἀποτίθαιται, "to stay with me until I know the position of my affairs" (Edd.).
+
+## ἀποτίνω.
+
+The verb is very common—P Petr I. 16 (2)⁸ (iii/B.C.) ἐὰν δὲ μὴ διαγράψω [καὶ] μὴ παράσχωμαι τὸ λοιπὸν ἐμφανὲς ἀποτείσω ἡμιόλιον, P Par 13¹⁴ (B.C. 157) ἀποτίνειν αὐτὸν τὴν φερνὴν παραχρῆμα σὺν τῇ ἡμιολίᾳ, P Oxy I. 101²⁰ (lease of land, A.D. 142) ὃ δ' ἂν προσοφειλέσῃ ὁ μεμισθωμένος ἀποτεισάτω μεθ' ἡμιολίας, *ib.* IV. 730¹⁸ (A.D. 130) al. In an interesting contract of apprenticeship, P Oxy II. 275²⁷ (A.D. 66) (= *Selections*, p. 57) the father comes under a "forfeit" for each day of his son's absence from work—ἀ[πο]τεισάτω ἑκάσ[τ]ης ἡμέρας ἀργυρίου [δρ]αχμὴν μίαν. The verb is thus stronger than ἀποδίδωμι, and carries with it the idea of repayment by way of punishment or fine (cf. Gradenwitz *Einf.* i. p. 85 n¹), a fact which lends emphasis to its use in Philem¹⁹. For the contrast between the two verbs, see P Gen I. 21¹⁴ (ii/B.C.), as restored by Wilcken *Archiv* iii. p. 388, ἐὰν δὲ μὴ ἀποδῶι καθὰ γέγραπται, ἀποτε[ι]σάτω [παραχ]ρῆμα ἡμι[ό]λιον, cf. BGU I. 100⁸ᶠᶠ· and fragment (Domitian), ἐὰν δὲ μὴ ἰσαποδῶι, ἀποτισάτωι παραχρῆμα μεθ' ἡμιολία[ς], and a similar use of προσαποτίσω in P Leid C⁴⁻⁵.
+
+From the inscriptions cf. *Kaibel* 509⁹ where a certain physician of Nicaea records—πολ[λ]ὴν θάλασσαν] καὶ γαῖαν [π]ερι[νο]στήσας τὸ π[επρωμένον ὧδ' [ἀπέ]τεισα, *i.e.* "I died here," *Syll* 737⁹⁹ (ii/A.D.) of an ἰόβακχος "fined," etc. The word occurs in P Said Khan 1ᵃ·²⁸ (B.C. 88) ἐὰν [δὲ κ]αὶ ὁ Γαθάκης ὀλιγωρήσῃ τὴν [ἄμπε]λον καὶ μὴ ποιήσῃ αὐτ[ὴν] ἔπαφον(?), ἀποτεινυέτω τὸ α[ὐτὸ ἐπί]τειμον: Radermacher *Gr.* p. 81 n⁵ mentions ἵέννυμι for ζέω, and ἀποτίνυμι in *Passio Scillitanorum* 6.
+
+## ἀποτολμάω.
+
+Dittenberger prints the verb in *Syll* 803¹⁵, but the context is so mutilated that the citation is at best only probable. The word has warrant from classical and Hellenistic literature.
+
+## ἀποτομία.
+
+A rather curious use of the noun occurs in BGU IV. 1208¹·²⁷ (B.C. 27) τ]ὴν ἀποτομίαν τῆς ἀναβάσεως (the inundation of the Nile). P Oxy II. 237ᵛⁱ· ⁴² (A.D. 186) παρ' οἷς ἄκρατός ἐστιν ἡ τῶν ν[ό]μων ἀποτομ[ί]α, "amongst whom the severity of the law is untempered" (Edd.). Counsel is pleading a native statute, admittedly harsh, which he claims was enforced rigidly: the word does not suggest straining a statute, but simply exacting its provisions to the full. Wilcken (*Archiv* iii. p. 303) compares with this passage BGU IV. 1024⁷·¹³ (iv/v A.D.—a collection of judgements in capital cases), where he reads ἐνόμισας λανθάνειν τὴ]ν νόμων (he would emend τῶν v.) ἀπο[τ]ομίαν καὶ τὴν τοῦ δικάζοντος ἐξουσίαν. Cf. Plutarch *De liberis educ.* 18 (p. 13D) δεῖ τοὺς πατέρας τὴν τῶν ἐπιτιμημάτων ἀποτομίαν τῇ πρᾳότητι μιγνύναι. A further literary citation may illustrate the harsher side of the word—Demetrius *De Eloc.* 292 (ed. Roberts) κατὰ Φαλάριδος τοῦ τυράννου ἐροῦμεν καὶ τῆς Φαλάριδος ἀποτομίας, "we shall inveigh against the tyrant Phalaris and his cruelty."
+
+## ἀπότομος.
+
+For the adj. in its literal sense "cut off," cf. an inscription from Delos *BCH* xxvii. p. 102¹⁴⁸ (B.C. 250) τῶν στροφέων ἀπότομον μῆκος πήχεων πέντε. In *Cagnat* III. 360⁹ (Pamphylia, Imperial) ὀξέσι σιδηροῖς καὶ ἀποτόμοις is believed to describe regular sharp weapons dealt out to gladiators for combat, in place of the blunt ones which the *blasé* populace found insufficiently exciting. In Wisd 11¹⁰ it denotes God's retributive purposes towards Egypt, in contrast with His fatherly attitude to Israel at the Exodus.
+
+## ἀποτρέπω.
+
+P Giss I. 20⁸ (ii/A.D.) ἡ ἐπιστολή σου τὴν [μέριμναν ?. . .] μου ἀπέτρεψεν [. . . It is unfortunate that this solitary citation for a verb common in literature should have no reliable context; but it is something that the word itself seems clear, and occurs in a woman's private letter, which proves it vernacular.
+
+## ἀπουσία.
+
+For ἀ. in the NT sense of "absence" (Phil 2¹²), see P Amh II. 135⁵ (early ii/A.D.) μὴ ἀμελεῖν μου ἐν ἀπουσίᾳ τοιαύτῃ, "not to forget me in my long absence," BGU I. 195⁸⁸ (A.D. 161) κατα[φ]ρονηθεὶς ἐκ τῆς περὶ [τὴ]ν στρατίαν ἀπου[σία[ς] μου, *ib.* 242⁹ (Commodus) κατὰ τὴν ἐμὴ[ν] ἀπουσίαν, P Gen I. 34⁴ (A.D. 175–80) κατὰ ἀπουσίαν. Elsewhere it is used in the sense of "waste," "deficiency," e.g. BGU IV. 1065¹⁵ (A.D. 97) δώσει ἑκάστου μναιαίου [ὑπ]ὲρ ἀπουσίας τετάρτην μίαν, P Oxy X. 1273²⁹ (A.D. 260—a marriage contract) τ]ὴν τούτων πάντων τρῖψιν καὶ ἀπουσίαν εἶναι πρὸς τὸν γαμοῦντα "the responsibility for the wear and loss of all these" (Edd.). Cf. the use of the corresponding verb in Artem. I. 78, ὃ δὲ εἰς τὴν ἑαυτοῦ θυγατέρα ἀπουσιάσει, cited by Suidas *Lex.*, where ἀπρεπές is given as a meaning of ἀπόν. Ἀπουσία was borrowed in Syriac to express a similar sense, as in the *Acts of Thomas* (iii/A.D.), according to Prof. R. H. Kennett (in a letter). The corresponding Greek (*Acta Thomae*, ed. Tischendorf, p. 196) has βρῶσιν μηδεμίαν ὅλως ἀπουσίαν ἔχουσαν. But as late as P Oxy IX. 1223²⁹ (late iv/A.D.) διὰ τὴν ἀπουσίαν τοῦ γεούχου is still "owing to the absence of the landlord" (Ed.).

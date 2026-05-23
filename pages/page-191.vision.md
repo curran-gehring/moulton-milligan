@@ -1,0 +1,31 @@
+**161**  διηγέομαι | δικαιολογία
+
+τῇ δὲ λοιπῇ διετίᾳ τελέσαι τὰ διὰ τῆς μισθώσεως ὑπὲρ φόρου ἀνειλημμένα, “that for the remaining two years he should pay the rent set forth in the lease” (Edd.), *ib.* VI. 916⁵¹ (A.D. 197) τῆς μὲν ἐν π[υ]ρῷ διετίας, BGU I. 180⁷ (ii/iii A.D.) μ[ε]τὰ διετίαν τῆς [ἀπο]λύσεως, P Strass I. 21¹⁰ (A.D. 217) τὴ]ν λοιπὴ[ν δι]ετίαν, and from the inscrr. *Syll* 805⁴ (?i/A.D.) ἐκ διετίας βήσσοντά με ἀδ[ιαλείπτως, *OGIS* 485¹² (Roman) γενόμενον δὲ καὶ ἐπὶ τῶν ἐπιπηγῶν διετίαν. The word δεκαετία is found P Strass I. 22³³ (iii/A.D.).
+
+## διηγέομαι.
+
+A good ex. of this word is found in the prodigal’s letter, BGU III. 846¹⁴ (ii/A.D.) ἤκουσα παρὰ το[ῦ Ποστ]ούμου τὸν εὑρόντα σαι ἐν τῳ Ἀρσαινοείτῃ καὶ ἀκαίρῳς πάντα σοι διήγηται, “and unseasonably related all to you.” Cf. P Rein 48⁵ (ii/A.D.) φθάσας ἀπέστειλα πρός σε τὸν ἀγροφύλακα διηγησάμενός σοι (“pour te raconter”) τὴν οὖσαν διάθεσιν ἐνθάδε, P Lond 479⁷ (? iii/A.D.) (= II. p. 256) διηγήσομαι τὰ συνβάντα μοι περὶ τῶν καμήλω(ν). MGr δι(η)γοῦμαι = “relate,” “narrate,” as of old.
+
+## διήγησις
+
+is used *fer* in the letter of Aristeas to Polycrates (1, 8, 322) to describe the “narrative” he has to unfold—one thinks of the first and last lines of *Sordello*. The noun occurs twice in PSI I. 85 (iii/A.D.), from a rhetorical treatise, defining what was technically known as ἡ χρεία : see above *s.v.* ἀπομνημόνευμα. The χρεία is to be “concise”:—“Διὰ τί σύντομον; ὅτι πολλάκις ἐκταθὲν ἡ διήγησις γίνεται ἄλλο τι. Δ. therefore implies some fullness of narrative, which suits the use of the word in the Preface of Lk. MGr keeps the -μα noun—διήγημα “narrative” with dimin. διηγηματάκι.
+
+## διηνεκής.
+
+In NT peculiar to Heb, and there only in the locution εἰς τὸ διηνεκές = *in perpetuum*. This occurs twice in P Ryl II. 427 (end of ii/A.D.), once without context and once following μισθώσασθαι. Deissmann (*BS*, p. 251) cites *IMAe* 786¹² (Imperial) τετειμημένος ἐς τὸ διηνεκές. The adj. was in use, as may be seen from BGU II. 646⁵ (A.D. 193) εὐχομένους ὑπέρ τε τοῦ διηνεκοῦς αὐτοκράτους, *Syll* 540¹ (B.C. 175-1) ποιῶν ὀρθὰ πάντα πρὸς κανόνα διηνεκῆ μὴ ἐλάττω τοῦ ἐνεργουμένου λίθου, *OGIS* 669⁴ (i/A.D.) οὗ (*sc.* τοῦ Σεβαστοῦ) [καὶ πε]ρὶ τῆς πάντων [ἡμ]ῶ[ν] σωτηρίας ἦν (Δ ἤ) δ[ιη]νεκὴς [εὐ]εργεσίαι (*l.*—la) καὶ πρόνοιά [ἐστιν. In P Lips I. 26⁵ (beginning of iv/A.D.) we have ἐπὶ τὸ διηνε[κ]ές. For the adv. διηνεκῶς see *OGIS* 194⁷ (B.C. 42) ἀνενλιπεῖς μὲν διηνεκῶς [παρὰ τοῦτον τὸν χρόν]ον πάντας πάντων ἐτήρησεν. The η, where ᾱ purum would be expected in Attic, suggests that the word generally came into Attic literature from Ionic poetry—it is found in Homer. See Mayser *Gr.* p. 13.
+
+## διΐστημι.
+
+P Tebt I. 22⁴ (B.C. 112) περὶ ὧν σοι διεστάμην, “about the matters on which we had a dispute” (Edd.). So BGU IV. 1099⁵ (Augustus) περὶ] ὧν διεστάμεθα συνχωροῦμεν—a marriage contract, which is apparently the happy ending to a difference. *Ib.* 1100⁵, of same period, shows the parents drawing up the contract. In *ib.* 1115⁵ (B.C. 13) περὶ τῶν διεστα[μένων] συνχωρεῖ, and 1166⁴ (same date and form), we have loans negotiated. Schubart has an elaborate paper on these συνχωρήσεις in *Archiv* v., esp. p. 48 f. Is it possible to take δ. in a weaker sense, “discuss”, rather than “dispute”? That would reconcile these formulae with the one in P Rein 18¹⁸ (B.C. 108) ὁ ἐγκαλούμενος ἐγκρατὴς γενόμενος τῶν συναλλαξ[ί]ων οὐθὲν τῶν διασταθέντων μοι πρὸς αὐτ[ὸ]ν ἐπὶ τέλος ἤγαγεν, “mon adversaire, une fois en possession desdits actes, n’a exécuté aucun des engagements convenus entre nous” (Ed.), and so *ib.* 19¹¹. It would be literally “the things I discussed with him.” See also *OGIS* 315³ (B.C. 164–3) ὀρθῶς οὖν καθ’ ὑπερβολὴν διίστω, a difficult passage where Dittenberger’s note balances two very different renderings. In the NT δ. is confined to the Lucan writings: Hobart (p. 170) characteristically adduces a number of medical parallels. There is a parallel for the weak aorist active (Ac 27²⁸) in P Leid W⁸·¹ ³ (ii/iii A.D.) διέστησεν τὰ πάντα, “separavit omnia” (Ed.). The verb is similarly transitive in Ac *l.c.*, βραχύ being the object—Blass (*Comm. ad loc.*) paraphrases βραχὺ διάστημα ποιήσαντες.
+
+## δικάζω.
+
+This verb, which is read δίς by B in Lk 6³⁷, may be illustrated. P Hib I. 30¹⁹ (B.C. 300-271) διὸ δικάζομαί σοι τοῦ ἀρχαίου [καὶ τόκο]υ, “I therefore am taking legal proceedings against you for principal and interest” (Edd.), P Oxy II. 237⁷·¹⁸ (A.D. 186) δεδικάσθαι ὑπογύως πρὸς αὐτόν, “had recently brought an action against him” (Edd.), P Lond 973⁵·⁸ (iii/A.D.) (= III. p. 213) δικάζομαι χάριν τῶν τοῦ ἀδελφοῦ μου καὶ οὐ δύναμαι ἄρτι ἐλθεῖν πρός σε, P Strass I. 41⁸ (A.D. 250) περὶ δὲ οὗ δικάζομαι, διὰ βραχέων σε διδάξω, and CPHerm I. 25¹¹·⁸ σύνδικος εἶ(πε)· σήμερον μόγις ἐδυνήθης καὶ σὺ δικάσαι.
+
+## δικαιοκρισία.
+
+The emphasis which this compound lays on the character of the Judge rather than on the character of the judgement in Rom 2⁵ (see *SH ad l.*), receives support from two passages in the Oxyrhynchus papyri—the first in I. 71¹·⁴ (A.D. 303) where a petitioner appeals confidently to the Praefect εὔελπις ὢν τῆς ἀπὸ τοῦ σοῦ μεγέθους δικαιοκρισίας τυχεῖν, “being of good hope to obtain righteous judgement from thy Magnificence” (cf. Nageli, p. 48, *LAE*, p. 89 f.). The second is in VI. 904² (v/A.D.) where a certain Flavius, who has been subjected to indignity in the discharge of certain official duties, addresses the Praeses—ἡ τῆς ὑμετέρας δικαιοκρισ[ί]ας καθαρότης πάντως κἀμὲ ἐλεήσει τὸν γεγηρακότα καὶ ἀσυνθηκεὶ διαπεπονθότα καὶ χλεύην παρὰ Φιλοξένου, “the purity of your righteous judgement will surely pity me, an old man who has suffered a breach of covenant and mockery at the hands of Philoxenus” (Edd.). The word occurs again in the very fragmentary P Flor I. 88²⁵ (? A.D. 215) σου δικαιοκρι[σίας τυχεῖν?
+
+## δικαιολογία.
+
+For δ., as in 2 Macc 4³⁴, we may cite P Hawara 69 verso ⁶⁻⁸ (i/ii A.D.) (= *Archiv* v. p. 383) ἐπὶ ταύτης εἰμὶ τῆς δικαιολογ[ί]ας π[. . ., P Flor I. 6¹³ (A.D. 210) πρὸς δὲ τούτοις μ[είζο]να δικαιολογίαν παρατίθεμαι, P Lips I. 38¹¹.

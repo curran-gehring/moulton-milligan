@@ -1,0 +1,16 @@
+# PREFATORY NOTE
+
+UPWARDS of twenty years ago Professor J. H. Moulton asked me to join with him in an effort to illustrate the *Vocabulary of the Greek Testament* from recently discovered non-literary texts. First came a series of joint articles in the *Expositor* during 1908 to 1911 dealing with certain representative words. In 1914 we found it possible to publish the First Part of the *Vocabulary*: Part II followed in the next year. Our collaboration was then cut short by Dr. Moulton's tragic death, though I have done my utmost to utilize any notes or references that he left behind him. The grasp and range of Dr. Moulton's Greek scholarship are too well known to require acknowledgment here, but I may be allowed to record my own deep sense of personal loss in the removal at the height of his powers of one who was always the truest of friends and the most loyal of colleagues.
+
+It may be well, perhaps, to emphasize that it was in no way our aim to provide a complete *Lexicon* to the Greek New Testament, but rather to show the nature of the new light cast upon its language by the rich stores of contemporary papyri discovered in recent years. (See further the General Introduction to the present volume.) Apart from the papyri, considerable use has been made of the Greek inscriptions, and evidence from other non-literary sources has been freely cited, wherever it seemed likely to be useful. Very often words have been included for which our non-literary sources provide no illustration, in order to show from literary evidence, if forthcoming, or from its very absence, the relation of such words to the popular Greek.
+
+The use of Professor J. H. Thayer's monumental edition of Grimm's *Lexicon* (Edinburgh, 1886), has been assumed throughout. Professor Souter's *Pocket Lexicon to the Greek New Testament* (Oxford, 1916), a marvellous *multum in parvo*, and the excellent *Manual Greek Lexicon of the New Testament* by Professor G. Abbott-Smith (Edinburgh, 1922) have been of the utmost value. In the later Parts of the *Vocabulary* frequent reference has also been made to W. Bauer's revised and enlarged edition of E. Preuschen's *Griechisch-Deutsches Wörterbuch zu den Schriften des Neuen Testaments* (Giessen, 1928), and to F. Preisigke's comprehensive *Wörterbuch der griechischen Papyrusurkunden*, I.–III. i. (Berlin, 1925-1929). Other books of reference will be found detailed in Abbreviations I. General.
+
+For the ready assistance of many friends, too numerous to mention, in the carrying through of this book, I am deeply grateful; but a special word of thanks is due to Professor W. G. Waddell, now of the Egyptian University, Cairo, who has read all the proofs with the most meticulous care, and has in addition furnished important suggestions.
+
+It remains only to acknowledge the generosity and enterprise of Messrs. Hodder & Stoughton in undertaking the publication of the work, and to express my sense of the singular skill and accuracy with which the compositors and readers of the firm of Messrs. R. Clay & Sons, Bungay, have carried through an extremely intricate piece of printing.
+
+G. MILLIGAN.
+
+*The University, Glasgow.*
+*July, 1929.*

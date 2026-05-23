@@ -1,0 +1,32 @@
+δικαίωμα  **163**  διό
+
+spelling may be taken as evidence that the word was good vernacular! Add the fragmentary P Oxy III. 653 (A.D. 162-3), where the Praefect refers to a trial before the Chiliarch—δι’ μεταπέμπειν δικα[ιο]ῦμεν. For the force of ἐδικαιώθη in 1 Tim 3¹⁶ Dibelius (*HZNT ad l.*) compares the use of the verb in the mystery-religions, e.g. Reitzenstein *Poimandres* 13⁹ (p. 343) ὁ βαθμὸς οὗτος, ὦ τέκνον, δικαιοσύνης ἐστὶν ἔδρασμα. χωρὶς γὰρ κρίσεως ἰδὲ πῶς τὴν ἀδικίαν ἐξήλασεν. ἐδικαιώθημεν, ὦ τέκνον, ἀδικίας ἀπούσης, where δικαιοῦσθαι refers to “die Wesensänderung, die im Mysterium mit dem Mysten vergeht (nahezu = ἐθεώθημεν).” So “Christus ward der Sphäre der ἀδικία entrückt, in die Himmelswelt emporgehoben, erhöht und vergottet.”
+
+## δικαίωμα.
+
+In P Tor I. 1 iii 31 (B.C. 117) δικαιώματα means apparently “arguments of counsel ”—παραγινωσκομένων αὐτοῖς ἐξ ὧν παρέκειντο δικαιωμάτων ὧν ἑκάτερος ᾑρεῖτο : so⁴ and ⁵ ἐπελθὼν δὲ καὶ ἐπὶ τὰ τοῦ ἀντιδίκου δικαιώματα. Similarly in *OGIS* 13¹³ (early iii/B.C.) when the people of Priene proved their immemorial possession of certain territory ἔκ τε τῶν ἱστοριῶν κ[αὶ ἐκ τῶν ἄλ]λων μαρτυριῶν καὶ δικαιωμάτων [με]τὰ τῶν ἑξετῶν [σπονδῶν, the meaning “awards” would seem to be possible, but “arguments” suits μαρτυριῶν better. Bishop Hicks’s notes (*Historical Inscrr.* p. 260) will show the stages in this centuries-old dispute. P Lille I. 29¹·⁵ (from a code—iii/B.C.) prescribes examination of slaves by torture ἐὰμ μὴ ἐκ τῶν τεθέντων δικαιωμάτων δύνωνται κρίνειν, “si les pièces du procès ne leur permettent pas de juger” (Ed.). Cf. P Petr II. 38 (c)⁹ (iii/B.C.) (= III. p. 55), where a man is sent to Alexandria ἔχοντα καὶ τὰ πρὸ[ς] τὴν κατάστασιν δικαιώματα, “having with him the papers justifying his case,” the *pièces justificatives* as the editors describe them. The same phrase occurs in Preisigke 3925¹⁵ (B.C. 149-8 or 137-6). There is also P Petr III. 21 (g)⁹ (iii/B.C.) ὃ καὶ παρέδοτο ἐν τοῖς δικαιώμ[ασι, which follows ἅμα τε γραπτὸν λόγον [καὶ δικαιώματα θεμένης with the same meaning. In BGU I. 113⁹ (A.D. 143) ἃ δὲ παρέθεντο δικαιώμ(ατα) the word = “credentials”: so *ib.* 265¹⁷ (A.D. 148), and IV. 1033⁷·¹³ (Trajan). Cf. the combination here with that in P Tor 1 above (*ad init.*). In P Lond 360⁸ (? ii/A.D.) (= II. p. 216) a certain Stotoëtis surrenders to his sisters his “claim” on a slave-girl belonging to their mother—οὐ ἔχει δικαιώματος τῆς ὑπ[αρχ]ούσης τῇ μητρὶ αὐτῶν παιδίσκης δούλης. Similarly P Oxy VIII. 1119¹⁵ (A.D. 254) τῶν ἐξαιρέτων τῆς ἡμετέρας πατρίδος δικαιωμάτων, “the exceptional rights claimed by our native city” (Ed.). MGr δικαίωμα = “justice.”
+
+## δικαστής.
+
+The word is found *passim* in P Petr I. 27, 28, fragmentary legal records of iii/B.C. In P Oxy III. 653 (time of Antoninus Pius), the account of a trial, the Praefect declares—εἴτε οὖν πάρεισιν οἱ ἀντίδικ[οι] εἴτε μὴ πάρεισι, δικαστὴν λήμψονται ὃς παρακολουθῶν τῇ Ὁνοράτου κρίσει τὴν Καινωνίαν ἐξετάσει κτλ.: cf. *ib.* I. 67²⁷ (A.D. 338) καταλα[μ]βάνοντες τὴν σὴν ἀρετὴν δ[εόμεθα συ]νχωρηθῆναι δικαστὴν ἡ]μεῖν εἶναι Ἀέτιον τὸν προπολιτευόμενον, “knowing your goodness, I beg you to allow Aétius, ex-magistrate, to be judge in this matter” (Edd.), P Lond 971¹⁹ (iii/iv A.D.) (= III. p. 129). The importance of the office comes out in *OGIS* 499⁵ (ii/A.D.) τῶν ἐκλέκτων ἐν Ῥώμῃ δικαστῶν, 528⁷ δικαστὴν ἐν Ῥώμ[ῃ. On the ἀρχιδικαστής, who seems to have occupied the position of a permanent judge at Alexandria, before whom parties in civil cases could elect to have their disputes tried, see Milne, *Roman Egypt*, p. 196 ff. P Lond 908¹ (A.D. 139) (= III. p. 132) mentions an ἀ., and also (l. ¹⁵) Εὐδαί[μ]ονος δι[έπ]οντος τὰ κατὰ τὴν ἀρχιδικάστειαν. The abstract figures without ἀρχι- in *Michel* 477¹⁰ (mid. ii/B.C.) ἀπ[ολυθεί]ς τε ἀπὸ τῆς δικαστείας ἐπεδήμησεν κτλ. For the δικαστήριον, as the Praefect’s tribunal or court, see P Strass I. 5¹⁰⁹ (A.D. 262), P Oxy I. 59¹¹ (A.D. 292), P Amh II. 82⁴·¹⁹ (iii/iv A.D.), etc. MGr δικαστής survives unchanged.
+
+## δίκη.
+
+This word in Homer may = “custom,” “usage”: hence “right” as established usage, extended further to a “process of law” or “judicial hearing,” e.g. P Hib I. 30²⁹ (B.C. 300-271) ἡ δίκη σοι ἀναγραφήσετα]ι ἐν [τῶι ἐν Ἡρ]ακλέους πόλει δικαστηρίωι, “the case will be drawn up against you in the court at Heracleopolis” (Edd.), P Rein 15²¹ (B.C. 109) ἄνευ δίκης καὶ κρίσεως καὶ πάσης εὑρεσιλογίας, “sans procès, contestation ni chicane d’aucune sorte” (Ed.), similarly P Lond 298¹ (A.D. 124) (= II. p. 206), P Oxy III. 486⁸ (A.D. 131) τὴν μὲν μητέρα μου συνέβη ἀποθανεῖ[ν] πρὸ τῆς δίκης, “it happened that my mother died before the trial” (Edd.), etc. From this it is a natural transition to the result or the lawsuit, “execution of a sentence,” “penalty,” as P Fay 21⁷⁴ (A.D. 134) ὅπ]ως τῆς ἀποθίας (= ἀπειθ.) ἐκ[ε]ίνοι τὴν προσήκουσαν δίκη[ν ὑ]πόσχωσι, “in order that they may pay the fitting penalty for their disobedience”: cf. 2 Thess 1⁹, Jude 7, Wisd 18⁴, 2 Macc 8¹¹. From P Eleph 1¹² (B.C. 311–10) (= *Selections*, p. 3) onwards, the phrase καθάπερ ἐγ δίκης is very common = “as if a formal decree of the court had been obtained.” In partial illustration of the personification of Δίκη in Ac 28⁴ we may quote in addition to the exx. in Wetstein and Field (*Notes*, p. 148 f.) *Syll* 810⁵ εἰ δέ τι ἑκὼν ἐξαμαρτ[ήσει], οὐκ ἐμὸν ἐπαράσ[ασθαι], δίκη δὲ ἐπικρέματα[ι] τιμωρὸς ἀπελθόν[τι] ἀπειθὴς Νεμέσεως. A fairly early Christian inscr. from Attica, *Kaibel* 173¹⁰, has δίκης μετὰ λοίσθιον ἧμαρ, of the Day of Judgement.
+
+## δίκτυον.
+
+A Christian epitaph from Aegina, *Kaibel* 421 (?v/A.D.) makes the departed rejoice because
+
+δίκτυα λυγρὰ
+καὶ γοερὰς παγίδας προὔφυγον ἀμπλακίης.
+
+This is of course purely literary, but between Epictetus and the Gospels we may be sure of vernacular warranty. Moreover it survives in MGr δίχτυ.
+
+## δίλογος
+
+must be recorded as one of the small class that cannot be illustrated. Διλογία “repetition” and διλογεῖν “repeat” are quoted from Xenophon and later writers, δίλογος itself in the same sense from Pollux. But the Pauline sense is still unsupported: see Nageli, p. 52.
+
+## διό.
+
+P Oxy III. 483¹⁴ (A.D. 108) διὸ ἐπιτελεῖτε ὡς καθήκ(ει), “execute the deed therefore, as is fitting” (Edd.), *ib.* IX.

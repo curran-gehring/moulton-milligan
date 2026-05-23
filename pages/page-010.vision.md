@@ -1,0 +1,19 @@
+x
+
+But significant though these discoveries were, their interest was largely eclipsed by the results of the digging carried on by Dr. Grenfell and Dr. Hunt at Oxyrhynchus, the ancient Behneseh, in the winter of 1896–97 and the following years. The two English explorers had been attracted to the spot by the expectation that early fragments of Christian literature might be found there, in view of the important place which Oxyrhynchus occupied in Egyptian Christianity in the fourth and fifth centuries. And their prescience was rewarded, for, amongst the papyri recovered on the second day, was a crumpled leaf written on both sides in uncial characters, amongst which Dr. Hunt detected the somewhat rare Greek word for "mote" (κάρφος). This suggested to him the "mote" of our Lord's Sayings in the Sermon on the Mount (Matt 7³⁻⁵); and, on further examination, he found that he had in his hand a leaf out of a very early collection of Sayings attributed to Jesus, some of which corresponded closely with the canonical Sayings of the Gospels, while others were new.¹ We are not at present concerned with the many questions which were thus raised,² but the importance of the discovery was undeniable, especially when it was followed next day by the finding of another uncial fragment containing the greater part of the first chapter of St. Matthew's Gospel, written not later than the third century, and therefore a century older than the oldest manuscript of the New Testament previously known.³ Both leaves, Dr. Grenfell suggests, may not improbably have formed "the remains of a library belonging to some Christian who perished in the persecution during Diocletian's reign, and whose books were then thrown away."⁴
+
+Along with these, and other almost equally sensational finds, Oxyrhynchus yielded an enormous mass of documents of the most miscellaneous character dating from the Roman Conquest of Egypt to the tenth century after Christ, when papyrus was superseded by paper as a writing material.
+
+Other noteworthy collections come to us from the British Museum, Berlin, Florence, and various other sources, and the general result is that there are now available about ten thousand published documents, and that these are being constantly added to.⁵ Whether the still unedited papyri have any great surprises in store for us it is vain even to conjecture. But even if they have not, they will serve a useful purpose in illustrating and confirming the lexical and other results that have already been reached, and in increasing still further our stock of first-hand documentary evidence regarding the most important period in the world's history.
+
+**Classification of Papyri.**—The papyri are generally classified under the two main heads, literary and non-literary, with the biblical and theological texts occupying a position about mid-way between the two. It is with the non-literary texts that we are concerned just now, and a glance at the citations on one or two pages of the following *Vocabulary* is sufficient to show the miscellaneous character of these texts, comprising as they do all manner of official documents, such as Imperial rescripts, accounts of judicial proceedings, tax and census papers, contracts of marriage and divorce, notices of birth and death,
+
+¹ P Oxy I. 1.
+
+² Reference may be made to *The Sayings of Jesus from Oxyrhynchus*, edited with Introduction, Critical Apparatus, and Commentary by Hugh G. Evelyn White (Cambr. Univ. Press, 1920).
+
+³ P Oxy I. 2.
+
+⁴ Egypt Exploration Fund: *Archaeological Report*, 1896–97, p. 6. See further an article by the present writer on "The Greek Papyri and the New Testament" in *The History of Christianity in the Light of Modern Knowledge* (Blackie and Son, 1929), p. 300 ff.
+
+⁵ A list of the principal papyrus collections will be found under Abbreviations II.

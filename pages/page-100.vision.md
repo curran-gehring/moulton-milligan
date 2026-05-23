@@ -1,0 +1,31 @@
+## ἀποστολή.
+
+*P Tebt* I. 112⁸ (an account—B.C. 112) ὄψου εἰς ἀποστολὴν Μουσαίωι ρϟ, *P Oxy* IV. 736⁵⁸ (*c.* A.D. 1) μύρον εἰς ἀποστολὴν ταφῆς θυγατρὸς Φνᾶς, “perfume for the despatch of the mummy of the daughter of Phna;” and from the inscriptions *Syll* 924⁹ (end of iii/B.C.) ἐπὶ] τᾶι ἀποστολᾶι τοῦ ἀνδρός, *ib.* 925² (?B.C. 139), *ib.* 210¹ (iii/B.C.) τῶν χρη]μάτων συναγωγῆς τε καὶ ἀποστ[ολῆς. It is thus the *nomen actionis* of ἀποστέλλω.
+
+## ἀπόστολος.
+
+It is not easy to point to an adequate parallel for the NT usage of this important word, but it may be noted that in Herod. i. 21 (cf. v. 38) it is found = “messenger,” “envoy,” and with the same meaning in LXX 3 Regn 14⁶ A ἐγώ εἰμι ἀπόστολος πρὸς σὲ σκληρός, cf. Symm. Isai 18². Reference may also be made to the interesting fragment in *P Par* p. 411 f. (B.C. 191), where, if we can accept the editor’s restoration of the missing letters, we read of a public official who had sent to a delinquent a messenger bearing the orders he had disregarded—ἐπεσ]ταλκότων ἡμῶν πρός σε τὸν ἀπ[όστολον]. Cf. also a lexical extract cited by Nägeli¹, p. 23, ὃ ἐκπεμπόμενος μετὰ στρατιᾶς καὶ παρασκευῆς ἀπόστολος καλεῖται: this is interesting as being coloured with the association found in Attic, though applied to a person.
+
+Apart from its use in Attic inscriptions, as *Syll* 153 (B.C. 325) = “fleet,” “naval expedition,” ἀπόστολος is used for a “ship” in *P Oxy* III. 522 (ii/A.D.). In this document (cf. also *P Tebt* II. 486, ii/iii A.D.), which is an account of the expenses of corn-transport, it is of interest to notice that each ἀπόστολος is known by the name of its owner, *e.g.* λόγος ἀποστόλου Τριαδέλφου, “account—for the ship of Triadelphus.” In *P Oxy* IX. 1197⁵ (A.D. 211) a different sense is required—ὁπόταν τὰ ἐξ ἀποστόλων πλοῖα παραγένηται, where Hunt renders, “whenever the boats collected in accordance with the orders of lading arrive,” and cites *P Amh* II. 138¹⁰ (A.D. 326) (as amended by Mitteis, *Chrest.* II., p. 391) ἐ[ξ ἀποστόλου τῆς τάξεως, where a ship-master embarks certain loads “in accordance with the bill of lading of the Officium,” also *P Lond* 256(a)² (A.D. 15) (= II., p. 99) ἀκολούθως τῷ [18 letters]ου ἀποστόλῳ, and *CPHerm* 6⁴⁴ (cf. Wilcken *Chrest.* I., p. 522) ἐπεὶ ο]ἱ σοὶ ἐπίτροπο[ι τοὺς καλο]υμένους ἀποστόλους [. . . . . . δι ὧν κελεύειν α[ὐτο]ῖς ἔθος [τὴν] τοῦ σείτου ἐμ[β]ο[λὴν ποιεῖσ]ται (l. -θαι). In *P Oxy* X. 1259¹⁰ (A.D. 211–2) ἐξ ἀποστόλου τοῦ κρατίστου ἐπιτρόπου τῆς Νέας πόλεως “in accordance with the message of his excellency” (Edd.), the noun seems to be more general; but the papyrus concerns the shipment of corn to Alexandria. See further *Archiv* iii. p. 221 f. Since in early times the non-specialized and etymological meaning is found in Herodotus, and the other only in Attic writers, we see in the NT use the influence of Ionic on the Κοινή: cf. *Proleg.* pp. 37, 81.
+
+## ἀποστοματίζω.
+
+We have no citations for this word, which is literary in classical and post-classical times. The difficulty in Lk 11⁵³ is the factitive sense, *qs.* “to make repeat answers,” for which the only adequate parallel in Wetstein’s long list is a use of the passive assigned by Pollux (i. 102) to Plato, = ὑπὸ τῶν διδασκάλων ἐρωτᾶσθαι τὰ μαθήματα, ὡς ἀπὸ στόματος λέγειν τὸ αὐτό. It may be added that Grimm’s reference to “στοματίζω—not extant” is misleading: the verb was formed directly from ἀπὸ στόματος, just as ἐνωτίζομαι from ἐν ὠτί, etc.
+
+## ἀποστρέφω.
+
+*P Leid* Wˣⁱᵛ·²³ has the prayer Σάραπι. . μὴ ἀποστραφῇς με. An amulet, the opening lines of which were published by Wilcken in *Archiv* i. 427, and tentatively dated iii/v A.D., is given in *BGU* III. 955, Κύριε Σαβαὼθ ἀπόστρεψον ἀπ’ ἐμοῦ ’σου (?) νόσον τῆς κεφαλ[ῆς]. That these should be the only occurrences of so common a word we can cite from papyri is not a little perplexing. It occurs once in *Syll* 380¹ (A.D. 129), where Ephesus offers thanks to Hadrian as ἀποστρέψαντά τε καὶ τὸν βλάπτοντα τοὺς] λιμένας ποταμὸν Κάϋστρον. Its literary record is plentiful, and it requires nine columns in HR, with nine occurrences in NT, and a good number in the early patristic writers included in Goodspeed’s indices. It is also found in Apoc. Peter 8 of men who “pervert” righteousness—ἀποστρέφοντες τὴν δικαιοσύνην.
+
+## ἀποσυνάγωγος
+
+is “not found in prof. auth.” (Grimm): it is as naturally not quotable from our sources. This is of course just the sort of word that would have to be coined for use in the Jewish community.
+
+## ἀποτάσσομαι.
+
+For the NT meaning “take leave of,” “bid farewell to,” as 2 Cor 2¹³, cf. *BGU* III. 884ⁱⁱ·²² (ii/iii A.D.) πρὶν οὖν ἀπέλθῃς πρὸς Καιρίμωνα, ἀνά(βαινε) πρός με, ἵνα σοι ἀποτάξομαι, “may say goodbye to you,” *P Oxy* VII. 1070⁵⁸ (iii/A.D.) Εὐδ[αίμων] αὐτῷ ἀπετάξατο [λ]έγων ὅτι ἐν τῷ παρόντι οὐ σχολάζομεν ἑτέροις ἐξερχόμενοι, “Eudaemon parted with him, saying, ‘At present we are not at leisure and are visiting others’” (Ed.). The meaning is stronger in *P Oxy* II. 298⁳¹ (i/A.D.) ἐπεὶ ἀποτάξασθαι αὐτῷ θέλω, where the context shows that the idea is “get rid of.”
+
+The active ἀποτάσσω, which is not found in the NT, is “to appoint,” as in *P Oxy* III. 475²⁷ (A.D. 182) ἀποτάξαι ἕνα τῶν περὶ σὲ ὑπηρετῶν εἰς τὴν Σενέπτα, and in passive *P Fay* 12⁷ (*c.* B.C. 103) τοὺς ἀποτεταγμένους τῆι κατοικίᾳ χρηματιστάς, “the assize-judges appointed for the settlement,” or “command,” *BGU* IV. 1061⁹ (B.C. 14) τὴν ἀποτεταγμένην πρὸς τῇ τηρήσει θυρωρόν, *P Fay* 20⁰ (iii/iv A.D.) εἰ ἀποτέτακται τὸν Αὐτοκράτορα ὁρᾶν πᾶσιν αὐτοῖς . . . τὰ τῆς βασιλείας διοικοῦντα, “if they have all been commanded to watch the Emperor administering the affairs of his kingdom.”
+
+## ἀποτελέω.
+
+The verb occurs *P Tebt* II. 276 (ii/iii A.D.), an astrological document, describing the effects (ἀποτελέσματα) due to the positions of the planets. Thus ¹⁵ Jupiter in conjunction with Mars (etc.) μεγάλας [βασιλεία]ς καὶ ἡγεμονίας ἀποτελεῖ, “makes.” This is in accord with the use in Lk 13³² ἰάσεις ἀποτελῶ, and also in Jas 1¹⁵ ἡ δὲ ἁμαρτία ἀποτελεσθεῖσα ἀποκυεῖ θάνατον, where Hort (*ad l.*) has shown that *ἀ.* is “fully formed” rather than “full-grown.” In *PSI* 101 (ii/A.D.) ἀποτελεσθῆαι (l. -ναι) γὰρ τὴν κώμην πάλαι ἀπὸ ἀνδρῶν κβ, νυνεὶ δὲ εἰς μόνους κατηντηκέναι ἄνδρας γ (who

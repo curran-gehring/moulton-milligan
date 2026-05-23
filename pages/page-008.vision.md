@@ -1,0 +1,21 @@
+viii
+
+magical papyrus in the British Museum, in which nineteen columns are written on the *recto*, and the remaining thirteen on the *verso*.
+
+In any case we have abundant evidence of the use of the *verso*, when fresh papyrus was not available, as when a man writes a letter on the back of a business document, explaining that he had been unable at the moment to find a "clean sheet" (χαρτίον καθαρόν),¹ or as when the back of the official notification of the death of a certain Panechotes is used for a school-exercise or composition, embodying such maxims as "do nothing mean or ignoble or inglorious or cowardly," written in a beginner's hand and much corrected.²
+
+In other cases, before the *verso* has been so used, the original contents of the *recto* have been effaced or washed out, a practice which adds point to a familiar verse. In Col 2¹⁴, we read that our Lord "blotted out the bond written in ordinances that was against us, which was contrary to us," and the verb used for "blotted out" (ἐξαλείψας) is the technical term for "washing out" the writing from a papyrus sheet. So complete was the forgiveness which Christ by His work secured, that it completely cancelled the old bond, that had hitherto been valid against us, for it bore our signature (χειρόγραφον). He made the bond as though it had never been (cf. Exod 32³², Rev 3⁵).
+
+As regards other writing materials, a reed pen (γραφικὸς κάλαμος; cf. 3 Macc 4²⁰) was prepared, much as we now prepare a quill, while the ink (τὸ μέλαν: cf. 2 John¹²) was made from a mixture of charcoal, gum and water. The marvellous way in which the ink has preserved its colour invariably attracts attention, and shows that anything in the nature of adulteration must have been unknown. A first-century letter, chiefly about writing materials, refers to "the ink pot" (τὸ βρόχιον τοῦ μέλανος).⁴
+
+The character of the handwriting naturally varies with the nature of the document and the education of the scribe. But the task of decipherment can rarely be said to be easy, partly owing to the frequent use of contractions and partly to the numerous *lacunae* or gaps caused by the brittle nature of the material. The restoration of the letters or words which have thus dropped out demands the exercise of the utmost patience and skill. And those who have had an opportunity of inspecting some of the originals can only marvel that intelligible transcriptions have been made from them at all.
+
+When, then, we speak of papyri, we are to think simply of rolls or sheets of paper of this character, which had been put to all the many and various purposes to which paper as a writing material is put amongst ourselves, while the addition of "Greek" distinguishes the papyri written in that language from the Aramaic or Latin or Coptic papyri which have been similarly recovered. We need only add that the earliest dated Greek papyrus we possess belongs to the year B.C. 311–310,⁵ and that from that time an almost continuous chain of documents carries us far down into Byzantine times.
+
+**Papyrus Discoveries.**—With the exception of some calcined rolls from Herculaneum, which were brought to light as far back as 1752 and the following years, papyri have been found only in Egypt, the marvellously dry climate of that country being especially favourable to their preservation. A certain number, more particularly those of a literary character, have been recovered from their original owners' tombs. The *Persae* of Timotheos, for example, the oldest Greek literary manuscript in existence, dating, as it does, from the fourth century B.C., was found near Memphis in the coffin of a Greek soldier, by whose side it had been deposited in a leathern bag. And an Homeric roll,
+
+¹ P Lond 121 (iii/A.D.) (= I. p. 83 ff.). For the abbreviations used in the citation of papyrus passages, see Abbreviations II. Papyri.
+
+² P Gen I. 52³ (iv/A.D.): cf. *Archiv* iii. p. 399.   ³ P Oxy I. 79 (A.D. 181–192).
+
+⁴ P Oxy II. 326 (c. A.D. 45).   ⁵ P Eleph 1 (= *Selections*, No. 1).

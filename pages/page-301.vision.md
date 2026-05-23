@@ -1,0 +1,3 @@
+ἕως 271 ἕως
+
+= ‘‘usque ad primum Ptolemaei Philopatoris annum” (Ed.): cf. also *ib.* 226²⁹ (iii/B.C.) μαχοῦμαι [ὑπὲρ α]ὐτοῦ καὶ —[ν] πραγμάτων τῶν ἐκείνου ἕως ζωῆς καὶ θανά[του (cf. Mk 14³¹), with the editor’s note. With ἕως τούτου in Lk 22⁵¹, cf. P Tebt I. 56⁷ (late ii/B.C.) οὐκ ἔχομεν ἕως τῆς τροφῆς τῶν κτηνῶν ἡμῶν, ‘‘we have not so much as food for our cattle” (Edd.), and with ἕως τοῦ νῦν in Mt 24²¹, cf. BGU IV. 1197⁸ (B.C. 4) οἱ σοι] προς[τ]άται ἕως τοῦ νῦν ἀ[πὸ] τοῦ ἐννεακαιδεκ[άτου] ἔτους [Κα]ίσαρος οὐκ ἔδωκαν ἡμῖν. The supposed ‘‘ Hebraism” in ἕως πότε (Mk 9¹⁹) is discussed by Moulton in *Cambridge Biblical Essays*, p. 473 f.

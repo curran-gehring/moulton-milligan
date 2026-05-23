@@ -1,0 +1,31 @@
+ἀπόδεκτος 61 ἀποδοκιμάζω
+
+writing. *Syll* 521¹⁴ (see above under ἀποδείκνυμι) ἔπο[ι]ή-σαντο . . . ἐπ' ἐξόδωι τῆς ἐφηβείας τὴν ἀπόδειξιν τῆι βουλῆι. In P Tor I. 1·⁸ (B.C. 116) (= *Chrest.* II. p. 37) it is closely connected with another compound: καὶ μετὰ τὰς ἐπιδείξεις ταύτας αἰτεῖσθαι αὐτὸν τὰς περὶ τῆς οἰκίας ἀποδείξεις, "tandem, hisce demonstratis, iam ipsi licuisset a nobis documenta petere, quae ad domum attinent" (Peyron). BGU IV. 1141² (c. B.C. 14) καὶ δέδωκα ἀποδείξεις ἀληθινάς "genuine proofs." P Catt ⁱⁱˑ⁹ (ii/A.D.) (= *Chrest.* II. p. 421) ἐάν τ[ι]να[ς] ἐναργεῖς ἀποδ[είξεις ἔχῃς, ἐὰν ἐπενέ[γ]κῃς, ἀκούσομαί σου (οσου was first written). Cf. *Syll* 729²⁰ (ii/B.C.) ἀ. σαφεῖς. For the sense "election" (the *nomen actionis* to ἀποδείκνυμι), cf. *Syll* 206⁹ (B.C. 274) γίνεσθαι δὲ εἰς τὸ λοιπὸν] τὴν ἀπόδειξιν τῶν θεωρῶν καθ' ἑκάστην πενταετηρίδα. For a "display," cf. *Syll* 929³⁹(ii/B.C.) . . . ποιη]τῶν καὶ ἱστοριαγράφων ἀποδείξεις.
+
+## ἀπόδεκτος.
+
+*OGIS* 441¹⁰⁰ (i/B.C.) ἀπόδεκ[τα ὑπάρχει]ν δεῖν. (Ἀπρόσ-δεκτος is found in the contrary sense P Oxy II. 268¹⁵ (A.D. 58) τὴν ἐσομένην ἔφ[ο]δον ἄκυρον καὶ πρόσδεκτον (*l.* ἀπρ.) ὑπάρχειν, "any claim that is made shall be void and inadmissible" (Edd.): cf. the Xanthos inscription *Syll* 633⁹ (ii/A.D.) ἐὰν δέ τις βιάσηται, ἀπρόσδεκτος ἡ θυσία παρὰ τοῦ θεοῦ.) Ἀποδεκτέος "laudandus" occurs in Vettius Valens: see under ἀποδέχομαι. The noun ἀποδέκτης, following σίτ(ίου), occurs in Ostr 1217 (iii/A.D.), *al.*
+
+## ἀποδέχομαι.
+
+P Oxy VI. 939²⁻⁴ (iv/A.D.), a letter from a Christian dependent to his master regarding the illness of his mistress, has the following: συνγνώμην δέ, κύριέ μου, σχοίης μοι [καὶ εὐμενῶς] ἀποδέξει με εἰ καὶ ἐς τηλικαύτην σε [ἀγωνία]ν ἄκων ἐνέβαλον γράψας περὶ αὐτῆς ὅσα [ἐκομίσω], "please pardon me, my lord, and receive me kindly, though I unwillingly caused you so much anxiety by writing to you the messages which you received" (Edd.). *Syll* 693⁸¹ (iii/B.C.) ἐμφανίζειν δὲ αὐτοῖς ὅτι καὶ νῦν πρῶτοι τὸν ἀγῶνα ταῖς Μούσαις στεφα[νί]την ἀποδέχοντ[αι . . . ., *ib.* 790⁹⁵ (i/B.C.) ἁγνεύοντες καὶ νήφοντες καὶ ἀποδεχόμενοι τὰ πινάκια παρὰ τῶν μαντευομένων. *OGIS* 692³ (Egypt) οὐκ ἀπεδεξάμην σε τ(ῆς) ἐ[ν λόγοις] τριβῆς [ἕνεκεν]. Vettius Valens p. 250² τινὲς μὲν εὐχερεῖς καὶ ἐπακτικοὶ τῆς ἀληθείας ἀποδέχονται, which Kroll renders "laudantur," comparing p. 329¹⁵ ὅθεν ἀποδεκτέος ὁ τοιοῦτος. Gildersleeve (*Just. M.* p. 239) remarks on the "respectful" tone of the verb in Ac 24³ πάντη τε καὶ πανταχοῦ ἀποδεχόμεθα. It survives in MGr.
+
+## ἀποδημέω.
+
+Early examples of this verb are afforded by P Petr III. 42¹⁵ (iii/B.C.) εἰμὶ γὰρ πρὸς τῶι ἀποδημεῖν, "for I am on the point of departure" (Edd.), and P Par 46⁸ (B.C. 153) ἐνκατελελοίπει με ἀποδημήσας. An antithesis which verbally resembles 2 Cor 5⁹ may be seen in P Tebt I. 104³⁷ (B.C. 92) ἐνδημῶν καὶ ἀποδημῶν, in a marriage contract: similarly BGU I. 183⁷ (A.D. 85), P Giss I. 2⁸ˑ¹⁹ (B.C. 173), and cf. P Par 69 (iii/A.D.) where the arrivals and departures of a strategus are recorded in his day-book by ἐπι- and ἀποδημέω respectively (cf. *Archiv* iv. p. 374). On P Catt ⁱⁱˑ²⁹⁻³⁰ (ii/A.D.) (= *Chrest.* II. p. 422) ἐὰν γένηταί με ἀποδημεῖν, P. M. Meyer observes (*Archiv* iii. p. 84) that the verb is the antithesis of ἐνδημεῖν, as especially in marriage contracts. Add P Oxy I. 41⁵ (late i/A.D.) ἀποδημοῦντός σου, "in your absence," *ib.* II. 326⁷ (c. A.D. 45) οὐκ ἔλαβον ἀργύριον παρὰ [τῶν πρ]οπόλων ἀφ' οὗ ἀπεδήμη[σα], *ib.* III. 471⁵ (ii/A.D.) ἀποδη[μοῦντ]ες ἠγνοήσατε τὰς [π]ερὶ τούτων γεγραμ-μένας ὑμ[εῖ]ν ἐπιστολάς, P Tebt II. 333⁸ (A.D. 216) τοῦ πατρός μου . . . ἀποδημήσαντος . . . πρὸς κυνηγίαν λα-γοῶν, "my father set off to hunt hares," and P Amh II. 145¹⁶ (iv/v A.D.) ἐ[λ]υπήθην διότι ἀπεδήμησας ἀλόγως, "I am grieved because you went away without cause" (Edd.). In *Syll* 633¹⁵ (Rom.) ἐὰν δέ τινα ἀνθρώπινα πάσχῃ ἢ ἀσθενήσῃ ἢ ἀποδημήσῃ που gives us a good combination. For the subst. cf. P Oxy III. 471⁴¹ (ii/A.D.) τάς τε ἀποδημίας, P Tebt II. 330⁶ (ii/A.D.) ἐμοῦ ἐν ἀποδημίᾳ ὄντος, and P Giss I. 41ⁱˑ⁸ (Hadrian) ὑπὸ τῆς μακρᾶς ἀποδημίας τὰ ἡμέτε[ρα] πα[ντ]άπασιν ἀμεληθέντα τυγχ[άνει].
+
+## ἀπόδημος.
+
+*Syll* 154³ (age of Alexander) τοὺς δὲ ἀποδήμους, ἐπειδὰν ἔλθωσι ἐς τὴμ πόλιν, ἀποδοῦναι τὴν τιμὴν διὰ μηνός. *Ib.* 427⁸ (iv/iii B.C.) (Crete, in dialect) καὶ τ[οὺς ἄλλο]υς πολίτας ἐξορκιῶ, τοὺ[ς μὲν ἐνδάμους αὐτίκα μάλα], τοὺς δ' ἀποδάμους αἴ κα ἔλθωντι, [ὡ]ς ἂ[ν δύνωμαι τάχιστα].
+
+## ἀποδίδωμι.
+
+It is unnecessary to illustrate at length this very common verb, the uses of which are on familiar lines. Thus ἀπόδος τῷ δεῖνι is the direction on the back of a letter, e.g. P Oxy II. 293² (A.D. 27) ἀπόδο(ς) παρὰ Διον[υσίου] Διδύμῃ τῆι ἀδελφῇ]; see also Wilcken *Archiv* v. p. 238 for the use of ἀπόδος to denote the transmission of an official document. Similarly the verb is the appropriate one everywhere for the "paying" of a debt, or "restoring" of a due of any kind—P Eleph 1¹³ (B.C. 311–0) (= *Selections*, p. 3) of a dowry, Ἡρακλείδης Δημητρίαι τὴμ φερνὴν ἣν προσηνέγκατο (δραχμὰς) Α, an observance due to the gods P Giss I. 27¹⁹ (ii/A.D.) ἵνα . . . τοῖς θεοῖς τὰς ὀφειλομένα[ς] σπονδὰς ἀποδῶ, rent *ib.* 48⁴ (Hadrian) τὰ [ἐ]κφόρια οὐκ ἀπέδοσαν, P Oxy I. 37ⁱˑ¹⁵ (A.D. 49) (= *Selections*, p. 51) of wages for services that have not been fully rendered, ἀποδοῦναι αὐτὴν ὃ εἴληφεν ἀργύριον, and *ib.* II. 269⁵ (A.D. 57) of a loan of money, ἃς ἀποδώσω σοι τῇ τριακάδι τοῦ Κα[ισαρε]ίου μηνός. In P Grenf I. 43⁷⁻⁹ (ii/B.C.) [α]ὐτοῦ δὲ μηδ' ἀπο-δεδωκότος ἡμῖν μ[ηδ]ὲ ἵππον μηδὲ τὴν πορείαν αὐτῆς ἐπιδε-δωκότος, we have two compounds well distinguished. For some notes on its flexion see under δίδωμι. The middle ἀποδόσθαι "sell" (Ac 5⁸ etc.) may be illustrated from P Tor I. 1ⁱⁱⁱˑ²² (B.C. 116) (= *Chrest.* II. p. 34), 1ⁱᵛˑ¹⁴ (p. 36) etc. Cf. MGr ἀποδίδω.
+
+## ἀποδιορίζω.
+
+The simplex (if we may so call what is already a compound) may be seen in Wünsch *AF* 3⁸ (p. 12) (Carthage, leaden tablet) ἐξορκίζω ὑμᾶς κατὰ τοῦ ἐπάν[ω] τοῦ οὐρανοῦ θεοῦ, τοῦ καθημένου ἐπὶ τῶν Χερουβί, ὁ διορίσας τὴν γῆν καὶ χωρίσας τὴν θάλασσαν: the writer has got enough Judaism to curse with. For his grammar cf. *Proleg.* p. 60 *nd*
+
+## ἀποδοκιμάζω.
+
+P Giss I. 47¹ ff. (Hadrian) παραζώ[ν]ιον γὰρ πρὸς τὸ παρὸν γνήσιον οὐχ εὑρέθη, ἀλλ' οὐδὲ ἐδικαίωσα ἀγοράσαι

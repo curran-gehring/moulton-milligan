@@ -1,0 +1,27 @@
+# Η
+
+*ἤ—ἡγεμονία*
+
+## ἤ.
+
+For this particle in interrogative sentences, where we should accent ἤ, and for which from ii/B.C. εἰ is a graphic equivalent, cf. the questions to the oracle, P Fay 137¹ (i/A.D.) (= *Selections*, p. 69) χρημάτισόν μοι, ἦ μίνω ἐν Βακχιάδι ; ἦ μέλω (*l.* μέλλω) ἐντυνχάνιν ; "answer me, Shall I remain in Bacchias?  Shall I meet (him)?", BGU I. 229³ (ii/iii A.D.) (see *Berichtigungen* i. p. 27) ἦ μὲν σωθήσομαι (*l.* εἰ μὲν σωθήσομαι) ταύτης, ἧς ἐν ἐμοὶ ἀσθενίας, τοῦτό μοι ἐξένικον (*l.* τοῦτό μοι ἐξένεγκον). For ἤ = "or," see BGU IV. 1141⁸ (B.C. 14) ἔπεμψας . . . ἵνα ἐπιγνῶσιν πρὸς ἃ ἔγραψά σοι ἤ (= εἰ) ἔστιν ἢ οὐ, and for ἤ . . . ἤ PSI IV. 324² (B.C. 261-0) ἐάν τινες . . . διαγράφωσιν ὑμῖν ἢ τὰς τιμὰς ἢ τὸ παραβόλιον, παραλαμβάνετε κτλ.: the alternative is emphasized by the addition of τε . . . καί in *IG* XII. 2, 562⁵ (Rom. time) εἰ δέ τις τολμήσ[ῃ ἐπι]βαλέσθαι πτῶμα ἥτε ἀπὸ τοῦ γένους μου ἢ καὶ ἕτερός τις, δώσει κτλ. (cited by Radermacher *Gr*. p. 27). Ἤτοι . . . ἤ, while found in classical Greek, is characteristic of Hellenistic speech (Radermacher *ut s.*), see e.g. P Tebt I. 58⁹ (B.C. 118) ἤιτοι κώ(μας) ἢ γᾶς ἢ ἄλλας ἱερὰς πρ(οσόδους), P Ryl II. 154²⁰ (a contract of marriage—A.D. 66) ἤτοι τοῦ Χαιρήμονος ἀποπέμποντος τ[ὴ]ν Θαισάριον ἢ καὶ αὐτῆς ἑκουσί[ως ἀ]παλλασσομέν[η]ς [ἀ]π᾽ αὐτοῦ: cf. Rom 6¹⁶. The combination is common in Vett. Val. (e.g. p. 58²⁹), who also uses ἤπερ (p. 141²⁸) and ἤγουν (p. 138¹³) for simple ἤ. Ἤτοι stands alone in PSI IV. 314²² (A.D. 195) δραχμὰς ἑξακισ-χειλί]ας ἤ[τ]οι τάλαντον, P Oxy VI. 888⁵ (iii/iv A.D.) διὰ τὸ μὴ παρεῖναι τοῖς ὀρφανοῖς ἐπιτρόπους ἤτοι κου[ράτορας. In PSI III. 158⁸ (iii/A.D.?) the place of the particles is reversed—δικογράφους ἢ δικολόγους ἤτοι τούτων παρα-πλ[η]σίους. For ἢ καί suggesting an afterthought, see P Lond 962⁸ (A.D. 254 or 261) (= III. p. 210) δέξαι παρ᾽ αὐτοῦ δραχμὰς διακοσίας καὶ ἔχε αὐτὰς εἴς τε περιχωμα-τισμὸν ἢ καὶ λόγον ὀψωνίων ὡς ἐὰν θέλῃς, "receive from him two hundred drachmas and employ them for banking-up or (for that matter) for the payment of supplies, as you may wish," and for ἀλλ᾽ ἤ, as in 2 Cor 1¹³, see *s.v.* ἀλλά, and cf. Blass-Debrunner *Gr*. § 448. 8.
+
+A good parallel to θέλω . . . ἤ in 1 Cor 14¹⁹ (cf. 2 Macc 14⁴²) is found in BGU III. 846²⁸ (ii/A.D.) (= *Selections*, p. 95) οὐκ οἶδες, ὅτι θέλω πηρὸς γενέσται (*l.* γενέσθαι), εἰ (= ἤ) γνοῦναι, ὅπως ἀνθρόπῳ [ἔ]τ[ι] ὀφείλω ὀβολόν ; "do you not know that I would rather be a cripple than be conscious that I am still owing any one an obolus?"
+
+On the Semitic use of the positive of an adj. followed by ἤ, as in Mk 9⁴³, see Wellhausen *Einl*.² p. 21, where reference is also made to the corresponding use of ἤ after a verb with μᾶλλον implied in Mk 3⁴, Lk 15⁷: in Mt 18¹³ μᾶλλον is expressed.
+
+Πρὶν ἤ with inf., as in Mt 1¹⁸ *al*. (cf. Blass-Debrunner *Gr*. § 395) may be illustrated by PSI III. 171²⁸ (ii/B.C.) πρὶν ἢ τὰ λοι[π]ὰ τῆ[ς οἰ]κοδομῆς τοῦ ὅρμου συντελεσθῆναι. For πρότερον ἤ see PSI IV. 330² (B.C. 258-7) ἄ[ι]μην οὖν σοὶ μὲν γράφειν πρότερον ἢ ἀντιτεῖναι, and cf. *ib*. 343² (B.C. 256-5) μὴ θαυμάσηις ἐπὶ τῶι Νικόλαον ἀπελθεῖν προτοῦ ἢ τὸν λόγον συνθεῖναι, where the editor points out that προτοῦ = πρὸ τοῦ, and compares *Syll* 300 (B.C. 170) πρὸ τοῦ ἢ Γάϊος Λοκρέτιος τὸ στρατόπεδον πρὸς τὴν πόλιν Θίσβας προσήγαγεν = "*antequam . . . admovit*."
+
+## ἦ μήν.
+
+This spelling which is found in the TR of Heb 6¹⁴, and is common in the LXX, occurs in iii/B.C. papyri, e.g. P Petr III. 56(*a*)⁹ (*c.* B.C. 260) ἦ μὴν ἀποδώσω ὑμῖν, P Rev L⁴⁷· ⁸ (B.C. 259) ὁρκίσαι ἐν ἱερῶι ἦ μὴν μηθενὸς ἄλλου ἕνεκεν τὴν ζήτησιν ποιεῖσθαι, "to swear that the search is made for absolutely no other purpose." See further *s.v.* εἶ μήν, and cf. Thackeray *Gr*. i. p. 83f.
+
+## ἡγεμονεύω
+
+is applied to the rule of a prefect in P Tebt II. 302⁷ (A.D. 7) ἐπὶ Πετρωνίου τοῦ ἡγεμονεύσαντος, "in the prefecture of P.", P Ryl II. 113¹⁹ (A.D. 133) of a case—δεομέ[ν]ου τῆς διαγνώσεως Φλαυίου Τιτιανοῦ τότε τοῦ ἡγε-μονεύσαντ(ος), "which required the decision of the late praefect Flavius Titianus" (Edd.), and P Strass I. 41³⁷ (A.D. 250) Ἀννιανῷ τῷ ἡγεμονεύσαντι ἡ ἡμετέρα βιβλίδ[ι]ον ἐπέδωκεν, "my client gave in her petition to the late prefect Annianus." It may be noted that in Lk 3¹ Cod. Bezae reads ἐπιτροπεύοντος for ἡγεμονεύοντος.
+
+## ἡγεμονία.
+
+Like the preceding verb, ἡγεμονία is used for the office or rule of the prefect, e.g. P Oxy I. 59¹⁰ (A.D. 292) ἀπαντῆσαι ἐπὶ τὴν ἡγεμονίαν καὶ προσεδρεῦσαι τῷ ἀχράντῳ αὐτοῦ δικαστηρί[ῳ, "to proceed to his highness the praefect and attend his immaculate court" (Edd.), *ib*. II. 237⁰⁸· ⁶ (A.D. 186) γράφειν τῇ ἡγεμονίᾳ, P Ryl II. 77⁵⁶ (A.D. 192) ἐπὶ τῇ ἐπαφροδείτῳ ἡγεμονίᾳ Λαρκίου Μέμορος, "during the delightful praefecture of Larcius Memor" (Edd.), P Oxy X. 1252 *recto* (A.D. 288-95) ἐκ προστάξεως τῆς ἡγεμονίας, "in accordance with the order of the prefect." The word is also used in a military sense (as in Plut. *Camill*. 23) of a "battalion," or division of an army, under its ἡγεμών or officer: cf. P Rein 9¹ (B.C. 112) Διονύσιος Ἀπολλω]νίου [Πέρσ]ης τῆς Ἀρτεμιδώρου ἡγεμονίας, "Dionysios fils d'Apollonios, Perse, du commandement d'Artémidôros" (Ed.) and the discussion on p. 32f., and *Syll* 197⁹⁸ (B.C. 284-3) τοὺς μὲν βουλομέν[ους στρατ]εύεσθαι διώικησεν ὅπως
+
+276

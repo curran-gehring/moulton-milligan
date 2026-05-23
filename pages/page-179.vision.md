@@ -1,0 +1,31 @@
+διαίρεσις   149   διάκονος
+
+*auctor ad Hebraeos*, or even a Jew like Paul, with Greek language in the very fibre of his thought, could never have used δ. for *covenant* without the slightest consciousness of its ordinary and invariable contemporary meaning. He would use the "Biblical" word—"Biblical" in this case being synonymous with "archaic"—but always with the possibility of a play on the later meaning of the word. This is what comes in Heb 9¹⁵ᶠᶠ (probably also in Gal 3¹⁵), according to the usual view, which is responsible for the RV text in the former: see Milligan *Documents*, p. 75. Deissmann, among other difficulties, would have to prove that in iii/B.C. the older general meaning, established by Aristophanes, was extinct. The view to which we have capitulated, after strongly supporting the Westcott doctrine, is less heroic than consistent holding to one English word, but it can claim to account for its inconsistency. Among recent monographs may be mentioned an article by E. Riggenbach in *Theolog. Studien Th. Zahn . . dargebracht*, and lexical studies by F. O. Norton (1908), J. Behm (1912) and E. Lohmeyer (1913). See also Ferguson *Legal Terms Common to the Macedonian Inscrr. and the NT* (Chicago, 1913), p. 42 ff.
+
+## διαίρεσις.
+
+In the long land-survey P Tebt I. 61 (b)⁵². ⁸⁸ (B.C. 118–7) we find ἐγ διαιρέσεως 42's of the "division" of wheat among several cultivators: cf. *ib.* 72 (B.C. 114–3) *quater*. For the same meaning see P Tebt. II. 382⁴ (division of land—B.C. 30–A.D. 1) ἐκ κλήρου διαιρέσεως, "in consequence of the division by lot," P Flor I. 5⁵ (A.D. 244–5), *ib.* 50¹²⁶ (A.D. 268), P Strass I. 29⁴⁰. ⁴⁵ (A.D. 289), P Gen I. 11⁴ (A.D. 350) *al.* In P Hib I. 116³ (c. B.C. 245) διαίρεσις Μεχὶρ ἕως Ἐπεὶφ, the word is used of a "period" of time. From the inscriptions we may cite *Syll* 510⁴ (ii/B.C.) καὶ κοινὴμ μὲν διαίρεσιν ταύτην εἶναι,—ἂν δέ πως ἄλλως πρὸς αὐτοὺς ὁμολογήσωσιν ὑπὲρ τῆς διαιρέσεως κτλ. with reference to certain μερισμοὺς τῶν ἐγγαίων.
+
+## διαιρέω.
+
+Division between two or more parties, as in Lk 15¹², is the ordinary force of the word. Thus in a iii/B.C. inscr. in Ἀθηνᾶ xx. p. 167 ἀγρὸς . . ὃν ἔλαβεν διαιρούμενος πρὸς τὸν ἀδελφόν, P Magd 29¹ (B.C. 218) διαιρέσεως γενομένης καὶ συγγρ[α]φῆς τεθείσης διειρῆσθαι ἴσως καὶ ὁμοίως, οὐ διείρηταί μοι δικαίως—of a division of land that had not been carried through justly: cf. BGU IV. 1123⁸ (time of Augustus) διαιρεθήσεται εἰς μέρη] ἴσα καὶ ὅμοια τρία, καὶ λήμψεται ἕκαστ[ο]ς ἡμῶν μέρος ἕν, P Oxy X. 1272² (A.D. 144) διειρῆσθαι π[ρὸ]ς ἑαυτοὺς τὴν καρπείαν, "have divided among themselves the usufruct," and *OGIS* 573²¹ (i/A.D.) διαιρείτωι δὲ ὁ ἱερεὺς τὰ (ε)ἰσφερόμενα τῶι θεῶι εἰς κατασκευὴν τοῦ τόπου, where the editor remarks that "*verbum notionem distribuendae pecuniae in diversas expensas quibus opus sit habere videtur*." With the dat. as in Lk *l.c.* cf. P Lond 880¹¹ (B.C. 113) (= III. p. 9) ὁμολογεῖ . . διειρῆσθαι τὰ ὑπάρχοντα [αὐτῶι ἔγγαια τοῖς ἑαυτοῦ υἱοῖς. The construction with πρός is commoner. The more general sense of "distribute," as in 1 Cor 12¹¹, may be seen in the Will of Epicteta, *Michel* 1001vi¹⁸ (c. B.C. 200) ὁ (sc. ὁ) δὲ ἀρτυτὴρ διελεῖ τὰ ἱερὰ τοῖς παροῦσι. For the middle in the same sense cf. *Syll* 229⁵⁵ (iii/B.C.) διείλοντο τὸ ἀργύριον—the meaning is practically = διεῖλον πρὸς ἀλλήλους. In *ib.* 831⁷ πάντα ἃ ἔχει] διελόμενος Νικήρατος πρὸς τὸν ἀδελφόν this will not apply.
+
+## διακαθαίρω.
+
+For this late form, which WH read in Mt 3¹², Lk 3¹⁷, cf. *BCH* xxvii. (1903) p. 73⁷⁹ (B.C. 250) Ὠφελίωνι τοὺς κρουνοὺς διακαθάραντι τοὺς ἐν τῆι σκηνῆι.
+
+## διακονέω.
+
+In P Oxy II. 275¹⁰ (A.D. 66) (= *Selections*, p. 55) a lad is apprenticed by his father—διακονοῦ(ν)τα καὶ ποιο[ῦ]ντα πάντα τὰ ἐπιτασσόμενα αὐτῷ, "to serve and to do everything commanded him." For the construction with the dat., see BGU I. 261¹⁹ (ii/iii A.D.) ἐλπίζω . . . τοὺς θεοὺς διακονέσσι (l. διακονήσει) ἱμῖν (l. ἡμῖν). The pass. is found *OGIS* 383¹⁴⁸ (middle of i/B.C.) τοῖς τε ἐκπώμασιν οἷς ἐγὼ καθειέρωσα διακονείσθωσαν.
+
+## διακονία.
+
+The very interesting parallel in Plutarch for Lk 10⁴⁰, given by Field, *Notes*, p. 63, should not be missed. We are unable to quote the word from papyri before vi/A.D.: like διάκονος itself and the verb, it seems to have been somewhat literary except in an almost technical use, which brought it into common speech.
+
+## διάκονος.
+
+For the word in its general sense cf. P Flor II. 121⁵ (c. A.D. 253) ἐπεὶ ἔδοξεν τοῖς [δεκαπρώτοις]] τὸν διάκονον Εἰρηναῖον ἐπ' [ἐ]νιαυτὸν χρησι[μεύειν ἡμῖν]. There is now abundant evidence that the way had been prepared for the Christian usage of this word by its technical application to the holders of various offices, as in the i/B.C. *Magn* 217, where the dedicators of a statue to Hermes are described as κομάκτορες, κήρυκες and διάκονοι. A definitely religious connotation belongs to the word in *ib.* 109 (c. B.C. 100) where the remains of a list of temple officials concludes with μάγειρος . . διάκονος. For a similar combination the editor refers to *IG* IX. 1, 486 (iii/B.C.) and IV. 774¹ (iii/B.C.), and to these examples Thieme (p. 17 f.), from whom the above citations are taken, adds *CIG* II. 1800, where we hear of a "college" of διάκονοι, presided over by a ἱερεύς, in the service of Serapis, Isis etc., and *ib.* 3037 where two διάκονοι and a female διάκονος (cf. Rom 16¹) are associated with a ἱερεύς and a ἱέρεια τῶν δώδεκα θεῶν. For the Christian use of the word, see P Oxy VIII. 1162⁵ (iv/A.D.) πρεσβυτ[έ]ροις καὶ διακώνοις, P Flor III. 323⁵ (A.D. 525), P Giss I. 55¹² (vi/A.D.) etc.
+
+On the form διάκων, see Deissmann *LAE* p. 91, and add BGU IV. 1046ii.²⁴ (A.D. 158). Prof. W. M. Calder tells us it is common in Anatolian inscrr. It is on the same footing as κατήγωρ (see *s.v.* κατήγορος), which Thumb *Hellen.* p. 126, shows to be a natural Greek development: Radermacher *Gr.* p. 15, gives a number of parallels. It is fairly certain that διάκονος must be associated with ἐγκονέω, ἀκονιτί and the simplex preserved in the Anthology, also in glosses such as κόνει, σπεῦδε, τρέχε (Hesychius). The difficult ᾱ (Ionic διήκονος) is explained by Brugmann (see Boisacq *Lex. s.v.*) by analogy of διηνεκής etc.
+
+Part II.   20

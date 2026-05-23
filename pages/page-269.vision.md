@@ -1,0 +1,31 @@
+# 239
+
+κειν ἐν φυ(λακῇ), P Tebt II. 416^{29} (iii/A.D.) μηδὲν ἐπιζητείτω, "let her want for nothing" (Edd.). The passive appears in P Oxy I. 80^{15} (A.D. 238-44) τοὺς ἐπιζητουμένους, of criminals who are "wanted," P Oxy IX. 1194^{2} (c. A.D. 265) πρὸς τὰ ἐπιζητηθέντα ὥστε μεταδοθῆναι τὰ λοιπαζόμενα, "in answer to the requisition for a report of the arrears" (Ed.), *ib*. 1196^{15} (A.D. 211-12) ἐμφανὴς ὢν ὁπόταν ἐπιζητηθῶ, "appearing whenever I may be required" (Ed.), and in the interesting P Oxy I. 36^{ii. 8} (ii/iii A.D.) from which we learn that if a tax-gatherer had any suspicion that a merchant had more goods on his ship than he had declared (ἀπεγράψατο) he had the right of requiring the cargo to be unloaded—ἐἀν] δὲ τελώνης ἐκφορ[τισ]θῆναι τὸ πλοῖον ἐπιζητήσῃ, ὁ ἔμπορος ἐκφορτιζέ[τ]ω.
+
+## ἐπίθεσις.
+
+The only exx. we have found of this word are in the hostile sense of "setting upon," "attack," "machination," e.g. P Rein 17^{9} (B.C. 109) ἐπε]ὶ οὖν ὑπο[λα]μβάνω [δ]ιὰ τῆς ἐπιθέσεως γεγονέναι Κωννῶτος, "comme j'ai lieu d'attribuer ce coup à une machination de Konnés" (Ed.), P Oxy II. 283^{15} (A.D. 45) ὃν καὶ ἀγείοχα (l. ἀγήοχα) ἐπὶ σὲ μεθ᾽ ἱκανῆς τῆς γεγονοί[α]ς μοι ἐπιθέσεως καὶ πληγῶν ἐπιφορᾶς, "I have brought him to you at the expense of a severe and violent attack upon myself" (Edd.), *ib*. VIII. 1121^{17} (A.D. 295) καὶ αὐτὴ γὰρ ἀνυπέρβλητον ἐπίθεσιν καὶ ἁρπαγὴν πάσχουσα πρόσειμι μαρτυρο[μέν]η τὰ εἴς με ἐπιχειρηθέντα, "I therefore, being the victim of a most outrageous attack and robbery, approach you to testify to the assault upon me" (Ed.). Cf. Vett. Val. p. 73^{4} ἐξ ὀνειδισμῶν καὶ ἐνέδρας καὶ δόλου καὶ ἐπιθέσεως ἀναγομένους κτλ., and for ἐπιθέτης *ib*. p. 164. Ἐπίθεμα = "addition" is found in P Oxy III. 500^{14} (A.D. 130), and according to the editors' note *ad l.* it should be rendered "higher bid" in P Amh II. 85^{21} (A.D. 78): see further for the word the note on P Giss I. 48^{16} and for the phrase ἱλαστήριον ἐπίθεμα in Exod 25^{16(17)} see Deissmann, *BS*, p. 124 ff.
+
+## ἐπιθυμέω.
+
+For the late acc. constr. with this verb, as in Mt 5^{28} BD, cf. the Hadrumetum Memorial of iii/A.D., reproduced in *BS*, p. 274 ff., ^{18} μηδεμίαν ἄλλη[ν] γυναῖκα μήτε παρθένον ἐπιθυμοῦντα. In P Lond 897 (A.D. 84) (= III. p. 207) after the closing word of l. 35 the following words have been written and struck out— . μ[ε . . . σε οὐκ ἐπιθυμῶι εἰς Ἀρσινοΐτην π. Other exx. of the verb are BGU I. 248^{31} (ii/A.D.) ὃν κοινῆσε βούλεθαι (l. κοινῆσαι βούλεται) καὶ αὐτὸν ἐ. πε.[.].. ἐπιθυμεῖν τῶν ἠθῶν σου ἀπολαῦσαι, P Oxy VI. 963 (ii/iii A.D.) ἀσπάζομαί σε, μῆτερ, διὰ τῶν γραμμάτων τούτων ἐπιθυμοῦσα ἤδη θεάσασθαι, and from the inscrr. *Syll* 226^{105} (iii/B.C.) πρὸς δὲ τούτοις Θισαμάτας καὶ Σκύθας καὶ Σαυδαράτας ἐπιθυμεῖν τοῦ ὀχυρώματος ("fortress"), *OGIS* 764^{11} (ii/B.C.) τοῖς ἄλλοις ἄρχουσιν πᾶ]σιν καὶ Ῥωμαίων τοῖς ἐπιθυμοῦσιν καὶ τοῖς ἐλευθέροις παισίν.
+
+## ἐπιθυμητής.
+
+For ἐ. used in a bad sense as in 1 Cor 10^{6}, Deissmann (*BS*, p. 224) compares BGU II. 531^{ii. 22} (ii/A.D.) ὡς οὔτε εἰμὶ ἄδικος οὔτε ἀ[λ]λοτρίων ἐπιθυμητής. On the other hand cf. an inscr. from about the beginning of the Christian era, *Syll* 325^{20} ἵνα οὖν καὶ ὁ δῆμος φαίνηται εὐχάριστος καὶ τιμῶν τοὺς ἀρετῇ διαφέροντας πολλοί τε δόξης ἐπιθυμηταὶ γένωνται.
+
+## ἐπιθυμία
+
+in the widest sense of "desire," which Hort finds even in Jas 1^{14}, may be illustrated from P Giss I. 79^{iii. 16} (c. A.D. 117) δι᾽ ἣν ἕξομεν εὐω[νεῖν κατ᾽ ἐπ]ιθυμίαν σου, "and then we shall be able to buy cheaply in accordance with your desire" (ἀθυμέω = "draw back," "hesitate," occurs in the same document: see *s.v.*), BGU III. 970^{17} (ii/A.D.) μεταδῶναί μοι ἀντίρρησιν . . . πρὸς τὴν ἰδίαν ἐπιθυμίαν, and *Syll* 366^{6} (c. A.D. 38) ἀ(λ)είπτοις ("steadfast") ἐκείνου τῆς ἐπιθυμίας βουλήμασιν. See also the iii/A.D. love-spell from Hadrumetum edited by Deissmann *BS*, p. 273 ff., where the forsaken husband is described as^{34}—ἐρῶντα μαινόμενον ἀγρυπνο[ῦν]τα ἐπὶ τῇ φιλίᾳ αὐτῆς καὶ ἐπιθυμίᾳ, "loving, frantic, sleepless with love and desire for her."
+
+## ἐπικαθίζω
+
+is found in the NT only in Mt 21^{7}. Cf. ἐπικάθημαι in P Tebt II. 391^{17} (A.D. 99) τοὺς ἐν τῇ κώμῃ καταγινομένους καὶ ἐπικαθημένους ἄνδρες (l. -ας), "the inhabitants of and settlers in the village" (Edd.).
+
+## ἐπικαλέω.
+
+The various NT usages of this common verb can all be illustrated from our documents. Thus for the meaning "surname" see P Fay 12^{1} (c. B.C. 103) βασιλεῖ Πτολεμαίῳ ἐπικαλ(ουμένῳ) Ἀλ[εἸξάνδρῳ . . . χαίρειν, P Tebt II. 397^{15} (ii/A.D.) ὑπὲρ ἐγγόϊνου Εὐδαίμονος ἐπικεκλημένον [Πτο]. . . , BGU II. 447^{16} (ii/A.D.), etc.; and for the simple "call," see P Tebt II. 382^{7} (B.C. 30—A.D. 1) ἀρου(ρῶν) ξ ἐπεικαλουμένας Βασιλ(ικοῦ) Γρ(αμμάτεως), "6 arourae called those of the Basilico-grammateus," *ib*. 319^{8} (A.D. 248) ἐν τόπῳ ἐπικαλουμένῳ Καρίωνι, P Ryl II. 172^{7} (A.D. 208) Φοινικῶνα περὶ κώμ(ην) Ἡφ[αιστιάδα] ἐπικαλούμενον Ἑρεννίου, "the palm-garden called that of Herennius in the area of the village Hephaestias." For ἐ. = "accuse," see P Hib I. 62^{5} (B.C. 245) κακοῦργον τὸν τ[ὴν] λείαν ποιήσαντα ἐπικαλεῖ Τνᾶς Ἁρνούφιος, "the criminal who did the pillage is accused by Tnas son of Harnouphis" (Edd.), P Fay 97^{20} (A.D. 78) ἐνκαλεῖν μηδ᾽ ἐπικ[αλεῖν, "make any claim or charge," so BGU I. 350^{14} (time of Trajan). The middle usage "invoke," "call upon," as in Ac 7^{59}, is frequent in the magic papyri, as P Leid W^{ii. 35} (ii/iii A.D.) ἐπικαλοῦ τὸν τῆς ὥρας καὶ τὸν τῆς ἡμέρας θεόν, P Oxy VI. 886^{19} (iii/A.D.) (= *Selections*, p. 111) ἐπικαλοῦ μὲν (?) τὸν (ἥλιον) κὲ τοὺς ἐν βυθῷ θεοὺς πάντας: cf. *Syll* 816^{1} (ii/B.C.) (= *LAE*, p. 424) ἐπικαλοῦμαι καὶ ἀξιῶ τὸν θεὸν τὸν ὕψιστον . . . ἐπὶ τοὺς δόλῳ φονεύσαντας κτλ. (for constr. with ἐπί, see 2 Cor 1^{23}). For ἐπίκλησις = "spell," see P Lond 121^{289} (iii/A.D.) (= I. p. 93); in P Lille I. 29^{ii. 27} (iii/B.C.) δούλων ἐπίκλησις καὶ τοῖς καταδικασαμένοις πρᾶξις is rendered "recours contre les esclaves et moyens d'exécution pour ceux qui les ont fait condamner," the editor noting that this usage of ἐ. is unknown to the Attic vocabulary.
+
+## ἐπικατάρατος
+
+is described by Grimm-Thayer as "only in Bibl. and eccl. use," but Deissmann (*LAE*, p. 93 f.) quotes it from *Syll*

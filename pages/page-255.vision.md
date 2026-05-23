@@ -1,0 +1,31 @@
+## ἐξόν
+
+See *s.v.* ἔξεστι.
+
+## ἐξορκίζω
+
+With Mt 26⁶³ may be compared the heathen amulet BGU III. 956¹·⁵· (iii/A.D.) ἐξορκίζω ὑμᾶς κατὰ τοῦ ἁγίου ὀνόματος θεραπεῦσαι τὸν Διονύσιον, and the magical papyri P Par 574¹²⁹⁰ (iii/A.D.) (= *Selections*, p. 113) ἐξορκίζω σε δαῖμον . . . κατὰ τούτον τοῦ θεοῦ κτλ., P Lond 46¹⁶ ff. (iv/A.D.) (= I. p. 67) ἐξορκίζω σε κατὰ τῶν ἁγίων ὀνομάτων . . . καὶ κατὰ τῶν φρικτῶν ὀνομάτων . . . παράδος τὸν κλέπτην κτλ. See also BGU IV. 1141¹⁹ (B.C. 14) ἐρωτῶ σε οὖν καὶ παρακαλῶι καὶ τὴν Καίσαρος τύ[χη]ν σε ἐξορκίζωι, P Leid W⁵·³³ (ii/iii A.D.) ἐξορκισά σε, νεκρε, ἐν τῷ ὀνόματι · · · "veluti obtestatus sum te, fili, in templo" (Ed.), and the love-spell *Preisigke* 4947⁷ (iii/A.D.) ἐξορκίζω τὸν πάντα συνέχοντα κύριον θεὸν . . ποίησον Ἀ. . . . φιλεῖν με. See also Wünsch *AF* 3³⁵ cited *s.v.* ἀποδιορίζω.
+
+## ἐξορύσσω
+
+In BGU IV. 1024ⁱᵛ·⁴ (iv/v A.D.) the editor supplies ἐξορώ]ρυχαις γὰρ [ὃν ἔθ]αψε δημοσίᾳ [νεκρὸ]ν ἡ πόλις (καὶ) ἐλέησεν, understanding by the first word ἐξορώρυχας instead of ἐξορωρυχώς which would have suited the construction better. See also *Syll* 891⁵ (ii/A.D.) ἀλλὰ ἀτειμάσει ἢ μεταθήσει ὅρους ἐξορ(ύσσ)ων, amended by Dittenberger from ἐξορῶν on the stone.
+
+## ἐξουδενέω, ἐξουθενέω
+
+For this strong compound = "set at nought" (Suidas: ἀντ᾽ οὐδενὸς λογίζομαι), as in Mk 9¹², cf. BGU IV. 1117⁵² (B.C. 13) μεχρὶ τοῦ ἐ[ξ]ουθενῶ[σαι] καὶ ἐκτελέσαι καὶ ἐκτεῖσαι τῷ Εἰρηναίωι [ὃ ἐ]ὰν ἐνοφιλήσωσιν κτλ. The form ἐξουθενέω is found in Mk¹, Lk⁹, and Paul⁸, and in the more literary LXX writers. The later LXX books show ἐξουδενόω coined when οὐδείς was reasserting itself against οὐθείς: see Thackeray *Gr.* i. p. 105, and cf. Lob. *Phryn.* p. 182. Ἐξουδενίζω, which is used by Plutarch, occurs in Lk 23¹¹ W.
+
+## ἐξουσία
+
+For the primary meaning of this important word "power of choice," "liberty of action," cf. BGU IV. 1158⁸ (B.C. 9), where it is joined with ἐγλογή—μένε(ιν) περὶ ἑατ(ὴν) Κορν(ηλίαν) τὴν ἐξουσία(ν) καὶ ἐγλογὴ(ν) ἑαυτὸν πράσσειν τὸ κεφά[λ]αιο(ν). Hence the common usage in wills, contracts, and other legal documents, to denote the "claim," or "right," or "control," one has over anything, e.g. P Oxy II. 272¹⁸ (A.D. 66) ὁμολογ[ο]ῦμεν ἔχειν σε ἐξουσί[αν σε]αυτῆι τὴν ἀπ[αἰτη[σ]ιν ποιεῖσθαι παρὰ τοῦ Ἡρακλήου τῶν προκειμένων ἀργ(υρίου) (δραχμῶν), BGU I. 183²⁵ (A.D. 85) ἔχειν αὐτὴν τὴν ἐξουσίαν τῶν ἰδίων πάντων, P Tebt II. 319⁴ (A.D. 248) ἐξουσίαν ἔχειν τῶν ἑαυτοῦ ὑπαρχόντων: see also Milligan *ad* 2 Thess 3⁹. For the definite idea of right given by law, see P Oxy II. 237ⁱⁱ·¹⁷ (A.D. 186) ἀξιῶ τοῦ νόμου διδόντος μοι ἐξουσίαν κτλ. and *ib.* viii·²⁹, viii·⁴: cf. also *ib.* 259¹⁸ (A.D. 23) where a man undertakes to produce a prisoner within a month—μὴ ἔχοντός μου ἐκξουσίαν (*l.* ἐξ—) χρόνον ἕτερον [κ]τή[σ]εσθαι, "as I have no power to obtain a further period of time." In *Syll* 328⁵ (B.C. 84) π]ρὸς ἐμὲ ἦλθ[εν ε]ἰς Ἀπαμήᾳ ἠρώτησέν τε [ὅπως ἂν] ἐξουσίαν αὐ[τ]ῷ [π]οιήσω ἐπὶ τοῦ συν[βο]υλίο[υ, where we seem at first to have the same construction as in Rev 14¹⁸, the editor understands the last words as = "coram consilio." The meaning "power of rule," "authority," appears in BGU IV. 1200⁵ (B.C. 2) Ἡρακλείδης καὶ Διονύ[σιος . . . ] ἐξουσίαν ἔχοντες τῶν Ἀσκληπιάδου ἀνόμως ἀποδέδωκαν κτλ., P Ryl II. 81⁸ (*c.* A.D. 104) τὴν γὰρ ὅλον τοῦ πράγματος ἐξουσίαν τοῖς κατασ[π]ορεῦσι ἐπεθέμην, P Giss I. 11¹⁸ (A.D. 118) (= *Chrest.* I. p. 529) οὐκ ἀγνοεῖς ὅτι ἄλλας ὀκτὼ μυριάδες ἔχω πλοίων ὧν ἐξουσίαν ἔχω, and Wünsch *AF* 4³¹ (iii/A.D.) ὁρκίζω σε τὸν θεὸν τὸν ἔχοντα τὴν ἐξουσίαν τῆς ὥρας ταύτης. For the general sense of exhibiting weight and authority, as in Mk 1²², cf. P Fay 125⁸ (ii/A.D.) ἀντιλαβὼν ἣν ἐξουσίαν ἔχεις, "using all the influence you have" (Edd.), and on the bearing of this meaning in the difficult 1 Cor 11¹⁰, see Ramsay *Cities*, p. 202 f., where it is shown that, in accordance with the Oriental view, "a woman's authority and dignity vanish along with the all-covering veil that she discards." In P Par 63⁹⁸ (B.C. 164) (= P Petr III. p. 34) we have ἕτερός τις ἐμ βαρυ[τέ]ραι κείμενος ἐξουσίαι, "any other persons in high office" (Mahaffy), and for the reference of the word to civil magistracy or rule, as in Rom 13¹, see P Lond 1178⁹ (A.D. 194) (= III. p. 215, *Selections*, p. 98) δημαρχικῆς ἐξουσίας, the *tribunicia potestas* of Claudius, and cf. P Oxy VI. 904² (petition to a *praeses*—v/A.D.) ὅθεν τὰς ἱκεσίας προσφέρω τῇ ὑμετέρᾳ ἐξουσίᾳ . . . ἵνα κἀγὼ τούτου τυχὼν εὐχαριστήσω ταῖς ἀκλεινεῖς (*l.* ἀκλινέσι) ἀκοαῖς τῆς ὑμετέρας ἐξουσίας, "accordingly I make my entreaties to your highness . . in order that having gained my request I may bless the impartial ears of your highness" (Edd.).
+
+In an interesting note in his *Poimandres*, p. 48 n.3, Reitzenstein claims that in the NT, as in the Hermes dialogue, the idea of "knowledge" is mingled with that of "power."
+
+## ἐξουσιάζω
+
+In the sepulchral inscr. *CIG* III. 4584, after the statement that the monument had been provided by certain persons ἐξ ἰδίων καμάτων, it is added—θυγατέρα αὐτῶν μὴ ἐξουσιάζειν τοῦ μνήματος: cf. the inscr. from the catacombs of Syracuse *IG* XIV. 79⁴ Ἀφροδισίας καὶ Εὐφροσίνου ἀγορασία τόπος· μηδὶς ἐξουσιάσῃ ἄλλος.
+
+## ἐξοχή
+
+For the metaph. phrase κατ᾽ ἐξοχήν (Ac 25²³) see *Syll* 373¹⁰ (i/A.D.) ἐπιτελέσαι τῷ κατ᾽ ἐξοχὴν παρ᾽ ἡμεῖν τειμωμένῳ θεῷ Διὶ Καπετωλίῳ, *OGIS* 764⁹ (ii/B.C.) ἔπαθλα κατ᾽ ἐξοχὴν καλά: cf. Vett. Val. p. 17²² καθόλου ἐξοχὰς ἐχόντων περὶ ἐπιστήμην, and the use of the word in our slang sense of "a lead" in Cic. *Att.* iv. 15. 6. A corresponding use of the adj. is found in Vett. Val. p. 16⁴ ἐν παντὶ δὲ τὸ ἔξοχον μάλιστα προδώσουσιν ἐν τῷ παιδευτικῷ: cf. *OGIS* 640¹⁴ (iii/A.D.) τοῦ ἐξοχωτάτου ἐπάρχου and P Oxy XII. 1469¹ (A.D. 298) Αἰμιλίῳ . . . διαδεχο(μένῳ) τὰ μέρη τῶν ἐξοχωτάτων ἐπάρχων, where the editors note that ἐξοχώτατος (*eminentissimus*) occurs frequently in inscrr. with reference to prefects of the Praetorian Guard or of Syria, but is very rare in Egypt. See also the fragmentary dinner-menu P Giss I. 93³ καυλίων ἔξοχα εἰ . . . .] λοπὰς ἰχθύος μ[. . . . For the verb in the mid. = "cling to," like προσέχομαι, cf.
+
+Part III. 30

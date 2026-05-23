@@ -1,0 +1,31 @@
+that the Serapeum was situated above the town, so that the verb was appropriate, as in Lk 18¹⁰. The common phrase ἀ. εἰς Ἱεροσόλυμα, etc., may be illustrated from P Lond 1170 verso ⁶⁴ (A.D. 258-9), (= III. p. 194), where an account of labourers "off work" (ἀργησάντων) describes one as ἀναβὰς εἰς τὴν πόλιν and another ἀναβὰς ἐπὶ τῆς πόλ. The same meaning, or something near it, may be seen recurring in P Oxy VIII. 1157 (late iii/A.D.), as ³⁵ ἀντίγραψον κἀγὼ ἀναβαίνω καὶ ἀπογράφομαι, ib.⁷ ἐπιδὴ οὖν οὐ δύναμαι ἀναβῆναι ἴδε ἡ (l. εἰ) δύνῃ ἡμᾶς ἀπογράψε: we should use "come up" in the same connotation. So ib. VI. 935⁶ (iii/A.D.) ἔμελλον δὲ] καὶ α[ὐτὸ]ς ἀναβῆναι, BGU IV. 1097⁷ (i/A.D.) ἤαν δὲ ὁ ἀντίδικος ἀναβῇ, περίβλεπε αὐτόν. In ib. 1141¹⁵ (late i/B.C.) ἡμέρας δὲ ἐν αἷς ἀναβαίνων, εὑρίσκω αὐτὸν καθήμενο(ν) it perhaps means "go upstairs." In P Petr II. 9 (3) (iii/B.C.) πλήρωμα ἀναβέβηκεν is "the gang has gone away." Cf. MGr ἀνεβαίνω.
+
+For the substantive cf. P Grenf II. 67⁶ (A.D. 237) (= Selections, p. 109) where three asses are provided ὑπὲρ καταβάσεως καὶ ἀναβάσεως, "for the conveyance down and up again" of dancing girls for a village festival. Ἀνάβασις is common in the papyri and the inscriptions of the "rising" of the Nile, e.g. BGU I. 12⁸ (A.D. 181-2) [τῆς τοῦ] ἱερωτάτου Νείλου ἐπ᾽ ἀγαθῷ ἀναβάσεως, OG/S 666 (c. A.D. 55) ἡ Αἴγυπτος, τὰς τοῦ Νείλου δωρεὰς ἐπαυξομένας κατ᾽ ἔτος θεωροῦσα, νῦν μᾶλλον ἀπέλαυσε τῆς δικαίας ἀναβάσεως τοῦ θεοῦ, where Dittenberger draws attention to the fact that δικαία ἀνάβασις is a "solenne vocabulum" in this connexion. So in the papyri, BGU IV. 1208¹⁷ (B.C. 27) τ]ὴν ἀποτομίαν (see s.v.) τῆς ἀναβάσεως. There are some other instances in Meyer's note on P Giss I. 37, intro. n⁶. In Cagnat III. 975 (? i/A.D.) ἀ. is part of a house: τὴν ἀ. ταύτην σὺν τῇ ἁψεῖδι.
+
+## ἀναβάλλω,
+
+in something like the forensic sense "defer" a case, occurs in P Tebt I. 22⁹ (B.C. 112) ἀναβαλλόμενος εἰς τὸν φυλακίτην, "referring the matter to the inspector": cf. P Par 66² (i/B.C.) ὧν τὰ ἔργα ἀναβάλουσιν (l. -λλ-), "whose work is postponed." Elsewhere it is generally = "cast up" or "send back": in Ostr 1154 (Rom.) ἀναβαλεῖν τὰ ἱμάτιά σου appears to be used of the "setting up" of a weaver's warp. Cf. P Giss I. 20¹⁶ᶠ (ii/A.D.) εἰ θέλεις ἀναβληθῆναί σ[ο]ν τὴν ἰσχνὴν [λε]υκὴν στολήν, φρόντισον τῆς πορφύρας. In Ostr 1399 (A.D. 67-8) ἀνεβ(άλετε) εἰς τὸ κενὸν (l. καινὸν) χῶ(μα) ναύβ(ια) δέκα πέντε, 1567 (A.D. 105) ἀναβιεβλήκατε) εἰς χῶ(μα) Ἀθην(αίων) ν(αύβιον) (ἥμισυ), it may mean "throw up," of a measure of earth excavated (cf. Mahaffy Petrie Papyri, III. p. 344): this is a return to its most primitive sense—cf. Syll 587¹⁸ (B.C. 329-8) τέκτοσιν τοῖς ἀναβαλοῦσιν τὰς πλίνθους. Another physical sense appears in P Flor II. 233⁸ (A.D. 263), where Comparetti renders ἵνα . . . [ἀ]ναβληθῶσι "si adattino' (le spalliere)." The verb is MGr. The expressive compd. διαναβάλλομαι "procrastinate" occurs P Tebt I. 50⁵⁷ (B.C. 112-1).
+
+## ἀναβιβάζω.
+
+P Oxy III. 513²⁷ (A.D. 184) ἀναβεβίσθαι (l. -βιβάσθαι) εἰς δραχμὰς χειλίας [ὀκ]τακοσίας, "raised the price to eighteen hundred drachmas." (MGr ἀνεβάζω.)
+
+## ἀναβλέπω.
+
+Syll 807¹⁵ (ii/A.D.) καὶ ἀνέβλεψεν καὶ ἐλήλυθεν καὶ ηὐχαρίστησεν δημοσίᾳ τῷ θεῷ, of a blind man "recovering sight" in the temple of Asclepios, as in Jn 9¹¹·¹⁵ (cf. Documents, p. 154). So at the beginning of the same inscr., αἱ ὀρθὸν ἀνέβλεψε.
+
+## ἀναβοάω.
+
+In the interview between Marcus Aurelius (?) and a condemned criminal, P Oxy I. 33ⁱⁱⁱ⁻⁷ (= Chrest. I. p. 35), we read of the latter that ἀνεβόησεν [μ]έσῃς Ῥώμης, summoning the Romans to see him led off to death. Beyond this rather outré document, we have no other evidence of the Κοινή use of the word, an interesting confirmation of WH's rejection of it in Mt 27⁴⁶—unless indeed the more literary Matthew was emending Mark (15³⁴)!
+
+## ἀναβολή.
+
+The word is used with a large variety of meanings. Thus P Amh II. 34 (a)⁵ (c. B.C. 157) ἐκθεῖναι τὴν κατάστασιν εἰς μηδεμίαν ἀναβολὴν ("without delay") ποησαμένους: cf. Syll 425²² (iii/B.C.) ἀναβολὰν λαβόντες ἔτη τρία. In P Oxy IV. 729⁷ (A.D. 137) τὴν δὲ ἀν[α]βολὴν ποιήσονται ἀπὸ τῶν ἐθίμων ἀναβολῶν, and P Goodsp Cairo 15⁸ (A.D. 362) τὴν ἀναβολὴν πεποίημαι, we have the same phrase as in Ac 25¹⁷ (minus the article), but in a wholly different sense, "to make an embankment." In P Tebt II. 375⁵ (A.D. 265) τοὺς [διωρύγων τε κ[αὶ ὑδ]ραγωγῶν [ἀ]ναβολάς is rendered by the editors "banking up of canals and conduits," and probably a similar rendering, rather than "dredging," should be given to P Amh II. 91¹⁴ (A.D. 159) ἀναβολὰς διωρύγο(υ): cf. CPHerm 41 χώμασι καὶ ἀναβολαῖς, and P Lond 1171⁸ (B.C. 8) (= III. p. 179) ἀναβολῆς ναυβίων (see on ἀναβάλλω, and Kenyon's note here). In P Oxy VI. 909³⁸ (A.D. 225) τὴν προκειμένων ἀκανθῶν ἀναβολήν, the word is used in the unusual sense of digging up or uprooting (see the editors' note). In P Tebt II. 413²⁰ (ii/iii A.D.) the editors translate τέρα ἀνβολὰ (l. τέσσαρας ἀναβολάς), "4 bags," and compare P Oxy IV. 741³⁴ (ii/A.D.) where ἀναβολή, in the sense of ἀναβολίδιον, occurs next before προχείρια in a list of articles. Further in a legal document P Petr III. 21 (g) (iii/B.C.) we have τῆς ἀναβολῆς τοῦ ἱματίου with hiatus before and after, so that we cannot certainly join the words. In P Théad Inv. 15, a receipt of Constantine's time, those who grant the receipt name themselves ἀποδέκται λίνου τοῦ ἱεροῦ ἀναβολικοῦ, where Jouguet finds a reference to the linen for a military mantle "(ἀναβολικοῦ sc. ἀναβολή=ἀμβολή = ἀμβολλά, etc."): but see Wilcken Archiv, iv. p. 185.
+
+## ἀνάγαιον.
+
+This form of the word is supported by κατάγ(ε)ιον, P Oxy I. 75¹³ (A.D. 129), and VI. 911⁷ (iii/A.D.), 912⁴ (ib.); καταγαίῳ, P Lond 1164 (e)⁸ (A.D. 212) (= III. p. 160), κατάγαια, P Oxy VI. 903⁴ (iv/A.D.), κατάκεον, P Rein 43⁸ (A.D. 102, illiterate). Τῶν ἀνωγαίων occurs at the end of vi/A.D., P Par 21⁵, and ἀνώγιον in CPR 28¹⁵ (A.D. 110), after a lacuna: cf. MGr ἀνώγι "upper storey."
+
+## ἀναγγέλλω,
+
+which in Hellenistic Greek is found much in the sense of the Attic ἀπαγγέλλω, is illustrated by P Petr III. 42 H (8f)¹

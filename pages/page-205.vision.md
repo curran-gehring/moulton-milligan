@@ -1,0 +1,7 @@
+δῶρον    175    δωροφορία
+
+temple-offerings. If so, we may compare the similar use in the inscrr., e.g. *OGIS* 407 βασιλεὺς Ἰούλιος Ἐπιφάνης Φιλόπαππος Δεσποίν[αι] καὶ Σωτίρα[ι] δῶρον · ἐπὶ ἱερέος Σωτηρίχου, *Syll* 774 σ]τρατία ὑπὲρ τῆς ὁράσεως θεᾷ Δήμητρι δῶρον, *ib.* 787 (iv/iii B.C.) Διὶ δῶρον. This illustrates the common Biblical use of δῶρον for a sacrifice, or an offering to the Temple treasury. For the ordinary sense of δῶρον it will suffice to quote BGU IV. 1114⁷ (B.C. 8-7) ἀποκαταστῆσαι ἐνταῦθα τῶι Ἱμέρωι δῶρον δούλους (names follow), *ib.* I. 248⁸ (ii/A.D.) κατὰ δῶρον, PSI III. 236³³ (iii/iv A.D.) οὐκ ὀκνῶ γὰρ οὐδὲ περὶ δώρων οὐδὲ περὶ κέρματος, εἰδώς σου τὴν ἀγαθὴν προαίρεσιν, and the boy's letter, P Oxy I. 119¹¹ (ii/iii A.D.) (= *Selections*, p. 103) καλῶς δὲ ἐποίησες, δῶρά μοι ἔπεμψε[ς], μεγάλα, ἀράκια, "it was good of you, you sent me a present, such a beauty—just husks!" One interesting literary inscr. may be quoted, *Kaibel* 815⁴ (ii/A.D.—Crete), where Salvius Menas offers a libation and a sacrifice to Hermes in memory of his wife, ψυχικὰ δῶρα διδούς: the ed. explains this as gifts "quae pro defunctae uxoris anima Mercurio animarum duci comitique obferuntur."
+
+## δωροφορία.
+
+So BD* G Ambst in Rom 15³¹—witness good enough to bring it into the circle of Biblical words. We may mention it only to note that Alciphron and Pollux (*ap.* Grimm) albeit a good century later, are sufficient warrant that the word, if Paul did use it, came out of ordinary "profane" vocabulary.

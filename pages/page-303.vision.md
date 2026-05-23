@@ -1,0 +1,31 @@
+ζηλόω 273 ζητέω
+
+μαινοῦσα δρᾶν—passages which support ‘‘fervour” rather than ‘‘emulation” as the primary idea (ζέω) of the word: cf. Ellicott on 1 Cor 14¹². In 2 Cor 9², Phil 3⁶ the word is neuter (as in MGr), but elsewhere in the NT it is masculine, as always in the LXX. In the *Psalms of Solomon* both genders are found: cf. WH *Notes*², p. 165.
+
+## ζηλόω.
+
+For ζηλόω c. acc., as in Ac 7⁹ according to the RV rendering (cf. Gal 4¹⁷), see PSI I. 94⁹ (ii/A.D.) ζηλοῖ γὰρ τὴν μάθησιν, and from the inscrr. *Michel* 394⁴⁷ (mid. i/B.C.) ἐφ’ οἷς οὐχ ἧττον ὁ δῆμος [ζ]ηλοῖ αὐτόν, and *ib.* 1007⁵⁸ (ii/B.C.) καὶ ζηλῶσιν αὐτοὺς οἱ ἐπιγινόμενοι Ἐχιναδῶν. The compound ζηλοτυπέω may be illustrated from P Oxy III. 472¹³ (c. A.D. 130) ἐζηλοτύπει αὐτὴν μὴ ἐπισταμένην, ‘‘he was jealous of her without her knowledge” (Edd.): cf. for the subst. Numb 5¹⁵ θυσία ζηλοτυπίας.
+
+## ζηλωτής.
+
+With the use of ζηλωτής in such passages as 1 Cor 14¹², cf. from the inscrr. *Syll* 308⁸² (ii/B.C.) γίνωνται δὲ καὶ ἄλλοι ζ[ηλ]ωταὶ τῆς αὐτῆς αἱρέσεως, *ib.* 521⁵ (B.C. 100) γινόμενοι δὲ καὶ ζηλωταὶ τῶν καλλίστων ἐκ τῆς πρώτης ἡλικίας, and *OGIS* 339¹⁰ (c. B.C. 120) ζηλωταὶ μὲν τῶν καλλίστων γίνωνται. A close parallel to Ac 22³ may be found in Musonius p. 37⁵, where the ideal king is styled ζηλωτὴς . . . τοῦ Διός: cf. Sthenidas of Locris (Stob. *Flor.* ii. p. 265¹³) ἀντίμιμος καὶ ζαλωτὰς τῶ πράτω θεῶ.
+
+## ζημία.
+
+For ζημία = ‘‘loss” as in all its NT occurrences (Ac 27¹⁰, ²¹, Phil 3⁷, ⁸), cf. BGU I. 2¹ (A.D. 209) ὡς ἐκ τούτου οὐκ ὀλίγη μοι ζημία ἐπηκολούθησεν, *ib.* 146¹ (ii/iii A.D.) καὶ οὐχ [ὀ]λ[ί]γην ζη[μ]είαν μοι ἐζημιωσάμην, where note the not very common cognate acc. In *Chrest.* I. 176¹⁸ (mid. i/A.D.) the lessee of a vineyard petitions that as he has spent so much on repairs he is entitled to abatement in rent—ἀξιῶ οὐκέτι εὐϊτον]ῶν ὑπομέν[ειν] τὰς ζημίας ἐπαναγκάσαι τοὺς πρ[ο]εστῶτας ἀπαρενόχλητόν με ποιῆσαι ὑπὲρ τ[ῶ]ν φόρων, and in P Flor II. 142⁸ (iii/A.D.) where 2 asses are to be sold at such a price—ὥστε μήτε τὸν πιπράσκοντα ζημιοῦσθαι μήτε ἡμᾶς ζημίαν πλείονα ὑπομένειν τῆς τιμῆς. Cf. *Syll* 418⁴⁵ (A.D. 238) μεγίστην ζημίαν (‘‘soloece pro dativo,” Dittenberger) τὸ ταμεῖον περιβληθήσεται, *OGIS* 484⁸ (ii/A.D.) συνέβαινεν δὲ πᾶσιν αἰσθητὴν γείνεσθαι τοῖς ὠνουμένοις τὴν ἄδικον τῶν πιπρασκόντων ζημίαν. The word is united with αἰτία in BGU IV. 1118¹⁷ (B.C. 22) αἰτίαις καὶ ζημίαις, and *ib.* 1185·⁹ (c. B.C. 30): cf. P Tebt II. 420⁴ (iii/A.D.) οἴδατε ὅτι ἀπὸ ζημίας ἠμί, ‘‘you know that I am blameless” (Edd.). For the meaning ‘‘penalty,” ‘‘fine,” cf. P Hal I. 1⁹⁶ (iii/B.C.) διπλασί[αν] τὴν ζημίαν ἀποτεισάτω τῆς γεγραμμένης, P Tebt I. 105⁵⁷ (B.C. 103) ἀνυπεύθυνοι ἔστωσαν παντὸς ἐπι[τίμου καὶ πάσης ζημίας, ‘‘shall be liable to no fine or penalty of any kind” (Edd.): cf. from the inscrr. *OGIS* 218⁹⁹ (iii/B.C.) ἔνοχον εἶναι τῆι α[ὐτ]ῆι ζημίαι, 483³⁰ (ii/B.C.) οἱ μὲν] στρατηγοὶ ζημιώσαντες αὐτοὺς [τῆι] ἐκ τοῦ νόμου ζημίαι παραδότωσαν τῶι πράκτορι πράσσειν, καὶ ἐκτὸς ἀποτεινέτωσαν ζημία(ν) δραχμὰς ἑκατόν. An interesting use of the word is found in the Gnostic fragment P Oxy I. 4⁵ (early iv/A.D.) οὐδὲν ἄλλο ἦν ὁ θάνατος τῷ θ(ε)ῷ ἢ ζημία ὅπερ ἀδύνατον, which Harnack (*Chron.* ii. p. 181) renders, ‘‘so ware der Tod nichts anderes für Gott als Strafe, was unmöglich ist,” adding in a note that the meaning may be, ‘‘Ware Gott der, welcher den Tod verhängt, so wäre er ein strafender Gott, was unmöglich ist.”
+
+The subst. ζημίωμα is found in P Flor II. 150⁷ (A.D. 267) οὐχ ὀλίγον ζημίωμα εἰς τοῦτο γειν[ό]μενον ἡμῖν, BGU II. 419⁸ (A.D. 276–7) τὰ περιγινόμενα λήμματα καὶ ζημίωμα [π]ρὸς σὲ ἤτω.
+
+## ζημιόω.
+
+To the exx. of this verb cited *s.v.* ζημία we may add P Tebt I. 5⁸² (B.C. 118) τοὺς δὲ παρὰ ταῦτα ποιοῦντας θαν[άτωι ζ]ημιοῦσθαι, and for the more special sense of ‘‘fine” P Par 47²⁸ (c. B.C. 153) (= *Selections*, p. 23) χάριν γὰρ ἡμῶν ἠζημίοται εἰς χαλκοῦ τ(άλαντα) τέ, ‘‘for on our account he has been fined to the amount of 15 bronze talents,” BGU IV. 1044¹⁵ (iv/A.D.) ποιήσω ὑμῖς ζημιᾶσθαι (*l.* ὑμᾶς ζημιοῦσθαι) δέκα ἀντὶ τούτου. For the verb in the inscrr. see *Michel* 1342 (i/B.C.) ἐζημιωμένον ὑπὸ τῶν πρυτάνεων . . . ὀφίλοντα τοὺς κατὰ τὸν νόμον στατῆρας δύο, and *OGIS* 669⁵⁵ (i/A.D.) ὁ τοῦτο ποιήσας ἀπαραιτήτως ζημιωθήσεται. In accordance with the primary meaning of the word ‘‘suffer loss,” ‘‘receive damage” (see e.g. the citation from P Flor II. 142⁸ *s.v.* ζημία) Field (*Notes*, p. 61) translates Lk 9²⁵ ‘‘and lose, or receive damage in, his own self.” A new verb ζημιοπρακτέω, ‘‘exact punishment from,” is found in P Tor II. 7⁷.
+
+## Ζηνᾶς.
+
+This proper name (Tit 3¹³), probably a contraction for Ζηνόδωρος (Lightfoot on Col 4¹⁵), appears in a late Roman wall-scribbling at Magnesia, *Magn* 323. Cf. Ἀρτεμᾶς, Ὀλυμπᾶς—pet-names for the longer forms in -δωρος.
+
+## ζητέω.
+
+PSI IV. 382⁵ (B.C. 248–7) ξύλα ἐζητήκαμεν πανταχοῦ. The verb is found along with εὑρίσκω in the curious nursery acrostic P Tebt II. 278⁵ (early i/A.D.) ζητῶι καὶ οὐχ εὑρίσκωι: cf. P Giss I. 21⁵ (Rom.) ἐζήτησα τὸ λακώνιον καὶ οὐχ εὗρον ἀλλὰ ἀτταλιανὸν σαπρόν, where both λακώνιον and ἀτταλιανόν are to be understood as articles of dress. In their note on P Ryl II. 220²⁴, an official list of names belonging to ii/A.D., the editors state that the note ζη(τητέον) δίπ(λωμα) is found frequently in the margin of similar fragments, and that in one case οὐχ εὑρέθ(η) . . . occurs. With Mt 7⁷ cf. especially the new Logion P Oxy IV. 654⁵ μὴ παυσάσθω ὁ ζη[τῶν . . . . . . . ἕως ἂν] εὕρῃ : see also Epict. i. 28. 19 ζήτει καὶ εὑρήσεις. Other examples of this common verb are P Oxy I. 34¹·¹³ (A.D. 127) τοὺ[ς] διὰ ἀπειθίαν κ[αὶ] ὡς (or κ[ακ]ῶς, see *s.v.*) ἀφορμὴν ζητοῦντας (cf. Lk 11⁵⁴D) ἁμαρτημάτω[ν] τειμωρήσομαι, and *ib.* II. 237⁷·¹·⁴¹ (A.D. 186) ἐ[ζ]ήτησεν ἀκρειβ[ῶ]ς [τὸ πρ]ᾶγμα ἐκ τῶν βιβλιοφ[υ]λάκ[ω]ν, ‘‘made a searching inquiry into the matter on the evidence of the keepers of the archives.” A similar judicial reference is found in P Oxy IV. 726¹³ (A.D. 135) περὶ τῶν πρὸς αὐτὸν ζητηθησομέ[νω]ν ἐπί τε τοῦ κρατίστου ἡγεμ[ό]νος, ‘‘in the inquiry to be held against him before his highness the praefect” (Edd.), and *Theb Ostr* 134⁸ (i/ii A.D.) οὐδὲν γὰρ
+
+Part III. 36

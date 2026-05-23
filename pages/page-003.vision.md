@@ -1,0 +1,19 @@
+# THE VOCABULARY OF THE GREEK TESTAMENT
+
+*ILLUSTRATED FROM THE PAPYRI AND OTHER NON-LITERARY SOURCES*
+
+BY
+
+JAMES HOPE MOULTON, D.D., D.Theol.
+
+Late Fellow of King's College, Cambridge; Greenwood Professor of Hellenistic Greek and Indo-European Philology, Manchester University
+
+AND
+
+GEORGE MILLIGAN, D.D.
+
+Regius Professor of Divinity and Biblical Criticism, Glasgow University
+
+HODDER AND STOUGHTON
+LIMITED   LONDON
+1914-1929

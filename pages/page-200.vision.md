@@ -1,0 +1,31 @@
+δουλεύω 170 δραχμή
+
+## δουλεύω.
+
+We can cite no example of δ. used in a religious sense from pagan literature, but the syncretistic occult P Leid W xiii.⁸⁸ (ii/iii A.D.) shows it: ὅτι δουλεύω ὑπὸ τὸν σὸν κόσμον τῷ σῷ ἀγγέλῳ. Note also the mention of the ἱερόδουλοι in connexion with the Serapeum in P Leid I¹·²² (B.C. 162) σοὶ δὲ γίνοιτο, ἀνθ' ὧν πρὸς τὸ θεῖον ὁσίως διάκ[ει]σαι καὶ τῶν ἱεροδούλων καὶ τῶν ἐν τῷ ἱερῷ π[ά]ντων ἀντιλαμβάνῃ, ἐπαφροδισία, χάρις κτλ., and in P Tebt I. 6³ (B.C. 140-39) where reference is made to the revenues accruing to the priests from various sources including the ἱερόδουλοι. The mention immediately afterwards of "the so-called ἀφροδίσια" leads the editors to believe that these ἱερόδουλοι were ἑταῖραι, like the votaries of Aphrodite at Corinth; but cf. Otto (*Priester* i, p. 118), who understands simply a "lower" order of priests in contrast to the tribal priests. See Grenfell-Hunt's note on P Tebt *l.c.* Δουλεύω in MGr = "work," "serve."
+
+## δοῦλος.
+
+In Wilcken *Ostr.* i. p. 681 ff. there is a valuable account of the occupations which in the Graeco-Roman world were monopolized by slave labour. Among those that were not, the following classes, which are represented in the NT, are mentioned—ἁλιεῖς, ἀμπελουργός, γεωργός, γραμματεύς, διδάσκαλος, ἔμπορος, ἐργάτης, ἰατρός, ναύκληρος, ποιμήν, τέκτων, τραπεζίτης, χαλκεύς. For the Pauline δοῦλος Χριστοῦ it is sufficient to refer to Deissmann's well-known discussion (*LAE*, p. 323 ff.), in which the phrase is set in the light of old Greek custom, and especially of the right of manumission as evidenced by the Delphic inscriptions. A further contrast is drawn later (p. 381) with the familiar title a "slave of the Emperor," as in the Phrygian inscription, *BCH* xxviii. (1904) p. 195, Ἀγαθόποδι δούλῳ τοῦ κυρίου αὐτοκράτορος. Reference may also be made to Thackeray *Gr.* i. p. 8, where the growing tendency in the LXX renderings to emphasize the distance between God and man is shown by θεράπων giving place to οἰκέτης, this to παῖς, and this again to δοῦλος. The phrase of Mt 25³⁰ is found in P Par 68⁸·⁵⁴ (Imperial) ἀχρείους δούλους. (See under ἀχρεῖος, where however Mt *l.c.* is accidentally overlooked). On Δοῦλα as a proper name, see *Proleg.* p. 48n. The adj. δουλικός, which is not found in the NT, is very common—BGU IV. 1058¹² (B.C. 13) δουλικὸν παιδίον, *ib.* I. 193⁸ (A.D. 136) δουλικὸν ἔγγονον, P Tebt II. 407⁵ (?A.D. 199) δουλικὰ σώμ[ατ]α, etc. Δοῦλος, fem. δούλα, remains in MGr.
+
+## δουλόω
+
+The negatived verbal may be quoted from *OGIS* 449⁵, an honorific decree of the Pergamenes to P. Servilius Isauricus, proconsul of Asia B.C. 46, whom they describe as ἀποδεδωκότα τῇ πόλει τοὺς πατρίους νόμους καὶ τὴν δημοκρατίαν ἀδούλωτον.
+
+## δοχή.
+
+This word in its NT sense of "entertainment" is read by Schubart (see *Berichtigungen*, p. 5) in BGU III. 815⁷ ὁ Σωκρ[ά]της ὁ προ[κου]ράτορ μου κόπους [τινὰ]ς πα[ρ]έχῃ περὶ τῆς [δο]χῆς (pap. [..]χης). The derivative δοχικός may be quoted as adj. from P Ryl II. 85¹¹ (A.D. 185) [μέτρῳ δημο]σίῳ δοχικῷ, "measured by the official standard," and as a neuter noun *ib.* 200⁸ ff. (A.D. 111-2) (πυροῦ) δο-χ[ικῷ] "by receiving measure" (Edd.). See the long note, P Hib I. p. 228f., on the ratio of an artaba ἀνηλωτικῷ, "by spending measure," to one δοχικῷ, the former being ¹⁄₁₅ larger. In *ib.* 87¹⁸ (B.C. 256-5) the same is called μέτροις παραδ[ο]χικοῖς. Δοχή itself is common in accounts : see e.g. index to P Tebt I.
+
+## δράκων
+
+is common in the magic papyri, e.g. P Leid W ii.⁵ (ii/iii A.D.) δράκοντα δάκνοντα τὴ (*l.* τὴν) οὐράν, so *ib.* V iii. 16 (iii/iv A.D.) δράκων εἶ πτεροειδής, P Lond 121¹⁸⁶ (iii/A.D.) (= I. p. 102) ὁ δράκων οὐροβόρος, *ib.* 781, and PSI I. 28⁴ (?iii/iv A.D.), 29⁵ (?iv/A.D.). In P Oxy III. 4961 (A.D. 124) one of the witnesses to a will records that ἔστιν μου ἡ σφ[ραγὶς] δρακόμορφος : the edd. correct to δρακοντόμορφος, but in view of the common MGr δράκος, the bogey of many a folk-story, it seems better to assume the short form as genuine. It is one of many anticipations of MGr in a simplified word-formation.
+
+In a Christian amulet, *Kaibel* 1140 ⁸·⁹, Satan is addressed as μίασμα, δράκων, θη[ρῶν λ]όχε, κτλ.
+
+## δράσσομαι.
+
+For this verb, which is found in the NT only in 1 Cor 3¹⁹, where it is substituted for the less vivid καταλαμβάνων of the LXX Job 5¹³, cf. P Oxy X. 1298¹⁹ (iv/A.D.) σὲ γὰρ μόνον ἔχω μάρτυρα πῶς ὁ Γοῦνθος δραξάμενός μου—"laid hands on me." An otherwise unknown active is doubtfully restored in P Lond 1170 *verso* (A.D. 258-9) (= III. p. 196) ὁμοί(ως) δ[ρά]σσοντες χόρτον ἐν τῷ α κλήρ(ῳ). For the constr. with the acc. in the NT passage see *Proleg.* p. 65. For the subst. δράγμα = "handful," then "sheaf," as Gen 37⁷, Ruth 2⁷, cf. P Fay 120⁵ (c. A.D. 100) θέρισον τὸν ἄ[γ]ρον τῆς Ἀπιάδος καὶ λύσις εὐθέω εἰς Α. [..] τὰ δράγματα, "reap the field at Apias and let the sheaves go off immediately to A. ." (Edd.). From a series of farm-accounts, P Fay 102 (c. A.D. 105), it appears that the wages paid to workmen were coupled with accounts of γόμοι and δράγμ(ατα) of wheat and barley: see the editors' introduction, and cf. P Cairo Preis 44⁵ (ii/iii A.D.), where a payment is made εἰς δράγμα χόρτον. The compounds δραγματηγία and δραγματηγέω are found P Flor II. 185¹·¹⁷ (A.D. 254), and in P Petr III. 28 *verso* (e) (B.C. 260) we have ἐδραγματοκλέπτει, "stole sheaves in gleaning."
+
+## δραχμή
+
+This coin, which is only mentioned in the NT in Lk 15⁸ ff., was of the same value as the denarius in ordinary calculations or about 9½d.: see Kennedy in Hastings' *D.B.* iii. p. 428. Raphael when he accepted service with Tobit did so for δραχμὴν τῆς ἡμέρας καὶ τὰ δέοντά σοι (Tobit 5¹⁴) : cf. Mt 20² ff. In BGU I. 183 (a will—A.D. 85) we read of a bequest Στοτοήτι καὶ Ὥρωι ἑκάστῳ [ἀ]νὰ ἀργ[υρ]ίου δρα]χμὰς ὀκτώ. The same sum is mentioned in the will of Thaésis, P Tebt II. 381¹⁸ (A.D. 123) (= *Selections*, p. 79) where the editors conjecture that it may have been "a conventional legacy where a serious bequest was not intended": cf. our "cut off with a shilling." According to Thackeray *Gr.* i. p. 103 the form δραγμή, which is found in late MSS

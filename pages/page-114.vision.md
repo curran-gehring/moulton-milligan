@@ -1,0 +1,31 @@
+## ἀσεβής
+
+is found in P Tor I. 1ᵛⁱ·⁸ (B.C. 116) (= *Chrest.* II. p. 33) τὴν γεγενημένην μοι καταφθορὰν ὑπὸ ἀσεβῶν ἀνθρώπων, and in the magical P Lond 121²⁹⁵ (iii/A.D.) (= I. p. 103). It occurs also in *Syll* 789⁴⁰ (iv/B.C.) ὅπ]ως ἂ[ν] . . . μ[ηδ]ὲν ἀσεβὲς γένηται, and twice in *OGIS* 90²³· ²⁶ (Rosetta stone, B.C. 196) τοῖς ἐπισυναχθεῖσιν εἰς αὐτὴν ἀσεβέσιν . . . τοὺς ἐν αὐτῆι ἀσεβεῖς πάντας διέφθειρεν of those who had created sedition, involving the majesty of the θεός on the throne, as Dittenberger explains. Several exx. of the adjective in Josephus are put together by Schmidt *Jos.* p. 357. For the adverb, see P Oxy II. 237ⁱˣ·¹³ (A.D. 186) ἀσεβῶς καὶ παρανόμως.
+
+## ἀσέλγεια
+
+appeared in P Magd 24⁹ according to the original reading, but has been corrected in the new edition. The adj. appears among a number of technical epithets of ζῴδια in Vettius Valens p. 335²³⁻²⁴ χερσαῖα ἢ ἀσελγῆ ἢ λατρευτικὰ καὶ τὰ λοιπά. An obscure and badly-spelt document of iv/v A.D., BGU IV. 1024ᵛⁱⁱ· ²⁰, seems to contain this noun in the form ἀθελγία—ἀλλὰ ᾽ναντία καὶ ταύτης ὑπὸ σοῦ γενόμενον ἀθελγία ἐλενλέχ[ο]υσα τὰ πεπραγμένα, which the editor understands as = ἀλλ' ἐναντία ταύτῃ ἡ ὑπὸ σοῦ γενομένη ἀθελγία ἐλέγχουσα κτλ. But we mention this passage only to note how early the popular etymology was current connecting it with θέλγω. It is dubious at best, and the history of the word is really unknown; but cf. Havers in *Indogerm. Forschungen* xxviii (1911) p. 194 ff., who, adopting the foregoing etymology, understands ἀσελγής as = "geschlagen," then "wahnsinnig," and then "liebestoll, wollüstig." He has not convinced Prof. Thumb. For the idea of sensuality associated with the word in late Greek, see Lightfoot on Gal 5¹⁹.
+
+A cognate noun appears in P Oxy VI. 903²¹ (iv/A.D.) πολλὰ ἀσελγήματα λέγων εἰς πρόσωπόν μου καὶ διὰ τῆς ῥινὸς αὐτο[ῦ], "using many terms of abuse to my face, and through his nose" (Edd.). The complainant is a Christian.
+
+## ἄσημος.
+
+This word occurs perpetually in the papyri to denote a man who is "not distinguished" from his neighbours by the convenient scars on eyebrow or arm or right shin which identify so many individuals in formal documents. Thus in P Oxy I. 73²¹ (A.D. 94) a slave is described as μελίχρωτ[α] μακρ]οπ[ρ]όσωπον ἄσημον, and similarly in P Fay 28¹⁵ (A.D. 150–1) (= *Selections*, p. 82) the parents in giving notice of the birth of a son sign themselves—
+
+Ἰσχυρᾶς (ἐτῶν) μδ ἄσημος
+
+Θαισάριον (ἐτῶν) κδ ἄσημος.
+
+From the fact that in BGU I. 347 (ii/A.D.), an as yet uncircumcised boy is twice described as ἄσημος, Deissmann (*BS* p. 153) conjectures that ἄ. may have been the technical term for "uncircumcised" among the Greek Egyptians, but cites Krebs (*Philologus* iii, p. 586), who interprets it rather as = "free from bodily marks owing to the presence of which circumcision was forborne": cf. *Preisigke* 1616 (A.D. 155–6), where formal enquiry is made as to a priest's sons, εἴ τινα σημεῖ[α ἔχουσιν, and leave for circumcision is apparently given if these signs are not conspicuous (Wilcken *Archiv* v. p. 435 f.).
+
+In BGU I. 22⁸ (A.D. 114) (= *Selections*, p. 76) a pair of silver bracelets are described as of ἀσήμου "unstamped" silver, and the same epithet is applied to a δακτυριτριω, apparently some kind of a ring, in P Lond 193 verso¹ (ii/A.D.) (= II. p. 245). So *Syll* 586³⁹ (early iv/B.C., Athens) ἀργύριον σύμμεικτον ἄσημον, weighing so much, followed by χρυσίον ἄσημον, so much. The word became technical in commerce, so that Middle Persian borrowed it as *asim* "silver" (P. Horn, in *Grundriss d. iran. Philol.* I. ii. p. 26). So MGr ἀσήμι, with the same meaning.
+
+The only NT instance of ἄσημος is in Ac 21³⁹ (cf. 3 Macc 1³), where it = "undistinguished, obscure," as sometimes in classical writers, as Euripides *Ion* 8, οὐκ ἄσημος Ἑλλήνων πόλις (*i.e.* Athens). Cf. *Chrest.* I. 14ⁱⁱⁱ·¹⁰ (p. 27—c. A.D. 200) ἐγ]ὼ μὲν οὔκ εἰμι δοῦλος οὐδὲ μουσικῆς [υἱ]ός, ἀλλὰ διασήμου πόλεως [Ἀ]λεξαν[δρ]εί[ας] γυμνασίαρχος. For the evidence that Tarsus was "no mean city" see Ramsay, *Cities*, p. 85 ff., and more recently Böhlig, *Die Geisteskultur von Tarsos im augusteischen Zeitalter* (Göttingen, 1913). The adj. is applied to a ship in P Lond 948² (A.D. 236) (= III. p. 220), "without a figurehead" (παράσημος—*q.v.*).
+
+## ἀσθένεια.
+
+P Ryl II. 153³⁹ (A.D. 138–61) I have directed Eudaemon γράψαι ὑπὲρ ἐμο[ῦ] τῆς ὑπογραφῆς τὸ σῶμα διὰ τὴν περὶ ἐμὲ ἀσθένιαν. BGU II. 229³ (ii/iii A.D.) illustrates the practice of consulting the local oracle in times of difficulty or sickness —ἢ μὲν σοθήσωμαι (= εἰ μὲν σωθήσομαι) ταύτης, ἧς (? for τῆς, or an extreme case of attraction) ἐν ἐμοὶ ἀσθενίας, τοῦτόν μοι ἐξένικον (= τοῦτό μοι ἐξένεγκον). P Lond 971⁴ (iii/iv A.D.) (= III. p. 128) ἀδύνατος γάρ ἐστιν ἡ γυνὴ διὰ ἀσθένιαν τῆς φύσεως. P Flor I. 51⁵ (A.D. 138–61) σ]ωματικῆς ἀσθ[ενεί]ας, in an incomplete context. The prepositional phrase of Gal 4¹³ may be further illustrated by P Oxy IV. 726⁴ (A.D. 135) οὐ δυνάμενος δι' ἀ[σ]θένειαν πλεῦσαι. Add BGU IV. 1109¹⁹ (B.C. 5) τῆς Καλλιτύχης ἐν ἀσθενείᾳ διατεθείσης, and *OGIS* 244¹¹ (iii/B.C.) τὴν περὶ τὸ σῶμα [γε]γενημένην ἀσθένειαν διὰ τὰς συνεχεῖς κακο[π]αθίας, where the editor notes that there is no tautology, as κακοπαθία is to be understood in its later sense of laborious and troublesome work.
+
+## ἀσθενέω
+
+is too common to need many citations. There is a pathetically laconic Ἀσθενῶ between some household details and concluding salutations in an undated letter, BGU III. 827²⁴. P Oxy IV. 725⁴⁰ (A.D. 183) is typical: a boy apprenticed to a weaver is to have 20 holidays a year for festivals, without loss of wages, ἐὰν δὲ πλείονας τούτων ἀργήσῃ [ἢ ἀσ]θενήσῃ ἢ ἀτακτήσῃ κτλ, "from idleness or ill-health or disobedience" (Edd.), they must be made up. With the use of the verb in Mt 10⁸ may be compared *Syll* 503⁷⁶ where a certain man is extolled because, in addition to other benefactions, παρέσχεν ἰατ]ρὸν τὸν θεραπεύσοντ[α τοὺς ἀσθε]νοῦντας ἐν τῆ[ι] παν[ηγύρει]. See also P Par 5¹·⁵ (B.C. 114) ἀσθενῶν τοῖς ὄμμασι (so also P Leid Mⁱ·⁸), *ib.* 63ⁱˣ·¹²² (B.C. 165) κατὰ τῶν ἀσθενούντων καὶ μὴ δυναμένων ὑπουργεῖν, BGU III. 844¹⁵ (A.D. 83) κόπους γάρ μο[ι] παρέχει ἀσθενοῦντι. In

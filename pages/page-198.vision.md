@@ -1,0 +1,31 @@
+δόκιμος 168 δόξα
+
+χ[ρ]υσίον δοκιμίου τετάρτας τέσσαρες, *ib.* III. 717⁸ (A.D. 149) χρυσίου δοκιμείου σταθμῷ Ἀλεξανδρείνῳ, P Tebt II. 392²⁵ (A.D. 134-5) χρυσίον [δ]οκιμίον, "standard gold" (Edd.). Hort's divination (*l.c.*, p. 42) detected that the needed meaning in the NT passages was "what is genuine in your faith": the papyri have given a welcome endorsement to the master's instinct, and have at the same time rendered unnecessary his preference for the less well-attested reading τὸ δόκιμον (*Notes on Select Readings*, p. 102, in *The NT in Grk* ² ii. Appendix). For the noun δοκιμεῖον = "crucible," which is found in the LXX, cf. *OGIS* 308¹ (ii/B.C.) καὶ τῆ(ς) πρὸς θεοὺς εὐσεβείας ἔ[ργ]ωι καλλ[ίστω]ι οὐ μεικρὸν δοκιμεῖον ἀπέλιπεν, *Syll* 588⁹⁵ (c. B.C. 180) δοκιμεῖα. The editor in his note on the last passage compares *ib.*⁵⁷ 30³⁸ ff. ἐγδότω δὲ ἡ ἀρχὴ [κ]αὶ ἐξ οὗ ἂν παραλάβῃ χρυσίον ἀσήμον καὶ ἐπισήμου κατασκευάσαι τῷ θεῷ φιάλην χρυσῆν, καταλιπομένη δοκιμεῖον.
+
+## δόκιμος.
+
+P Hamb I. 2¹⁸ (A.D. 59) ἀργύριον ἐπίσημον δόκιμον ἀρεστὸν ἀνυπόλογον παντὸς ὑπ[ο]λόγου, P Amh II. 89⁹ (A.D. 121) τὸ (*l.* τὸν) δὲ ἀργυρικὸν φόρον δόκιμον ἄριστον (or ἀριστόν for ἀρεστόν), P Oxy II. 265¹⁵ (A.D. 81-95) τὰ τοῦ χρυσίου δοκίμου μναιαῖα τέσσαρα, P Flor I. 41¹⁶ (A.D. 140) τὸ μὲν ἀργύριον δόκιμον, τὸν δὲ πυρὸν νέον καθ(αρὸν) ἄδολ(ον), so *ib.* 72¹¹ (A.D. 128-9), etc. The combination with ἀρεστός in the first (and probably the second) citation may partly illustrate the combination of Rom 14¹⁸ (cf. 12²). In another combination we have the adj. in the Will of Epicteta, *Michel* 1001 i¹⁹ (Theran Doric—c. B.C. 200) παρεξοῦντι δὲ οἱ δωρεὰν ἐπιμηνιεύοντες οἶνον ξενικὸν ἱκανὸν δόκιμον ἕως τριῶν πινόντων.
+
+## δοκός.
+
+In P Petr II. 33¹·³⁵ (a steward's account) we have mention of δοκοί in a fragmentary context, but following τὰ ξύλα. Cf. P Lond 280¹¹ (A.D. 55) (= II. p. 194, *Chrest.* I. p. 371) ἐκ τῶν ἐμ]ῶν δαπανῶν μ]ηχανὴν ἐλαιου[ργικὴν καὶ τ]ῆς αὐτῆς θνίαν καὶ τὰ ἀνήκοντα ξυλικὰ ἀργαλεῖ[α] καὶ δοκὸν τὴν ὑπὲρ τ[ὴ]ν μηχανὴν προσανγέλλω, τοῦτο κτλ., *Chrest.* I. 176¹⁵ (middle ii/A.D.) ἐπεὶ οὖν καὶ αὐτὸ τὸ ἐλαιουργῖον συνεχυτρώθη καὶ ἠναγκάσθην δοκοὺς καὶ ἐρείσματα παρατιθένα[ι, "props" for the repair of an oil-press, P Flor II. 127⁸ (A.D. 256) τὸ βαλανεῖον παντὶ τρόπῳ ποίησον ὑποκανθῆναι καὶ δοκοὺς εἰς αὐτὸ παρενεχθῆναι ποιήσας, "logs" for the heating of a bath. *Syll* 587⁹² (B.C. 329-8) mentions δοκοί and στρωτῆρες together in the accounts for the building of a temple τοῖν θεοῖν : Dittenberger shows that the prices indicate the former to be heavy beams on which the latter were laid transversely. It is obvious that the Oriental hyperbole in Mt 7³ ff. will admit of no tempering from the usage of the word. A new verb δοκόω, "furnish with beams," occurs in the P Grenf II. 35⁵ (B.C. 98), P Amh II. 51³² (B.C. 88), P Ryl II. 249⁹ (B.C. 118).
+
+## δόλιος
+
+We can quote the derived abstract from Vettius Valens, p. 2³¹ τυφώδεις, ἀποκρύπτοντας τὴν δολιότητα, αὐστήρους κτλ. The verb δολιόω (LXX and NT), "not found in prof. writ.", was easily formed when wanted, but whether the translator of Num 25¹⁸ was the first to coin it no one can say.
+
+## δόλος.
+
+For δόλος in the forensic sense, as Deut 27²⁴, cf. the Jewish prayer for vengeance from Rheneia, *Syll* 816³ (ii/i B.C.) ἐπὶ τοὺς δόλωι φονεύσαντας : see Deissmann *LAE*, p. 423 ff. Cf. the compound δολοφονέω, BGU II. 388¹·²³ (ii/iii A.D.), *Syll* 324² (i/B.C.). In BGU I. 326 ii. ³ (a will—A.D. 189) we find ταύτῃ τῇ διαθήκῃ δόλος πονηρὸς ἀπέστη (*l.* = ἀπέστω). Mommsen (*Sitzungsberichte des Akad. zu Berlin*, phil.-hist. Klasse, 18 Jan. 1894, p. 50) states that he has not met the phrase elsewhere in this connexion, and compares the common formula on graves, *ab hoc monumento dolus malus abesto*. A much earlier instance of δόλος πονηρός is *Syll* 318⁹ (ii/B.C.) μήτε να[υσὶν βοηθείτωσαν δημοσΊίαι βουλῇ μετὰ δόλου πονηροῦ : cf. *OGIS* 629¹¹² (A.D. 137) χωρὶ[ς] δόλου πο[νηροῦ, PSI III. 158⁴⁷ (astrological—?iii/A.D.) διὰ μετεωρισμῶν καὶ κακῶν [δόλ]ων. The first of these inscriptions is about contemporaneous with the famous Oscan *Tabula Bantina*, where *pertm dolom mallom* occurs (with other parts of the noun), representing *sine dolo malo*. In view of the fixity of the formula in Italy from the beginning of our records, we can hardly doubt that it was transferred to Greek from Italic: it is noteworthy that *Syll* 319 was obviously Latin in phrase before it took Greek form. The meaning "taint," of material things, which gives us ἄδολος as described *sub voce*, appears in the formula for χρυσοῦ δόλος in the chemical papyrus P Leid X iii. ¹⁰ (iii/A.D.). So *ib.* iv. ³ in a test (δοκιμασία) for unstamped silver (see under ἄσημος) : ἄσημον ἐπιγνῶναι εἰ δόλον ἔχει· κατάθου εἰς ἅλμην, θέρμν (*l.* θέρμαινε), ἐὰν δόλον ἔχῃ μέλαν γείνεται. Add Vettius Valens, p. 73¹¹ ἐξ ὀνειδισμῶν καὶ ἐνέδρας καὶ δόλου καὶ ἐπιθέσεως ἀναγομένους. The word is MGr.
+
+## δολόω.
+
+Like δόλος, the verb is found in P Leid X⁷·³⁵ and xii⁹ (iii/iv A.D.)—κασσίτερον γνῶναι εἰ δεδόλωται · χωνεύσας αὐτὸν κτλ., and δολοῦται χρυσὸς εἰς αὔξησιν μυσει καὶ γῇ Σινοπίδι κτλ. See also *Syll* 802¹⁹ (iii/B.C.) δολωθεὶς ὑπὸ ματρυιᾶς, and Vettius Valens p. 248² ὁπόταν δὲ κακωθῇ, δολουμένη ἀδιανόητος γίνεται. Our first instance reinforces Grimm's quotation from Lucian and Thayer's from Dioscurides to make clear the metaphor of 2 Cor 4².
+
+## δόμα.
+
+P Petr. III. 42 C 1⁴ (B.C. 255) οὐδενὶ τρόπῳ ἐργάζονται διὰ τὸ μ[ὴ ἔχειν τὰ δέοντα, τὸ γὰρ προδοθὲν αὐτοῖς δόμα ἀνενηνόχασιν] ἡμῖν καταβεβρωκέναι, σχολάζοντ[ες δὲ διατε-]λοῦσι—with reference to the idleness of certain quarrymen, owing to some defective supply. For the preference for the short radical vowel in nouns of this class in Hellen. Grk see Thackeray *Gr.* i. p. 79, Mayser *Gr.* p. 65.
+
+## δόξα.
+
+In the account of a popular demonstration at Oxyrhynchus, P Oxy I. 41⁴ (iii/iv A.D.), the prytanis is hailed as δόξα πόλεω[ς. Deissmann (*Hellenisierung d. Semitischen Monotheismus*, p. 165 f.) throws out the suggestion that the word may originally have had a "realistic" meaning in the ordinary Grk of the day, and cites as a partial parallel its use as a name for women and ships (cf. F. Bechtel, *Die attischen Frauennamen* (1902), p. 132). The plur. δόξαι occurs in the

@@ -1,0 +1,23 @@
+# Page rasters — regenerate from source PDF via pdftoppm
+pages/*.png
+
+# Source PDFs — original scans, see README for provenance
+source/*.pdf
+
+# Reference repo clones — see README for git clone commands
+reference/strongs/
+reference/stepbible/
+reference/sblgnt/
+
+# Scratch / working artifacts
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

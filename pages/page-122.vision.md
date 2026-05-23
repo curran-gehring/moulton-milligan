@@ -1,0 +1,31 @@
+αὐλητής 92 αὔριον
+
+οἶκος could include both: P Fay 31¹⁵ (c. A.D. 129) πέμπτον μέρος ὅλης τῆς οἰκίας καὶ αὐλῆς καὶ τοῦ ὅλου οἴκου "the fifth part of the whole house and court and of the whole tenement." So far as we have observed, there is nothing in the Κοινή to support the contention that in the NT αὐλή ever means the house itself: see Meyer on Mt 26³. The plural is used of "guest-chambers," as in the interesting P Tebt I. 33⁸ (B.C. 112) (= *Selections*, p. 28) where, amongst the preparations for a Roman visitor, we read—φρόντισον ὡς ἐπὶ τῶν καθηκόντων τόπων αἵ τε αὐλαὶ κατασκευασ[θ]ή[σ]ο[ν]ται. . .
+
+Like the Latin *aula* and our own *court*, the word readily comes to denote a Royal *entourage*, e.g. P Par 49¹⁷ (B.C. 164–58) (= Witkowski², p. 70) δόξαντα ἀδελφὸν αὐτοῦ ἐν τῇ αὐλῇ εἶναι, "since he has a brother at Court": OGIS 735⁸ (ii/B.C.) τῶν περὶ αὐλὴν δια[δόχων], referring to certain officials attached to the court of Ptolemy Philometor; Vettius, p. 89¹⁵, ἐν βασιλικαῖς αὐλαῖς: so also *Preisigke* 1568 (B.C. 146–17) πρῶτοι φίλοι καὶ χιλίαρχοι καὶ ἄλλοι οἱ περὶ αὐλήν. When, therefore, Suidas defined αὐλή as ἡ τοῦ βασιλέως οἰκία, he was not far out, though αὐλή seemingly cannot mean an ordinary house. BGU IV. 1098¹ (c. B.C. 17) τῷ δεῖν[α] τῶι ἐπὶ τοῦ ἐν τῆι αὐλῆι κριτηρίου presents a court sitting in the αὐλή, as against Mk 14⁵⁴, where the αὐλή is clearly outside the room where the Sanhedrists were in session. *Syll* 192⁸ (B.C. 290–87) ἐν τῆι αὐλῆι τοῦ ἱεροῦ (al.) illustrates Ps 84² ¹⁰ (LXX 83 al.): cf. also *ib.* 734⁵² (Cos), where it is forbidden ἀποθήκηι χρᾶσθαι τ[ῆ]ι αὐλ]ῆι τῆι ἐν τῶι ἱερῶ μηδ' ἐν τῶι περιπάτω[ι, ἃ]μ μὴ πόλεμος ἧι. In MGr = "court."
+
+## αὐλητής
+
+is found in P Hib I. 54⁹ (c. B.C. 245) where the writer gives instructions regarding a forthcoming festival—ἀπό[σ]τειλον . . . τὸν αὐλητὴν Πετωῦν ἔχοντα] τούς τε Φρυγίους αὐλ[ο]ὺς καὶ τοὺς λοιπούς. So in P Oxy X. 1275⁹ (iii/A.D.), where ὁ προεστὼς συμφωνίας αὐλητῶν καὶ μουσικῶν is engaged with his "company" (συμφωνία) for a five days' village festival. The festival for which the flute-player is wanted is more unmistakably secular in the fragmentary mem, P Giss I. 93¹⁴. Generally he belongs to the apparatus of religion. So apparently in Cagnat IV. 134⁴ (B.C. 46—a revision of Syll 348), recording the prayer of Σωτηρίδης Γάλλος—a priest of the Magna Mater at Cyzicus—on behalf of his "partner" (σύμβιος) M. Stlaccius, an αὐλητής, who had been taken captive in a military expedition and sold. *Syll* 612³⁸ (B.C. 24) gives us an αὐλητής in a list of functionaries connected with the temple of Zeus at Olympia: Dittenberger tells us this was the vernacular for σπονδαύλης, a title found always in ii/A.D. An αὐλητὴς τραγικός is mentioned in OGIS 51 (iii/B.C.) amongst the ἀδελφοί who formed the "synod" of the priest Zopyrus for ceremonial purposes. In *Magn* 98⁴ the στεφανηφόρος has to provide αὐλητὴν συριστὴν κιθαριστήν for a festival of Zeus Sosipolis; while *ib.* 23⁷ is illustrated by an interesting sketch showing the *triclinium* ἱερῶν αὐλητρίδων καὶ ἀκροβατῶν attached to the temple of Archegetis of Chalchis. In the fragment of an uncanonical Gospel, composed before A.D. 200, reference is made to the washing of the outside skin ὅπερ [κα]ὶ αἱ πόρναι καὶ α[ἱ] αὐλητρίδες μυρ[ί]ζου[σιν κ]αὶ λούουσιν κτλ. (P Oxy V. 840³⁵ ᶠᶠ.).
+
+## αὐλίζομαι.
+
+OGIS 730⁷ (iii/B.C.) ὥστε αὐλίσ[ασθα]ι [αὐτόθι ἐν ἡ]μ[έ]ραις δυσί(ν). We may note Didache 11⁶, where it is laid down that a wayfaring apostle, on leaving any house where he has been entertained, is to take nothing with him except bread ἕως οὗ αὐλισθῇ, "until he reach his (next night's) lodging": cf. the expressive use in LXX Ps 29⁶ τὸ ἑσπέρας αὐλισθήσεται κλαυθμός, "weeping may come in to lodge (like a passing stranger) at even." In *Preisigke* 1579, a bracelet of Byzantine date, we find LXX Ps 90¹ as an amulet, with αὐλισθίσεται: there are no variants except of spelling.
+
+## αὐλός.
+
+See the first citation *s.v.* αὐλητής. In BGU IV. 1125 ὑπαυλισμός is a flute accompaniment.
+
+On a possible connexion of αὐλός with Heb חָלָל "bore," "pierce," and then "pipe," see Lewy *Fremdworte*, p. 165. But Lithuanian and Slavonic words given in Boisacq *s.v.* are much closer; and there is ἔναυλος, "ravine," to be reckoned with.
+
+## αὐξάνω.
+
+According to Mayser, *Gr.* p. 465, the form αὐξάνω, which is found in the LXX (Gen 35¹¹, Sir 43⁸) and NT, occurs in the Ptolemaic papyri only in P Leid Bⁱ⁻⁵ (ii/B.C.) μᾶλλον αὐξάνεσθαι ἀκολούθως τῇ τῶν προγόνων [προαιρέσει]: elsewhere, as in the Attic inscriptions up to Imperial times (Meisterhans *Gr.* p. 176), we find only αὔξω. The latter, contrary to general NT usage (as Eph 2²¹, Col 2¹⁹) is transitive in such passages as *Michel* 551⁷ (the Canopus decree, B.C. 238) τὰς τι[μὰς τῶν θεῶν] ἐπὶ πλεῖον αὔξοντες, *Cagnat* IV. 247⁴ (Stratonicea, c. B.C. 150) ἐπὶ πλεῖον αὔξειν τ[ὴν] φιλίαν, and *Magn* 33⁷ αὔξοντες τὴν πρὸς τοὺς θεοὺς εὐσέβειαν, *ib.* 50³³ ἐπὶ πλεῖον αὔξων, after a hiatus. So, at a later time, the fuller form: P Ryl II. 77³⁴ (A.D. 192) τῆς πόλ(εως) αὐξάνε[ι] τὰ πράγματα. The same is implied in the use of the mid. in *Syll* 891¹⁸ μηδὲ οἶκος αὔξοιτο—a pagan curse which quotes the LXX. For the intrans. usage cf. Aristeas 208 θεωρῶν, ὡς ἐν πολλῷ χρόνῳ καὶ κακοπαθείαις μεγίσταις αὔξει τε καὶ γεννᾶται τὸ τῶν ἀνθρώπων γένος. Of the moon, P Leid Wⁱⁱ· ²². In MGr αὐξαίνω.
+
+## αὔξησις.
+
+Chrest. I. 70¹⁴ (an inscr. of B.C. 57–6) τούτου πρὸς αὔξησιν ἀγομένου, of a temple for which the priests ask the privilege of ἀσυλία.
+
+## αὔριον.
+
+P Par 47¹ ᶠᶠ· (c. B.C. 153) (= *Selections*, p. 23) ὁ στρατηγὸς ἀναβαίν' αὔριον εἰς τὸ Σαραπιῆν, P Tebt I. 37²⁵ ᶠᶠ (B.C. 73) ἐὰν δὲ ἀμελήσῃς ἀναγκασθήσομαι ἐγὼ ἐ[λθεῖ]ν αὔριο[ν], and BGU I. 38¹⁰ (i/A.D.) where a boy writes to his father that he goes daily to a certain seller of barley-beer (ζυθόπωλις) who daily says σήμερον αὔρ[ε]ιν (-(ε)ιν for -ιον, as often), "to-day, to-morrow (you shall get it)," but never gives it. The full phrase, which is contracted in Mt 6³⁴, Ac 4⁵, is seen in BGU I. 286¹⁶ (A.D. 306) ἀπὸ τῆς αὔριον ἡμέρας, and Wünsch *AF* 3³¹ (Imperial) ἐν τῇ αὔριν ἡμέρᾳ. It appears without ἡμέρα in P Flor II. 118⁵ (A.D. 254) μετὰ τὴν α., and P Tebt II. 417⁷ and 419⁹ (iii/A.D.) ἐν τῇ α., BGU II. 511 ⁱⁱ ¹⁸

@@ -1,0 +1,31 @@
+ἐνθύμησις 215 ἐνκακέω
+
+gen. constr. see P Lond 42³⁹ (B.C. 168) (= I. p. 30, *Selections*, p. 10), σὲ δὲ μηδ᾽ ἐντεθυμῆσθαι τοῦ παραγενέσθαι, "and that you have never even thought of returning," P Par 63⁸¹ (B.C. 164) φαίνεσθε οὖν μηδὲ κατὰ μικρὸν ἐντεθυμῆσθαι τῶν ἐξηριθμημένων ὑμῖν, "you appear therefore not to have understood in the smallest degree the points enumerated to you" (Mahaffy). The late compd. παρενθυμέομαι, "disregard," "neglect," occurs in a Lycian inscr., *JHS* xxxiv. p. 5, No. 101⁵ ἐὰν δέ τις παρενθυμηθεὶς μὴ θύσῃ, ἔσται αὐτῷ ἐπιβλαβῆ. MGr θυμοῦμαι (c. acc.), "remember," a meaning which gives good sense in Wisd 7¹⁵, if with NA we read ἐνθυμηθῆναι ἀξίως τῶν λεγομένων (cf. Goodrick *Oxf. Ch. Bibl. Comm. ad l.*).
+
+## ἐνθύμησις.
+
+P Lond 46³⁸ (iv/A.D.) (= I. p. 75) καταδεσμεύω δὲ αὐτοῦ τὸν νοῦν καὶ τὰς φρένας τὴν ἐνθύμησιν τὰς πράξεις ὅπως κτλ.—a magic charm; BGU IV. 1024ⁱᵛ·¹² (iv/v A.D.) ποίας δὲ ἔσχεν ἐνθυμήσεις τὸν ἤδη κληθέντα καὶ τῆς ἐσχάτης ἐλπίδας (*l.*—ος) ἀποστε[ρ]ῆσαι; Vett. Val. p. 301⁵ τὸ ἐξελέγξαι ἀλλοτρίας ἐνθυμήσεις μυστικῶς κατακεχωσμένας.
+
+## ἔνι.
+
+BGU IV. 1141⁹ (B.C. 14) ὅτι δὲ ἐν τῇ πρώτῃ μου ἐπιστολῇ οὐθὲν ἄρα ἔνει (*l.* ἔνι), P Oxy IX. 1218⁸ (iii/A.D.) οὐδὲν δύσκολον ἔνι ἐπὶ τῆς οἰκίας σου. In P Iand 11⁸ (iii/A.D.) ὅτι ἀπρ]έπιά ἐστιν καὶ οὐκ ἔνι, the editor renders οὐκ ἔνι "*fieri non potest*," and compares P Strass I. 35¹¹ (iv/v A.D.) φρόντι[σ]όν μου ὃ περὶ τῶν ἐλεῶν . . . ἐπιδὴ ἐν Ἀλεξανδρίᾳ οὐκ ἔνε. The above exx. show ἔνι = ἔνεστι, and practically equivalent in meaning to the simple ἐστί, cf. Sir 37²², 4 Macc 4⁵·²³, and see Thackeray *Gr.* i. p. 257. The form ἔνι is regarded as the prep. ἐνί, the Ionic form of ἐν, "strengthened by a more vigorous accent, like ἔπι, πάρα, and used with an ellipsis of the substantive verb" (Lightfoot on Gal 3²⁸; cf. Hort on Jas 1¹⁷). See also Boisacq, p. 247 n.², Dieterich *Untersuch.* p. 225.
+
+## ἐνιαυτός.
+
+For ἐ. as a definite period of time, cf. P Hib I. 28⁹ (c. B.C. 265) ὑπαρχουσῶν [δὲ εἰ]ς [τὸν] ἐν[ι]αυτὸν [ἡ]μερῶ[ν τριακοσίων ἑξήκοντα, P Tor I. 1ⁱⁱ·²⁵ (B.C. 117–6) μὴ συνχωρητέον εἶναι πλείονα ἐνιαυτοῦ ἢ καὶ ἐτῶν δύο ἢ τριῶν, "a longer period must not be granted than a year or two years or three years," P Oxy I. 37¹⁹ (law-suit with reference to a nursing contract—A.D. 49) (= *Selections*, p. 49) τοῦ πρώτου ἐνιαυτοῦ ἀπέλαβεν τὰ τροφεῖα· ἐνέστη ἡ προθεσμία τοῦ δευτέρου ἐνιαυτοῦ, "for the first year she [the nurse] received her wages for nursing: there arrived the appointed day in the second year." The word is frequently found with εἷς as in P Flor I. 25¹² (A.D. 265) ἐπ᾽ ἐνιαυτὸν ἕνα, and (with the aspirate) P Oxy VIII. 1116¹¹ (A.D. 363) ἐφ᾽ ἑνιαυτὸν ἕνα: cf. also *ib.* II. 275⁹ (A.D. 66) (= *Selections*, p. 55) ἐπὶ χρόνον ἐνιαυτὸν ἕνα. For other prepositional phrases, cf. P Strass I. 22²² (iii/A.D.) ἡ [δ᾽] ἐνιαυτοῦ νομὴ αὐτάρκης ἐστίν, P Hib I. 27²⁰⁹ (B.C. 301–240) ἐν τῷ ἐνιαυτῷ, *ib.* ²⁸ κατ᾽ ἐνιαυτ[όν, P Ryl II. 110⁵ (A.D. 259) καθ᾽ ἕκαστ[ο]ν ἐνιαυτόν, P Thead 16⁴ (after A.D. 307) κατὰ τὸν προπέρυσι ἐνιαυτὸν καὶ πέρυσι, "*depuis l'avant-dernière et la dernière année*," P Flor I. 50¹³ (A.D. 268) ἐνιαυτῷ παρ᾽ ἐνιαυτόν, *ib.* 64²⁴ (iv/A.D. *ad init.*?) ἐ]νιαυτὸν παρ᾽ ἐνιαυτόν. In *Syll* 438¹⁵³ (c. B.C. 400) μηδ᾽ ἐν ταῖς δεκάτ[α]ις, μηδ᾽ ἐν τοῖς ἐνιαυτοῖς, the reference is to "anniversaries." *Syll* 802⁵ (iii/B.C.) shows the word along with ἔτος, the heading of a cure effected by Apollo and Asclepios—Κλ]εὼ πένθ᾽ ἔτη ἐκύησε, being immediately followed by—Ἀίτα πέντ᾽ ἐνιαυτοὺς ἤδη κυοῦσα κτλ. For the adj. ἐνιαύσιος see P Ryl II. 98 (A.D. 172) φόρου ἐνιαυσίου σύνπαντι, "at a total yearly rent," and for ἐξενίαντα = "annual sum" see P Amh II. 86¹⁹ (A.D. 78) ἃς (sc. δραχμὰς) καὶ ἀπ[οδ]ώσω κατ᾽ ἔτος ἐξενίαντα ἐν μηνὶ Φαῶφι, "I will pay every year the annual sum in the month of Phaophi" (Edd.).
+
+## ἐνίστημι.
+
+Contemporary usage makes it clear that in 2 Th 2² ὡς ὅτι ἐνέστηκεν ἡ ἡμέρα τοῦ Κυρίου, ἐνέστηκεν should be rendered as pointing to strictly present time, "as that the day of the Lord is *now* present" (RV) and not "is at hand" (AV): see, e.g., the references to the current month and year in such passages as BGU I. 22⁵ (A.D. 114) (= *Selections*, p. 74) τῇ δ τοῦ ἐνεστῶτος μηνὸς Φαρμοῦθι, P Fay 28¹⁰ (A.D. 150–1) (= *Selections*, p. 82) εἰς τὸ ἐνεστὸς ιδ (ἔτος): cf. Milligan *Thess.* p. 97, Zahn *Einl.* i. p. 235. Add such passages as P Tebt II. 383²⁷ (A.D. 46) where certain shares are assigned to contracting parties ἀπὸ τῆς ἐνεστώσης ἡμέρας ἐπὶ τὸν ἅπαντα χρόνον, P Lond 1164(d)⁷ (A.D. 212) (= III. p. 164) ἀπὸ τῆς ἐνεστώσης καὶ ὑποκειμένης ἡμέρας, P Oxy I. 37¹⁸ (A.D. 49) ἐνέστη ἡ προθεσμία τοῦ δευτέρ[ου] ἐνιαυτοῦ, καὶ] πάλιν ἀπέλαβεν, the appointed day in the second year came, and again she received (her wages), and P Flor I. 1¹⁵ (A.D. 153) τῆς προθεσμίας ἐνστάσης, so *ib.* 81 (A.D. 103). Mayser *Gr.* p. 371 collects many instances illustrating various forms of the verb.
+
+## ἐνισχύω.
+
+For the transitive use of this verb, as in Lk (Ac 9¹⁹: cf. Lk 22⁴³ D) cf. Hippocrates *Lex.* p. 2, 26 ὁ δὲ χρόνος ταῦτα ἐνισχύσει πάντα, ὥς τραφῆναι τελέως (see Hobart, p. 80 f.). In Theophr. *Fragm.* i. 65 τοῦτ᾽ ἐνισχύειν ἑκάστῳ, "this, in each thing, is strong," we have the usual intrans. sense: see Abbott *Fourfold Gospel*, p. 177 n.⁵.
+
+## ἐνκαινίζω.
+
+If we can trust the restoration in P Par 16⁴⁰ (B.C. 127) εἴπαμεν κα[τα]κολουθεῖν τοῖς ἐξ ἀρχῆς ἐθισμοῖς καὶ μη[θὲν ἐνκαινί]ζειν, this verb can no longer be regarded as "exclusively bibl. and eccl." (Grimm-Thayer). In the above passage, it will be noticed, it has the meaning of "make no innovation" as compared with "initiate," "inaugurate," in Heb 9¹⁸, 10²⁰. LS cite ἐγκαινιάζομαι from *CIG* IV. 8660.
+
+## ἐνκακέω.
+
+BGU IV. 1043⁵ (iii/A.D.) contains the word ἐνκακήσαντος (?), but in an uncertain context: it is, however, worth recording in view of the poverty of the "profane" attestation of this verb. See also Polyb. iv. 19. 10 τὸ μὲν πέμπειν τὰς βοηθείας . . . ἐνεκάκησαν, "they omitted through cowardice to send assistance," and Vett. Valens, p. 201¹⁵ ἐκκακοῦντες. On the form cf. WH *Notes²*, p. 156 f.

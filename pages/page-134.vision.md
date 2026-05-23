@@ -1,0 +1,31 @@
+faults (cf. Gal 6²), see the Acts of the martyrdom of Christina, PSI 27⁷ (v/A.D.) (as amended *ib.* p. xi) βάρος πάσης ὀργῆς καὶ ἀτίμ[ο]υ σπέρματος. The word is found in the astrologer Vettius Valens, p. 292⁵ ἐν συνοχαῖς καὶ βάρεσι γίνονται ἢ τραυμάτων περιπλοκαῖς: in the Index βάρος is rendered *molestia*.
+
+## βαρύνω.
+
+The replacement of this classical verb by βαρέω was progressive, as is seen in the fact that βαρύνω is common in LXX, but never occurs in the NT according to WH, except in its compound καταβαρύνω: the vernacular record of βαρέω (*q.v.*) makes this very clear. For the older word cf. P Tebt I. 23⁵ (c. B.C. 119 or 114) καθ᾽ ὑπερβολὴν (cf. 2 Cor 1⁸) βεβαρυμμένοι, "excessively vexed" (Edd.), P Oxy II. 298⁶ (i/A.D.) περὶ Ἑρμοδώρου γράφε[ι]ς μοι λίαν αὐτὸν βαρύνομαι, "you write to me about Hermodorus that I am too severe with him" (Edd.), and *OGIS* 669⁵ (i/A.D.) μὴ βαρυνομένην καιναῖς καὶ ἀδίκοις εἰσπράξεσι, *ib.*²⁸ ἵνα δὲ μηδαμόθεν βαρύνηι τὰς πρὸς ἀλλήλους συναλλαγάς.
+
+## βαρύς.
+
+See the first reference *s.v.* βάρος and cf. P Tebt I. 52¹ (c. B.C. 114) δι (*l.* διὰ τό) με ἐν βαρυτέ[ρα] ἀρρωστίᾳ κῖσ[θαι, "since I am seriously ill" (Edd.). In P Goodsp Cairo 15¹⁵ (A.D. 362) β. = "pregnant"—τὴν μὲν Ταῆσιν βαρέαν οὖσαν ἐκ τῶν πληγῶν αὐτῶν ἐξέτρωσεν (= -αν) τὸ βρέφος, "to Taesis who was pregnant they occasioned by their violence the miscarriage of her child" (Ed.): see *Archiv* iii. p. 116 on the passage. For the adverb see P Lond 42²⁷ (B.C. 168) (= I. p. 31) ἡ μήτηρ σου τυγχάνει βαρέως ἔχουσα.
+
+## βασανίζω.
+
+P Oxy VI. 903⁹ (iv/A.D.) βασανιζόμενοι οὖν εἶπαν, "they under torture said"—of slaves. Cf. *Audollent* 14.²⁷ (Cnidus tablet) μεγάλας βασάνους βασανιζομένα, and the imprecatory tablet 35² μετὰ κυνῶν βασανίσαι in Bliss and Macalister, *Excavations in Palestine* (1902), p. 176. The verb also occurs *ter* in PSI I. 28, a magic tablet of iii/iv A.D.: another late instance is P Lips Inv 244⁵ (in *Chrest.* II. p. 81) (A.D. 462) καὶ παρε[κ]λήθην καὶ ἐκλείσθην εἰς [τ]ὴν δη[μο]σ[ίαν] εἱ[ρ]κτ[ὴ]ν τῶν χρεῶν ἕνεκα καὶ πολλά[. .]ον, ὅπερ ἀπηγορ[ε]υμένον τοῖς νόμοις, ἐβασανίσθην. A compound may be quoted from BGU IV. 1141⁴⁷ (B.C. 14), where ἐγὼι οὖν ἠρώτησα οὖν τὸν γέροντα is corrected above to ἐγβασανίσας οὖν ἠρώτων κατ᾽ ἰδίαν. The curious imprecation in Wünsch *AF* no. 4 (iii/A.D.), where various infernal powers are invoked to prevent a rival's winning a horserace, has (v.⁵⁵) βασάνισον αὐτῶν τὴν διάνοιαν τὰς φρένας τὴν αἴσθησιν ἵνα μὴ νοῶσιν τί π[ο]ιῶσιν.
+
+## βάσανος.
+
+The original sense of "touchstone," "test," appears in P Oxy I. 58²⁵ (A.D. 288), where provision is made that only such persons are appointed to certain offices as are in a position to stand the test—οἳ καὶ βασάνοις ὑποκείσονται. In P Leid Wᵛⁱⁱ·²⁶ ff· (ii/iii A.D.) λέγε κλῦθί μοι, ὁ χρηστὸς ἐν βαζάνοις, βοήθησον ἐν ἀνάγκαις, ἐλεήμων ἐν ὥραις βιαίος (*l. l.* -αις), πολοὶ (*l. l.* -ὺ) δυνάμενος ἐν κόσμῳ, ὁ κτίσας τὴν ἀναγκὴ (καὶ) τιμωρίαν, καὶ τὴν βάσανον, Leemans renders *exploratio*. For the derived sense, reference may be made to the fragment of a legal code of iii/B.C., P Lille I. 29¹·²³, where the judges are empowered to employ "torture" in the case of slaves giving evidence, should it be found necessary—τῶν δὲ δούλων τῶν μαρτυρησάντων, οἱ δικασταὶ τὴν βάσανον ἐκ τῶν σωμάτων ποείσθωσαν, παρόντων τῶν ἀντιδίκων, ἐὰμ μὴ ἐκ τῶν τιθέντων δικαιωμάτων δύνωνται κρίνειν. So in a rescript of Augustus, *Syll* 356¹³ (B.C. 6) ἐξετάσαι προστάξας . . . διὰ βασάνων = *quaerere tormentis*, of slaves after the murder of their master. See also the new uncanonical Gospel, P Oxy V. 840⁶ κόλασιν ὑπομένουσιν καὶ πολ[λ]ὴν βάσανον, where the editors strangely remark that this use of β., as relating to punishment in the next world, is not found in NT; but cf. Lk 16²³·²⁸. Vettius Valens, p. 182³, has the phrase ψυχικὰς βασάνους: cf. p. 201²² ἐπὶ βασάνῳ καὶ ζημίᾳ καὶ κινδύνῳ, and p. 211¹⁸ ὀδυνηρὰν ἐπάγρυπνον βάσανον.
+
+## βασιλεία.
+
+As *kingship* or *sovranty* in the abstract is necessarily the root meaning of this word, it is easy to see how the passage into the concrete could either be on the lines of our *dominion* (cf. "our Sovereign and his dominions"), or follow the outward and visible *sign* of royalty. All these three meanings are fully illustrated from the inscriptions by Dittenberger in the Index to *OGIS*, e.g. (1) 33¹ (ii/B.C.) ἐν ἔτει τῆς ἐκείνου βασιλείας, (2) 248⁵ (ii/B.C.) μέχρι τῶν ὁρίων τῆς ἰδίας βασιλείας, and (3) 90 (Rosetta Stone, B.C. 196) τὰς τοῦ βασιλέως χρυσᾶς βασιλείας δέκα. It is possible that some passages in the NT might gain in force if this last meaning "a sign of royalty" were substituted for "royalty" in the abstract—one might compare the line taken by the Revisers with ἐξουσία in 1 Cor 11¹⁰. But it may be doubted whether the change can be made very plausible in any case.
+
+For β. in its original sense we may cite from the papyri P Tor I. 1ⁱⁱⁱ·¹⁵ (B.C. 116) πάντας τοὺς ὑπὸ τὴν βασιλείαν δικαιοδοτεῖσθαι, P Tor 1. 1ᵛⁱⁱ·⁴ (B.C. 114) τῶν μεγίστων βασιλέων ἀπολελυκότων τοὺς ὑπὸ τὴν βασιλείαν πάντας αἰτιῶν πασῶν. For the sense "reign" see P Oxy X. 1257⁷ (iii/A.D.) ἐπὶ τοῦ (ἔτους) ᾱ ἔτους τῆς εὐτυχαιστάτης ταύτης βασιλείας. Deissmann *BS*, p. 361 f., compares with τὴν αἰώνιον βασιλείαν τοῦ κυρίου ἡμῶν καὶ σωτῆρος (2 Pet 1¹¹) the phrase ἐπὶ] τῆς τῶν κυρίων Ῥωμαίων αἰωνίου ἀρχῆς in the decree of Stratonicea (*CIG* II. no. 2715a, 4).
+
+## βασίλειος.
+
+*Syll* 226⁶² (iii/B.C.) πραθέντος τε τοῦ στόλου εἰς βασίλεια, the palace of the satrap Saitaphernes. Dittenberger quotes Boeckh as arguing from the absence of the article that β. was here almost a proper name, as in Herod. iv. 20: D. however is not convinced that the reference is to the same place. P Petr II. 23 (2) shows βασίλειος qualifying γραμματεύς, instead of the regular βασιλικός. In the magic papyrus P Lond 46·⁴⁸⁵ (iv/A.D.) (= I. p. 79) βασίλιον is used with a symbol which the editor understands as = "sceptre": cf. Wisd 5¹⁶ τὸ βασίλειον τῆς εὐπρεπείας, "the crown of royal dignity."
+
+## βασιλεύς.
+
+In a letter written not later than B.C. 334 the title of βασιλεύς is adopted by Alexander the Great (*Priene* 1), and it was a favourite designation of his successors in the Syrian

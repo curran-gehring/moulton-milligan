@@ -1,0 +1,31 @@
+ἐλαία 201 ἐλαύνω
+
+## ἐλαία.
+
+In the magical spell for casting out demons, P Par 574¹³³ (iii/A.D.) (= *Selections*, p. 113), the instruction is given—βάλε ἔμπροσθεν αὐτοῦ κλῶνας ἐλαίας, “place before him (i.e. the possessed one) branches of the olive-tree.” See also CP Herm I. 28¹⁶ ἐλαῖα[ι] ἐσκορπισμέναι ζωπυροῦσαι. The word refers to the fruit, as in Jas 3¹², in P Hib I. 49⁵ (c. B.C. 257) ὅπως ἂν ἐμβάληται τὰς ἐλαίας εἰς βίκους, P Fay 130¹⁶ (iii/A.D.) κεράμιν ἐλεῶν (l. ἐλαιῶν), P Oxy XII. 1494¹⁵ (early iv/A.D.) ἀγοράσω ἐλέας κνίδια παλεά, “I will buy some old jars of olives” (Edd.), where the sense is collective as in the next exx. For contracted forms from a nom. ἐλάα, see P Ryl II. 97⁷ (A.D. 139) τὸν δὲ κατασπασμὸν τῆς ἐλᾶς ποησόμεθα, “we will perform the gathering of the olives,” *ib.* 130⁸ (A.D. 31) ἐτρύγησαν ἐκ τῶν καρπῶν οὐκ ὀλίγην ἐλᾶν, “they gathered of the fruits a quantity of olives,” and *ib.* 231⁵ (A.D. 40) τὴν ἐλᾶν. In PSI IV. 428⁸ (iii/B.C.) νυνεὶ δ’ ἐλαία γέγονεν τῆι κϛ, ἐλαία seems = “gathering of olives.” The adj. ἐλάϊνος is found e.g. in P Ryl II. 138¹⁰ (A.D. 34) φυτὰ ἐλάϊνα διακώσια, and ἐλαϊκός e.g. in P Fay 91¹⁸ (A.D. 99) ἐ[λα]ϊκοὺς καρπούς. MGr ἐλιά.
+
+## ἔλαιον.
+
+For ἔ. = “olive-oil,” it is sufficient to cite P Par 43⁵ (B.C. 154) καλῶς ποιήσεις ἀποστεῖλαί μοι ἡμίχουν ἐλαίου, P Oxy I. 91⁵ (receipt of wages for nursing—A.D. 187) ὑπὲρ τροφείων καὶ ἐλαίου καὶ ἱματισμοῦ, P Grenf II. 77³⁻⁵ (iii/A.D.) (= *Selections*, p. 122) where arrangements are made that a man conveying a dead body should be entertained ἐν ψωμίοις καὶ [οἰ]ναρίῳ καὶ ἐλαίῳ, and the Christian letter P Heid 6²¹ (iv/A.D.) (= *Selections*, p. 127) καταξίωσον δέξεσθαι τὸ μικρὸν ἐλέον διὰ τοῦ ἀδελφοῦ ἡμῶν Μαγαρίου. The word is used = “olive-tree” in P Petr I. 29⁷ (iii/B.C.) τὸ δὲ ἔλαιον δέδωκεν χοῦς ξ. For ἐλαιοκάπηλος, see PSI IV. 372⁵ (B.C. 250-49), and for ἐλαιουργεῖον, *ib.* 438⁹ (iii/B.C.).
+
+## ἐλαιών.
+
+Deissmann (*BS* p. 208 ff.) has sufficiently demonstrated against Blass (*Gr.* pp. 32, 64, 85) the reality of this word: see also *Proleg.* pp. 49, 69, 235, and add from the recently published P Ryl II. 130⁹ (A.D. 31) εἰς τὸν ὑπάρχοντά μοι . . . ἐλαιῶνα, 138⁵ (A.D. 34) εἰς τὰ νεόφυτα τῶν ἐλαιώνων, “into the young plantations in the olive-yards” (Edd.), 152⁴ (A.D. 42) ἐν ἐλαιῶ(νι) Θερμουθαρίον, also P Lond 214² (A.D. 270-5) (= II. p. 161, *Chrest.* I. p. 209) εἰς ἀμπελικὸν χωρίον καλούμενον Ἐλαιῶνα. The formation is a favourite one, as φοινικών, “palmgrove” (P Amh II. 31⁸—B.C. 112, P Gen I. 38⁵—A.D. 207-8), καμηλών, “camel-shed” (P Oxy III. 507²⁶—A.D. 169, 533²³—ii/iii A.D.). The specializing of the —ών suffix (“place of . . .”, as in ἀνδρών, γυναικών, κοιτών, etc.) for groves is found in δαφνών, ἀμπελών, φηγών, πιτυών, μηλών, κυπαρισσών, συκών, Ἑλικών (“willow mountain”)—the last a specially good parallel for Ἐλαιών, if the etymology is sound. Cf. Brugmann *Kurze Vergl. Gramm.* § 414, and Moulton *Gr.* ii. § 61 (b).
+
+## ἐλάσσων.
+
+In P Petr III. 32(*g*)¹⁶ a complaint is brought against a tax-collector that he makes agreements “at too low a rate” with certain persons who are liable to the police tax—ἐπ’ ἐλάττ[ονο]ς συνχωρήσεις ποιεῖται: cf. P Par 63²⁸ (B.C. 165) (= P Petr III. p. 20) ἕκαστον αὐτῶν γεω[ργ]ήσειν ἐπὶ τὸ ἔλασσον, “that each man is personally liable for field labour on the smaller assessment” (Mahaffy), *ib.*¹²⁹ (= *ib.* p. 28) τοῖς δυναμένοις οὐκ ἔλασσον τούτου μεριστέον, “not less than this (assessment) is to be allotted to those who are capable” (*id.*), and P Oxy II. 237ᵛⁱⁱⁱ· ³³ (A.D. 186) ἐπ’ ἐλλάττονι συμβήσεσθαι, “to accept less than the full amount” (Edd.). So P Giss I. 67¹⁸ (A.D. 119) ἀξιο[ῦμεν] . . . τὴν ἐξέτασιν ποιήσασθαι πρὸς τὸ μηδὲν ἔλασσον τῶι φίσ[κωι] ἐπακολουθῆσαι, with which the editor contrasts P Oxy II. 279⁸ (A.D. 44-5) πλεῖον περιποιῆσαι τοῖς δη[μο]σίοις. For a direct antithesis with πλείων, see PSI III. 187²⁰ (iv/A.D.) μισθώσασθ[αι] . . . [ἀρ]ούρας δέκα ἢ ὅσας ἐὰν δο[ξ]ῇ ἐπὶ τὸ πλεῖον ἢ ἔ[λ]ασσον, and for a similar antithesis with μείζων see P Ryl II. 77³⁵ (A.D. 192) Ὁ. εἶπ[εν]· ἀναδεξάμενος τὴν μείζονα ἀρχὴν οὐκ ὀφείλει τὴν ἐλάττον’ ἀποφεύγειν, “Ὁ. said:—A person who has offered to undertake the greater office ought not to shun the lesser’” (Edd.). For the corresponding subst. cf. e.g. P Tebt I. 97⁴ (B.C. 118) where an account of payments in kind is headed—list of payments εἰς τὴν μί[σ(θωσιν) τοῦ] αὐτ[οῦ] (ἔτους) εἰς τὸ ἐλάσσωμα, “on account of leases of the said year to meet the deficiency,” and BGU IV. 1060²⁵ (time of Augustus) ἀξιοῦμεν ἐν μηδενὶ ἐλαττώματι ἡμᾶς πρόνοιαν γενέσθαι. On the interchange of -σσ- and -ττ- see Mayser *Gr.* p. 223, and Moulton *Gr.* ii. § 43.
+
+## ἐλαττονέω.
+
+Grimm’s statement that this NT ἅπ. εἰρ. (2 Cor 8¹⁵ from LXX Exod 16¹⁸) is “not found in prof. auth.” requires correction, in view not only of Aristot. *de Plant.* 2, 3 p. 825ᵃ, 23 (as Thayer), but of P Magd 26¹³ (B.C. 217) ἐπαναγκάσαι αὐτὸν ἀποδοῦναι . . . . τὸ διάφορον τῶν ἐλαττονούντων τὸ κεραμίων, *cf.*¹⁷, and the illiterate BGU IV. 1195¹⁸ (c. B.C. 10) ἐλατωνῖ, apparently = ἐλαττονεῖ.
+
+## ἐλαττόω.
+
+For this, the more ordinary equivalent of the foregoing verb, we may cite P Tebt I. 19¹⁴ (B.C. 114) σὺ δὲ ὀρθῶς ποιήσεις τὸ προσάγγελμα μὴ ἐλαττώσας παρὰ τὸ πρῶτον, “you will be right in not diminishing the report compared with the first one” (Edd.), *ib.* II. 382¹⁰ (B.C. 30-A.D. 1) ἐμ μηδενὶ ἐλαττουμένου τοῦ Ἀκυσιλάου ἐν ᾗ ἔχει μ[ο]υ μίσθωσιν, “Acusilaus shall incur no loss in the lease which he holds of me” (Edd.), P Lond 897¹ (A.D. 84) (= III. p. 206) λαογραφίας τότε γὰρ ἐλασσωθεὶς ὑπὸ τοῦ προόντος κωμογραμματέως, and P Hamb I. 81¹³ (A.D. 136) μὴ ἐλαττουμένων ἡμῶν ὑπὲρ ὧν ὀφίλεται λοιπῶν φόρων τοῦ αὐτοῦ ιθ (ἔτους), “ohne dass wir beeinträchtigt werden in Bezug auf die übrigen Abgaben desselben Jahres, die Ihr uns noch schuldet” (Ed., who refers to Gradenwitz *Einführung* i. p. 31).
+
+## ἐλαύνω
+
+is found in the illiterate P Fay 111²⁹ (A.D. 95-6) λέγον (l.—ων) ὅτι (l. ὅτι) σὺ εἴρηκας πεζῶι [τὰ χ]υρίδια ἐλάσαι,
+
+Part III. 27
