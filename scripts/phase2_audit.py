@@ -181,6 +181,13 @@ def audit_page(con: sqlite3.Connection, page_no: int, *, timeout: int = 240) -> 
 
         if verdict in ("minor", "major", "reject"):
             for field, vals in field_diffs.items():
+                prod = (vals or {}).get("producer")
+                rev = (vals or {}).get("reviewer")
+                # SQLite TEXT columns can't bind list/dict; serialize structured values
+                if not isinstance(prod, (str, type(None))):
+                    prod = json.dumps(prod, ensure_ascii=False)
+                if not isinstance(rev, (str, type(None))):
+                    rev = json.dumps(rev, ensure_ascii=False)
                 con.execute(
                     """
                     INSERT INTO disagreements (
@@ -190,8 +197,8 @@ def audit_page(con: sqlite3.Connection, page_no: int, *, timeout: int = 240) -> 
                     """,
                     (
                         entry["entry_id"], field,
-                        (vals or {}).get("producer"),
-                        (vals or {}).get("reviewer"),
+                        prod,
+                        rev,
                     ),
                 )
 
