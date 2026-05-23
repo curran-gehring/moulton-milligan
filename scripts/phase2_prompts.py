@@ -19,10 +19,24 @@ and emit one JSON object per entry.
 - `lemma_greek` — the headword in polytonic Greek, Unicode NFC. Diacritics matter.
 - `body_markdown` — the full entry body, lightly cleaned (preserve italics for
   papyri abbreviations like *P.Oxy.*, *BGU*, *v/A.D.*).
-- `papyri_citations_raw` — JSON array of citation strings, as written
-  (e.g. ["P.Oxy. VIII. 1071. 7 (v/A.D.)", "BGU IV. 1141. 14 (B.C. 14)"]).
-- `nt_references_raw` — JSON array of NT references, as written
-  (e.g. ["John 1:1", "Rom 3:25", "1 Cor 13:13"]).
+- `papyri_citations_raw` — JSON array of citation strings, **exactly as written
+  on the page**. PRESERVE `ib.`, `ibid.`, `id.`, and other anaphoric shortcuts —
+  do NOT expand them to the underlying citation. Phase 4 handles normalization.
+  Example: `["P Oxy I. 33⁵ (ii/A.D.)", "ib. 71 ff."]` is correct;
+  `["P Oxy I. 33⁵ (ii/A.D.)", "P Oxy I. 71 ff."]` is wrong (over-expanded).
+- `nt_references_raw` — JSON array of **New Testament references ONLY**
+  (Matthew through Revelation, including the General Epistles, the Pastorals,
+  Hebrews, and Revelation), as written. Empty array if none.
+  - **Do NOT include OT/LXX references** (Genesis, Psalms, Isaiah, Hosea, etc.).
+  - **Do NOT include Apocrypha/Deuterocanonical references** (Wisdom, Sirach,
+    Tobit, Judith, 1-4 Maccabees, etc.).
+  - **Do NOT include pseudepigrapha or classical references.**
+  - Those non-NT references belong inside `body_markdown` as part of the entry
+    text, never in this array.
+  - **Preserve book context on chained references.** If the page reads
+    "Rev 6⁶, 7³" or "Matt 5:1, 7:24" (multiple refs sharing a book name),
+    emit each chain member with its full book prefix:
+    `["Rev 6⁶", "Rev 7³"]`, NOT `["Rev 6⁶", "7³"]`.
 - `has_translation` — boolean. True if the entry contains an English translation
   of papyri quotations; False if it leaves them in the original Greek/Latin.
 - `confidence` — float 0.0-1.0. Your confidence in the lemma + body extraction.
