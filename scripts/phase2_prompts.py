@@ -134,8 +134,15 @@ Use `{{}}` if no diffs.
 **Rules:**
 - Do NOT consult Allan Loder's VGNT/VGNTS — copyrighted derivative.
 - Do NOT treat the parser output as ground truth — your job is independent re-derivation.
-- If the page has N entries per the markdown but parser emitted M ≠ N, flag this
-  in `notes` for each affected entry and verdict the parser entries as `reject`.
+- **Continuation entries are legitimate.** A page that begins mid-entry (no `## `
+  heading at the top — i.e. the prior page's entry spills over) should produce
+  one parser entry tagged with `"notes": "continuation from prior page"` BEFORE
+  the first headed entry. So if the markdown has N `## `-headed entries AND the
+  page opens mid-entry, the parser should emit N+1 entries. That is correct, not
+  a count mismatch — verdict the continuation entry on its merits.
+- Only verdict as `reject` for genuine structural failures (gibberish, wrong
+  page, hallucinated entries with no source). A merely mislabeled continuation
+  lemma is `major` on that one entry, not `reject` across all entries.
 
 --- BEGIN PAGE MARKDOWN ---
 {ocr_text}
