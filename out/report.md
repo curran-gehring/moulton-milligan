@@ -1,6 +1,6 @@
 # Moulton-Milligan Digitization — Report
 
-Generated: 2026-05-23T12:49:27.874868+00:00
+Generated: 2026-05-23T13:10:13.812615+00:00
 
 ## Scope of this export
 
@@ -24,14 +24,14 @@ entries would be excluded).
 
 - Total entries: 425
 - `needs_review=1` flagged: 120
-- Placeholder lemmas (`??`): 4
+- Placeholder lemmas (`??`): 1
 - Exported to mm.sqlite: 395
 - Duplicate (strongs, lemma) skipped: 30
 
 ## Strong's keying (Phase 3)
 
-- Strong's-keyed: 410 (96.5%)
-- `G_N/A:<lemma>` placeholders: 15
+- Strong's-keyed: 412 (96.9%)
+- `G_N/A:<lemma>` placeholders: 13
 - Fuzzy snap corrections (logged in disagreements): 10
 
 Spec §8 gate: ≥75% Strong's coverage — **PASS**.
@@ -47,8 +47,8 @@ agree+minor rate: **88.9%** (spec §8 gate: ≥85%) — **PASS**.
 
 ## Phase 5 disagreement resolution
 
-- Resolved: **62** (auto-policies)
-- Remaining manual queue: **46** (see `disagreements_manual.tsv`)
+- Resolved: **109** (auto-policies)
+- Remaining manual queue: **0** (see `disagreements_manual.tsv`)
 
 Auto-resolution breakdown:
 - `auto:accept-reviewer-note` — 18
@@ -71,7 +71,7 @@ Auto-resolution breakdown:
 1. Pages 1–30 (front matter + abbreviation tables) NOT parsed.
 2. Pages 81–735 NOT parsed (Phase 2 continues over time).
 3. `papyri_citations` is raw-as-written, not normalized (Phase 4 unskipped).
-4. 46 disagreements remain in the manual queue (Phase 5 partial).
+4. 0 disagreements remain in the manual queue (Phase 5 partial).
 5. Continuation-from-prior-page entries sometimes have inferred lemma rather
    than the true prior-page headword. See entries with
    `notes: "continuation from prior page"`.
