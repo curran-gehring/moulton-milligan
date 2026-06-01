@@ -126,6 +126,14 @@ def main() -> int:
     if args.page_to is not None:
         where += " AND page_no <= ?"
         params.append(args.page_to)
+    # Don't re-snap lemmas a human already adjudicated to G_N/A. A NULL entry that
+    # carries a manual:strongs-fix disagreement was DELIBERATELY left unkeyed
+    # (e.g. a bad fuzzy snap reverted: ἀπαρτίζω, ἄπορος). Without this guard every
+    # phase3 run silently re-introduces the exact snap that was reverted.
+    where += (
+        " AND id NOT IN (SELECT entry_id FROM disagreements "
+        "WHERE resolution_by='manual:strongs-fix')"
+    )
     rows = con.execute(
         f"""
         SELECT id, page_no, position_on_page, lemma_greek
