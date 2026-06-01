@@ -105,6 +105,13 @@ def main() -> int:
                     "UPDATE entries SET lemma_greek=?, strongs=NULL, lemma_translit=NULL WHERE id=?",
                     (new_lemma, entry_id),
                 )
+                # The lemma changed, so any prior "leave unkeyed" tombstone for the
+                # OLD lemma no longer applies — clear it so phase3 can key the new lemma.
+                con.execute(
+                    "DELETE FROM disagreements WHERE entry_id=? "
+                    "AND resolution_by='manual:strongs-fix' AND reviewer_value='G_N/A'",
+                    (entry_id,),
+                )
                 resolution = f"lemma swapped to {new_lemma!r}; strongs cleared for re-keying. {reason}"
                 resolution_by = "manual:lemma-swap"
                 entry_mutations += 1
@@ -133,7 +140,8 @@ def main() -> int:
                 continue
 
             con.execute(
-                "UPDATE disagreements SET resolution=?, resolution_by=?, resolved_at=? WHERE id=?",
+                "UPDATE disagreements SET resolution=?, resolution_by=?, resolved_at=? "
+                "WHERE id=? AND resolution IS NULL",
                 (resolution, resolution_by, now, did),
             )
             applied += 1

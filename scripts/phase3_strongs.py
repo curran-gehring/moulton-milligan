@@ -127,12 +127,17 @@ def main() -> int:
         where += " AND page_no <= ?"
         params.append(args.page_to)
     # Don't re-snap lemmas a human already adjudicated to G_N/A. A NULL entry that
-    # carries a manual:strongs-fix disagreement was DELIBERATELY left unkeyed
-    # (e.g. a bad fuzzy snap reverted: ἀπαρτίζω, ἄπορος). Without this guard every
-    # phase3 run silently re-introduces the exact snap that was reverted.
+    # carries a manual:strongs-fix disagreement RESOLVED TO G_N/A was DELIBERATELY
+    # left unkeyed (e.g. a bad fuzzy snap reverted: ἀπαρτίζω, ἄπορος). Without this
+    # guard every phase3 run silently re-introduces the exact snap that was reverted.
+    # Scope to reviewer_value='G_N/A' so a manual:strongs-fix that set a REAL key
+    # (e.g. ἀπογίνομαι->G0581) never tombstones, and a later lemma_swap that clears
+    # the tombstone can still be re-keyed. NOT EXISTS (not NOT IN) to avoid NULL
+    # poisoning if any disagreements.entry_id is NULL.
     where += (
-        " AND id NOT IN (SELECT entry_id FROM disagreements "
-        "WHERE resolution_by='manual:strongs-fix')"
+        " AND NOT EXISTS (SELECT 1 FROM disagreements d "
+        "WHERE d.entry_id = entries.id "
+        "AND d.resolution_by='manual:strongs-fix' AND d.reviewer_value='G_N/A')"
     )
     rows = con.execute(
         f"""
