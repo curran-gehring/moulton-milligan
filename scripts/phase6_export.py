@@ -157,6 +157,12 @@ def main() -> int:
     # Stats for report
     total_pages = src.execute("SELECT COUNT(*) FROM pages").fetchone()[0]
     parsed_pages = src.execute("SELECT COUNT(DISTINCT page_no) FROM entries").fetchone()[0]
+    min_page = src.execute("SELECT MIN(page_no) FROM entries").fetchone()[0]
+    max_page = src.execute("SELECT MAX(page_no) FROM entries").fetchone()[0]
+    max_page_plus1 = (max_page or 0) + 1
+    tesseract_baseline = src.execute(
+        "SELECT COUNT(*) FROM pages WHERE ocr_agent IS NULL OR ocr_agent != 'claude-vision'"
+    ).fetchone()[0]
     total_entries = src.execute("SELECT COUNT(*) FROM entries").fetchone()[0]
     strongs_keyed = src.execute(
         "SELECT COUNT(*) FROM entries WHERE strongs IS NOT NULL"
@@ -238,11 +244,11 @@ Generated: {now}
 
 ## Scope of this export
 
-**Alpha-chunk preview** — pages 31–80 only (first ~50 lexicon-body pages).
+**Lexicon-body chunk** — pages {min_page}–{max_page} ({parsed_pages} pages parsed).
 Phase 4 (citation normalization) is skipped for this preview; `papyri_citations`
 field holds the raw as-written strings from `papyri_citations_raw`. Phase 5
-(disagreement resolution) has run deterministic auto-policies; remaining
-cases requiring human judgment are surfaced in `disagreements_manual.tsv`.
+(disagreement resolution) has run deterministic auto-policies + manual sweeps;
+remaining cases requiring human judgment are surfaced in `disagreements_manual.tsv`.
 
 This export uses the **relaxed filter** (all entries included).
 Pass `--strict` to apply spec §6's `needs_review=0` filter ({needs_review_count}
@@ -251,8 +257,8 @@ entries would be excluded).
 ## Source coverage
 
 - Total source pages: {total_pages}
-- Parsed pages: {parsed_pages}
-- Pages still on Tesseract baseline (need Phase 1B): 416
+- Parsed pages: {parsed_pages} (range {min_page}–{max_page})
+- Pages still on Tesseract baseline (need Phase 1B): {tesseract_baseline}
 
 ## Entries
 
@@ -298,7 +304,7 @@ Auto-resolution breakdown:
 ## Known limitations
 
 1. Pages 1–30 (front matter + abbreviation tables) NOT parsed.
-2. Pages 81–735 NOT parsed (Phase 2 continues over time).
+2. Pages {max_page_plus1}–735 NOT parsed (Phase 2 continues over time).
 3. `papyri_citations` is raw-as-written, not normalized (Phase 4 unskipped).
 4. {open_dis} disagreements remain in the manual queue (Phase 5 partial).
 5. Continuation-from-prior-page entries sometimes have inferred lemma rather
