@@ -96,6 +96,20 @@ def main() -> int:
         default=None,
         help="process only first N entries (debug)",
     )
+    ap.add_argument(
+        "--from",
+        dest="page_from",
+        type=int,
+        default=None,
+        help="only key entries on pages >= this (avoids disturbing prior-phase decisions)",
+    )
+    ap.add_argument(
+        "--to",
+        dest="page_to",
+        type=int,
+        default=None,
+        help="only key entries on pages <= this",
+    )
     args = ap.parse_args()
 
     variant_to_id, index = load_index(INDEX_PATH)
@@ -104,13 +118,22 @@ def main() -> int:
     pool = list(variant_to_id.keys())  # for rapidfuzz extractOne
 
     con = sqlite3.connect(DB_PATH)
+    where = "strongs IS NULL"
+    params: list = []
+    if args.page_from is not None:
+        where += " AND page_no >= ?"
+        params.append(args.page_from)
+    if args.page_to is not None:
+        where += " AND page_no <= ?"
+        params.append(args.page_to)
     rows = con.execute(
-        """
+        f"""
         SELECT id, page_no, position_on_page, lemma_greek
           FROM entries
-         WHERE strongs IS NULL
+         WHERE {where}
          ORDER BY page_no, position_on_page
-        """
+        """,
+        params,
     ).fetchall()
     if args.first:
         rows = rows[: args.first]
