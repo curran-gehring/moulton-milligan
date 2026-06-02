@@ -16,6 +16,8 @@ For this verb = "render propitious to oneself" *c.* acc. of the person, as in cl
 
 grammatical constructions of the verb in Biblical Greek (cf. e.g. Westcott *Epp. of St. John*, p. 83ff.). According to Boisacq (p. 373) ἱλάσκομαι derives from a reduplicated form *σι-σλᾱ-σκομαι, as ἵλεως represents *σι-σλᾱ-ϝος.
 
+## ἱλασμός.
+
 On the formation of this and similar substantives in -μός, see Hatzidakis *Einl.* p. 179f.
 
 ## ἱλαστήριος.
