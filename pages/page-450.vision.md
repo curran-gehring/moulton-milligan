@@ -1,0 +1,31 @@
+μυστήριον   420   μωρός
+
+## μυστήριον.
+
+There are many aspects of this important word which lie outside our immediate purpose, but its use as a technical term in pagan religion to denote a "secret" or "secret doctrine" known only to the initiated, which they are not at liberty to disclose, may be briefly illustrated. Thus from the inscr. we have *OGIS* 331⁵⁴ (Pergamon—mid. ii/B.C.) διεταξάμεθα δὲ ἀκολούθως τούτοις καὶ περὶ θυσιῶν καὶ πομπῶν καὶ μυστηρίων τῶν ἐπιτελουμένων πρὸ πόλεως αὐτῷ· ἐν τοῖς καθήκουσι καιροῖς καὶ τόποις, *ib.* 528¹³ τοῦ μεγάλου καὶ κοινοῦ τῆς Βειθυν[ίας να]οῦ τῶν μυστηρίων ἱεροφάντ[ην, cf. *ib.* 540⁸¹ (end i/A.D.) ᾿Ατταβοκαὸ οἱ τῶν τῆς θεοῦ [*Matris Magnae*] μυστηρίων μύστ[αι ἐτεί]μησαν τὸν [ἑαυτῶν φίλον καὶ εὐεργέτην, and *ib.* 721² (iv/A.D.) ὁ δᾳδοῦχος τῶν ἁγιωτάτων ᾿Ελευσῖνι μυστηρίων [Νικαγόρας. In the sepulchral epigram *Kaibel* 588⁴ a priest is described as—ἐκτελέσας μυστήρια πάντοτε σεμνὰ, cf. *ib.*¹ τὰ βίου συνεχὲς μυστήρια σεμνά, where the adv. συνεχῶς is used for an adj. From the papyri we may cite P Leid Wᵛⁱⁱⁱ· ⁴² (ii/iii A.D.) ἄρξαι λέγειν τὴν στήλην καὶ τὰ μυστήρια τοῦ θεοῦ : cf. ⁱⁱ· ¹² ἄτερ γὰρ τούτων ὁ (θ)εὸς οὐκ ἐπακούσεται, ἀλλὰς (ἀ)μυστηρίαστον οὐ παραδέξ[ε]ται, "nam unie his deus non exaudiet, alioqui non) initiatum non admittet" (Ed.). The word seems to refer to a material object in P Leid V ˣ· ¹⁹ (iii/A.D.) δότε οὖν πνεῦμα τῷ ὑπ᾿ ἐμοῦ κατασκευασμένῳ μυστ[ηρ]ί(ῳ. In an interesting love-charm from a Berlin papyrus (P Berol 9909), now edited in *Aegyptus* iv. (1923), pp. 305–8, the unusual formula ⁵⁰κεῖται παρὰ σοὶ τὸ θεῖον μυστήριον occurs, apparently with reference to the fact that some of the hair of the beloved was attached to the papyrus, which had been inserted in the mouth of the mummy (whose νεκυδαίμων was invoked to aid the lover). In an incantation to the Great Deity in P Lond 46¹¹⁰ (iv/A.D.) (=I. p. 68) the words occur—ἐγώ εἰμι Μουσῆς (*l.* Μωϋσῆς) ὁ προφήτης σου ᾧ παρέδωκας τὰ μυστήριά σου τὰ συντελούμενα ᾿Ιστραήλ. See also the magical P Par 574²⁴⁷⁷ (iv/A.D.) διέβαλεν γάρ σου τὰ ἱερὰ μυστήρια ἀνθρώποις εἰς γνῶσιν. Another ex. of the word, which we owe to the courtesy of Dr. Victor Martin, is afforded by an unedited Genevan papyrus, unfortunately mutilated at the most interesting point, where the writer assures his readers that if, in priority to extraneous pleasures (ὑπερφόρια ἡδέα), they auspiciously perform the mysteries, things will afterwards turn out well for them—εἱ] γὰρ ἐπ᾿ ἀγαθοῖς πρότερον τῶν.[.ο]υσων τὰ μυστήρια τελέ[σουσι] ὕ[σ]τερ[ο]ν αὐτοῖς συμβαίν[ει . . . . . : a sort of pagan equivalent of Mt 6³³.
+
+The Biblical usage of the word follows different lines and is traced with great fulness by J. A. Robinson *Ephesians*, p. 234 ff., where in particular it is shown ha t in its NT sense a mystery is "not a thing which *must* be kept secret. On the contrary it is a secret which God wills to make known and has charged His Apostles to declare to those who have ears to hear it" (p. 240). So far then as this word is concerned we are not prepared to find any "intimate" connexion between Paulinism and the mystery-religions : cf. H. A. A. Kennedy *St. Paul and the Mystery-Religions* (London, 1913), C. Clemen *Der Einfluss der Mysterienreligionen auf das älteste Christentum* (Giessen, 1913), and for a different view R. Bousset *Kyrios Christos*, Göttingen, 1913, p. 125 ff., R. Reitzenstein *Die hellenistischen Mysterienreligionen*, Leipzig, 1910. Important discussions on the word will be found in E. Hatch *Essays on Biblical Greek*, Oxford, 1889, p. 57 ff., von Soden *ZNTW* xii. (1911), p. 188 ff., and T. B. Foster *AJT* xix. (1915), p. 402 ff. : cf. also S. Cheetham's Hulsean Lectures on *The Mysteries Pagan and Christian*, London, 1897. For the μυστήριον κοσμικὸν ἐκκλησίας of Didache xi. 11, explained by Harnack on lines of Eph 5³², cf. MGr μυστήριον = "sacrament," used of marriage : see G. F. Abbott in *The Nineteenth Century*, 1908, p. 653 ff., who shows that the modern wedding week in Macedonia fits most closely the Eleusinian Mysteries.
+
+## μυωπάζω.
+
+For a full discussion of this difficult word in 2 Pet 1⁹ see Mayor *Comm. ad l.*, where it is shown that the meaning is screw up the eyes in order to see, as a short-sighted man does, and consequently that μυωπάζω limits, rather than intensifies, the preceding τυφλός. Apart from the Petrine passage the only known instance of the verb in Greek literature is Ps. Dionys. *Eccl. Hier.* ii. 3, p. 219 (cited by Suicer), where after speaking of the Light which lighteth every man, he proceeds "if a man of his own free will closes his eyes to the light, still the light is there shining upon the soul μυωπαζούσῃ καὶ ἀποστρεφομένῃ (blinking and turning away)."
+
+## μώλωψ,
+
+found in the NT only in 1 Pet 2²⁴, is defined by Bengel (*ad l.*) as "*vibex, frequens in corpore servili*": cf. Sir 28¹⁷.
+
+## μῶμος.
+
+In 2 Pet 2¹³ this word is used in the "Biblical" sense of "blemish" (cf. Lev 21²¹). For the meaning "blame" "reproach," as in classical Greek (cf. also Sir 11²⁵, 18¹⁵) see *Kaibel* 948⁷ ᶠ· (Rom.)—
+
+> οὕνεκ᾿ ἐ[γὼ πι]λυντ[ᾶ]τα καὶ ἀγλαὸς ἤθεσι κόσμον δᾶ[κ]α καὶ ἐ[γ]ώμωμον πάντοθεν εἰρυσάμην,
+
+where ἐ[γ]ώμωμον = ἐκ μώμου (see Index). See *s.v.* ἄμωμος. Boisacq (pp. 57, 637 n.¹, 655) connects μῶμος with the Homeric ἀμύμων and with μιαίνω.
+
+## μωρολογία,
+
+"foolish talking" (Eph 5⁴): cf. Plut. *Mor.* 504 B οὕτως οὐ ψέγεται τὸ πίνειν, εἰ προσείη τῷ πίνειν τὸ σιωπᾶν· ἀλλ᾿ ἡ μωρολογία μέθην ποιεῖ τὴν οἰνωσιν.
+
+## μωρός.
+
+In the nursery acrostic P Tebt II. 278⁸⁶ (early i/A.D.) it is said of a lost garment—λέων ὁ ἄρας, μωρὸς <ὁ> ἀπολέσας, "a lion he was who took it, a fool who lost it" : cf. BGU I. 45³¹ (A.D. 203) ἐπῆλθεν αὐτῷ, ἐπαγωγὸν σὺν αὐ[τ]ῷ τὸν ἑαυτοῦ υἱὸν καὶ μωρ[ό]ν τινα. *Ib.* IV. 1046ⁱⁱ· ²² (ii/A.D.) Μάρων ἐπικαλ(ούμενος) μωρός shows the word used as a nickname, cf. the cognomen Brutus (Liv. i. 56. 8): so the diploma of club membership with reference to the boxer Herminus—P Lond 1178⁴¹ (A.D. 194) (= III. p. 217) γεινώσκετ[ε] ὄντα [ἡμῶν] συνοδείτ[ην ῾Ερμεῖνον, τὸν καὶ Μῶρόν, "know that we are adopting as member Herminus, also called Morus." The word is a Greek word, and it is

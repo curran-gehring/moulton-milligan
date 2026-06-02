@@ -1,0 +1,9 @@
+ξύλον   435   ξυράω
+
+## ξύλον
+
+γέμ[ι]σον αὐτὰ (τὰ κτήνη) βάκανον καὶ ξύλον, "load them (the animals) with cabbage and wood," P Giss I. 67⁹ (ii/A.D.) ξενικῶν ξύλων, "wood imported from abroad," P Tebt II. 304¹⁰ (A.D. 167–8) μετὰ ξύλων ἰσπηδῆσαι, "to rush in with staves," P Oxy I. 69³ (A.D. 190) ἴσως προσερείσαντας τῷ τόπῳ ξύλον, "probably using a log of wood as a battering-ram" (Edd.), *ib.* XIV. 1738⁶ (iii/A.D.) ξύλα σώματα, "logs," and P Ryl II. 236¹³ (A.D. 256) ἀνερχόμενα δὲ ξύλα ἀνακομισάτω εἰς τὴν οἰκίαν τοῦ εὐσχήμονος, "and when they (a team of four donkeys) come, let them bring up timber to the magistrate's house" (Edd.). Reference may also be made to the law of astynomy at Pergamum, *OGIS* 483¹⁸¹ (time of Trajan) μαστειγωθεὶς δὲ ἐν τῶι κύφωνι πληγαῖς ἑκατὸν δεδέσθω ἐν τῶι ξύλωι ἡμέρας δέκα, with the editor's note. For ξύλον, "a measure of length," = 3 cubits cf. P Ryl II. 64ⁱ·³ (iv/v A.D.), the introd. to P Oxy VII. 1053 (vi/vii A.D.), and *Archiv* iii. p. 439, and for the verb ξυλομετρέω see BGU I. 12²⁷ (A.D. 181–2) γ]εωμετροῦντος καὶ ξυλομετροῦντος. Other exx. of the diminutive ξυλάριον are P Oxy X. 1292¹² (*c.* A.D. 30), BGU III. 844¹⁵ (A.D. 83). In P Tebt II. 316⁹⁵ (A.D. 99) οἰκῶ δὲ ἐν τῷ ἐκτὸς τῇ (*l.* τῆς) ξυληρᾷ (*l.* -ᾶς?) the editors think the reference is probably to the "wood-market." MGr ξύλο, "wood."
+
+## ξυράω.
+
+In 1 Cor 11⁶ most editors accentuate ξυρᾶσθαι pres. mid. "to go shaven," but in view of the immediately preceding aor. κείρασθαι, it is probably better to read ξύρασθαι, aor. mid. of ξύρω, a form found in Plutarch (see Veitch *s.v.*): cf. WH *Notes²*, p. 172, Moulton *Gr.* ii. p. 200 f. For ξυρητής (not in LS), "one who shaves," see BGU II. 630ᵛ·¹⁰ (*c.* A.D. 200): ξύρησις, "baldness," is found in Isai 22¹². MGr ξ(ο)υρίζω.

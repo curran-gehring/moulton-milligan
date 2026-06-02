@@ -1,0 +1,31 @@
+ὀδύνη   439   οἶδα
+
+may be from the root of ἔδω (cf. *curae edaces* in Horace), or it may be connected with δύη (Boisacq, p. 685).
+
+## ὀδύνη.
+
+P Grenf I. 1² (ii/B.C.) ὀδύνη με ἔχει ὅταν ἀναμνησθῶ ὥς με κατεφίλει ἐπιβούλως μέλλων με καταλιμπάνειν.
+
+## ὀδυρμός.
+
+For the corresponding verb = "lament," "bewail," cf. P Thead 21¹⁵ (A.D. 318) ἀναγκαίως ἀνοσίῳ πράγμα (*l.* ἀνόσιον πράγμα) [ὁ]δυρόμενος, ἐπιδίδωμί σοι τάδε τὰ βιβλία, "driven by necessity and lamenting this impious act, I submit this petition to you," and Ramsay *East. Rom. Prov.* p. 144⁵ ἂν κὲ τὰ τέκνα τὸν ἐμὸν πότμον ὠδύροντο, "their children too bewailed my death." See also *Kaibel* 1003¹ φωνῇ δ' ὀδυ[ρτ]ὸς ἦν πάλαι μοι Μέμνονος.
+
+## ὄζω.
+
+With the use of this verb in Jn 11³⁹ (cf. Exod 8¹⁴) cf. PSI IV. 297³ (v/A.D. ?) δριμὺ ὄ[ζε]δομένου τοῦ σώματος, "the body emitting a pungent odour": for the form ὀδομένου see the editor's introduction. When word was brought to Athens at the death of Alexander, Demades denied the report, since, had it been true, the whole earth would long ago have been filled with the stench of the body—πάλαι γὰρ ἂν ὅλην ὄζειν νεκροῦ τὴν οἰκουμένην (Plut. *Phoc.* 22).
+
+## ὅθεν.
+
+"whence" of place, as in Mt 12⁴⁴ *al.*, may be illustrated from the interesting letter, P Lond 854³ (i/ii A.D. : cf. Deissmann *LAE* p. 162) (= III. p. 206), in which a traveller describes his visit to the spot—ὅθεν τ[υν]χάνει Νεῖλος ῥέων, "whence the Nile flows out." For the inferential ὅθεν, "wherefore," "on which account," as in Heb 2¹⁷, 1 Jn 2¹⁸, and in P Tor I. 1ⁱⁱ· ⁴ (B.C. 116) ὅθεν ἐν τῶι αὐτῶι ἔτει τοῖς ἐν τῆι Θηβαΐδι χρηματισταῖς ἐνέβαλον ἔντευξιν, BGU III. 731ⁱⁱ· ¹² (A.D. 180) ὅθεν ἐπιδίδωμι καὶ [ἀξιῶ] ἐν καταχωρισμῷ [γενέσθαι τάδε τὰ] βιβλείδια : similarly in the inscrr. from i/B.C. (Meisterhans *Gr.* p. 253). The meaning is little more than "when" in P Tebt I. 54⁷ (B.C. 86) κλήρου . . ὁρίμου σπαρῆναι, ὅθεν τῇ νυκτὶ τῇ φερούσηι εἰς τὴν κε τοῦ Φαῶφι, "the holding was ready for sowing, when on the night before the 25th of Phaophi" certain men invaded it, and in P Oxy I. 62 *verso*¹⁶ (iii/A.D.) ὅθεν = "where—ἵνα δυνηθῶμεν ὅθεν ἐὰν δέω τὴν ἐμβαλὴν ποιῆσαι διὰ τάχους, "so that we may be able to do the lading quickly at any point I may require" (Edd.). MGr ὅθε.
+
+## ὀθόνη.
+
+does not occur in the LXX, and in the NT is confined to Ac 10¹¹, 11⁵ : on the possibility that we have here the reminiscence of a medical phrase see Hobart p. 218 f. See also *Mart. Polyc.* xv.
+
+## ὀθόνιον.
+
+Wilcken *Ostr* i. p. 266 ff. has shown that by ὀθόνιον in Egypt we must understand fine linen stuff, both in its manufactured and in its unmanufactured state. Its manufacture was a government monopoly : cf. P Tebt I. 5⁶³ (B.C. 118) ἀφειᾶσ[ι] δὲ καὶ τοὺς ἐπιστάτας τῶν ἱερῶν καὶ τοὺς ἀρχιερεῖς καὶ ἱερ[εῖς τῶν] ὀφε[ι]λομένων πρός τε τὰ ἐπιστατικὰ καὶ τὰς προσημή[σεις τῶν] ὀθονίων ἕως τοῦ ῡ (ἔτους), "and they remit to the overseers of the temples and the chief priests and priests the arrears on account of both the tax for overseers and the values of woven cloths up to the 50th year" (Edd.): see the editors' note *ad l.* and P Rev L¹ˣˣˣᵛⁱⁱ⁻ᶜᶜⁱⁱ with the note on p. 175, also *OGIS* 90¹⁸ (Rosetta stone—B.C. 196) τῶν τ' εἰς τὸ βασιλικὸν συντελουμένων ἐν τοῖς ἱεροῖς βυσσίνων ὀθονίων ἀπέλυσεν τὰ δύο μέρη, *ib.*²⁹ τὰς τιμὰς τῶν μὴ συντετελεσμένων εἰς τὸ βασιλικὸν βυσσίνων ὀθ[ονί]ων. On the manufacture of ὀθόνιον (Suid. λεπτὸν ὕφασμα) see Otto *Priester* i. p. 300 f., and cf. the Zeno letter PSI VI. 599 (iii/B.C.), where mention is made of 3 slaves and 1 woman as engaged on the manufacture of each ὀθόνιον. The word ὀθονιοπώλης, "a linen-seller," is restored by Wilcken in P Leid K¹³ (B.C. 99) (= I. p. 32) : for ὀθονιακός, "a linen-merchant," see P Oxy VI. 933²³ (late ii/A.D.). With the use of ὀθόνιον in Jn 19⁴⁰ cf. P Par 53⁸ (B.C. 161) θὺ(= ὁ)νιον ἐγκομήτριν (= -ιον), *ib.*⁴² ἔδωκα Δημητρίῳ ὀθόνια β, and P Giss I. 68¹¹ (ii/A.D.) ὀθόνια εὔωνα, fine linen-wrappings for a mummy. Other exx. of the word are P Hib I. 67¹⁰ (B.C. 228) εἰς τιμὰς ὀθονίων τῶν [συντελ]ουμένων εἰς τὸ [βα]σ[ιλικὸν], P Eleph 27a.¹⁸ (iii/B.C.) ὀθονίων, P Petr I. 30(1)³ (mid. iii/B.C.) (= Witkowski², p. 5) where ὀθόνια is translated by the editor "sail-cloth" (cf. Ac 10¹¹, 11⁵, and Polyb. v. 89. 2), and the early Christian letter P Amh I. 3(a)ⁱⁱⁱ· ² (A.D. 250–285) ὠησάμενο[ι] τὰ ὀθόν[ια. In P Grenf I. 38¹⁴ (ii/i B.C.) βυσσίνων ὀθόνιον, ὁ. = "outward garment," "cloak" : cf. P Par 59⁸ (B.C. 160) (= Witkowski², p. 75) πέπρακα τὸ ὀθόνιον (δραχμῶν) φ καὶ τὸ ἱμάτιον (δραχμῶν) ⲡⲡ, and a list of clothes classified as ἱμάτια and ὀθόνια in P Oxy XIV. 1741 (early iv/A.D.). See also P Strass II. 91¹⁸ (B.C. 87?) ἀφείλοντο τὰ βύσσινα ὀθόνια τῶν θεῶν καὶ ἃ εἶχεν ἱμάτια, and for the dim. ὀθονίδιον see P Oxy XIV. 1679⁵ (iii/A.D.) τὰ κρόκινα ὀθονείδια τῆς θυγατρός σου, "the saffron clothes of your daughter" (Edd.). The word itself is of Semitic origin : Lewy *Fremdwörter*, p. 124 f., Thumb *Hellenismus*, p. 111.
+
+## οἶδα.
+
+The distinction between οἶδα, "know" absolutely, and γινώσκω, "come to know" (cf. Lightfoot on Gal 4⁹), cannot be pressed in Hellenistic Greek. For οἶδα in contexts which suggest full, accurate knowledge, we may cite PSI VI. 667⁶ (iii/B.C.) ἐγὼ δέ γε εἰδυῖα τοὺς σου τρόπους [ὅ]τι μισοπόνη(= η)ος εἶ, οὐ ποιῶ αὐτό, P Petr II. 11 (1)⁷ (iii/B.C.) (= *Selections*, p. 8) γράφε δ' ἡμῖν καὶ σύ, ἵνα εἰδῶμεν (1 Cor 2¹²) ἐν οἷς εἶ, καὶ μὴ ἀγωνιῶμεν, P Strass I. 93⁶ (B.C. 120) διασάφησον . . . ὅπως εἰδῶμεν, P Tebt I. 58⁵⁰ (B.C. 111) (= *Chrest.* I. p. 339) γράψας ὅπως εἰδῇς, καὶ σὺ ἀναγωνίατος ἴσθε, "I write this for your information ; do not have any anxiety" (Edd.), P Oxy IV. 745⁶ (c. A.D. 1) ἐρωτῶ οὖν σε μὴ ἄλλως ποιῆσαι, οἶδα δὲ ὅτι πάντα καλῶς ποιήσεις, "I ask you therefore not to do otherwise ; but I know that you will do everything well" (Edd.), and BGU I. 37⁷ (A.D. 50) (= *LAE*, p. 157) ὅρα οὖν μὴ αὐτὸν κατάσχῃς, οἶδας γὰρ πῶς ἑκάστης ὥρας χρήζωι, "see then that you do not detain him, for you know how I have need of him every hour" : cf. Rev 2² with Swete's note. See also the common asseveration in the Christian papyri οἶδεν γὰρ (ὁ) θεός, e.g. P Iand 11¹⁰ (iii/A.D.), P Strass I. 35¹⁴ (iv/v A.D.), P Oxy

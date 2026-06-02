@@ -1,0 +1,31 @@
+νομίμως   429   νομός
+
+*421*) Λοῦπ[ος] λαλήσας μετὰ τῶν νομικῶν εἶπεν κτλ. The term is also applied to a private notary, as in BGU I. 361ⁱⁱⁱ· ² (A.D. 184) ὁ νομικὸς ὁ τὴν οἰκονομίαν γράψας: and for the corresponding νομογράφος cf. P Fay 28¹⁵ (A.D. 150–1) (= *Selections*, p. 82) ἔγραψ[ε]ν ὑπὲρ αὐτῶν Ἀμμώνιος νομογ(ράφος). On the late variant νομικάριος for νομικός see P Oxy XII. 1416²¹ (*c*. A.D. 299) with the editors' note.
+
+## νομίμως.
+
+Epict. iii. 10. 8 ὁ θεός σοι λέγει ‘δός μοι ἀπόδειξιν, εἰ νομίμως ἤθλησας’ offers a good parallel to 2 Tim 2⁵ (see Sharp, p. 2). For the corresponding adj. cf. P Tebt II. 302²⁶ (A.D. 71–2) ἡμεῖν τοῖς νομίμοις ἱερεῦσι ἐτήρησεν [τὰς ἀρούρας, "he reserved the land for us, the legitimate priests" (Edd.), P Fay 124¹⁸ (ii/A.D.) ἄνευ νομίμων, "illegally," BGU IV. 1032¹⁰ (A.D. 173) ἐκ μὴ νομ[ί]μων γάμων, P Oxy IX. 1201¹⁸ (A.D. 258) τοῦ μέρους τοῦ διατάγματος τοῦ τοῖς νομίμοις κληρονόμοις τ[ὴ]ν διακατοχὴν διδόντος, "that portion of the edict which grants succession to the lawful heirs" (Ed.), BGU IV. 1074² (A.D. 275) νόμιμα καὶ φιλάνθ[ρ]ωπα, *OGIS* 56⁶⁶ (B.C. 237) συντελεῖν τὰ νόμιμα τῆι θεῶι, and the Christian sepulchral inscr. *Kaibel* 727⁶ νομίμοις δὲ θεοῦ παρεγείνατο πᾶσιν.
+
+## νόμισμα
+
+in its primary sense of *institutum*, anything sanctioned by usage, is in classical Greek almost confined to poetry (cf. Jebb *Antigone* 296). We can however supply an example in the Κοινή from the petition of Dionysia, P Oxy II. 237ᵛⁱⁱⁱ· ²² (A.D. 186), where reference is made to the fact τὰς Αἰγυπτιακὰς γυναῖκας κατὰ ἐγχώριον νόμιμα (*l.* νόμισμα) κατέχειν τὰ ὑπάρχοντα τῶν ἀνδρῶν διὰ τῶν γαμικῶν συνγραφῶν, "that Egyptian wives have by native Egyptian law a claim upon their husbands' property through their marriage contracts" (Edd.). It should be noted, however, that the reading is somewhat uncertain. With the more special sense of "coin" in Mt 22¹⁹ (cf. 1 Macc 15⁶) we may compare P Tebt II. 485 (ii/B.C.) ὃς δ' ἂν παρὰ ταῦτα ποιῆι τό τε ἀργυρικὸν νόμισμα καὶ τὸν ἀποτ[., P Grenf II. 77⁸ (iii/iv A.D.) (= *Selections*, p. 120) ἐν δραχμαῖς τριακοσίαις τεσσαράκοντα παλαιοῦ νομίσματος: see also the introd. to P Thead 33. For the form νόμιζμα see BGU I. 69⁶ (A.D. 120) ἀργυρίου σεβαστοῦ νομίζματος: cf. Deissmann *BS* p. 185.
+
+## νομοδιδάσκαλος,
+
+"a teacher of the law," is found *ter* in the NT, but does not seem to occur elsewhere except in eccles. writers: cf., however, νομοδιδάκτης in Plut. *Cato Major* xx. 4.
+
+## νομοθεσία.
+
+This classical word (found also in Philo), which in the NT is confined to Rom 9⁴, "the giving of the law," occurs in a royal petition of about A.D. 375, P Lips I. 35⁷ τῆς θείας ὑμῶν καὶ φιλανθρώπου νο[μ]οθ[εσ]ίας. Cf. *Syll* 790 (= ³ 1157)⁹³ (*c*. B.C. 100) διαπαραδιδόσ[θ]ω [δὲ τὸ ψήφισμα τόδε καὶ τοῖς] αἱρεθησομένοις μετὰ ταῦτα στρατηγοῖς [καὶ νομοφύ]λαξιν νομοθεσίας τάξιν ἔχον, *OGIS* 326²⁶ (time of Attalus II. Philadelphus, B.C. 159–138) καθὼς αὐτὸς ἐν τῆι νομοθεσίαι περὶ ἑκάστων δια[τέ]ταχεν.
+
+## νομοθετέω.
+
+An interesting ex. of this verb is found in a letter of remonstrance from the Senate of Antinoöpolis to the epistrategus Antonius Alexander, in which they vindicated the privilege bestowed on them by Hadrian to be exempt from public burdens outside their own city, P Oxy VIII. 1119¹⁶ (A.D. 254) θεὸς Ἀδριανὸς . . . . . . ἐνομοθέτησεν σαφῶς παρὰ νόμοις μὲν ἡμεῖν ἄρχειν καὶ λειτουργεῖν, πασῶν δὲ ἀπηλλάχθη τῶν παρ' ἄλλοις ἀρχῶν τε καὶ λειτουργιῶν, "the deified Hadrian clearly established the law that we should bear office and burdens nowhere but at home, and we were relieved of all offices and burdens elsewhere" (Ed.). For the pass., which alone occurs in the NT, see *OGIS* 329¹³ (mid. ii/B.C.) τὰ καλῶς καὶ δικαίως νενομοθετημένα ἡμῖν ὑπὸ τῶ[ν βα]σιλέων, *ib.* 493⁵⁶ (ii/A.D.) ταῦτα μὲν ὑμεῖν ὀρθῶς καὶ καλῶς . . νενομοθετήσθω.
+
+## νόμος.
+
+For the use of νόμος c. gen. obj. to denote a particular ordinance as in Rom 7² ἀπὸ τοῦ νόμου τοῦ ἀνδρός ("from that section of the statute-book which is headed 'The Husband,' the section which lays down his rights and duties" SH), cf. *Syll* 828 (= ³ 1198)¹⁴ (iii/A.D.) κα]τὰ τὸν νόμον τῶν ἐ[ρανισ]τῶν. See also P Rev Lˣˣᵛ· ¹⁵ (B.C. 259–8) *al.* where the various cross-references from one section to another are marked by the phrase κατὰ τὸν νόμον (cf. the editors' note, p. 91). Thieme (p. 30) illustrates the quasi-personification of ὁ νόμος in Jn 7⁵¹, Rom 3¹⁹, by *Magn* 92 a.¹¹ (ii/B.C. *ad init.*) πάντων συντελεσθέντων, ὧ[ν ὁ νόμος] συντάσσει, cf. b.¹⁶ πάντων συντελεσθέντων ὧν ὁ νόμος ἀγορεύει. The phrase ἐν νόμῳ γέγραπται is found in legal phraseology from iii/B.C. onwards, e.g. *Magn* 52³⁵ ὅ]σα καὶ τοῖς τὰ Πύθια ἐπαγγελλόν[τ]ε̣σσι[ν ἐν ν]όμῳ γέγραπται. For the expression νόμος βασιλικός in Jas 2⁸ see *s.v.* βασιλικός *ad fin.* The inscr. is reproduced in *OGIS* 483. In a remarkable epitaph from Apameia, *C. and B.* ii. p. 538 No. 399 *bis*, provision is made that the grave shall not be disturbed in the following terms—ἰς ὃ ἕτερος οὐ τεθῇ, εἰ δέ τις ἐπιτηδεύσι, τὸν νόμον οἶδεν [τ]ῶν Εἰουδέων. According to Ramsay, the reference must be not to the law of Moses, but to some agreement made with the city by the resident Jews for the better protection of their graves. For a detailed study of νόμος used qualitatively in the Pauline Epistles we may refer to Slaten *Qualitative Nouns*, p. 35 ff. Norden (*Agnostos Theos*, p. 11 n.²) points out how readily Paul's teaching in Rom 2¹⁴ ff. ὅταν γὰρ ἔθνη τὰ μὴ νόμον ἔχοντα φύσει τὰ τοῦ νόμου ποιῶσιν, οὗτοι κτλ. would be understood in view of the ἄγραφος νόμος of the Greeks (cf. R. Hirzel *Abh. d. Sächs. Ges. d. Wiss., phil.-hist. Kl.* xx. 1900). See also Ferguson *Legal Terms*, p. 64.
+
+## νομός.
+
+Although νομός as a *terminus technicus* for a political "department" or "district" of the country does not occur in the NT, we may cite here, owing to the interesting analogy which it presents to Lk 2¹⁻⁴, the rescript of the Prefect Gaius Vibius Maximus commanding all who happened to be out of their own homes to return home in view of the approaching census—τῆς κατ' οἰ[κίαν ἀπογραφῆς συ]νεστώ-[σης (or ἐ]νεστώ[σης, see *LAE* p. 268 n.⁵) ἀναγκαῖόν [ἐστιν
