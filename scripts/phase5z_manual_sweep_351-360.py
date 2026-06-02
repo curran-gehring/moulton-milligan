@@ -53,8 +53,18 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "state" / "run.sqlite"
 
-# d#745 corrected nt_references: fix 'Jn' prefix on 1:5, drop text-critical brackets
-D745_NT = ["Jn 12³⁵", "Jn 1⁵", "1 Th 5⁴", "Jn 8³ f.", "Ac 4¹³"]
+# Corrected JSON-array values for the citation/ref fields. The Codex field_diffs
+# for these store either bare single-citation strings or semicolon-joined refs
+# (NOT JSON arrays), and d#739's diff only carried the one changed citation — so
+# these must be set as explicit full JSON arrays, not blindly from reviewer_value
+# (a blind UPDATE = non-JSON column + dropped sibling citations). Full lists taken
+# from the archived parse JSON, with the intended fix applied.
+D739_PAPYRI = [  # κατακλίนω (e?): restore full list + add date on P Oxy 1088
+    "P Oxy VIII. 1088²⁹ (early i/A.D.)", "P Ryl II. 124²⁶ (i/A.D.)",
+    "Cagnat IV. 661²¹ (a will—A.D. 85)", "ib.⁵",
+]
+D745_NT = ["Jn 12³⁵", "Jn 1⁵", "1 Th 5⁴", "Jn 8³ f.", "Ac 4¹³"]  # καταλαμβάνω: fix Jn prefix, drop brackets
+D748_NT = ["Lk 9¹²", "Lk 19⁷", "Mt 5¹⁷"]  # καταλύω: fix dropped Lk prefix on 19⁷
 
 KEEP_PRODUCER = {
     743: "keep clean 'Jn 8⁸' (no '[Jn]' bracket — clean for verse-linking; pericope-adulterae marker stays in body)",
@@ -80,30 +90,33 @@ def main() -> int:
             )
             reverted += 1
 
-        # adopt-reviewer: d#739 (date), d#747 (body PART IV removal), d#748 (Lk prefix) -> reviewer_value
-        for did, note in {
-            739: "adopt reviewer: restore dropped date '(early i/A.D.)' on the P Oxy citation (as-written)",
-            747: "adopt reviewer: remove 'PART IV' running section-marker that bled into the body",
-            748: "adopt reviewer: restore book prefix '19⁷'->'Lk 19⁷' on the chained ref",
-        }.items():
-            d = con.execute("SELECT entry_id, field, reviewer_value, resolution FROM disagreements WHERE id=?", (did,)).fetchone()
+        # adopt-reviewer with EXPLICIT corrected JSON values (cols store JSON arrays;
+        # reviewer_value diffs are bare/partial strings so cannot be used raw).
+        # d#747 (body) is plain text so reviewer_value is used directly.
+        explicit = {
+            739: ("papyri_citations", json.dumps(D739_PAPYRI, ensure_ascii=False),
+                  "adopt reviewer (corrected full list): restore date '(early i/A.D.)' on P Oxy 1088²⁹; keep sibling citations"),
+            745: ("nt_references", json.dumps(D745_NT, ensure_ascii=False),
+                  "adopt reviewer (corrected): fix dropped book prefix '1⁵'->'Jn 1⁵'; drop text-critical brackets for clean verse-linking"),
+            748: ("nt_references", json.dumps(D748_NT, ensure_ascii=False),
+                  "adopt reviewer (corrected): restore dropped book prefix '19⁷'->'Lk 19⁷'"),
+        }
+        for did, (col, val, note) in explicit.items():
+            d = con.execute("SELECT entry_id, resolution FROM disagreements WHERE id=?", (did,)).fetchone()
             if not d or d["resolution"] is not None:
                 skipped += 1
                 continue
-            col = {"papyri_citations_raw": "papyri_citations", "nt_references_raw": "nt_references",
-                   "body_markdown": "body_markdown", "lemma_greek": "lemma_greek"}[d["field"]]
-            con.execute(f"UPDATE entries SET {col}=? WHERE id=?", (d["reviewer_value"], d["entry_id"]))
+            con.execute(f"UPDATE entries SET {col}=? WHERE id=?", (val, d["entry_id"]))
             con.execute("UPDATE disagreements SET resolution=?, resolution_by=?, resolved_at=? WHERE id=? AND resolution IS NULL",
                         (note, "manual:adopt-reviewer", now, did))
             adopted += 1
 
-        # adopt-reviewer custom: d#745 nt_refs corrected list
-        d = con.execute("SELECT entry_id, resolution FROM disagreements WHERE id=745").fetchone()
+        # d#747 body: plain-text column, reviewer_value used directly (remove 'PART IV' marker)
+        d = con.execute("SELECT entry_id, reviewer_value, resolution FROM disagreements WHERE id=747").fetchone()
         if d and d["resolution"] is None:
-            con.execute("UPDATE entries SET nt_references=? WHERE id=?",
-                        (json.dumps(D745_NT, ensure_ascii=False), d["entry_id"]))
-            con.execute("UPDATE disagreements SET resolution=?, resolution_by=?, resolved_at=? WHERE id=745 AND resolution IS NULL",
-                        ("adopt reviewer (corrected): fix dropped book prefix '1⁵'->'Jn 1⁵'; drop text-critical brackets for clean verse-linking",
+            con.execute("UPDATE entries SET body_markdown=? WHERE id=?", (d["reviewer_value"], d["entry_id"]))
+            con.execute("UPDATE disagreements SET resolution=?, resolution_by=?, resolved_at=? WHERE id=747 AND resolution IS NULL",
+                        ("adopt reviewer: remove 'PART IV' running section-marker that bled into the body",
                          "manual:adopt-reviewer", now))
             adopted += 1
 
