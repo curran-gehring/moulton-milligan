@@ -1,0 +1,31 @@
+ὁροθεσία   459   ὅς
+
+perfect condition" (Ed.)—⁹ ὀρνείθων τελείων τοκάδων ὀκτώ: cf. *P Oxy* XII. 1568 (A.D. 265) order to a poultry-dealer (ὀρνιθᾶς) to supply two hens and twenty eggs for a birthday festival—εἰς γενέσια Πανάρους τοκάδες· δύο . . . ᾠὰ εἴκοσι. MGr ὄρνιθα, ὀρνίθι, "hen."
+
+## ὁροθεσία.
+
+Ac 17²⁶ has hitherto been regarded as the only instance from Biblical or profane Greek of this compound = "boundary" (cf. Winer-Schmiedel *Gr.* p. 22), but it is now found in a closely allied sense in *Priene* 42ⁱⁱ·⁸ (after B.C. 133) δικαίαν εἶναι ἔκριναν τὴν] Ῥωδίων κρίσιν τε καὶ ὁροθεσίαν, "ils décidèrent que le jugement des Rhodiens et leur délimitation étaient équitables" (Fouillac *Recherches*, p. 37).
+
+## ὄρος.
+
+That ὄρος is used in the papyri to denote the "desert" is seen in the reference in *P Tebt* II. 383⁶¹ (A.D. 46) to the keepers of the registry-offices of Tebtunis and Kerkesucha-on-desert—τῶν πρὸς γρ(αφείῳ) Τεβτ(ύνεως) καὶ Κερκεσού-χ(ων) "Ὄρους. Cf. also the following passages showing that the "desert" was the regular place of burial—*P Oxy* II. 274²⁷ (A.D. 89–97) ὑπάρχει δὲ αὐτῶι ἐπὶ τοῦ ἀπὸ λιβὸς μ[. . . . . .] ὄρους ἥμισυ μέρος τάφου, *P Ryl* II. 153⁵ (A.D. 138–161) ἐν ταῖς ἐπ[ισ]ήμοις τοῦ ὄρους ἡμέραις, "on the high days of the cemeteries" (Edd.), and *P Grenf* II. 77²² (iii/iv A.D.) (= *Selections*, p. 121), a letter regarding funeral expenses, which include a *pourboire* to a νεκροτάφος for conveying a body εἰς τὸ ὄρος for burial. According to Bell (*P Lond* IV. p. xvii.) ὄρος came to be used as a synonym of μοναστήριον (= "desert-monastery"). The ordinary meaning "mountain," which survives in MGr, is seen in *P Leid* Wˣⁱˣ·³⁶ (ii/iii A.D.) (= II. p. 149) ἡ (*l.* αἱ) πέτραι, κ(αὶ) τὰ ὄρη, κ(αὶ) ἡ θάλασσα κτλ. For the uncontracted gen. pl. ὁρέων, as in Rev 6¹⁵, cf. Aristeas 119 ἐκ τῶν παρακειμένων ὁρέων τῆς Ἀραβίας, and see Schweizer *Perg.* p. 153. Cf. ὁρινός *s.v.* ὀρεινός.
+
+## ὀρύσσω.
+
+*P Petr* III. 46(4)⁴ (Ptol.) τοῖς τὸ θεμέλιον ὀρύξασι ε̄, "to those who dug the foundation, 5 (drachmae)," *BGU* IV. 1121²⁵ (B.C. 5) τὰς πλαγίους δι]ώρυγας παρα[θάψειν καὶ] ὀρύξειν, *P Lond* 46³³³ (a spell—iv/A.D.) (= I. p. 75) ὄρυξον ἐπὶ δ̄ δακτύλους, and *P Oxy* I. 121⁶ (iii/A.D.) αὐτὸς ὁ Φανείας ἀνανκασέτω (*l.* ἀναγκασάτω) αὐτὰς ὀρυγῆνε (*l.* ὀρυγῆναι, the late 2nd aor. pass.), "let Phanias himself have them (acanthus trees) dug round." This last document shows also the compd. περιορύσσω—⁶ ἤδη ἐν τῇ σήμερον περειορυγήτωσαν, "let them be dug round to-day." From the inscrr. we may cite *OGIS* 483⁶² (ii/A.D.) ἐάν τινες ἐν ταῖς ὁδοῖς χοῦν ὀρύσσωσιν . . . κωλυέτωσαν αὐτοὺς οἱ ἀμφοδάρχαι.
+
+## ὀρφανός.
+
+In *P Petr* II. 39(*e*) (Ptol.) we have what appears to be a list of taxes paid by orphans, and beside one of the names the note has been scribbled—(7)¹³ οὐκ ἔστιν ὀρφανὸς ἀλλὰ υἱὸς Δαιφάντου, "he is not an orphan, but the son of Daiphantos." The word (= Lat. *orbus*) is common in petitions, e.g. *P Flor* III. 319⁷ (A.D. 132–7) τοῦ δὲ [ἀ]δελφιδοῦ μου ὀρφανοῦ ὄντος, *P Tebt* II. 326² (*c.* A.D. 266) ὑπὲρ θυγατρὸς ὀρφανῆς καὶ καταδεοῦς τὴν ἡλικίαν, δέσποτα ἡγεμών, ἱκετηρίαν τιθεμένη ἐπὶ τὸ σὸν μέγεθος καταφεύγω, "on behalf of my orphan daughter who is under age, my lord praefect, I make this supplication and take refuge in your power" (Edd.), *P Thead* 19⁴ ᶠᶠ· (iv/A.D.) τοὺς ἀδικουμένους ὀρφανο[ύς], ἡγεμὼν δέσποτα, ἐκδικεῖν εἴωθεν τὸ μεγαλεῖον τὸ σόν· ἑαυτὸς το[ί]νυν ὀρφανὸς καταλελιμμένης (*l.* -ένος) στερηθεὶς ἑκατέρων τῶν γονέων οὐκ ὀλίγ[ον] ἀδικοῦμαι κτλ., and *P Lips* I. 41² (end iv/A.D.) ἀμφοῖν τοῖν γονέοιν ὀρφανή. See also *P Magd* 13¹⁴ (B.C. 217) with the editor's note, and *BGU* IV. 1209¹⁴ (B.C. 23) ὡς ἂν λάβῃς τὸ γράμμα ἐμβαλοῦ (*sc.* εἰς πλοῖον) τόν τε ὀρφανὸν καὶ τὴν τούτου μητέρα. The more general sense of the word may be illustrated from MGr as in the distich, Abbott *Songs*, p. 226 No. 50, where a lover mourns that his mistress is going away leaving him friendless—καί μ' ἀφίνει ὀρφανό', the same combination as in Jn 14¹⁸: see also Epict. iii. 24. 14 ὡς ὀρφανοὺς ἀφιείς, and *ib.* 15 οὐδείς ἐστιν ἄνθρωπος ὀρφανός, ἀλλὰ πάντων ἀεὶ καὶ διηνεκῶς ὁ πατήρ ἐστιν ὁ κηδόμενος (cited by Bauer *HZNT ad* Jn 16³²). For the form ὀρφανικός see *P Grenf* I. 17¹⁷ (*c.* B.C. 147 or 136), *P Oxy* VI. 888⁴ (iii/iv A.D.), and for the subst. ὀρφάνεια cf. *P Par* 39¹¹ (B.C. 161) ἐμβλέψαντες . . . εἰς τὴν ἐκείνων ὀρφάνειαν, and *P Fay* 94⁵ (A.D. 222–235) a formal release given by an orphan girl to her late guardian—τῷ γε]νομένῳ τῆς ὀρφανείας αὐτῆς ἐπιτρόπῳ.
+
+## ὀρχέομαι.
+
+For the subst. ὀρχηστής cf. *P Strass* II. 92⁶ (B.C. 244–3) Ὀνόρις [ὀρ]χηστής, *P Oxy* III. 526⁹ (ii/A.D.) ἀναβέ(=αἰ)νω σὺν [τῷ ὀρ]χηστῇ, and for ὀρχήστρια, "dancing-girl," cf. *P Grenf* II. 67 (A.D. 237) (= *Selections*, p. 108), a contract for the services of two dancing-girls for an approaching festival—⁴ ᶠᶠ· βούλομαι [ἐ]κλαβεῖν παρὰ σοῦ Τ[.]σαῖν [ὀρ]χήστριαν σὺν ἑτέρᾳ μιᾷ [λ]ει[τουρ]γήσιν ἡμῖν κτλ. (cf. Mt 14⁶). For references to music and dancing in the papyri see a paper in *SAM* iii. p. 117 ff.
+
+## ὅς
+
+is found as a demonstrative pronoun in *P Ryl* II. 144¹⁴ (complaint of assault—A.D. 38) ὃς δὲ ἐκ τοῦ ἐναντίου ἄλογον ἀηδίαν μοι ἐπιχειρήσας παρεχρήσατό μοι πολλὰ καὶ ἄσχημα, "whereupon he opposing me made a brutal and odious attack upon me and subjected me to much shameful mishandling" (Edd.): cf. Mk 15²³, Jn 5¹¹. For ὃς μέν . . . ὃς δέ, "the one . . the other," as in Mt 21³⁵ *al.*, see *P Oxy* IX. 1189⁷ (*c.* A.D. 117) ἐπιστολὰς δύο ἃς ἔγραψα ἣν μὲν σοὶ ἣν δὲ Σαβείνῳ, and for ὃς δέ *solitarium* see *PSI* IV. 313⁸ (iii/iv A.D.) with the editor's note.
+
+"Ὃς ἄν (ἐάν) c. conj. = "whosoever" may be illustrated by *P Par* 46²² (B.C. 153) (= Witkowski², p. 87). περὶ ὧν ἂν βούληι γράφε, *P Grenf* I. 30⁶ (B.C. 103) ἐ[φ]' οἷς ἂν οὖν ὑμῶν προσδέωνται, *P Oxy* IV. 743³³ (B.C. 2) ἐν οἷς ἐὰν σοῦ προσδέηται, ³⁹ ὑπὲρ ὧν ἐὰν θέλῃς. For the comparative usage of ὃς ἄν and ὃς ἐάν, see Thackeray *Gr.* i. p. 68, cited *s.v.* ἄν. The relative preceding its "antecedent" is common, e.g. *P Amh* II. 35¹⁶ (B.C. 132) τῶν ἐκφορίων ἧς γεωργοῦσι ἱερᾶς γῆς Σοκνοπαίου θεοῦ μεγάλου, "the rents of the land sacred to the great god Soknopaeus which they cultivate" (Edd.).
+
+Pleonastic ὅς is seen in *P Ryl* II. 160³ (A.D. 28–9) ὃν

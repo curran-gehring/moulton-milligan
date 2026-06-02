@@ -1,0 +1,30 @@
+ὀργίζομαι   456   ὀρθοτομέω
+
+See also Aristeas 254 γινώσκειν δὲ δεῖ, διότι θεὸς τὸν πάντα κόσμον διοικεῖ μετ᾽ εὐμενείας καὶ χωρὶς ὀργῆς ἁπάσης.   In Rom 12¹⁹ the subst. should be personified, ‘‘Make room for the Wrath (the Divine Retribution which alone can do justice on wrong)’’: cf. 5⁹, 1 Thess 2¹⁶.
+
+## ὀργίζομαι,
+‘‘am angry,’’ is seen in P Par 63ᵛⁱⁱⁱ· ³ (B.C. 165) ἐγὼ τὰ μέγιστα ἠγνωμονημένος ὑπό σου καὶ μεμαθευκὼς ἔτι πρότερον τοῖς μὲν ἀδικήμασιν ἀπαρακαλύπτως [ὀ]ργίζεσθαι καὶ δυσχεραίνειν κτλ., and *Syll* 804 (= ³ 1170)⁵ (ii/A.D.) κατὰ δὴ τὸν πλοῦν ἐν Αἰγείνῃ ἐκέλευσέν με μὴ πολλὰ ὀργίζεσθαι: cf. also the restoration in P Iand 16² (v/vi A.D.) ὁ λαμπρ-(ότατος) κύριος [ὑμῶν] ὀρ[γίζ]ει.   On the ‘ Western ’ reading ὀργισθείς Mk 1⁴¹ see Nestle *Philologia Sacra* (Berlin 1896), p. 26, but cf. Deissmann *Sprachliche Erforschung*, p. 30 f. MGr ὀργισμένος, ‘‘angry,’’ ‘‘furious.’’
+
+## ὀργίλος.
+This NT ἅπ. εἰρ. (Tit 1⁷) = ‘‘ prone to anger ’’ (*iracundus*) occurs in Didache iii. 2 μὴ γίνου ὀργίλος· ὁδηγεῖ γὰρ ἡ ὀργὴ πρὸς τὸν φόνον.
+
+## ὀργυιά.
+On the accent of ὀργυιά, ‘‘fathom’’ (Ac 27²⁸), see Winer-Schmiedel *Gr.* p. 72.   The word is found in the fragment of a metrological work, P Oxy IV. 669³⁹ (later than A.D. 287) οἱ δ̄ (πήχεις) ὀργυιά, ὀ[ργυιὰ] δέ ἐστιν ἡ διάστασις τῶν χιρῶ[ν, ‘‘4 cubits an ὀργυιά, which is the distance of the outstretched hands ’’ (Edd.): cf. *Archiv* iii. p. 440.
+
+## ὀρέγομαι
+is found *ter* in the NT (1 Tim 3¹, 6¹⁰, Heb 11¹⁶) in the sense ‘‘seek for,’’ ‘‘long for,’’ but in *Kaibel* 448⁴ οὖ τινος [αὐ]τῷ αὐτοκασιγνήτων χεῖρας ὀρεξα[μέ]νου, the concluding phrase is = βοηθήσαντος, ‘‘having come to the assistance of,’’ rather than ‘‘ having sought assistance from ’’: see Herwerden *Lex. s.v.*, and cf. P Oxy VI. 902¹¹ (*c.* A.D. 465) ἐπὶ τοίνυν οἱ ἔκδικοι ἐπενοήθησαν ἐν ταῖς πόλεσειν πρὸ[ς] τῷ βοήθειαν ὀρέξαι τοῖς ἀδικουμένοις κτλ., ‘‘therefore, since advocates have been devised in the cities for the purpose of lending assistance to the oppressed,’’ etc.   In 1 Tim 3¹ Field (*Notes*, p. 204) prefers the translation ‘‘ aspires to ’’ rather than ‘‘ seeketh ’’ (RV), to bring out that the idea of *ambitious seeking* does not necessarily belong to the word itself or to its connexion: see his exx. from late Greek, and add Polyb. v. 104. 7 πραγμάτων (= *imperii*) ὀρέγεται (cited by Parry *ad* 1 Tim 3¹).   MGr ρέγομαι.
+
+## ὀρεινός.
+The itacistic form ὀρινός, which is read by WH in Lk 1³⁹, ⁶⁵ is amply attested in the papyri, where the word is regularly used to describe all canals on the border of the desert, e.g. P Strass I. 17⁴ (A.D. 124) ἐν ὀρινῇ (*sc.* διώρυχι) Πατσώντ(εως) Βακχ(ιάδος), ‘‘on the desert canal of Patsontis at Bacchias ’’ (see the editor's Introd.).   See also Aristeas 107, 118, and cf. *s.v.* ὄρος.
+
+## ὄρεξις,
+‘‘strong desire,’’ has a bad sense in the only passage (Rom 1²⁷) in which it is found in the NT, but Matheson (*Epictetus* i. p. 31 f.) has shown that in Stoic philosophy the word is neutral, and that if in certain passages (e.g. i. 4. 1, iii. 22. 13) Epictetus speaks of the necessity of removing or postponing it altogether, that is because he is addressing those who are still under discipline, learning how to avoid what is evil, but not yet fully attracted towards what is good.   See also Epict. ii. 13. 7, iii. 9. 18 and 22 ; and *CR* xxxi. (1917), p. 172 f.
+
+## ὀρθοποδέω.
+This verb used metaphorically ‘‘make a straight course ’’ is found only in Gal 2¹⁴ and in later eccles. writers, who have borrowed its use from that passage.   Westcott (*St. Paul and Justification*, p. 27) thinks that the verb may have been a word of Antioch, or of Tarsus, and that it has a kind of ‘‘sporting ’’ ring about it.   Burton *ad* Gal *l.c.* cites ὀρθόποδες βαίνοντες from Nicander *Al.* 419.
+
+## ὀρθός
+is used of ‘‘standing ’’ hay in P Lond 1165² (ii/A.D.) (= III. p. 191) [χόρτ]ο χλωροῦ ὀρθοῦ: cf. *ib.* 755 *verso* ² (iv/A.D.) (= III. p. 221) where ‘‘standing ’’ columns (ἑστῶτες corrected from ὀρθοί) are contrasted with those that have fallen (χαμαὶ κείμενοι).   In *Syll* 540¹⁸ (B.C. 175–1) ποιῶν ὀρθὰ πάντα πρὸς κανόνα διηνεκῆ, we have the meaning ‘‘straight.’’   The metaphorical use of the adj. is seen in PSI V. 549⁸ (B.C. 42–1) ὀρθὴ στήσομαι ἀπέναντί σου, with reference to the attitude of a servant to her mistress, and BGU I. 248⁹ (i/A.D.: see *ib.* II. 594 note) διὰ γὰρ τὴν [σ]ὴ[ν] πρόν[ο]ια[ν] ἐν ὀρθῶι μέλλει γείνεσθαι (*l.* γίνεσθαι): cf. P Oxy III. 490¹⁶ (A.D. 124) καὶ ἔστιν μου ἡ σφραγὶς Ἁρποχράτου ὀρθοῦ, the signature of a witness, *Kaibel* 397¹ μαρτύριον ὀρθοῦ βίου, and *OGIS* 329¹⁰ (mid. ii/B.C.) ἀπ᾽ ὀρθῆς, ‘‘from the right’’ (way): Heb 12¹³.   MGr ὀρθός (ὀρτός in Eastern dialects: Thumb *Handbook* p. 18), ‘‘straight,’’ ‘‘correct ’’ ; ‘‘steep.’’   The last meaning recalls the cognate Lat. *arduus*: ὀρθός, however, had originally an initial, and probably also a medial, digamma (* Ϝορθός, * ϜορθϜός) (Boisacq, p. 711).
+
+## ὀρθοτομέω.
+The meaning of this NT ἅπ. εἰρ. (2 Tim 2¹⁵: cf. Prov 3⁶, 11⁵) is by no means clear, but on the analogy of the similarly formed καινοτομέω, ‘‘make a new or strange assertion,’’ it seems best to lay the main stress on the adj. and to understand by ὀρθοτομέω τὸν λόγον, ‘‘teach the word aright.’’   Sophocles (*Lex. s.v.*) renders ‘‘expound soundly ’’: cf. the use of ὀρθοτομία = ‘‘orthodoxy ’’ in eccles. writers.   Parry (*ad* 2 Tim *l.c.*) adopts the suggestion that the metaphor may be derived not from road making (τέμνειν ὁδόν), but from the mason's cutting stones fair and straight to fit into their places in a building, and compares the use of their simplex subst. in *Syll* 587¹⁷ (B.C. 329–8) μισθωτεῖ τῆς τομῆς τῶν λίθων, and ²² τομὴ καὶ κομιδὴ καὶ θέσις τοῦ λίθου.   A different turn is given to the verb by Paspati, who translates ‘‘preach fearlessly ’’ on the ground
