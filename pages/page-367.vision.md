@@ -1,0 +1,31 @@
+*κατηγορέω* 337 *κατισχύω*
+
+97¹⁷ (A.D. 180–192) οὐ κατασχε[θ]ήσομαι τῇ [ὑ]ποσχέσει, "I will not be bound by my promise" (Edd.), *P Oxy* III. 532²³ (ii/A.D.) ὑπὸ κακοῦ συνειδότος κατεχόμενος, "being oppressed by an evil conscience" (Edd.), *P Ryl* II. 117¹³ (A.D. 269) μὴ κατέχεσθαι τοῖς ἐκείνων ὀφε[ιλήμασι]ν, "not be held responsible for their debts" (Edd.), and *PSI* IV. 299³ (iii/A.D.) κατεσχέθην νόσῳ, "I was held fast by disease" (cf. [Jn] 5⁴). In *Michel* 1325¹ (iv–ii/B.C.) the verb is used of binding by a curse—Μανῆν καταδῶ καὶ κατέχω. (4) The verb is also = "lay hands on," "impress" for some public duty, as in *P Giss* I. 11⁹ (A.D. 118) κατεσχέτ(= θ)ην ὑπὸ τοῦ ἐπιτρόπου ὥστε εἱερατεύειν τοῦ χειρεισμοῦ τῶν κυβερνητ(ῶν), and *P Lond* 342⁷ (A.D. 185) (= II. p. 174) where a charge is laid against one Sempronius of attempting to lay hands on the relatives of the petitioner as boat-overseers—προφάσι τοῦ κατέχειν ἐπιπλόους τοὺς συνγενεῖς μου. (5) There still remains the common NT meaning "hold back," "detain," "restrain," as e.g. in Lk 4⁴², Rom 1¹⁸, 2 Thess 2⁶ᶠ·, Philem ¹³. The following may serve as illustrations—*PSI* V. 525⁹ (iii/B.C.) where a man complains that having been "detained" (κατασχεθείς) in town, he has spent his money, *BGU* IV. 1205²⁷ (B.C. 28) μὴι κατάσχῃς Ἀχειλλέα ἀλλὰ δὸς αὐτῶι τὰ δύο πλοῖα διὰ τὸ πορεύεισθαι εἰς Ἑρμοῦ πόλιν, *ib.* I. 37⁶ (A.D. 50) (as amended p. 353) ὅρα οὖν μὴ αὐτὸν κατάσχῃς· οἶδας γὰρ πῶς αὐτοῦ ἑκάστης ὥρας χρήζωι, *P Fay* 109¹¹ (early i/A.D.) μὴ κατάσχῃς Κλέωνα καὶ συνπροσ[γενοῦ Κ]λέωνι, "don't keep Cleon waiting, but go and meet him" (Edd.), *P Giss* I. 70³ (ii/A.D.) ἡ ἀναγραφὴ Τετραγώνου κατέσχεν ἡμ[ᾶς] μέχρι ὥρας ἕκτης, *P Oxy* III. 527⁷ (ii/iii A.D.) where a man writes to his brother telling him to send and fetch a certain fuller if he requires his services—ὅρα μὴ ἀμελήσῃς, ἐπεὶ γὰρ ἐγὼ αὐτὸν κατέχω, "do not neglect this, as I am keeping him" (Edd.), and *P Leid* Wˣᵛⁱⁱⁱ·¹⁰ (ii/iii A.D.) κατάσχες τὰ ὄμματα τῶν ἀντιδικούντων ἐμοὶ πάντων. Reference may also be made, in view of its intrinsic interest, to the heathen (*Archiv* ii. p. 173) charm which Crum prints in his *Coptic Ostraca* p. 4, No. 522: it begins—Κρόνος ὁ κατέχων τὸν θυμὸν ὅλον τῶν ἀνθρώπων, κάτεχε τὸν θυμὸν Ὧρι κτλ. In some of the southern islands of Greece κατέχω is still used, as in Plato, = καταλαμβάνω, in the sense of "know."
+
+## κατηγορέω.
+
+For this verb, which has generally a judicial connotation in the NT, cf. *P Lond* 41¹⁰ (B.C. 161) (= I. p. 28) ὁ δὲ βουκόλος ἐλθὼν κ[α]τηγόρησεν αὐτὰς λέγων κτλ., *ib.* 893¹² (A.D. 40) (as published in *P Ryl* II. p. 381) Ζηνόδ[ο]το(ς) [π]ολλὰ κατηγόρησεν ἐπὶ Φόλῳ, "Zenodotus made many charges before Pholus," *P Oxy* II. 237ᵛⁱⁱⁱ·²¹ (A.D. 186) εἰ δὲ μή, πάντες ἐροῦσιν ὅτι κατηγορῶ, "otherwise every one will say that I am your accuser" (Edd.), and from the inscrr. *OGIS* 218⁹⁵ (iii/B.C.) ἐὰν δὲ χρήματα ἐ[κ]τείσηι, διπλάσια ἀποτινέ[τ]ω ὁ κατηγορήσ[ας, *Syll* 356⁸ (c. B.C. 6) τὸ ψήφισμα ἀποδόντες κατηγόρησαν Εὐβούλου . . τεθνεῶτος ἤδη. For the verbal ἀκατηγόρητος see the sepulchral inscr. *Preisigke* 343 Ἀντωνεῖνε συνεξούσιε . . . ἀκατηγόρητε ὁλόκαλε φιλάνθρωπε κτλ.
+
+## κατηγορία.
+
+*P Oxy* II. 237ᵛⁱⁱⁱ·⁷ (A.D. 186) τότ' ἐὰν θαρρῇ τοῖς τῆς κατηγορίας ἐλέγχοις, τὸν μείζονα ἀγῶνα ε[ἰ]σελεύσεται, "if he has confidence in the proofs of his accusation, he shall enter upon the more serious law-suit" (Edd.), *Michel* 458²¹ (c. B.C. 165) πολλὰς καὶ ψευδεῖς κατηγορίας πο[ιησαμένων τινῶν.
+
+## κατήγορος.
+
+*P Tor* I. 1ᵛⁱⁱⁱ·¹² (B.C. 116) ἐμφανιστοῦ καὶ κατηγόρου, "delatore ac accusatore" (Ed.), *P Lond* 359⁹ (i/ii A.D.) (= II. p. 150) ἓν μὲν οὖν τῷ κατηγόρῳ, "one word to the prosecutor," *P Oxy* III. 472³² (c. A.D. 130) φαμὲν τοῦτο [πᾶ]ν μηδὲν εἶναι πρὸς τὸν κατήγορον, "we assert that all this has nothing to do with the plaintiff" (Edd.), *P Flor* I. 6⁶ (A.D. 210) δημοσίου κατηγόρου, *Syll* 316¹⁷ (ii/B.C.) πα]ρασχομένων τῶν κατηγόρων ἀληθινὰς ἀποδείξεις, *OGIS* 669³⁹ (i/A.D.) μηκέτι ἐξεῖναι τούτωι εἰσαγγέλλειν κατηγόρωι μηδὲ εἰς κρίσιν ἄγεσθαι.
+
+## κατήγωρ,
+
+which in the NT is confined to Rev 12¹⁰, occurs in the magical papyrus *P Lond* 124²⁵ (iv/v A.D.) (= I. p. 122) a charm effective against all ills—ποιεῖ γὰρ πρὸς ἐχθροὺς καὶ κατήγορας καὶ λῃστῶν καὶ φόβους καὶ φαντασμοὺς ὀνείρων, "for it works against enemies and accusers and robbers and terrors and dream-spectres": see Deissmann *LAE* p. 90 f., where it is argued that the word is not a Heb. adaptation of κατήγορος (so W Schm *Gr.* p. 85), but a Greek "vulgarism," formed in the same way as ῥήτωρ. Cf. also Thumb *Hellen.* p. 126, Radermacher *Gr.* p. 15, Moulton *Gr.* ii. § 54.
+
+## κατήφεια.
+
+In *P Oxy* III. 471⁹² (ii/A.D.) τί οὖν ὁ κατηφὴς σὺ καὶ ὑπεραύ[σ]τηρος οὐκ ἐκώλυες; the context suggests that κατηφής = "with eyes cast down for shame," and the same reference to the *outward* expression of the countenance underlies the only occurrence of the subst. in the NT, Jas 4⁹, where it should be rendered "gloominess" rather than "heaviness" (AV, RV). See also the citations in Field *Notes*, p. 238, e.g. Charit. Aphrod. vi. 8: πρὸς δὲ τὴν φήμην κατήφεια πᾶσαν ἔσχε Βαβυλῶνα (these tidings cast a gloom over the whole city).
+
+## κατηχέω
+
+is used of legal "instruction" in *P Strass* I. 41³⁷ (A.D. 250) ἐμὲ οὐδέποτε κατήχησεν ("mich hat sie in keiner Weise überzeugt" Ed.)—an advocate speaks. Cf. the use of περιηχέω in *P Oxy* VIII. 1119⁷ (A.D. 254) αὐτοί τε εὐθέως περιηχηθέντες, "and we immediately on receiving information of it" (Ed.). With reference to the application of κατηχημένος to Apollos in Ac 18²⁵, Blass (*Philology of the Gospels*, p. 31) argues that this does not necessarily imply that Apollos was wholly dependent upon oral instruction. Even as early as A.D. 50 he may have been in possession in Egypt of a written Gospel, not improbably that of Mark—"let κατηχεῖσθαι be employed of hearing even in the passage of the Acts: the book will still be there."
+
+## κατισχύω.
+
+This verb, which is very common in the LXX and occurs *ter* in the NT (Mt 16¹⁸, Lk 21³⁶, 23²³), is construed with the acc. in *P Leid* Wˣᵛⁱⁱⁱ·³ (ii/iii A.D.) οὐ κατισχύσει με ἅπας
