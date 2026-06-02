@@ -1,0 +1,31 @@
+λόγχη — 380 — Λουκᾶς
+
+## λόγχη.
+
+P Lond 191¹² (inventory of furniture—A.D. 103–117) (= II. p. 265) λόγχαι ἐννέα. In an account of cures at the Asclepieium at Epidaurus, *Syll* 802⁹⁵ ᶠᶠ· (iii/B.C.), we find the following—Εὔιππος λόγχαν ἔτη ἐφόρησε ἓξ ἐν τᾶι γνάθωι· ἐγκοιταθέντος δ' (α)ὐτοῦ ἐξελὼν τὰν λ(ό)γχαν ὁ θεὸς εἰς τὰς χῆράς οἱ ἔδωκε. ἁμέρας δὲ γενομένας ὑγιὴς ἐξῆρπε, τὰν λόγχαν ἐν ταῖς χερσὶν ἔχων· cf. *ib.* 803⁶⁵ (iii/B.C.) [On *Incubation or the cure of disease in pagan temples and Christian churches*, see Mary Hamilton's essay with that title, London, 1906.]
+
+## λοιδορέω.
+
+P Petr III. 21 (*g*)¹⁹ (iii/B.C.) ἐλοιδόρησας φαμένη με ἠρηκέναι, BGU III. 1007³ (iii/B.C.) ἐλοιδόρουν με ἐπὶ πλεο[ν?, P Tebt I. 44¹⁶ (B.C. 114) (= *Chrest.* I. p. 148) ἐλοιδ[όρησέν με] καὶ ἀσχημ[ό]νει, P Oxy II. 237ᵛⁱ·²¹ (A.D. 186) ἐπὶ φθόνῳ δὲ μόνον [λο]ιδορούμενος καὶ πάσχων πάσχων ἀπ' ἐμοῦ, and from the inscr. *Syll* 737⁷⁵ ᶠᶠ· (c. A.D. 175) ἐὰν . . εὑρεθῇ τις . . ὑβρίζων ἢ λοιδωρῶν τινα, ὁ μὲν λοιδορηθεὶς ἢ ὑβρισθεὶς παραιτανέτω δύο ἐκ τῶν ἰοβάκχων ἐνόρκους ὅτι ἤκουσαν ὑβριζόμενον ἢ λοιδορούμενον, καὶ ὁ ὑβρίσας ἢ λοιδορήσας ἀποτιν[ύ]τω τῷ κοινῷ λεπτοῦ δρ(αχμὰς) κε̄. To show the strong character of the word, we may cite Calvin on 1 Cor 4¹³: "Λοιδορία is a harsher railing, which not only rebukes a man, but also sharply bites him, and stamps him with open contumely. Hence λοιδορεῖν is to wound man as with an accursed sting."
+
+## λοιδορία.
+
+P Petr II. 18(1)⁸ (B.C. 246) λο]ιδορίας, "abusive action," PSI II. 222¹⁴ (iii/A.D.) μεθ' ὕβρεως καὶ λοιδο[ρι]ῶν.
+
+## λοίδορος.
+
+For this adj., which in the NT is confined to 1 Cor 5¹¹, 6¹⁰, we may cite *Cagnat* I. 307³ (Rome), where a certain Menophilus is described as—οὐδένα λυπήσας, οὐ λοίδορα ῥήματα πέμψας. Cf. also *Test. xii. patr.* Benj. v. 4 ἐὰν γὰρ ὑβρίσει ἄνδρα ὅσιον μετανοεῖ, ἐλεεῖ γὰρ ὁ ὅσιος τὸν λοίδωρον καὶ σιωπᾷ, "for if any one does violence to a holy man, he repenteth ; for if the holy man is merciful to his reviler, and holdeth his peace" (Charles).
+
+## λοιμός,
+
+"pestilence," "plague," as in Lk 21¹¹, occurs in P Oxy XIV. 1666²⁰ (iii/A.D.) ἤκουσα . . ὅτι παρ' ὑμῖν λοιμὸς [ἐγ]ένετο, "I heard that there has been plague in your neighbourhood" (Edd.). For the metaph. use, as in Ac 24⁵, where it is used of "a pestilent fellow," (cf. Lat. *pestis*) there is ample support in the LXX (e.g. Ps 1¹, 1 Macc 15²¹). Cf. also Ac 13⁸, where for the ordinary reading Ἐλύμας Burkitt (*JTS* iv. p. 127 ff.) conjecturally restores ὁ λοιμός. The passage then runs: ἀνθίστατο δὲ αὐτῷ ὁ λοιμός, ὁ μάγος, οὕτως γὰρ μεθερμηνεύεται τὸ ὄνομα αὐτοῦ, "now they were withstood by the pestilent fellow, the sorcerer I mean, for 'pestilent fellow' is the interpretation of his name"—an interpretation to which *Bar Yeshu'*, changed into ΒΑΡΙΗΣΟΥ Ν, would readily lend itself.
+
+## λοιπός.
+
+For λοιπός with a subst. cf. P Oxy II. 242¹⁸ (A.D. 77) τὰ λυπὰ (*l.* λοιπὰ) μέρη περιτειχ(ζειν, *ib.* 270²⁰ (A.D. 94) ταῖς λοιπαῖς ἀρούραις. It is used absolutely in P Ryl II. 229¹³ (A.D. 38) τοῦ λοιπ(οῦ) τῆς τιμῆ(ς) τοῦ χόρτου, "the rest of the price for the hay," P Giss I. 78³ (ii/A.D.) καλῶς δὲ ποιήσεις καὶ περὶ τὰ λοιπὰ ἐνεργήσασα. For τοῖς λοιποῖς πᾶσι in Phil 1¹³, "apparently a vague phrase = everywhere else," Kennedy (*EGT ad l.*) compares *CIG* I. 1770 ἐπεὶ καὶ ἐν τοῖς λοιποῖς πᾶσιν φανερὰν πεποήκαμεν τὴν τε ἰδίαν καὶ τοῦ δήμου τοῦ Ῥωμαίων προαίρεσιν. The neut. sing. is frequently used adverbially, sometimes with the idea of time "henceforth" (2 Tim 4⁸), as in P Oxy I. 119⁸ (ii/iii A.D.) (= *Selections*, p. 103) ἂν δὲ ἔλθῃς εἰς Ἀλεξάνδριαν, οὐ μὴ λάβω χεῖραν παρὰ [σ]ου, οὔτε πάλι χαίρω σε λυπόν (*l.* λοιπόν), "and if you do go to Alexandria, I won't take your hand, or greet you again henceforth," and sometimes simply to mark transition to a new subject like an emphatic οὖν (1 Thess 4¹: cf. Milligan *ad l.*), as a few lines further down in the same letter, ¹³ λυπὸν πέμψον εἴ[ς] με, παρακαλῶ σε, "send for me then, I beseech you": cf. BGU III. 846¹⁰ (ii/A.D.) (= *Selections*, p. 94) λοιπὸν οἶδα τί [ποτ'] αἱμαυτῷ παρέσχημαι, "furthermore I know what I have brought upon myself," P Iand 9¹³ (ii/A.D.) πάντα γὰρ τὰ νόμιμα πε[ποίη]κα, καθὼς ἠθέλησας, τοῦ ἦ (ἔτους)· [σ]ὺ οὖν βάσταξε λυπὸν (*l.* βάσταξαι λοιπὸν) δ ἂν ἔτιο[γ ῇ] (*l.* αἴτιον ῇ) τῆς κρίσεως. For λοιπὸν οὖν, "finally then," cf. BGU IV. 1078⁶ (A.D. 39) λοιπὸν οὖν, ἐὰν λάβω τὰ κερμάμια (*l.* κερμάμια or κερμάτια), ὀψόμαι, τί με δεῖ ποιεῖν, *ib.* 1079⁶ (A.D. 41) (= *Selections*, p. 39) λοιπὸν οὖν ἔλαβον παρὰ το(ῦ) Ἄραβος τὴν ἐπιστολὴν καὶ ἀνέγνων καὶ ἐλυπήθην. The transition to λοιπό(ν), τὸ λοιπό(ν), "therefore," "so," the regular meaning in MGr, may be illustrated by such passages from late Greek as Polyb. i. 15. 11 λοιπὸν ἀνάγκη συγχωρεῖν, τὰς ἀρχὰς καὶ τὰς ὑποθέσεις εἶναι ψευδεῖς, Epict. i. 22. 15, 24. 1, ii. 5. 16, *al.*: cf. Schmid *Atticismus* iii. p. 135, and Jannaris *Exp* V. viii. p. 429 f. For εἰς τὸ λοιπόν cf. P Petr III. 42 G(9)⁸ (mid. iii/B.C.), for τοῦ λοιποῦ (sc. χρόνου), "henceforth," as in Gal 6¹⁷, cf. P Hal I. 1¹⁷¹ (mid. iii/B.C.) σύνταξον οὖν, ὅπω[ς] τοῦ [λ]οιποῦ μὴ γίνηται τοῦτο, P Oxy X. 1293¹⁴ (A.D. 117–38) ὥστε τοῦ λοιποῦ γράφεται (*l.* -εται), τῶν γὰρ πρώτων τεσσάρων ἡμίσους ἐπιστολὴν οὐκ ἔσχον, "so in future write, for I have had no letter about the first four and a half metretae" (Edd.), and for ὧδε λοιπόν, as in 1 Cor 4³, cf. Epict. ii. 12. 24.
+
+The subst. λοιπάς, "remainder," "arrear," which is described by LS as "Eccl., Byz.," is found in P Gen I. 57⁶ (iv/A.D.) ἕν[ε]κεν τῆς λοιπάδος πυροῦ : cf. P Amh II. 152³ (v/vi A.D.), P Oxy I. 136¹³ (A.D. 583), and for the verb λοιπάζω see P Oxy IX. 1194³ (c. A.D. 265) τὰ λοιπαζόμενα, "the arrears." Λοίπημα (not in LS) occurs in P Tebt II. 281²⁴ (B.C. 125) ἄνευ παντὸς λοιπήματος, "without any arrears." On λοιπογραφέω, "allow to remain in arrears," see P Petr III. 53(*p*)⁴ (iii/B.C.) ἀνέεται λοιπογραφεῖσθαι, " he is permitted to remain in arrears " (Edd.), and P Hamb I. p. 9, and on the subst. see P Strass I. 77⁵ (ii/iii A.D.) with the editor's note.
+
+## Λουκᾶς
+
+is generally treated as an abbreviated pet name from Λουκανός (cf. Lightfoot on Col 4¹⁵, Zahn *Introd.* iii. p. 5),

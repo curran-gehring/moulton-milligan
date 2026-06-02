@@ -1,0 +1,31 @@
+*μετακινέω*  403  *μετανοέω*
+
+μετεκαλέσατο; where the meaning apparently is, “who now has sent for me, who am facing death for the second time?”, and *ib.* X. 1252 *recto*²⁶ (A.D. 288–95) ἐπὶ σήμερον ἥτις ἐστὶν ιη μετεκαλέσω ἡμâς, “whereas to-day, the 18ᵗʰ, you summoned us” (Edd.). For the act. cf. P Tebt I. 23¹² (B.C. 119 or 114) διὸ καὶ ἔτι νῦν καλῶς ποιήσεις φιλοτιμότερον προθυμηθεὶς ἵνα τὰ πρὸς αὐτὸν [. . . . .] διορθώσηι μετακαλέσας ἐκ τῶν προηγνοημένων, where the editors render, “I shall therefore be glad if you will even now endeavour more earnestly to correct your behaviour towards him, abandoning your previous state of ignorance”; and for the pass. cf. P Par 63ʳⁱⁱⁱ·⁹ (B.C. 165) ἵνα μετακληθῇς ἔτι πρὸς τὴν ἐμὴν αἵρεσιν.
+
+## *μετακινέω*
+
+occurs in its literal sense of “move away” (transitive) in the Mysteries inscr. from Andania *Syll* 653 (= ³ 736)¹⁸⁶ (B.C. 92) μὴ μετακινοῦντες ἐπὶ καταλ[ύ]σει τῶν μυστηρίων μ[η]θὲν τῶν κατὰ τὸ διάγραμμα: cf. also the inscr. on a stone found amongst the ruins of an ancient temple near Cephisia, *ib.* 888 (= ³ 1238)³ᶠᶠ· (*c.* A.D. 160) πρὸς θεῶν καὶ ἡρώων, ὅστις εἶ ὁ ἔχων τὸν χῶρον, μήποτε μετακεινήσης τούτων τι. καὶ τὰς τούτων τῶν ἀγαλμάτων εἰκόνας καὶ τιμὰς ὅστις ἢ καθέλοι ἢ μετακεινοίη, τούτῳ μήτε γῆν καρπὸν φέρειν μήτε θάλασσαν πλωτὴν εἶναι, κακῶς τε ἀπολέσθαι αὐτοὺς καὶ γένος.
+
+## *μεταλαμβάνω*.
+
+For the gen. construction, as in Ac 2⁴⁶, cf. P Ryl II. 77¹⁹ (A.D. 192) τροφῶν μεταλαβεῖν. The acc. (cf. Ac 24²⁵) is found in such passages as P Tebt I. 79⁴⁹ (*c.* B.C. 148) Θοτορταῖον τὸν μεταλαβόντα τὴν κωμογρ(αμματείαν), “Thotortaeus, who succeeded to the post of komogrammateus” (Edd.), P Amh II. 39⁶ (late ii/B.C.) μεταλαβόντες τοὺς συντετελεσμέν[ο]υς πρὸς τοὺς τέβεις Ἑρμων[θ]ίτας ἀγῶνας μεγάλως ἐχάρημεν, P Oxy I. 113¹⁴ (ii/A.D.) χάριν ἔχω θεοῖς πᾶσιν γινώσκων ὅτι ὅτι (omit) μετέλαβον παρατετευχότα Πλουτίωνα εἰς τὸν Ἀξυρυγχείτην, “I thank all the gods to think that I came upon Plution in the Oxyrhynchite nome” (Edd.). The verb is frequent = “obtain information,” “learn,” e.g. P Tebt I. 40⁷ (B.C. 117) σαφέστερον μετειληφὼς τοὺς ἐκ τῆς κώμης ὁμοθυμαδὸν ἀντέχεσθαι τῆς σκέπης, “having received certain information that the inhabitants of the village are with one accord claiming your protection” (Edd.), P Tor I. 1ⁱⁱ·² (B.C. 116) ὑπὲρ ῶν μεταλαβόντος μου παρεγενήθην, εἰς τὴν Διόσπολιν, P Giss I. 27³ (ii/A.D.) (= *Chrest.* I. p. *29*) μετέλαβον πα[ρ]ά τινων ἀπὸ Ἀβιῶνος σήμερον ἐλθόντω[ν] συνοδοιπορηκένα[ι] τινί[ι] παιδαρίῳ κτλ. For the legal sense of “assign” see P Tebt II. 294¹⁸ (A.D. 146) τοῖς παρ’ ἐμοῦ μεταλημψομένοις, “to my assigns,” P Ryl II. 162¹² (A.D. 159) ἐνγόνοις αὐτῆς καὶ τοῖς παρ’ αὐτῆς μεταληνψομένοις, “to her descendants and assigns,” and similarly P Oxy X. 1276¹³ (A.D. 249).
+
+## *μετάλημψις*,
+
+as read by WH in 1 Tim 4³ (for the intruded μ see *s.v.* λαμβάνω) is found in the sense of “concurrence” in the marriage-contract P Oxy X. 1273³⁹ (A.D. 260) οὐ προσδεόμενος τῆς τοῦ ἑτέρου μεταλήμψεως οὐδὲ ἑτέρας εὐδοκήσεως, “without requiring the concurrence of the other side or any further consent” (Edd.); cf. *ib.* IX. 1200³⁶ (A.D. 266).
+
+## *μεταλλάσσω*.
+
+From the meaning “exchange” which this verb has in its only occurrences in the NT (Rom 1²⁵ ᶠ·), the transition is easy to “exchange by leaving,” “quit,” and hence the common μεταλλάσσω βίον = “I die,” e.g. P Par 22¹⁴ (B.C. 165) μετήλλαχεν τὸν βίον, *OGIS* 326¹⁵ (ii/B.C.) μεταλλάσσων τὸν βίον ἐν Περγάμωι προενοήθη τῆς συνόδου. The use of μεταλλάσσω alone in this sense is perhaps still more common in our sources, e.g. BGU IV. 1148⁸ (B.C. 13) τῶι μετηλλαχότι αὐτῆ(ς) ἀνδρὶ Ἀσιδώρωι, P Oxy X. 1282¹⁸ (A.D. 83) ὑπὸ τοῦ γενομένου καὶ μετηλλαχότος τῆς Θνâτος ἀνδρός, “by the former husband, now deceased, of Thnas” (Edd.), P Ryl II. 108⁹ (A.D. 110–11) ἀπὸ κληρον[ο]μίας τῆς μετηλλαχυίης ἡμῶν μη(τρὸς) Εὐδαιμονίδ(ος), “from the inheritance of our deceased mother Eudaemonis,” P Oxy III. 477¹⁴ (A.D. 132–3) ἢ μ[ε]τήλλαχεν, “who is dead,” and *Syll* 731 (= ³ 1103)¹⁰ (*c.* B.C. 200) δέδωκεν δὲ καὶ τοῖς μετα[λλ]άξασιν τὸ ταφικὸν παραχρῆμα.
+
+## *μεταμέλομαι*.
+
+A good ex. of the reflexive meaning “repent oneself,” as in Mt 21³⁰ *al.*, is afforded by BGU IV. 1040²⁰ (ii/A.D.) χα[ί]ρω ὅτι μο[ι τα]ῦτα ἐποίησας ἐμοῦ μ[ετ]αμ[ελομ]ένου π[ερὶ μ]ηδενός. καθαρ[ὰ]ν γὰρ ἔχων τὴν ψυχὴν κτλ.: cf. *ib.* 1208ⁱ·²⁰ (B.C. 27–6). In the great calendar inscr. *Priene* 105¹⁰ (= *OGIS* 458¹⁰) (*c.* B.C. 9), the verb has the somewhat weaker sense of “regret” (cf. 2 Cor 7⁸ RV), the birthday of Augustus being described as the beginning of life, and the end of a man’s regretting that he has been born—πέρας καὶ ὅρος τοῦ μεταμέλεσθαι, ὅτι γεγέννηται. For the impers. act. see P Hib I. 59¹¹ (*c.* B.C. 245) εἰ μὴ παύσει κ[α]κοποῶν ἐν τῆι κώμη[ι] μεταμελή[σ]ει σοι, “if you do not stop your malpractices in the village you will repent it” (Edd.), and for the pass. form see P Thead 51¹⁵ (iv/A.D.), where a man is warned to give back an artaba of corn he has wrongly taken—εἰ δὲ μὴ μεταμεληθῆναι ἔχεις, “otherwise you will have reason to be sorry for it.” The subst. μετάμελος is seen in P Fay 124²³ (ii/A.D.) μετάμελόν σ[ο]ι πάλειν εἰσο[ίσ]ει ἡ πλεονεξ[ί]α σου, “your cupidity will again cause you regret” (Edd.), and for two exx. of the usual form μεταμέλεια cf. Menander *Fragm.* p. 268.
+
+## *μεταμορφόω*.
+
+P Leid Wⁱⁱ·²⁶ (ii/iii A.D.) (= II. p. 87) σοὶ πάντα ὑποτέτακται, οὗ οὐδεὶς θεῶν δύναται ἰδεῖν τὴν ἀληθινὴν μορφήν, ὁ μεταμορφούμεν(ος) εἰς πάντας, ἀόρατος, ἐφ’ αἰῶν’ αἰῶνος, “qui transformaris in omnes (i.e. “qui omnium deorum formas assumis,” p. 170), invisibilis in seculum seculi,” similarly *ib.* ˣⁱⁱⁱ·³⁵ (= p. 127): cf. 2 Cor 3¹⁸ and the parallel expression in Seneca *Ep.* 6. 1—“intellego, Lucili, non emendari me tantum, sed transfigurari” (cited by Clemen *Primitive Christianity*, p. 68). On the translation of Rom 12², see Field *Notes*, p. 162.
+
+## *μετανοέω*.
+
+A few exx. of this important verb can be quoted from our sources—PSI V. 495⁹ (B.C. 258–7) νυνὶ δὲ μετανενόηκεν διὰ τὸ ἐπ[ι]τετιμῆσθαι ὑπὸ κτλ., P Gurob 6³ (B.C. 214) ἐάμπερ μὴ βούλησθε μετανοή[σαι—in a broken context, *OGIS* 751⁹ (ii/B.C.) θεωρῶν οὖν ὑμâς μετανενοηκότας τε ἐπὶ τοῖ[ς] προημαρτημένοις (cf. 2 Cor 12²¹), BGU III. 747 ⁱ· ¹¹

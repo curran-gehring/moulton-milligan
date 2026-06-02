@@ -1,0 +1,31 @@
+μετανοια 404 μετατίθημι
+
+(A.D. 139) οἰό[μ]ενος με[τ]ανοῆ[σι]ν (*l.* μετανοήσειν) ἡμεῖν ἐπιχό[ι] (*l.* ἐπιχόν) σοι τῷ κυρίῳ δηλῶσαι, P Tebt II. 424⁵ (late iii/A.D.) εἰ μὲν ἐτιμένις σου τῇ ἀπονοίᾳ, συνχέ(= αἱ)ρω σοι· εἰ δὲ μετανοεῖς, σὺ οἶδας, "if you persist in your folly, I congratulate you ; if you repent, you only know" (Edd.), BGU IV. 1024 ᶦᵛ·²⁵ (end of iv/A.D.) ὑπὸ γὰ]ρ τοῦ ἐπικιμέν[ου] αὐτῷ ἔρωτος [παρῆλθεν μ]ετανοῶν. In P Lond 897²² (A.D. 84) (= III. p. 207) παρακαλῶ δὲ σὲ εἶνα μὴ μελανήσης, the editor suggests that for μελανήσης we may perhaps read μετανήσης for μετανοήσης. See also *Menandrea* p. 12⁷² where the verb is used of "change of mind." Its meaning deepens with Christianity, and in the NT is more than "repent," and indicates a complete change of attitude, spiritual and moral, towards God. MGr μετανοιώνω, "repent."
+
+## μετάνοια.
+
+The transition to the deeper sense of this word (see *supra*) appears in Aristeas 188, where God is described as by His gentleness and long suffering—μεταθεὶς ἐκ τῆς κακίας [καὶ] εἰς μετάνοιαν ἄξεις, "turning men from their wickedness and leading them to amendment." The interesting Calendar of Church Services at Oxyrhynchus, P Oxy XI. 1357⁴ (A.D. 535–6), mentions a ἡμέρα] μετάνοιας, and we hear of a μοναστήριον μετανοίας at Alexandria in P Flor III. 298⁵⁶ (vi/A.D.) : cf. P Lond 996³ (vii/A.D.) (= III. p. 248), and see Sophocles *Lex. s.v.* The phrase ἐν μετανοίᾳ [γ]ενομένους occurs in PSI V. 452¹⁴ (iv/A.D.), and similarly in BGU III. 836⁸ (time of Justinian). In *ZNTW* i. p. 66 ff. Wrede discusses the translation of μετάνοια in the NT ("nicht Sinnesänderung, sondern Busse"). It may be added that Lactantius (*Div. Inst.* vi. 24. 6) for the ordinary *paenitentia* of Christian Latinity prefers *resipiscentia*, as implying, like μετάνοια, a coming to one's senses, resulting in a change of conduct.
+
+## μεταξύ
+
+is used prepositionally c. gen., as in Mt 18¹⁵, Rom 2¹⁵, in such passages as P Rein 44¹⁶ (A.D. 104) μετὰ τὸν τῆς συμφωνίας τῆς γενομένης μεταξὺ αὐτοῦ καὶ Ἰσιδώρας, P Oxy VIII. 1117³ (*c.* A.D. 178) μεταξὺ ἡμῶν καὶ ἀρχόντων, P Gen I. 48⁹ (A.D. 346) τὴν συμ[π]εφωνηθεῖσα[ν] μεταξὺ [ἡ]μῶν ἀλλήλων τιμήν, P Oxy VII. 1026⁹ (v/A.D.) μεταξὺ ἐλάβομεν Γεροντίου κ[α]ὶ Ἰωάννην (*l.*—ης) ὥστε λαβεῖν Ἰω[ά]ννην τὰ ἱμάτια κτλ., "we have mediated between Gerontius and John to this effect : John shall take the cloaks" etc. (Ed.), PSI I. 71⁶ (vi/A.D.) μεταξὺ ἐμοῦ τε κ(αὶ) τῶν λιτουργῶν, and *Kaibel* 418¹ (ii/A.D.) τὸ μεταξὺ βίου θανάτου τε. For the adverbial usage in relation to *time*, as in Jn 4³¹, cf. BGU IV. 1153⁷ (B.C. 14) τοῦ μεταξὺ χρόνου, *ib.* 1139⁹ (B.C. 5) ἐν δὲ τῷ μεταξύ, P Giss I. 30² (A.D. 140–161), *al.* : see also P Oxy I. 1320 (A.D. 497) ὁμολογῶ ὀφείλειν σοι καὶ χρεωστεῖν ἀπὸ λόγου τιμῆς οἴνου ἐξ ἑώνημαι παρὰ σοῦ καὶ ἐβάσταξα κατὰ τὰ μεταξὺ γενόμενα [γραμματεῖα (?). The form μεταξύ is found from i/A.D. onwards in such passages as P Lond 177¹¹ (A.D. 40–41) (= II. p. 168) ἐν δὲ τῷ μεταξ(ύ), P Amh II. 64⁴ (A.D. 107) ἀλλὰ μεταξὺ δεδα[π]ανῆσθαι, "that further expenses had been incurred meanwhile" (Edd.), P Tebt II. 163⁰¹² (A.D. 222?) μεταξὺ ἡμῶν [καὶ τιν?]ων ἀνθρ[ώ]ν, P Tebt II. 433
+
+μετατίθημι
+
+(iii/A.D.) διαλήμψεται μετοξὺ ἡμῶν ὁ στρατηγός, and, in relation to space, P Oxy XII. 1475²⁰ (A.D. 267) τὸ μετοξὺ ωμάριον, "the intervening orchard" : see also Thackeray Gr. i. p. 77 for LXX parallels, and Reinhold p. 40 for the usage in the early Christian Fathers. MGr στὸ μεταξύ, "in the meantime" : (ἀνα-)μεταξύ of place, "between," "among."
+
+## μεταπέμπομαι,
+
+"summon," "send for," occurs in such passages as P Petr II. 19 (1 *a*)⁸ (iii/B.C.) ἀξιώσας αὐτὸν [με]ταπέμψασθαί με ἀ]πὶ διέσθαι ("dismiss") [ἀπὸ τῆς] φυ[λα]κῆς, P Tebt II. 289⁷ (A.D. 23) μεταπεμψάμε(νος) πέμψωι τῶι ἡγεμ[όνι] ὡς [μη]ελοῦντα τῆς εἰσπρά[ξεως, "I shall summon and summon you to the Prefect for neglecting the collecting," P Ryl II. 77⁴¹ (A.D. 192) μεταπεμφθήσονται δὲ καὶ οἱ κοσμηταὶ ἵνα [πα]ρ̣οῦσι αὐτοῖς αὐτὰ ταῦτα εἴπητε, "but the cosmetae shall also be summoned in order that you may repeat the same statements in their presence" (Edd.), and P Oxy I. 118 *verso*⁷ (late iii/A.D.) συμβουλευθέντες . . . διὰ τὸ ἄδηλον τῆς ὁδοιπορίας προθμεῖον μεταπέμψασθαι (*l.*—σθαι), "we have been advised to send for a ferry-boat on account of the uncertainty of the road" (Edd.).
+
+## μεταστρέφω,
+
+which in the NT occurs only in Ac 2²⁰, Gal 1⁷, and as a v. *l.* in Jas 4⁹, means literally "change from one state to another" : cf. Deut 23⁵, Sir 11³¹ ⁽³³⁾. The verb occurs in P Par 574²⁶²⁵ (iv/A.D.) μεταστρέφοντός σου τὸν λόγον ὡς ἂν θέλης.
+
+## μετασχηματίζω.
+
+For the meaning "refashion," "change the outward appearance of that which itself remains the same," we may appeal to *Preisigke* 5174¹⁰ (A.D. 512), where, in connexion with the purchase of an hermitage, power is given—καθελεῖν, ἀνοικοδομεῖν, μετασχηματίζειν, ἐν οἷς βούλεται ὄψει καὶ διαθέσει : similarly *ib.* 5175¹² (A.D. 513) and P Mon 13⁴⁶ (A.D. 594) πωλεῖν καὶ μεταπωλεῖν καὶ μετασχηματίζειν. The passages, though late, are important in connexion with the interpretation of Phil 3²¹ : see also Field *Notes* p. 169 f. for the meaning of 1 Cor 4⁶. To the exx. of the verb from profane sources add Diod. Sic. ii. 57, where it is used in connexion with the dividing up of the root-forms of the letters of the alphabet : cf. Gardthausen *Palaeographie*², pp. 41, 263. Cf. also Iamblichus *de Myst.* 3, 28, and see further *s.v.* σχῆμα.
+
+## μετατίθημι.
+
+With the use of this verb in Ac 7¹⁶ we may compare P Tebt II. 336¹² (*c.* A.D. 190) ἐξ ὧν μ[ε]τατίθ(ενται) εἰς δη(μοσίαν) γῆν (πυροῦ) (ἀρτάβαι) κτλ., of wheat "transferred" to domain land. See also with reference to persons P Ryl II. 220⁹⁴ (between A.D. 134–5 and 138), an official list of males, perhaps for military purposes, a certain number of whom had been transferred to a new heading or a new village in the 19th year of Hadrian—καὶ ἐνθάδ(ε) μετ]ε(τέ)θ(ησαν) τῷ ̄ῑθ (ἔτει) οἱ πλειόνων ("those in excess"), and P Lond 322⁵ (A.D. 214–5?) (= II. p. 159 f., *Chrest.* I. p. 421), an application for the payment of the porters' hire,

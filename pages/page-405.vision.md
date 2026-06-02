@@ -1,0 +1,30 @@
+λῃστής 375 λίθος
+
+For the corresponding verb see P Fay 114²¹ (a.d. 100) μὴ ον (*l.* οὖν) ληρήσῃς τὸν ἐκτιναγμόν σου, "don't talk nonsense about your threshing" (Edd.), cf. P Giss I. 64⁸ (ii/a.d.) ληρεῖ: and for the adj. ληρώδης see BGU III. 1011ⁱⁱ· ¹⁵ (ii/b.c.) πολ[λὰ] ληρώι[δη] καὶ ψευδῆ προσαγ[γ]ἐλ[λε]ται.
+
+## λῃστής.
+P Petr III. 28 (*e*) *verso* (*a*)¹ (iii/b.c.), memoranda relating to criminals, is headed—περὶ ἐπ[ιθέσ]εως λῃστῶν (for form, cf. Mayser *Gr.* p. 122): cf. P Par 46⁷ (b.c. 153) (= Witkowski², p. 86) ἐν τοῖς ἀναγκαιοτάτοις καιροῖς λῃστῶν ἐπικειμένων, P Lips I. 37²³ (a.d. 389) ἑτοιμότατα γὰρ ἔχω ἀπελέγξαι ἐν τῷ ἀχρ[ά]ντῳ αὐτοῦ δικαστηρίῳ τούτους λῃστὰς ὁμολό[γ]ους καὶ ζῷα ἀπελακότας (*l.* ἀπεληλ—) πολλάκις, and the late P Oxy I. 139²⁸ (a.d. 612) ὑποδέξασθαι λιστάς, "to have harboured robbers." For λῃστήριον, "a band of robbers," cf. P Petr III. 28 (*e*)⁶ (iii/b.c.) ἐπέθετο αὐτοῖς λῃστήρ[ιο]ν, P Hamb I. 10⁷ (ii/a.d.) ἐπέβη μου ταῖς οἰκίαις . . λῃστήριον, and for the meaning "robbers' lairs," cf. *Cagnat* IV. 219⁵ τὰ ἐν Ἑλλησπόντῳ λῃστήρια. The adj. λῃστ(ρ)ικός is common, e.g. P Tebt I. 53¹¹ (b.c. 110) ἐπιθέμενοι λῃστικῶι τρόπωι, *ib.* II. 332⁵ (a.d. 176) ἐπῆλθάν τινες λῃστρικῷ τρόπῳ οἰκίαν μου. Other derivatives from the same root are λῃστεία (BGU II. 372ⁱⁱ· ¹³—a.d. 154), λῃστοπιαστής (*ib.* I. 325⁸—*c.* iii/a.d., an officer detailed for special service in the search for certain criminals), and λῄσταρχος, "arch-pirate" (P Oxy I. 33 *verso* ⁱᵛ· ⁸—late ii/a.d., where the term is used metaphorically).
+
+## λίαν.
+For the epistolary formula ἐχάρην λίαν in 2 Jn ⁴, 3 Jn ⁸, we may compare BGU II. 632¹⁰ (ii/a.d.) καὶ ἐπιγνούς σε ἐρρωμένην λίαν ἐχάρην, "and when I knew that you were in sound health I rejoiced greatly," P Giss I. 21³ (time of Trajan) λίαν ἐχάρην ἀκούσασα ὅτι ἔρρωσαι: see also P Par 42³ (b.c. 156) λίαν σοι χάριν μεγάλην ἐσχήκαμεν. Otherwise the adv. is common, e.g. P Tebt I. 12²⁴ (b.c. 118) ἀποδέχομαι δὲ τὰ παρὰ σοῦ λίαν, "I accept completely your views" (Edd.), P Oxy II. 298²⁶ (i/a.d.) λίαν αὐτὸν βαρύνομαι, "I am too severe with him" (Edd.), *ib.* III. 525⁴ (early ii/a.d.) λείαν τῷ πράγματι καταξύομαι, "I am extremely worn out with the matter" (Edd.), *ib.* IX. 1216¹³ (ii/iii a.d.) λείαν γὰρ φιλῶ αὐτόν, *ib.* XIV. 1676¹⁰ (iii/a.d.) λείαν ἐλυπήθην ὅτι οὐ παρεγένου ἰς τὰ γενέσια τοῦ παιδίου μου. The use with an adj., as in Mt 4⁸ *al.*, may be illustrated by P Tebt II. 315¹⁸ (ii/a.d.) ὁ γὰρ ἄνθρωπος λείαν ἐστὶ[ν] αὐστηρός.
+
+## λίβανος.
+In a list of articles for a sacrifice, P Oxy IX. 1211¹¹ (ii/a.d.), are included ἔλεον, μέλι, γάλα, πᾶν ἄρωμα χωρὶς λιβάνου, "oil, honey, milk, every spice except frankincense": cf. P Leid Wⁱˣ· ¹¹ (ii/iii a.d.) κασία, λίβανος, ζμύρνα, the illiterate P Ryl II. 242⁴ ᶠᶠ· (iii/a.d.) ἢαν ῇς ἀδυναατες πέμψε μοι ἀκάνθινεν χυλέν, πέμψεν μοι λάβανον, "if you are unable to send me acacia-juice, please send me incense" (Edd.), and the Pergamum inscr. *Cagnat* IV. 353*b*.¹⁸ πόπανον (a round sacrificial cake) καὶ λίβανον καὶ λύχνους τῶι Σεβαστῶι. The adj. λιβάνινος occurs in P Oxy I. 114⁵ (ii/iii a.d.) δερματικομαφόρτιν λιβάνινον, "a casket (?) of incense-wood" (Edd.), and λιβανωτικός in *OGIS* 132¹⁰ (b.c. 130) τὰ λιβανωτικὰ φορτία. The word is of Semitic origin. MGr λιβάνι, "incense."
+
+## λιβανωτός
+= "frankincense" may be illustrated from the ii/iii a.d. medical prescription P Oxy II. 234ⁱⁱ· ³⁸ λιβ]ανωτὸν οἴνῳ [διελ]ς ἡδίστῳ κλύζε [τὸ ο]ὖς, "dilute frankincense with very sweet wine and syringe the ear" (Edd.): cf. *ib.* I. 118²⁰ (late iii/a.d.) λιβανωτόν [τινα σ]υναγοράσας, "buy some incense," and *OGIS* 383¹⁴² (mid. i/b.c.) ἐπιθύσεις ἀφειδεῖς λιβανωτοῦ καὶ ἀρωμάτων. Grimm's note makes Rev 8³· ⁵ confuse λ. = "frankincense" and λιβανωτίς = "censer," but *Syll* 588¹⁵⁶ (*c.* b.c. 180) λιβανωτίδος κλάσματα has the latter word in the former meaning, so that the confusion existed also "in prof. auth.," or at least in profane inscriptions.
+
+## Λιβερτῖνος.
+For a conjecture that in Ac 6⁹ we should read not Λιβερτίνων, but Λιβυστίνων, with reference to Jews inhabiting Libya, see Blass *Philology*, p. 69 f.
+
+## λιθάζω.
+On the *conative* usage of λιθάζετε in Jn 10³² see Moulton *Einleitung*, p. 210, and cf. *Proleg.* p. 128 f., Wilcken *Archiv* v. p. 269.
+
+## λίθινος.
+PSI V. 496³ (b.c. 258–7) λίθινα καὶ πλίνθινα, P Magd 42⁵ (b.c. 221) τό τε περιτραχηλίδιον ἐκ καθορμίων (LXX Hos 2¹³) λιθίνων ἀφείλετό μ[οι, "he snatched from me my small collar of stone necklets," BGU IV. 1067⁶ (a.d. 101–2) ὅλμοι λίθινοι, "stone troughs," P Oxy III. 502³⁷ (a.d. 164) τὰς οὔσας ληνοὺς λιθίνας δύο, "the two existing stone presses," *ib.* VI. 937¹³ (iii/a.d.) τῆς φιάλης τῆς λιθίνης, "the stone bowl." A form λιθικός is found in P Leid Uⁱⁱⁱ· ²² (ii/b.c.) (= I. p. 125) ἐν τοῖς λιθικοῖς ἔργοις, where, however, the editor proposes to read λιθίνοις.
+
+## λιθοβολέω.
+With this compound, which is rare outside Biblical Greek (cf. Anz *Subsidia*, p. 366), we may compare λιθοκοπέω (not found in LS), for which Mayser (*Gr.* p. 461) cites P Vat F²⁰ (Mai V. 356) (b.c. 157), *ib.* E²⁵ (Mai V. 354), although in both places Mai reads λιθοκοπετέω.
+
+## λίθος
+is always masc. in the NT even when it means a gem (Rev 21¹¹ *al.*, LXX), whereas Attic after b.c. 385 preferred the fem. (Meisterhans *Gr.* p. 129). This is in keeping with the Κοινή usage, e.g. P Petr II. 13 (6)⁶ (b.c. 258–253) τοὺς λίθους of stones for building, P Oxy III. 498⁷ (ii/a.d.) τῶν οἰκοδομουμένων λίθων κύβων καμηλικῶν, "squared building-stones transportable by camel (?)" (Edd.), *ib.* 528¹² (illit.—ii/a.d.) ἔπεμσάς μυ ἐπιστολὰς δυναμένου λίθον σαλεῦσε, "you sent me letters which would have shaken a stone" (Edd.), P Tebt II. 342¹⁷ (late ii/a.d.) κεραμεῖον . . λίθοις ἀρεστοῖς ἐξηρτισμ(ένον), "a pottery fitted with stones in good order" (Edd.), P Oxy X. 1273⁷ ᶠ· (a.d. 260) περιτραχήλιον . . ἔχον λίθον ὁλκῆς χωρὶς τοῦ [λί]θ[ο]υ τετάρτων

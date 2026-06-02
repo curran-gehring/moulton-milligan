@@ -1,0 +1,31 @@
+μηλωτή   410   μήπω
+
+## μηλωτή.
+
+For this NT ἅπ. εἰρ. (Heb 11³⁷) = "sheepskin," cf. the list of imposts levied at Palmyra, *OGIS* 629³² (A.D. 137) πορφύρας μηλωτη[ς] ἑκά[στου] δέρμα]τος εἰσκομισθέν[τος πράξει ἀσσάρια η̄. The word occurs *quinquies* in the LXX always with reference to Elijah.
+
+## μήν.
+
+See *s.v.* εἰ μήν. Other exx. of the particle are P Petr II. 16¹³ (mid. iii/B.C.) (= Witkowski², p. 12), ἠκού[σ]αμεν ἀριθμὸν ἔσεσθαι ἐκ τῶν Ἀρσινοε[ω]ν, οὐ μὴ[ν ἀλλὰ] πεισόμεθα ἀκριβέστερον, P Lond 42²⁸ (B.C. 168) (= I. p. 30, *Selections*, p. 11) οὐ μὴν ἀλλ' ἐπεὶ καὶ ἡ μήτηρ σου τυγχάνει βαρέως ἔχουσα, κα[λῶ]ς ποιήσεις κτλ., "nor is this all, but since your mother is in great trouble about it, you will do well, etc.," P Oxy III. 471¹²⁶ (ii/A.D.) οὐ μὴν εἰς [τὸ τοῦ.[. . . . . .] ἀγοραίου κριτηρ[ίου βῆμα?] ἑπτακαιδεκαέτ[η]ς παῖς ἐσ]πετό σοι ; "did not a boy of 17 years accompany you to the judgement-seat in the public court?" (Edd.), and *ib.* 472³⁷ (c. A.D. 130) ἀλλὰ μὴν ὑτων πίστεως περὶ τούτων οὔσης παρὰ τῷ δοκοῦντι πεπρακέναι, "again, if there had been security given to the supposed seller" (Edd.).
+
+## μήν.
+
+For μήν denoting a (lunar) month cf. P Amh II. 50²⁰ (B.C. 106) τόκους διδράχμους τῆς μνᾶς τὸν μῆνα ἕκαστον, "interest at the rate of two drachmae on the mina each month," P Oxy II. 294⁵ (A.D. 22) (= *Selections*, p. 34) ἐπὶ τῷ γεγονέναι ἐν Ἀλεξανδρίᾳ [τῇ . . τοῦ ὑπογε]γραμμένου μηνός, "on my arrival in Alexandria on the . . of the undernoted month," BGU III. 975⁴ (A.D. 45) (= *Selections*, p. 42) μηνὸς Μεχὶρ πέμπτῃ καὶ εἰκάτη, "the twenty-fifth day of the month Mechir," and the illiterate P Oxy XII. 1489⁸ (late iii/A.D.) τοῦ ἄλλο (l. -ου) μηνὸς ἐλεύσομε (l. -μαι), "I shall return in another month," cf. ⁸ εἰ δὲ, ἔρχομε τῷ ἄλλο μηνί (l. ἔρχομαι . . ἄλλῳ). In a Ptolemaic ostracon, Mél. Nic. p. 185 No. 12⁷, we find κατὰ μῆναν (for form see *Proleg.* p. 49). The expression εἰς δύο μῆνας ἡμερῶν in P Strass I. 35⁵ (iv/v A.D.) is said to be "peculiar to the Egyptian speech" (see the introd.). The parenthetic nominative in expressions of time (cf. Mt 15³², Mk 8², Lk 9²⁸ : Moulton *Proleg.* p. 69 f.) is well illustrated by P Petr III. 36 (a) *verso*⁴ (Ptol.) λιμῶι παραπολλύμενος μῆνές εἰσιν δέκα, "perishing from hunger for the last ten months" (Edd.) : BGU III. 948⁶ (iv/v A.D.) γινώσκιν ἐ[θ]ελω ὅτι εἰπέν σοι ὁ πραγματευτ[ὴ]ς ὅ]τι ἡ μήτηρ σου ἀσθενεῖ, εἰδ̣ώ̣ν̣, δέκα τρὶς μῆνές—a curious parallel to Lk 13¹⁶. For the adj. μηνιαῖος cf. P Ryl II. 206 (b)³ (iii/A.D.) εἰς λόγον διαγραφῆς μηνιαίου Ἀθύρ, "on account of the monthly payments of Hathur," and for ἐπιμήνια, "monthly supplies," see P Oxy III. 531¹⁷ (ii/A.D.). MGr μῆνας, pl. μῆνες, μῆνοι.
+
+## μηνύω.
+
+With the forensic use of this verb in Jn 11⁵⁷, Ac 23³⁰, we may compare P Par 10¹⁵ (B.C. 145) where, after the description of a runaway slave, it is added—μηνύειν δὲ τὸν βουλόμενον τοῖς παρὰ τοῦ στρατηγοῦ, "if any one wishes to report him, let him do so to the attendants of the strategus," and the Prefect's proclamation for the protection of the
+
+native population, P Lond 1171 *verso* (c)⁷ (A.D. 42) (= III. p. 107) ἐάν δέ τις μηνυθῇ ἤ τῶν στρατευομένων ἤ τῶν μαχαιροφόρων . . . βεβιασμένος τινὰ τῶν ἀπὸ τῆς χώρας . . κατὰ τούτου τῇ ἀνωτάτω χρήσομαι τειμωρίᾳ. See also P Giss I. 61⁷ (A.D. 119) πολλά [αἱ]κισθ̣ῆ[ν]τες ὑπὸ Ψάϊτος κωμογρ[αμμ]ατέως Ναβωῶι ἀναγκασθὲν μηνύσειν (l. μηνύομεν) α̣ὐ̣τὸν λογ̣ίαν πε[π]ποιηκέναι ἐπὶ τῆς κώμης Ναβωῶι, P Tebt II. 297¹² (c. A.D. 123) ἐγράφη Ἀγαθῷ Δαίμονι σ[τρ]α[τη]γῷ ἵν' ἐάν οἱ κ[ωμο]γραμματεῖς μὴ δέοιντω τὴ̣ν τάξιν ἤ μεμηνυκώς πραχθῇ . . . . "a letter was written to Agathodaemon the strategus in order that if the comogrammateus should have made an improper report upon the office he might be mulcted . . ." (Edd.), and P Oxy X. 1253²² (iv/A.D.) ἵνα μηδέν σου λανθάνῃ τὴν λαμπρότητα μηνύομεν, ἔπαρχε κύριε, "we give this information that nothing may escape your highness, my lord praefect" (Edd.)—an official report concerning certain military requisitions. For the wider sense "make known" cf. *Syll* 237 (= ³ 417)⁷ (B.C. 273-2) χρήματα τῶι θεῶι ἐμάνυσαν ἃ ἦσαν ἐκ τοῦ ἱεροῦ ἀπολω[λό]τα ἀπὸ τοῦ ἀναθέματος τοῦ Φωκέων. See also P Leid Wᵛ·⁶ (ii/iii A.D.) (= II. p. 95) ἐφάνη Μοῖρα κατέχουσα ζυγόν, μηνύουσα (l. μηνύουσα) ἐν ἑαυτῇ τὸ δίκαιον, "Fate appeared holding a balance, showing that justice was to be found in her." In MGr the pres. form has changed to μηνῶ, although the aor. ἐμήνυσα retains the old spelling.
+
+## μήποτε.
+
+(= μή ποτε), in the sense of "lest haply," "lest perchance," as in Mt 4⁶, 5³⁵, *al.*, is seen in P Tebt I. 58³⁰ (B.C. 111) βεβουλεύμεθα ἐκσπάσαι τὸ ἐπιδεδομένον ὑπόμνη-μα] μή ποτε ἐπὶ τοῦ διαλόγου χειμασθῶμεν, "we have decided to abstract the memorandum lest haply we should come to grief at the audit," and P Oxy I. 118 *verso*³⁷ (late ii/A.D.) ἐπὶ (l. ἐπεὶ) οὖν βραδύνουσι μήποτε αὐτοῖς χρεία γένοιτο εὐθέως αὐτοὺς ἐξέλασον, "since they are delaying, lest haply there might be need of them, send them off immediately." With Lk 21³⁴ cf. P Flor I. 99⁹ (i/ii A.D.) (= *Selections*, p. 72) προορώμεθα μήποτε ἐ[π]ηρεάσηι (cf. Lk 6²⁹) ἡμεῖν, "we are taking precautions, lest haply he should deal despitefully with us." For the construction with the ind. cf. P Par 49³¹ (B.C. 164-158) (= Witkowski,² p. 71) ἐγὼ γὰρ νὴ τοὺς θεοὺς ἀγωνιῶ, μή ποτε ἀρ[ρ]ωστεῖ τὸ παιδάριον, καὶ οὐκ ἔχω σχολὴν ἀναβῆναι πρὸς ὑμᾶς, "for by the gods I am anxious, lest haply the child is ill, and I have no leisure to come up to you." The constructions of the word in the NT are tabulated by H. Scott in Robertson *Gr.*³ p. 1415. Reference may also be made to Isidore *Epp.* ii. 270.
+
+## μήπου.
+
+See *s.v.* μήπω.
+
+## μήπω,
+
+"not yet," occurs in P Oxy VII. 1062¹⁵ (ii/A.D.) εἰ δὲ τοῦτό σοι βάρος φέρει καὶ μήπω ἠγόρασας, τὸ ἀργύριον δὸς Ζωΐλωι τῶι φίλωι, "if it is troublesome and you have not yet bought them, give the money to my friend Zoïlus" (Ed.), with reference to the purchase of some fleeces. In *ib.* 1068¹³ (iii/A.D.) μήπω is for μήπω—εὗρον τὸ σωμάτι[ον] μήπου δυνάμενον κηδευθῆναι, "they found the body not yet ready to be buried" (Ed.).
