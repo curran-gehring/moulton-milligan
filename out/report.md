@@ -1,36 +1,36 @@
 # Moulton-Milligan Digitization — Report
 
-Generated: 2026-06-03T17:36:02.926448+00:00
+Generated: 2026-06-03T18:10:37.355911+00:00
 
 ## Scope of this export
 
-**Lexicon-body chunk** — pages 31–720 (684 pages parsed).
+**Lexicon-body chunk** — pages 31–735 (699 pages parsed).
 Phase 4 (citation normalization) is skipped for this preview; `papyri_citations`
 field holds the raw as-written strings from `papyri_citations_raw`. Phase 5
 (disagreement resolution) has run deterministic auto-policies + manual sweeps;
 remaining cases requiring human judgment are surfaced in `disagreements_manual.tsv`.
 
 This export uses the **relaxed filter** (all entries included).
-Pass `--strict` to apply spec §6's `needs_review=0` filter (1846
+Pass `--strict` to apply spec §6's `needs_review=0` filter (1873
 entries would be excluded).
 
 ## Source coverage
 
 - Total source pages: 735
-- Parsed pages: 684 (range 31–720)
-- Pages still on Tesseract baseline (need Phase 1B): 16
+- Parsed pages: 699 (range 31–735)
+- Pages still on Tesseract baseline (need Phase 1B): 1
 
 ## Entries
 
-- Total entries: 4974
-- `needs_review=1` flagged: 1846
+- Total entries: 5055
+- `needs_review=1` flagged: 1873
 - Placeholder lemmas (`??`): 1
-- Exported to mm.sqlite: 4707
+- Exported to mm.sqlite: 4788
 - Duplicate (strongs, lemma) skipped: 267
 
 ## Strong's keying (Phase 3)
 
-- Strong's-keyed: 4894 (98.4%)
+- Strong's-keyed: 4975 (98.4%)
 - `G_N/A:<lemma>` placeholders: 80
 - Fuzzy snap corrections (logged in disagreements): 108
 
@@ -38,23 +38,23 @@ Spec §8 gate: ≥75% Strong's coverage — **PASS**.
 
 ## Adversarial review (Codex)
 
-- agree: 3952 (79.5%)
-- minor: 377 (7.6%)
-- major: 624 (12.5%)
+- agree: 4017 (79.5%)
+- minor: 381 (7.5%)
+- major: 636 (12.6%)
 - reject: 0
 
 agree+minor rate: **87.0%** (spec §8 gate: ≥85%) — **PASS**.
 
 ## Phase 5 disagreement resolution
 
-- Resolved: **1380** (auto-policies)
+- Resolved: **1400** (auto-policies)
 - Remaining manual queue: **0** (see `disagreements_manual.tsv`)
 
 Auto-resolution breakdown:
-- `auto:has-translation-from-body` — 291
+- `auto:has-translation-from-body` — 297
 - `auto:accept-reviewer-note` — 232
-- `auto:producer-superset-citations` — 60
-- `auto:reviewer-superset-citations` — 56
+- `auto:producer-superset-citations` — 63
+- `auto:reviewer-superset-citations` — 57
 - `auto:summary-diff-not-content` — 14
 - `auto:lemma-strip-period` — 7
 - `auto:set-equal-keep-producer` — 1
@@ -70,7 +70,7 @@ Auto-resolution breakdown:
 ## Known limitations
 
 1. Pages 1–30 (front matter + abbreviation tables) NOT parsed.
-2. Pages 721–735 NOT parsed (Phase 2 continues over time).
+2. Pages 736–735 NOT parsed (Phase 2 continues over time).
 3. `papyri_citations` is raw-as-written, not normalized (Phase 4 unskipped).
 4. 0 disagreements remain in the manual queue (Phase 5 partial).
 5. Continuation-from-prior-page entries sometimes have inferred lemma rather
