@@ -1,0 +1,31 @@
+πληρόω   520   πλήσσω
+
+cf. Clem. R. *Cor* 42 μετὰ πληροφορίας πνεύματος ἁγίου ἐξῆλθον εὐαγγελιζόμενοι. In Heb 6¹¹ the meaning is less subjective, "fulness" ("impletio sive consummatio," Grotius). The only instance of the subst. we can cite from the papyri is P Giss I. 87²⁵ τ]ὴν πληροφο[ρίαν, unfortunately in a very broken context.
+
+## πληρόω.
+
+The original meaning "fill," "fill to the full" (MGr πληρῶ) may be illustrated from the phrase in *Syll* 633 (= ³ 1042)²⁰ (ii/iii A.D.) ἐὰν δέ τις τράπεζαν πληρῶι τῶι θεῶι, λαμβανέτωι τὸ ἥμισ[υ. The meaning "pay" is very common (MGr πληρώνω)—e.g. P Hib I. 40¹¹ (B.C. 261) δραχμὴν μίαν οὐθείς σοι μὴ πληρ<ώσ>ηι, "no one will pay so much as 1 drachma" (Edd.), BGU IV. 1055²³ (B.C. 13) μέχρει τοῦ πληρωθῆναι τὸ δάηνον, P Oxy I. 114³ (ii/iii A.D.) κεῖται πρὸς β̄ μνᾶς· πεπλήρωκα τὸν τόκον μέχρι τοῦ Ἐπεὶφ πρὸς στατῆρα τῆς μνᾶς, "it is pledged for two minae. I have paid the interest up to Epeiph, at the rate of a stater per mina" (Edd.), P Grenf II. 77⁴ (iii/iv A.D.) (= *Selections*, p. 120) ἐπλήρωσα [αὐ]τὸν [το]ὺς μισθοὺς τῆς παρακομιδῆς τοῦ σώματος, "I paid him the costs of the carriage of the body"; P Oxy XII. 1489⁵ (late iii/A.D.) ἐνοχλεῖς μοι ὅτι ὀφείλεις Ἀγαθὸς(= ῷ) Δαίμονι χαλκόν· πεπλήρωσ(= κα)ο αὐτόν, "you worry me about the money which you owe to Agathodaemon: I have paid him in full" (Edd.), P Fay 135⁹ (iv/A.D.) ἐπισπούδασον πληρῶσαι ἵνα ἡ φιλία διαμίνη μετ' ἀλλήλων, "make haste to pay, in order that we may remain on good terms with each other" (Edd.), P Oxy VI. 902¹⁶ (c. A.D. 465) ἐμοῦ ὡς προεῖπον ἑτοίμως ἔχοντος πληρῶσαι ὅσα ἐποφείλω αὐτῷ ἐνγράφως, "since I am ready, as aforesaid, to discharge any debt secured in writing" (Edd.), and *Syll* 737 (= ³ 1109)⁴⁸ (before A.D. 178) ἐὰν δὲ μὴ πληροῖ (sc. τὴν ὁρισθεῖσαν εἰς οἶνον φοράν). This usage may give us the clue to the translation of Phil 4¹⁸ ἀπέχω δὲ πάντα . . . πεπλήρωμαι, "I have received payment," says Paul, "my account is settled": see C. H. Dodd in *Exp* VIII. xv. p. 295, and cf. Moffatt "your debt to me is fully paid and more than paid!," and Goodspeed, "you have paid me in full, and more too."
+
+The common NT use of πληρόω = "accomplish" a duty may be paralleled from P Lond 904²⁶ (A.D. 104) (= III. p. 125, *Selections*, p. 73) ἵνα . . . τὴν συνήθη [οἰ]κονομίαν τῆ[ς ἀπο]γραφῆς πληρώσωσιν, "in order that they may carry out the regular order of the census": cf. P Oxy XIV. 1669⁸ (iii/A.D.) ἐνετειλάμην σοι ἐξετάσαι περὶ τοῦ συναγοραστικοῦ εἰ πληροῦται, "I bade you to inquire about the purchased corn, whether the amount is being completed" (Edd.). A Spartan inscr. in the *Annual of the British School at Athens* xii. p. 452, dated provisionally by H. J. W. Tillyard in i/A.D., has ὃς ἕξει καὶ τὴν τοῦ ξυστάρχου τειμήν, πληρῶν τὰ εἰθισμέν[α, "discharging the usual offices": the editor cites *CIG* II. 2336 πληρώσαντα πᾶσαν ἀρχὴν καὶ λ[ε]ιτουργίαν. In the calendar inscr. *Priene* 105³⁴ (c. B.C. 9) Providence is stated to have filled the Emperor Augustus with virtue for the benefit of mankind, ὃν εἰς εὐεργε[σίαν ἀνθρώπων ἐπλή]ρωσεν ἀρετῆς (cf. Lk 2⁴⁰).
+
+The use of the verb in connexion with *time*, which Grimm treats as a "Hebraism," is found fully established in the Κοινή—P Lond 1168¹⁰ (A.D. 18) (= III. p. 136) πληρωθέντος δὲ τοῦ χρόνου, P Oxy XIV. 1641⁸ (A.D. 68) μέχρι τοῦ τὸν χρόνον πληρωθῆναι, and P Tebt II. 374¹⁰ (A.D. 131) ὁ χρόνος τῆς μισθώσεως ἐπληρό(= ώ)θη εἰς τὸ διεληλ[λ]υθὸς ιδ̄ (ἔτος), "the period of the lease expired in the past 14th year" (Edd.).
+
+## πλήρωμα.
+
+This important word is not very common in the vernacular, but it can be illustrated in the sense of a full "company" or "complement." From Egypt we have P Petr III. 43(3)¹² (B.C. 240) ἔγραψάς μοι μὴ ἀποσπάσαι τὸ π[λή]ρωμα ἐκ Φιλωτέριδος ἕως οὗ τὰ ἔργα συντελέσαι, "you wrote me not to withdraw the gang from Philoteris before they had finished the work" (Ed.), cf.¹⁵, ¹⁹, and an inscr. from near Sebastopol *Syll* 326 (= ³ 709)⁴⁰ (c. B.C. 107) παραλαβὼν δὲ καὶ τῶν πολιτᾶν ἐπιλέκτους ἐμ πληρώμασι τρισί ("in three ship-loads"). In P Hib I. 110⁹⁵ (c. B.C. 255) (= *Chrest.* I. p. 514) ἀπ[ὸ τοῦ] πληρώματος, Wilcken thinks the reference is to "the ship's crew": cf. Rom 11²⁵. See also P Par 60 *Bis*ⁱ·² (c. B.C. 200) τὸ ἀνήλωμα εἰς Ἀλεξάνδρειαν ἀπὸ τῶν πληρωμάτων [ἀρ]χαίων.
+
+The very common word πλήρωσις does not occur in the NT, but its restriction to commercial phraseology accounts for this: cf. *Ostr* 464⁷ (A.D. 85–6), P Lips I. 105³² (i/ii A.D.), and P Strass I. 19⁵, ¹² (A.D. 105). That πλήρωμα should take its place as a *nomen actionis* (as in Rom 13¹⁰) is not strange, as the –σις and –μα nouns are drawing together a good deal: the shortened penultimate of θέμα, κρίμα, χρίσμα etc., due to the analogy of the –σις words, illustrates the closeness of association.
+
+As against the so-called pass. sense of πλήρωμα for which Lightfoot contends (*Col.*² p. 257 ff.), see the elaborate note by Armitage Robinson in *Eph.* p. 255 ff. Cf. also the art. "Pleroma" by W. Lock in Hastings *DB* iv. p. 1 f., and for illustrations of the word from Hermetic literature see Reitzenstein *Poimandres* p. 25 n¹.
+
+## πλησίον,
+
+as adverb = "near" (Jn 4⁵): P Oxy III. 494²⁴ (A.D. 156) πλησίον τοῦ τάφου μου, *ib.* VIII. 1165⁹ (vi/A.D.) κτήματι πλησίον τοῦ Μύρμηκος, "an estate near Murmux." For the adj. πλησίος cf. *OGIS* 736⁵ (ii/i B.C.) (= *Fayûm Towns* p. 48) παρὰ τῶν πλησίων ἱερῶν.
+
+## πλησμονή
+
+is best understood *in malam partem* "repletion," "satiety," in the difficult passage Col 2²³; see Lightfoot's note *ad l.*, and to his citations add Euripides *Fr.* 887 ἐν πλησμονῇ τοι Κύπρις, ἐν πεινῶντι δ' οὔ. Cf. also Artem. p. 199¹⁸ πλησμονῆς ἢ ἐνδείας.
+
+## πλήσσω,
+
+"strike," "smite" (Rev 8¹²): cf. P Ryl II. 68¹⁰ (B.C. 89) ἔ[πληξέν] με ταῖς αὑτῆς χερσίν, BGU I. 163⁷ (A.D. 108) ἄλλοι ὡς πληγέντες ὑπὸ αὐτοῦ ἀναφόριον δεδώκασι, "others have given information (from time to time) as having been assaulted by him," P Flor I. 59⁴ (A.D. 225 or 241) ὥστε πληγῆ[ῆ]ναι μέν με ἐσέσθ[αι (l αἰσθέσθαι), P Lips I. 40ⁱⁱⁱ· ³ (iv/v A.D.) ὅλον τὸ σῶμα αὐτοῦ πεπληγμένον ἐστιν, and *Kaibel* 280³ (tit. valde recens) πλη[γ]εὶς ἐνκεφάλοιο κακὸν μόρον ἐ[ξ]ετέ[λ]ε(σ)σα[ς. For πλῆγμα cf. P Lips I. 40ⁱ· ⁷ (iv/v A.D.) and *ib.* 37²³ (A.D. 389).
