@@ -1,0 +1,26 @@
+[
+ {
+  "key": "#560:25",
+  "reason": "FREEFORM is wrong: with prev='BGU I. 221', raw='III. 756' is an abbreviated BGU citation, i.e. BGU III. 756."
+ },
+ {
+  "key": "#601:2",
+  "reason": "FREEFORM is wrong: raw='Fiii.88' is a continuation under prev='P Leid W', not an independent freeform source."
+ },
+ {
+  "key": "#1261:1",
+  "reason": "BODY is wrong: raw='VI. 904² (v/A.D.)' is an abbreviated papyrus-series citation in context, not a literary/classical body reference."
+ },
+ {
+  "key": "#2222:5",
+  "reason": "BODY is wrong: 'Paris papyrus, p. 422¹³' is a papyrus/source reference, not a literary/classical body citation."
+ },
+ {
+  "key": "#3509:0",
+  "reason": "BODY is wrong: 'Dessau 7566' is a real inscriptional source reference, not a literary/classical/Apocrypha body reference."
+ },
+ {
+  "key": "#889:5",
+  "reason": "BODY is wrong: Wilcken Archiv/Selections is a real secondary source reference, not a literary/classical body citation."
+ }
+]

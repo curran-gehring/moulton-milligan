@@ -159,6 +159,20 @@ def main() -> int:
                 norm_arr.append({"raw": raw, "norm": c, "series": series,
                                  "status": "matched"})
                 n_match += 1
+            elif last_series and re.match(r"^\d", c):
+                # MM chain style: a bare further-document number in the same
+                # series ("Syll 199⁷, 198¹³ ..."). Inherit series (+volume).
+                norm = " ".join(x for x in (last_series, last_volume, c) if x).strip()
+                last_document = doc_of(c)
+                norm_arr.append({"raw": raw, "norm": norm, "series": last_series,
+                                 "status": "expanded"})
+                n_expand += 1
+            elif last_series and last_document and c[:1] in SUP:
+                # bare line-superscript of the previous document
+                parts = [last_series] + ([last_volume] if last_volume else []) + [last_document]
+                norm_arr.append({"raw": raw, "norm": (" ".join(parts) + c).strip(),
+                                 "series": last_series, "status": "expanded"})
+                n_expand += 1
             else:
                 norm_arr.append({"raw": raw, "norm": c, "series": None,
                                  "status": "unmatched"})
