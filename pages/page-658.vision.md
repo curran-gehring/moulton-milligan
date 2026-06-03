@@ -1,0 +1,30 @@
+τεκμήριον  628  τέκτων
+
+παλαιῶ(ν), "demolition of old walls," and for the verb τειχίζω, see *ib.* 102⁹ (2nd half ii/A.D.) αὐλ( ) ἀ[π]ὸ βο[ρρ]ᾶ τετειχισμέ(ν ).
+
+## τεκμήριον.
+This strong word which AV renders "infallible proof" in Ac 1³ may be illustrated by an Ephesian inscr. *Syll* 656 (=³ 867)³⁷ (*c.* A.D. 160), where it is mentioned as μέγιστον τεκμήριον of the σεβασμός accorded to the goddess Artemis that a month is named after her. Cf. also *ib.* 929 (=³ 685)⁸⁴ (B.C. 139) μέγιστον καὶ ἰσχυρότατον τεκμήριον, and P Tor I. 1ⁱᵛ·¹¹ (B.C. 116) μέγα τι συμβάλλεσθαι τεκμήριον, also ᵛⁱⁱⁱ·³². In another Ptolemaic papyrus P Giss I. 39⁹ (B.C. 204–181) τεκμήριον stands beside ὅρκος.
+The editors render P Ryl II. 159¹⁵ (A.D. 31–2) ἵν᾽ ὑπάρχωσι τῇ [Ταχόιτι αἱ παραχωρούμεναι ἄ]ρουραι σὺν τοῖς ἄλλοις τε[κμηρίοις . . ., "in order that the arurae ceded may appertain to Tachois with all other titles" (i.e. "title-deeds"), but in their note they cite the parallel formula P Oxy III. 504¹⁵ (early ii/A.D.) σὺν τοῖς ἄλλοις σημίοι[s, where the σημεῖα may possibly refer to "boundary-marks." It may be added that, according to Hobart p. 184, "Galen expressly speaks of the medical distinction between τεκμήριον—demonstrative evidence—and σημεῖον, stating that rhetoricians as well as physicians had examined the evidence."
+For the verb τεκμαίρομαι, see P Ryl II. 74⁵ (A.D. 133–5) where a prefect declares that time will not permit his carrying out two purposes—τεκμαίρομαι τὸν χρόνον οὐ[χ ἱκανὸν εἶναι εἰ]s ἀμφότερα.
+
+## τεκνίον.
+For this dim. of τέκνον cf. P Oxy XIV. 1766¹⁴ (iii/A.D.) ἀσπάζομαι . . . τὰ ἀβάσκαντα τεκνία, "I greet your children, whom the evil eye will not harm."
+
+## τεκνογονέω.
+With this NT ἅπ. εἰρ. (1 Tim 5¹⁴) = "bear a child," we may compare the similar compd. τεκνοποιέομαι in the marriage contract P Eleph 1⁹ (B.C. 311–10) (= *Selections*, p. 3), where the husband is bound down μηδὲ τεκνοποιεῖσθαι ἐξ ἄλλης γυναικός, "not to beget children by another woman." In *UPZ* i. 4⁵ (B.C. 164) ἕνεκ[α] τοῦ . . . τεκνοπ[ο]ήσασθα(= θαι) αὐτήν, the meaning is "adopt" (cf. Wilcken's note). See also *s.v.* τεκνογονία.
+
+## τεκνογονία.
+Ramsay *Teaching* p. 170 ff. tries to show that, while τεκνογονέω is used in a physical sense in 1 Tim 5¹⁴, the abstract noun τεκνογονία in 1 Tim 2¹⁵ points rather to "the power of maternal instinct" or "motherhood." But it is by no means clear that the writer did not use the two words with the same connotation. In any case it is not likely that, with Ellicott and other commentators, we are to stress the article and in τῆς τεκνογονίας of 1 Tim 2¹⁵ find a reference to "the (great) child-bearing," i.e. the bearing of Jesus, foreshadowed in Gen. 3¹⁶.
+
+## τέκνον.
+(1) The following may serve as exx. of this very common word = "a child"—P Amh II. 35⁵⁵ (B.C. 132) ὑπέρ τε τοῦ βα(σιλέως) καὶ τῶν βα(σιλι)κῶν τέκνων, P Tor II. 11¹¹ ἕτερα τέκνα, "a second family," BGU IV. 1097²³ (time of Claudius/Nero) τὴν μητέρα καὶ Δήμητριν καὶ τὰ τέ[κ]να αὐτοῦ ἀσπάζου, BGU I. 234³⁴ (*c.* A.D. 70–80) ὥσπερ ἰδ[ί]ων τέκνων, P Lond 897²⁸ (A.D. 84) (= III. p. 207) μέλει σοι πολλὰ περὶ ἐμοῦ μελ[ήσε]ι σοι δὲ ὡς ὑπὲρ ἰδίου τέκνου, P Oxy II. 237ᵛⁱⁱⁱ·³⁶ (A.D. 186) ἡ δὲ κτῆσις μετὰ θάνατον τοῖς τέκνοις κεκράτηται, "but the right of ownership after their death has been settled upon the children" (Edd.), and BGU II. 419¹⁵ (A.D. 276–7) οὐκ ἐπελεύσομα[ι] περὶ αὐτῶν το[ύτ]ων οὐδὲ οὐδεὶς τῶν παρ᾽ ἐμοῦ οὐδὲ τέκνον τ[έ]κνου. As showing the oppression of the Egyptian middle-class, we may note the case of a certain Pamonthius, whose children had been seized by his creditors—οἵτινες οἱ ἀνελεήμονες ἐκεῖνοι καὶ ἄθεοι ἀπέσπασαν τὰ πάντα τὰ ἑαυτοῦ τέκνα νήπια κομιδῇ, "who, those pitiless and godless men, carried off all his children, being yet quite in their infancy" (Bell) (P Lond 1915²⁸—A.D. 330–340).
+(2) Τέκνον is also used as a form of kindly address, even in the case of grown-up persons—P Oxy I. 33ⁱ·¹¹ (late ii/A.D.) τρέχε, τέκνον, τελεύτα, P Giss I. 12⁵ (letter to a strategus—ii/A.D.) παρακαλῶ σε οὖν, τέκνον, . . . ἐντυπήν ("pattern") μοι πέμψον, similarly *ib.* 21²⁰ (time of Trajan) ἔρρωσο τέκνον, and P Oxy VII. 1063¹ (ii/iii A.D.) χαίροις, τέκνον Ἀμόι, "greeting, my son Amoïs!"
+(3) Schaeffer *ad* P Iand 13⁸ has brought together various exx. of τέκνον and υἱός, e.g. P Gen I. 74¹ ᶠᶠ· (iii/A.D.) Ἡραῒς Ἀγριππ[ί]νῳ τῷ υἱῷ πλεῖστα χ(αίρειν). πρὸ μὲν πάντων εὔχομαί σε ὑγειαίνειν καὶ προκόπτειν. γείνωσκε, τέκνον, ἀπεληλυθέναι ἐμέ, P Amh II. 136¹ ᶠ· (iii/A.D.) Ἀπίων Σαρίωνι τῷ υἱῷ χαίρειν . . . . ᵃγράφω σοι, τέκνον, and P Oxy VI. 930¹⁸ (ii/iii A.D.) ὥστε οὖν, τέκνον, μελησάτω σοι, and on the *verso* Πτολεμαίῳ υἱῷ.
+(4) For the Hebraistic idiom underlying the use of τέκνον with genitives of quality, as in Eph 5⁸ τέκνα φωτός, see Deissmann *BS* p. 161 ff., and *s.v.* υἱός.
+
+## τεκνοτροφέω.
+With this NT ἅπ. εἰρ. (1 Tim 5¹⁰) = "bring up children," cf. Epict. i. 23. 3 διὰ τί ἀποσυμβουλεύεις τῷ σοφῷ τεκνοτροφεῖν;
+
+## τέκτων.
+The ordinary limitation of this word to "a worker in wood," "a carpenter," as in Mt 13⁵⁵, Mk 6³, is supported by P Fay 110²⁸ (A.D. 94) τὰς θύρας ἐπιστησάτωσαν οἱ τέκτονες, "let the carpenters put up the doors" (Edd.), P Flor II. 152⁹ (letter regarding the conveyance of wood—A.D. 268) τῷ τέκτονι τὴν συνήθη δ[α]πάνην, cf. *ib.* 158¹ (iii/A.D.), and P Oxy I. 53² (A.D. 316), a report παρὰ τοῦ κοινοῦ τῶν τεκτόνων, from the guild of carpenters at Oxyrhynchus regarding a persea tree they had been commissioned to examine.
+Other exx. of the word are P Fay 122¹⁹ (*c.* A.D. 100) ἀπαναγκάσεις Σισόιν τὸν τ[έκ]τονα ἀποτῖσαι, "make Sisois the carpenter pay up" (Edd.), *Ostr* 1597 (ii/A.D.) δὸς τοῖς τέκτοσι ζεύγη ἄρτων δέκα ἕν, P Oxy I. 121²⁵ (iii/A.D.) τοὺς τέκτονες(= ας) μὴ ἀφῇς ὅλως ἀργῆσε(= σαι), "don't allow the carpenters to be wholly idle" (Edd.), PSI VII. 809⁴ (iv/A.D.) Φοιβάμμονι τέκτονι ἐργ(αζομένῳ) εἰς
