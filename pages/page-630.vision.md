@@ -1,0 +1,31 @@
+συνάγω   600   συναγωγή
+
+(A.D. 345) σ]ὺν θεῷ ὡς ἂν δυνηθ[ῶ] σ[οι] . . [ἐ]γγύας ἀποκαταστήσω, and P Amh II. 150²⁸ (A.D. 592) ἐκ νέων κ[αρπῶ]ν τῆς σὺν θεῷ δωδεκάτης ἐπινεμήσεως, ''from the new crop of the, D.V., coming twelfth indiction '' (Edd.). For a Christian ex. of the phrase see the well-known letter of Psenosiris, P Grenf II. 73¹⁶ (late iii/A.D.) (= *Selections*, p. 118) ὅταν ἔλθῃ σὺν Θεῷ, ''when he arrives by the help of God.'' For the rival theory that this letter refers not to the banishment of a Christian woman during the great persecution, but to the transport of a mummy for burial, see Crönert, *Raccolta Lumbroso*, p. 515 ff.
+
+The preposition occasionally passes into what is almost an instrumental sense, as in P Par 12¹⁷ (B.C. 157) σὺν τοῖς θεοῖς καὶ τῇ σῇ τύχῃ ἐκ θανάτου σέσωμαι. See also P Tebt I. 20⁵ (B.C. 113) χαριεῖ σὺν σοὶ αὐτὸν εἰσαγαγών, ''you will do me a favour by personally introducing him '' (Edd.) (cf. 1 Cor 15¹⁰).
+
+(4) Σύν = ''in fellowship with,'' as a technical term in magic ritual, appears in such passages as P Par 574²⁹⁹⁹ (c. A.D. 300) λαμβάνω σε σὺν ἀγαθῇ Τύχῃ καὶ ἀγαθῷ Δαίμονι, and the cursing leaden tablet of iii/B.C. *CIA* Append. (= *IG* III. iii.) 108 δήσω ἐγὼ κείνην . . . σύν θ' Ἑκάτ(η)ι χθονίαι καὶ Ἐρινύσιν—both cited by Deissmann *LAE*², pp. 255, 303.
+
+For the NT formula σὺν Χριστῷ we must again refer to Deissmann, who in his monograph *Die neutestamentliche Formel ''in Christo Jesu''* (Marburg, 1892) has shown that σὺν Χριστῷ ''nearly always means the fellowship of the faithful with Christ after their death or after His coming.'' In this connexion he adduces elsewhere (see *LAE*² p. 303 n.¹) a striking parallel to Phil 1²³ in a *graffito* from Alexandria, probably of the Imperial period, where a deceased person is addressed in the words εὔχομαι κἀγὼ ἐν τάχυ σὺν σοὶ εἶναι, ''I would that I were soon in fellowship with thee.''
+
+(5) For σύν c. gen. cf. *Ostr* 240⁵ (A.D. 159) σὺν Μηνοφίλου, and P Lond 113. 4¹⁹ (A.D. 595) (= I. p. 209) σὺν μισθοῦ ὅλου.
+
+(6) For the pleonastic καί after μετά in Phil 4³ (cf. Deissmann *BS* p. 265 f.) we can now compare σὺν καί in *PAS* iii. 612 (Phrygia—Imperial) σὺν καὶ τῷ ἀνδρὶ αὐτῆς (cited by Hatch, *JBL* xxvii. (1908), p. 143).
+
+## συνάγω,
+
+'' bring or gather together.'' The verb is frequently used of the total amount, the full sum, received by sale or by purchase, e.g. P Oxy II. 285¹⁹ (c. A.D. 50) διέσισέν με ἄλλας δραχμὰς τέσσαρες . . . μηνῶν ἕξ, κατὰ μῆνα δραχμὰς δύο, αἱ συναγόμεναι (δραχμαὶ) κ̄δ̄, ''he also extorted from me four more drachmae, and two drachmae each month during six months . . .: total, 24 drachmae '' (Edd.), P Tebt II. 296³ (A.D. 123) τὸ συναγ[ό]μενον τῆς πρ[ο]σθήκης ἀνελήφθη, ''the total amount of the increase was received,'' or P Oxy I. 55¹¹ (A.D. 283) where two joiners ask for payment of 4000 drachmae as the total amount of wages due to them in connexion with the construction of a street—τὰ συναγόμενα τῶν μισθῶν τοῦ ὅλου ἔργου. It would seem, therefore, that by συναγαγὼν πάντα in Lk 15¹³ we must understand with Field (*Notes*, p. 68) that the prodigal converted his goods into money, sold all off and realized their full value, rather than that he ''gathered all together '' to take with him.
+
+For the meaning ''hospitably receive,'' ''entertain,'' as in Mt 25³⁵, Ac 11²⁶ (cf. Hort *Ecclesia*, p. 61), and in several places in the LXX (with εἰς τὸν οἶκον or the like), cf. *OGIS* 130⁵ (B.C. 146–116) οἱ συνάγοντες ἐν Σήτει . . . βασιλισταί, where Dittenberger takes the verb transitively, and thinks the reference is to a club gathering or festal meal. He compares Athenaeus VIII. p. 365 c ἔλεγον δὲ συνάγειν καὶ τὸ μετ' ἀλλήλων πίνειν καὶ συναγώγιον τὸ συμπόσιον, and Theophrast. *Charact.* 30 (= xxvi. 36, ed. Jebb) συναγόντων παρ' αὐτῷ, ''a club dinner at his house.'' See also Kennedy *Sources*, p. 128, and Menander *Selections ad* Ἐπιτρέπ. 195.
+
+Other exx. of the verb are P Alex 4⁸ (iii/B.C.) (= Witkowski², p. 51) ἔτι δὲ καὶ νῦν, εἰ μὴ τὴν μήκωνα συνάξεις, οὐδείς σε ἀνθρώπων μὴ ὠφειλήσηι, P Eleph 8⁷ (iii/B.C.) τὸ συναγόμενον εἰς τὸ ἱερὸν ἀργύριον, P Tebt II. 389¹⁵ (A.D. 141) σ]ὺν ταῖς συναγομέναις τόκου αὐτῶν δραχμαῖς τετρακ[ο]σίαις εἴκοσι, ''with the interest accruing upon it, 420 drachmae '' (Edd.), P Oxy XIV. 1701¹⁸ (iii/A.D.) τοὺς] δὲ συναχθέντας δραχμιαίους τόκους, BGU I. 98¹⁰ (A.D. 211) ὧν ἡ συναγομένη τιμὴ ἐν ἀργυρίῳ ἔ[με]ινεν.
+
+[The originality in Lk 3¹⁷ of the vulgar aor. συνάξαι so (א^a) as an element traceable to '' Q '' has been discussed by J. H. Moulton in *Exp* VII. vii. p. 413 and *Cambridge Biblical Essays*, p. 485 f., in connexion with the Synoptic Problem.]
+
+## συναγωγή.
+
+(1) For συναγωγή in its literal sense of ''a drawing together'' cf. the description of the awning of a boat in P Cairo Zen I. 59054⁶ (B.C. 257) πρυμνητικὴ . . . ἔχουσα συναγωγὴν εἰς πήχεις γ̄, i.e. ''converging for a distance of three cubits '' (Edd.) : also ²¹, ³².
+
+(2) Hence, more generally, ''a collecting,'' ''a gathering '' (a) of things—P Cairo Zen II. 59173²⁹ (B.C. 255 or 254) ὡς ἂν ἡ] συναγωγὴ τοῦ σίτου [γένηται, *Chrest.* I. 304⁵ (iii/B.C.) εἰς τὴν συνα]γωγὴν τοῦ λοιποῦ (sc. κρότωνος), *Chrest.* I. 155² (a book catalogue from Memphis—beg. iii/A.D.) Σωκ[ρα]τικῶν ἐπιστο[λ(ῶν)] συναγωγαί: cf. Cic. *ad Att.* xvi. 5. 5 *mearum epistularum nulla est* συναγωγή.
+
+(b) Of persons. The use of συναγωγή in the LXX to denote an ''assembly'' for religious purposes, practically synonymous with ἐκκλησία, is prepared for by such passages from the inscrr. as *CIG* II. 2448 (Will of Epiktela—iii/ii B.C.), where συναγωγή is used of the ''assembling'' of the θίασος or corporation, and *Syll* 653 (= ³736)⁴⁹ (Andania decree—B.C. 92) ἐν τᾶι πρώται συννόμωι συναγωγᾶι τῶν συνέδρων, where the reference is to the senate of Andania. Both passages are cited by Hicks *CR* i. p. 43. See also the Ptolemaic inscr. of probably B.C. 112 reproduced by Strack (*Archiv* iii. p. 129) which begins ἐπὶ συναγωγῆς τῆς γενηθείσης ἐν τῶι ἄνω Ἀπολλ[ω]νιείωι τοῦ πολιτεύματος καὶ τῶν ἀπὸ τῆς πόλεως Ἰδουμαίων, where the συναγωγή is composed of τὸ πολίτευμα along with οἱ ἀπὸ τῆς πόλεως Ἰδουμαῖοι, BGU IV. 1137² (B.C. 6) ἐπὶ τῆς γε[νη]θείσης συναγωγῆς ἐν τῷ Παρατόμωι συνόδου Σεβάστης τοῦ θεοῦ αὐτοκράτορος Καίσαρος ἧς συνα[γωγεὺς] καὶ προστάτης Πρῖμος, an important document as expressly connecting a

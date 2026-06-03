@@ -1,0 +1,31 @@
+στίγμα   590   Στοϊκός
+
+(ε)ις τὴν στιβάδα, Dittenberger understands the word as = *sodalitas* (see his note *ad l.*).
+
+## στίγμα,
+
+"mark," "brand," occurs in the NT only in Gal 6¹⁷ τοῦ λοιποῦ κόπους μοι μηδεὶς παρεχέτω, ἐγὼ γὰρ τὰ στίγματα τοῦ Ἰησοῦ ἐν τῷ σώματί μου βαστάζω, where there is general agreement in understanding by the στίγματα the scars or wounds which Paul received in the course of his Apostolic labours (cf. 2 Cor 6⁴⁵, 11²³⁻²⁷). The exact origin of the metaphor is, however, by no means clear, and though our sources do not help us much in the present instance, it may be well to refer to some of the interpretations which have been suggested.
+
+(1) A common tendency is to derive the figure from the practice of branding slaves, especially those who had run away, or otherwise misbehaved. And here, to the numerous reff. in Wettstein *ad l.*, we may add two exx. of the corresponding verb in the papyri—P Lille I. 29¹⁴ (iii/B.C.) μηδενὶ ἐξέστω σώματα πωλεῖν [ἐπ'] ἐξαγωγῆι, μηδὲ στίζειν, μηδ[ὲ] μ̣α̣[στ]ι̣ζ̣[ε]ι̣ν̣, "let no one be permitted to sell slaves for export, nor to brand them, nor to scourge them," and P Par 10⁸ (B.C. 156) (= *UPZ* i. p. 573), where a runaway slave is described as ἐστιγμένος τὸν δεξιὸν καρπὸν γράμμασι βαρβαρικοῖς δυσίν, "branded on the right wrist with two barbaric letters": cf. Herodas V. 66 with Headlam's note. But the idea of punishment is wholly alien to the thought of the passage before us. Nor is there any evidence that the practice of soldiers tattooing themselves with their commanders' names, which others prefer, was at all general.
+
+(2) In his *BS* p. 349 ff. Deissmann works out at some length another line of interpretation with the aid of a bilingual Leyden papyrus of iii/A.D. The text runs—μή με δίωκε ὅδε . . . βαστάζω τὴν ταφὴν τοῦ Ὀσίρεως καὶ ὑπάγω κατα[στ]ῆσαι αὐτὴν ε(ἰ)ς Ἄβιδος . . . ἐάν μοι ὁ δεῖνα κόπους παράσχῃ, προσ(τ)ρέψω αὐτὴν αὐτῷ, "persecute me not, thou there! I carry the corpse of Osiris, and I go to convey it to Abydos. Should anyone trouble me, I shall use it against him." Without going into details, the general meaning, according to Deissmann, is clear: "the βαστάζειν of a particular amulet associated with a god acts as a *charm* against the κόπους παρέχειν on the part of an adversary." Similarly, he thinks, the Apostle counsels his Galatian converts, "Do be sensible, do not imagine that you can hurt me—I am protected by a *charm*." The explanation is ingenious and has gained the weighty support of Zahn *Galaterbrief*, p. 286: cf. also a note by J. H. Moulton in *Exp T* xxi. p. 283 f. But, apart from other objections, it is not easy to imagine from the Apostle's deriving the suggestion of divine protection from a magical charm, or adopting a smiling, half-mocking attitude towards the Galatians, which Deissmann pictures, in a letter that is in general so severe. [For a discussion of the Leyden papyrus from a different point of view, see de Zwaan in *JTS* vi. (1905), p. 418 ff.]
+
+(3) On the whole, accordingly, it would seem best to give the passage a wider and more general reference, and to take it as indicating simply the personal relation of Paul to his Master with all the security which that brought with it. For such a meaning the commentators have supplied various parallels. Thus in Herod. ii. 113 it is provided that a slave in Egypt may secure virtual emancipation by going to a certain temple of Herakles and having branded upon him στίγματα ἱρά, to denote his consecration to the god (cf. T. R. Glover *Paul of Tarsus*, p. 98 f., citing L. R. Farnell *Greece and Babylon*, p. 194): similarly in Lucian *de Dea Syr.* 59 it is stated—στίζονται δὲ πάντες οἱ μὲν ἐς καρπούς, οἱ δὲ ἐς αὐχένας, καὶ ἀπὸ τοῦδε ἅπαντες Ἀσσύριοι στιγματηφορέουσι, and once more in 3 Macc 2²⁹ Ptolemy Philopator is described as compelling the Jews to be branded with the ivy-leaf of Dionysus—τοὺς τε ἀπογραφομένους χαράσσεσθαι, καὶ διὰ πυρὸς εἰς τὸ σῶμα παρασήμῳ Διονύσῳ κισσοφύλλῳ. [See also *s.v.* χάραγμα for σῆμα as a mark of identity in P Oxy XIV. 1680¹¹.] Most recently Wilcken in the *Festgabe für Adolf Deissmann* (Tübingen, 1927) p. 8 f. has revived the reference to the practice of the followers of the Syrian goddess, and thinks that the Galatian passage need not mean more than that Paul has given himself over to Jesus for His own ("dass er sich Jesu zu eigen gegeben habe").
+
+An ex. of the medical use of στίγμα is afforded by the account of a cure in the temple of Aesculapius at Epidaurus, *Syll* 802 (= ³ 1168)⁴⁸ (*c.* B.C. 320) Πάνδαρ]ος Θεσσαλὸς στίγματα ἔχων ἐν τῶι μετώπωι. οὗτος [ἐγκαθεύδων ὄ]ψιν εἶδε, cf.⁶².
+
+## στιγμή,
+
+lit. a "prick" or "point," is used metaph. of time in Lk 4⁵, Isai 29⁵: cf. Plut. 2. 13 D στιγμὴ χρόνου ὁ βίος, M. Anton. ii. 17, and the prepositional phrase ἐν στιγμῇ in Vett. Val. pp. 131⁴, 239¹¹.
+
+## στίλβω,
+
+"shine," "glisten" (Mk 9³): cf. *Kaibel* 918¹ Μαρκιανοῦ στίλβει τύπος Ἑλλάδος ἀνθυπάτοιο, *ib.* 810³ ναοί μοι στίλβουσιν ὑπ' ἠόνος. In the epithalamium P Masp III. 67318³ (Byz.) reference is made to σεμνὸν ἀεὶ στίλβοντα γάμον. See also Bacchyl. XVII. 55 ὄμματων δὲ στίλβεν ἀπο Λαμνίαν φοίνισσαν φλόγα, "a fiery light, as of the Lemnian flame, flashes from his eyes" (Jebb).
+
+## στοά,
+
+For this word which is used of the covered "portico" or "colonnade" (AV, RV "porch") of the Temple in Jn 10²³, Ac 3¹¹, we may cite the following exx.—CP Herm I. 119 *recto*iii. ¹⁶ πρὸς τῆ καμάρα ὑπὸ στοὰν Ἀντινοϊτικῆς πλατίας, BGU IV. 1167³³ (B.C. 12) ἐν τῇ τετραγώ(νῳ) στοᾷ οἰκο-τηρίο(υ), *ib.* 1127³⁴ (B.C. 8) εἰς τὸ τῆς στοᾶς λογιστήριον, P Oxy XII. 1406¹¹ (edict of Caracalla—A.D. 213–17) προετέθη ἐν Β[αβυλῶνι ?] ὑπὸ στ[ο]ᾷ δημοσίᾳ, "published at B[abylon ?] in the public colonnade" (Edd.), *ib.* XVI.¹³ (A.D. 505) ὑπ[ὸ τὴν νοτιν]ὴν δημοσίαν στοάν, *Michel* 1001ⁱⁱ·¹⁷ (*c.* B.C. 200) εἴ κα μή τις στοὰν οἰκοδομῆσαι προαιρῆται, *Syll* 588²⁴⁵ (*c.* B.C. 180) ἐνωπίως στοὰν καὶ *C. and B.* p. 155, No. 61 (A.D. 136–7) τὴν ἐξέδραν καὶ τὴν στοιὰν παρ' ἑαυτοῦ ἀποκαθίστησεν.
+
+## Στοϊκός,
+
+See *s.v.* Στωϊκός.
