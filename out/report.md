@@ -1,12 +1,15 @@
 # Moulton-Milligan Digitization — Report
 
-Generated: 2026-06-03T18:10:37.355911+00:00
+Generated: 2026-06-03T18:33:56.278533+00:00
 
 ## Scope of this export
 
 **Lexicon-body chunk** — pages 31–735 (699 pages parsed).
-Phase 4 (citation normalization) is skipped for this preview; `papyri_citations`
-field holds the raw as-written strings from `papyri_citations_raw`. Phase 5
+Phase 4 (citation normalization) is DONE: `papyri_citations_norm` holds per-citation
+objects {raw, norm, series, status} normalized against MM's own front-matter
+abbreviation table (reference/papyri_abbreviations.json, 303 entries); ib./id.
+anaphora expanded from the preceding citation. `papyri_citations` remains the raw
+as-written strings. Phase 5
 (disagreement resolution) has run deterministic auto-policies + manual sweeps;
 remaining cases requiring human judgment are surfaced in `disagreements_manual.tsv`.
 
@@ -71,7 +74,7 @@ Auto-resolution breakdown:
 
 1. Pages 1–30 (front matter + abbreviation tables) NOT parsed.
 2. Pages 736–735 NOT parsed (Phase 2 continues over time).
-3. `papyri_citations` is raw-as-written, not normalized (Phase 4 unskipped).
+3. `papyri_citations` is raw-as-written; `papyri_citations_norm` is the Phase-4 normalized form.
 4. 0 disagreements remain in the manual queue (Phase 5 partial).
 5. Continuation-from-prior-page entries sometimes have inferred lemma rather
    than the true prior-page headword. See entries with

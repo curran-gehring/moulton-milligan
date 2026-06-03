@@ -1,0 +1,50 @@
+{
+ "sampled": 1103,
+ "flagged": [
+  {
+   "idx": 11774,
+   "entry_id": 2606,
+   "status": "expanded",
+   "prev": "P Leid Wⁱⁱ· ⁴",
+   "raw": "*ib.*ˣⁱⁱⁱ· ¹⁰",
+   "norm": "P Leid ˣⁱⁱⁱ· ¹⁰",
+   "reason": "ib. should inherit P Leid W; norm dropped W"
+  },
+  {
+   "idx": 15785,
+   "entry_id": 3550,
+   "status": "expanded",
+   "prev": "*Syll* 523 (=³ 578)⁶¹ (ii/B.C.)",
+   "raw": "*ib.*³ 836⁵ (A.D. 125-7)",
+   "norm": "Syll 523³ 836⁵ (A.D. 125-7)",
+   "reason": "ib.³ 836 refers to Syll³ 836, not inherited no. 523"
+  },
+  {
+   "idx": 15473,
+   "entry_id": 3487,
+   "status": "expanded",
+   "prev": "P Oxy XIV. 1668⁶ (iii/A.D.)",
+   "raw": "ib. 682² (iv/A.D.)",
+   "norm": "P Oxy XIV. 682² (iv/A.D.)",
+   "reason": "ib. 682 should not inherit P Oxy XIV; P Oxy 682 is a different volume"
+  },
+  {
+   "idx": 10015,
+   "entry_id": 2175,
+   "status": "expanded",
+   "prev": "33",
+   "raw": "*ib.* 116⁸",
+   "norm": "Chrest. I 116⁸",
+   "reason": "PREV has no series/volume to support expansion to Chrest. I"
+  },
+  {
+   "idx": 15150,
+   "entry_id": 3412,
+   "status": "expanded",
+   "prev": "*ib.* 856²⁸",
+   "raw": "*ib.* 1159⁴⁹",
+   "norm": "P Lond 1159⁴⁹",
+   "reason": "PREV is also ib. and gives no series/volume to support expansion to P Lond"
+  }
+ ]
+}

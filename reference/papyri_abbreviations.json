@@ -1,0 +1,1820 @@
+[
+ {
+  "abbrev": "Abbott *Fourfold Gospel*",
+  "abbrev_clean": "Abbott Fourfold Gospel",
+  "expansion": "*The Fourfold Gospel*, Section II. *The Beginning*, by E. A. Abbott. Cambridge, 1914.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Joh. Gr.*",
+  "abbrev_clean": ",, Joh. Gr",
+  "expansion": "*Johannine Grammar*, by the same. London, 1906.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Joh. Voc.*",
+  "abbrev_clean": ",, Joh. Voc",
+  "expansion": "*Johannine Vocabulary*, by the same. London, 1905.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Abbott *Songs*",
+  "abbrev_clean": "Abbott Songs",
+  "expansion": "*Songs of Modern Greece*, by G. F. Abbott. Cambridge, 1900.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Aegyptus*",
+  "abbrev_clean": "Aegyptus",
+  "expansion": "*Aegyptus. Rivista Italiana di Egittologia e di Papirologia*. Ed. A. Calderini. Milan, 1920- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "*AJP*",
+  "abbrev_clean": "AJP",
+  "expansion": "*The American Journal of Philology*. Baltimore, 1880- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "*AJT*",
+  "abbrev_clean": "AJT",
+  "expansion": "*The American Journal of Theology*. Chicago, 1897- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Anz *Subsidia*",
+  "abbrev_clean": "Anz Subsidia",
+  "expansion": "*Subsidia ad cognoscendum Graecorum sermonem vulgarem e Pentateuchi versione Alexandrina repetita* (being *Diss. philolog. Halenses*, xii. 2), by H. Anz. Halle, 1894.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Archiv*",
+  "abbrev_clean": "Archiv",
+  "expansion": "*Archiv für Papyrusforschung*. Ed. U. Wilcken. Leipzig, 1901- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Aristeas*",
+  "abbrev_clean": "Aristeas",
+  "expansion": "*Aristeae ad Philocratem Epistula*. Ed. P. Wendland. Leipzig, 1900.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Artemidorus or Artem.",
+  "abbrev_clean": "Artemidorus or Artem",
+  "expansion": "*Artemidori Daldiani Onirocriticon Libri V*. Ed. R. Hercher. Leipzig, 1864.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*BCH*",
+  "abbrev_clean": "BCH",
+  "expansion": "*Bulletin de Correspondance Hellénique*. Paris and Athens, 1877- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Berger *Strafklauseln*",
+  "abbrev_clean": "Berger Strafklauseln",
+  "expansion": "*Die Strafklauseln in den Papyrusurkunden*, von A. Berger. Leipzig, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Berichtigungen*",
+  "abbrev_clean": "Berichtigungen",
+  "expansion": "*Berichtigungsliste der Griechischen Papyrusurkunden aus Ägypten*, herausgegeben von F. Preisigke. Berlin und Leipzig, 1922.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Birt *Buchrolle*",
+  "abbrev_clean": "Birt Buchrolle",
+  "expansion": "*Die Buchrolle in der Kunst*, von Theodor Birt. Leipzig, 1907.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Blass *Gr.*",
+  "abbrev_clean": "Blass Gr",
+  "expansion": "*Grammar of New Testament Greek*, by F. Blass. Eng. tr. by H. St. John Thackeray. Second edit. London, 1905.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Blass *Philology*",
+  "abbrev_clean": "Blass Philology",
+  "expansion": "*Philology of the Gospels*, by Friedrich Blass. London, 1898.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Blass-Debrunner",
+  "abbrev_clean": "Blass-Debrunner",
+  "expansion": "*Friedrich Blass Grammatik des neutestamentlichen Griechisch*. Fünfte Aufl. von. A. Debrunner. Göttingen, 1921.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Boisacq *Dict. Étym.*",
+  "abbrev_clean": "Boisacq Dict. Étym",
+  "expansion": "*Dictionnaire Étymologique de la Langue Grecque*, par Émile Boisacq. Heidelberg and Paris, 1916.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Boll *Offenbarung*",
+  "abbrev_clean": "Boll Offenbarung",
+  "expansion": "*Aus der Offenbarung Johannis: Hellenistische Studien zum Weltbild der Apokalypse*, von Franz Boll. Leipzig, 1914.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Bonhöffer *Epiktet*.",
+  "abbrev_clean": "Bonhöffer Epiktet",
+  "expansion": "*Epiktet und das Neue Testament* (being *Religionsgeschichtliche Versuche und Vorarbeiten*, herausgegeben von R. Wünsch und L. Deubner, X), von Adolf Bonhöffer. Giessen, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Brugmann *Grundriss*²",
+  "abbrev_clean": "Brugmann Grundriss²",
+  "expansion": "*Grundriss der vergleichenden Grammatik der indogermanischen Sprachen*, von Karl Brugmann. Zweite Bearbeitung. Strassburg, 1897.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Brugmann-Thumb.",
+  "abbrev_clean": "Brugmann-Thumb",
+  "expansion": "*Griechische Grammatik*, von Karl Brugmann. Vierte vermehrte Aufl. von Albert Thumb. Munich, 1913.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*BS.*",
+  "abbrev_clean": "BS",
+  "expansion": "See under Deissmann.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Burkitt *Syriac Forms*",
+  "abbrev_clean": "Burkitt Syriac Forms",
+  "expansion": "*The Syriac Forms of New Testament Proper Names*, by F. C. Burkitt. London, [1912].",
+  "section": "general"
+ },
+ {
+  "abbrev": "*BZ.*",
+  "abbrev_clean": "BZ",
+  "expansion": "*Byzantinische Zeitschrift*. Ed. K. Krumbacher. Leipzig, 1892- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Cadbury *Diction*",
+  "abbrev_clean": "Cadbury Diction",
+  "expansion": "*The Style and Literary Method of Luke. I. The Diction of Luke and Acts. II. The Treatment of Sources in the Gospel* (being *Harvard Theological Studies*, VI.), by Henry J. Cadbury. Harvard University Press, 1919, 1920.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Conybeare and Stock *LXX Selections*",
+  "abbrev_clean": "Conybeare and Stock LXX Selections",
+  "expansion": "*Selections from the Septuagint*, by F. C. Conybeare and St. George Stock. Boston, [1905].",
+  "section": "general"
+ },
+ {
+  "abbrev": "*CQ*",
+  "abbrev_clean": "CQ",
+  "expansion": "*The Classical Quarterly*. London, 1907-",
+  "section": "general"
+ },
+ {
+  "abbrev": "*CR*",
+  "abbrev_clean": "CR",
+  "expansion": "*The Classical Review*. London, 1887- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "*CRE.*",
+  "abbrev_clean": "CRE",
+  "expansion": "See under Ramsay.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Crönert or Crönert *Lex.*",
+  "abbrev_clean": "Crönert or Crönert Lex",
+  "expansion": "*Passow's Wörterbuch der griechischen Sprache*, völlig neu bearbeitet von W. Crönert. 3 parts. Göttingen, 1912-14.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Crönert *Mem. Herc.*",
+  "abbrev_clean": "Crönert Mem. Herc",
+  "expansion": "*Memoria Graeca Herculanensis*, by W. Crönert. Leipzig, 1903.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Deissmann *BS*",
+  "abbrev_clean": "Deissmann BS",
+  "expansion": "*Bible Studies*, by G. Adolf Deissmann. Engl. ed. by A. Grieve. Edinburgh, 1901.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Festgabe*",
+  "abbrev_clean": ",, Festgabe",
+  "expansion": "*Festgabe für Adolf Deissmann zum 60. Geburtstag 7. November 1926*. Tübingen, 1927.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *in Christo*",
+  "abbrev_clean": ",, in Christo",
+  "expansion": "*Die neutestamentliche Formel \"in Christo Jesu,\"* von G. Adolf Deissmann. Marburg, 1892.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *LAE* and *LAE²*",
+  "abbrev_clean": ",, LAE and LAE²",
+  "expansion": "*Light from the Ancient East*, by Adolf Deissmann. English translation by Lionel R. M. Strachan. London, 1910 and 1927.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Philology*",
+  "abbrev_clean": ",, Philology",
+  "expansion": "*The Philology of the Greek Bible: its Present and Future*, by Adolf Deissmann. English translation by Lionel R. M. Strachan. London, 1908.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Sprachliche Erforschung*",
+  "abbrev_clean": ",, Sprachliche Erforschung",
+  "expansion": "*Die sprachliche Erforschung der griechischen Bibel* (being *Vorträge der theologischen Konferenz zu Giessen. XII. Folge*), von G. Adolf Deissmann. Giessen, 1898.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Urgeschichte*",
+  "abbrev_clean": ",, Urgeschichte",
+  "expansion": "*Die Urgeschichte des Christentums im Lichte der Sprachforschung*, von Adolf Deissmann. Tübingen, 1910.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Dieterich *Abraxas*",
+  "abbrev_clean": "Dieterich Abraxas",
+  "expansion": "*Abraxas: Studien zur Religionsgeschichte des Spätern Altertums*, von Albrecht Dieterich. Leipzig, 1891.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Mithrasliturgie*",
+  "abbrev_clean": ",, Mithrasliturgie",
+  "expansion": "*Eine Mithrasliturgie erläutert von Albrecht Dieterich*. 2.e. Aufl. Leipzig and Berlin, 1910.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Dieterich *Untersuch*",
+  "abbrev_clean": "Dieterich Untersuch",
+  "expansion": "*Untersuchungen zur Geschichte der Griechischen Sprache, von der Hellenistischen Zeit bis zum 10. Jahrh. n. Chr.*, von Karl Dieterich. Leipzig, 1898.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Diog. Oenoand.",
+  "abbrev_clean": "Diog. Oenoand",
+  "expansion": "*Diogenis Oenoandensis fragmenta*. Ed. I. William. Leipzig, 1907.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Documents*",
+  "abbrev_clean": "Documents",
+  "expansion": "See under Milligan.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Durham, D. B. *Menander*",
+  "abbrev_clean": "Durham, D. B. Menander",
+  "expansion": "*The Vocabulary of Menander, considered in its relation to the Koine*. Princetown, 1913.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*EB*",
+  "abbrev_clean": "EB",
+  "expansion": "*Encyclopaedia Biblica*. London, 1899-1903.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*EEF*",
+  "abbrev_clean": "EEF",
+  "expansion": "Egypt Exploration Fund.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*EGT*",
+  "abbrev_clean": "EGT",
+  "expansion": "*The Expositor's Greek Testament*, edited by W. Robertson Nicoll. 5 vols. London, 1897-1910.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Epicurea*",
+  "abbrev_clean": "Epicurea",
+  "expansion": "See under Usener.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Erman und Krebs",
+  "abbrev_clean": "Erman und Krebs",
+  "expansion": "*Aus den Papyrus der Königlichen Museen [zu Berlin]*, von A. Erman und F. Krebs. Berlin, 1899.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Exler *Epistolography*",
+  "abbrev_clean": "Exler Epistolography",
+  "expansion": "*The Form of the Ancient Greek Letter. A Study in Greek Epistolography*. By Francis Xavier J. Exler. Catholic University of America, Washington D.C. 1923.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Exp.*",
+  "abbrev_clean": "Exp",
+  "expansion": "*The Expositor*. London, 1875- . Cited by series, volume, and page.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*ExpT*",
+  "abbrev_clean": "ExpT",
+  "expansion": "*The Expository Times*. Edinburgh, 1889- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Ferguson, W. D. *Legal Terms*",
+  "abbrev_clean": "Ferguson, W. D. Legal Terms",
+  "expansion": "*The Legal Terms Common to the Macedonian Inscriptions and the New Testament* (being *Historical and Linguistic Studies in Literature related to the New Testament*, 2nd Series, Vol. II., Part 3), by W. D. Ferguson. Chicago, 1913.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Field *Notes*",
+  "abbrev_clean": "Field Notes",
+  "expansion": "*Notes on the Translation of the New Testament* (being *Otium Norvicense* iii.), by F. Field. Cambridge, 1899.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Foucart *Associations Religieuses*",
+  "abbrev_clean": "Foucart Associations Religieuses",
+  "expansion": "*Des Associations Religieuses chez les Grecs*. Par P. Foucart. Paris, 1873.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Gerhard *Erbstreit*",
+  "abbrev_clean": "Gerhard Erbstreit",
+  "expansion": "*Ein gräko-ägyptischer Erbstreit aus dem zweiten Jahrhundert vor Chr.* (being *Sitzungsberichte der Heidelberger Akademie der Wissenschaften*, 8. Abhandlung), von G. A. Gerhard. Heidelberg, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*GH*",
+  "abbrev_clean": "GH",
+  "expansion": "Grenfell and Hunt. See further under Abbreviations II. Papyri.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Ghedini *Lettere*",
+  "abbrev_clean": "Ghedini Lettere",
+  "expansion": "*Lettere Christiane dai Papiri Greci del III e IV Secolo*. Ed. G. Ghedini. Milan, 1923.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Giles *Manual*",
+  "abbrev_clean": "Giles Manual",
+  "expansion": "*A Short Manual of Comparative Philology for Classical Students*, by P. Giles, M.A. Second edit. London, 1901.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Glaser *De ratione*",
+  "abbrev_clean": "Glaser De ratione",
+  "expansion": "*De ratione, quae intercedit inter sermonem Polybii et eum, qui in titulis saeculi III, II, I apparet*, by Otto Glaser. Giessen, 1894.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Gradenwitz *Einführung*",
+  "abbrev_clean": "Gradenwitz Einführung",
+  "expansion": "*Einführung in die Papyruskunde*, von O. Gradenwitz. Heft i. Leipzig, 1900.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Grimm or Grimm-Thayer",
+  "abbrev_clean": "Grimm or Grimm-Thayer",
+  "expansion": "*A Greek-English Lexicon of the New Testament*, being *Grimm's Wilke's Clavis Novi Testamenti*, tr. and enlarged by J. H. Thayer. Second edit. Edinburgh, 1890. [Thayer's additions are usually cited under his name.]",
+  "section": "general"
+ },
+ {
+  "abbrev": "Hatch *Essays*",
+  "abbrev_clean": "Hatch Essays",
+  "expansion": "*Essays in Biblical Greek*, by E. Hatch. Oxford, 1889.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Hatzidakis *Einl.*",
+  "abbrev_clean": "Hatzidakis Einl",
+  "expansion": "*Einleitung in die Neugriechische Grammatik*, von G. N. Hatzidakis. Leipzig, 1892.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Heinrici *Litt. Char.*",
+  "abbrev_clean": "Heinrici Litt. Char",
+  "expansion": "*Der litterarische Charakter der neutestamentlichen Schriften*, von C. F. Georg Heinrici. Leipzig, 1908.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Helbing *Gr.*",
+  "abbrev_clean": "Helbing Gr",
+  "expansion": "*Grammatik der Septuaginta : Laut- und Wortlehre*, von R. Helbing. Göttingen, 1907.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Herwerden or Herwerden *Lex.*",
+  "abbrev_clean": "Herwerden or Herwerden Lex",
+  "expansion": "*Lexicon Graecum Suppletorium et Dialecticum²*, by H. van Herwerden. 2 vols. Leiden, 1910.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Hesychius*",
+  "abbrev_clean": "Hesychius",
+  "expansion": "*Hesychii Alexandrini Lexicon*, ed. M. Schmidt. Jena, 1867.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Hobart",
+  "abbrev_clean": "Hobart",
+  "expansion": "*The Medical Language of St. Luke*, by W. K. Hobart. Dublin and London, 1882.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Hohlwein *L'Égypte Romaine*",
+  "abbrev_clean": "Hohlwein L'Égypte Romaine",
+  "expansion": "*L'Égypte Romaine, Recueil des Termes Techniques relatifs aux Institutions Politiques et Administratives de l'Égypte Romaine, suivi d'un choix de Textes Papyrologiques*, par N. Hohlwein. Brussels, 1912.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*HR*",
+  "abbrev_clean": "HR",
+  "expansion": "*A Concordance to the Septuagint*, by E. Hatch and H. A. Redpath. Oxford, 1897.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*HZNT*",
+  "abbrev_clean": "HZNT",
+  "expansion": "*Handbuch zum Neuen Testament*, ed. H. Lietzmann. Tübingen, 1906- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "*ICC*",
+  "abbrev_clean": "ICC",
+  "expansion": "*International Critical Commentary*. Edinburgh. Various dates.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Jannaris *Gr.*",
+  "abbrev_clean": "Jannaris Gr",
+  "expansion": "*An Historical Greek Grammar*, by A. N. Jannaris. London, 1897.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*JBL*",
+  "abbrev_clean": "JBL",
+  "expansion": "*The Journal of Biblical Literature*. Middletown, 1881- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "*JEgArch.*",
+  "abbrev_clean": "JEgArch",
+  "expansion": "*The Journal of Egyptian Archaeology*. London, 1914- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "*JHS*",
+  "abbrev_clean": "JHS",
+  "expansion": "*The Journal of Hellenic Studies*. London, 1880- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Jouguet *Vie municipale*",
+  "abbrev_clean": "Jouguet Vie municipale",
+  "expansion": "*La Vie Municipale dans l'Égypte Romaine* (being *Bibliothèque des Écoles Françaises d'Athènes et de Rome*, 104), par P. Jouguet. Paris, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*JTS*",
+  "abbrev_clean": "JTS",
+  "expansion": "*The Journal of Theological Studies*. London, 1900- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Kaelker *Quaest.*",
+  "abbrev_clean": "Kaelker Quaest",
+  "expansion": "*Quaestiones de Elocutione Polybiana* (being *Leipziger Studien* III. ii.), by F. Kaelker. Leipzig, 1880.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Kennedy *Sources*",
+  "abbrev_clean": "Kennedy Sources",
+  "expansion": "*Sources of New Testament Greek*, by H. A. A. Kennedy. Edinburgh, 1895.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Krebs *Präp.*",
+  "abbrev_clean": "Krebs Präp",
+  "expansion": "*Die Präpositionen bei Polybius* (being *Beiträge zur Historischen Syntax der Griechischen Sprache*, 1), von F. Krebs. Würzburg, 1882.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Kühner³, or Kühner-Blass, Kühner-Gerth",
+  "abbrev_clean": "Kühner³, or Kühner-Blass, Kühner-Gerth",
+  "expansion": "*Ausführliche Grammatik der Griechischen Sprache*, von R. Kühner, besorgt von F. Blass (Formenlehre) und B. Gerth (Satzlehre). Hanover and Leipzig, 1890-1904.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Kuhring",
+  "abbrev_clean": "Kuhring",
+  "expansion": "*De Praepositionum Graecarum in Chartis Aegyptiis Usu Quaestiones Selectae*, by G. Kuhring. Bonn, 1906.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*LAE*",
+  "abbrev_clean": "LAE",
+  "expansion": "See under Deissmann.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Lafoscade *De epistulis*",
+  "abbrev_clean": "Lafoscade De epistulis",
+  "expansion": "*De epistulis (aliisque titulis) imperatorum magistratuumque Romanorum quas ab aetate Augusti usque ad Constantinum Graece scriptas lapides papyrive servaverunt*, par Léon Lafoscade. Paris, 1902.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Laqueur *Quaestiones*",
+  "abbrev_clean": "Laqueur Quaestiones",
+  "expansion": "*Quaestiones Epigraphicae et Papyrologicae Selectae*, by R. Laqueur. Strassburg, 1904.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Lewy *Fremdwörter*",
+  "abbrev_clean": "Lewy Fremdwörter",
+  "expansion": "*Die Semitischen Fremdwörter im Griechischen*, von H. Lewy, Berlin, 1895.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Lietzmann *Gr. Pap.*",
+  "abbrev_clean": "Lietzmann Gr. Pap",
+  "expansion": "*Griechische Papyri* (in *Kleine Texte für theologische Vorlesungen und Übungen*, 14). Ed. H. Lietzmann. Bonn, 1905. English edition, Cambridge, 1905.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Linde *Epic.*",
+  "abbrev_clean": "Linde Epic",
+  "expansion": "*De Epicuri Vocabulis ab optima Atthide alienis* (being *Breslauer Philologische Abhandlungen*, ix. 3), by P. Linde. Breslau, 1906.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Lob. *Par.*",
+  "abbrev_clean": "Lob. Par",
+  "expansion": "*Paralipomena Grammaticae Graecae*, by C. A. Lobeck. Leipzig, 1837.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Phryn.*",
+  "abbrev_clean": ",, Phryn",
+  "expansion": "*Phrynichi Ecloga*. Ed. C. A. Lobeck. Leipzig, 1820.",
+  "section": "general"
+ },
+ {
+  "abbrev": "LS⁸ and LS⁹",
+  "abbrev_clean": "LS⁸ and LS⁹",
+  "expansion": "*A Greek-English Lexicon*, compiled by H. G. Liddell and R. Scott. Eighth edition. Oxford, 1901. Ninth edition. Oxford, 1925- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Luckhard *Privathaus*",
+  "abbrev_clean": "Luckhard Privathaus",
+  "expansion": "*Das Privathaus im ptolemäischen und römischen Ägypten*, by F. Luckhard. Giessen, 1914.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Lumbroso *Raccolta*",
+  "abbrev_clean": "Lumbroso Raccolta",
+  "expansion": "*Raccolta di scritti in onore di Giacomo Lumbroso (1844-1925)*. Milan, 1925.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Magie",
+  "abbrev_clean": "Magie",
+  "expansion": "*De Romanorum iuris publici sacrique vocabulis sollemnibus in Graecum sermonem conversis*, by D. Magie. Leipzig, 1905.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Maidhof *Begriffsbestimmung*",
+  "abbrev_clean": "Maidhof Begriffsbestimmung",
+  "expansion": "*Zur Begriffsbestimmung der Koine, besonders auf Grund des Attizisten Moiris* (being *Beiträge zur Historischen Syntax der Griechischen Sprache*, 20), von A. Maidhof. Würzburg, 1912.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Martin *Épistratèges*",
+  "abbrev_clean": "Martin Épistratèges",
+  "expansion": "*Les Épistratèges, Contribution à l'Étude des Institutions de l'Égypte Gréco-Romaine*, par Victor Martin. Geneva, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Mayser *Gr.*",
+  "abbrev_clean": "Mayser Gr",
+  "expansion": "*Grammatik der Griechischen Papyri aus der Ptolemäerzeit. Laut- und Wortlehre*, von E. Mayser. Leipzig, 1906.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Gr.* II. i.",
+  "abbrev_clean": ",, Gr. II. i",
+  "expansion": "*Gr.* II. *Satzlehre. Analytischer Teil* i., von E. Mayser. Berlin u. Leipzig, 1926.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Meecham *Letters*",
+  "abbrev_clean": "Meecham Letters",
+  "expansion": "*Light from Ancient Letters*. By Henry G. Meecham. London, [1923].",
+  "section": "general"
+ },
+ {
+  "abbrev": "Meisterhans *Gr.*",
+  "abbrev_clean": "Meisterhans Gr",
+  "expansion": "*Grammatik der attischen Inschriften*, von K. Meisterhans. Dritte Auflage von E. Schwyzer. Berlin, 1900.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Mél. Chatelain*",
+  "abbrev_clean": "Mél. Chatelain",
+  "expansion": "*Mélanges offerts à M. Émile Chatelain*. Paris, 1910.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Mél. Nicole*",
+  "abbrev_clean": "Mél. Nicole",
+  "expansion": "*Mélanges . . . offerts à Jules Nicole*. Geneva, 1905.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Menander *Fragm.*",
+  "abbrev_clean": "Menander Fragm",
+  "expansion": "*Comicorum Atticorum Fragmenta*, III. Ed. Th. Kock. Leipzig, 1888.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Selections*",
+  "abbrev_clean": ",, Selections",
+  "expansion": "*Selections from Menander*, edited by W. G. Waddell, M.A. Oxford, 1927.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Menandrea*",
+  "abbrev_clean": "Menandrea",
+  "expansion": "*Menandrea ex papyris et membranis vetustissimis*. Ed. A. Körte. Leipzig, 1912.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Meyer *Gr.*",
+  "abbrev_clean": "Meyer Gr",
+  "expansion": "*Griechische Grammatik³*, von Gustav Meyer. Leipzig, 1896.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Meyer *Heerwesen*",
+  "abbrev_clean": "Meyer Heerwesen",
+  "expansion": "*Das Heerwesen der Ptolemäer und Römer in Ägypten*, von Paul M. Meyer. Leipzig, 1900.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Jur. Pap.*",
+  "abbrev_clean": ",, Jur. Pap",
+  "expansion": "*Juristische Papyri. Erklärung von Urkunden zur Einführung in die Juristische Papyruskunde*. von Paul M. Meyer. Berlin, 1920.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*MGr.*",
+  "abbrev_clean": "MGr",
+  "expansion": "Modern Greek.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Milligan *Documents*",
+  "abbrev_clean": "Milligan Documents",
+  "expansion": "*The New Testament Documents: Their Origin and Early History*, by George Milligan. London, 1913. [Out of print.]",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Here and There*",
+  "abbrev_clean": ",, Here and There",
+  "expansion": "*Here and There among the Papyri*, by the same. London, 1923. [Out of print.]",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Selections*",
+  "abbrev_clean": ",, Selections",
+  "expansion": "*Selections from the Greek Papyri*, by the same. New edit. Cambridge, 1927.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Thess.*",
+  "abbrev_clean": ",, Thess",
+  "expansion": "*St. Paul's Epistles to the Thessalonians*, by the same. London, 1908.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Mitteis or Wilcken *Papyruskunde*",
+  "abbrev_clean": "Mitteis or Wilcken Papyruskunde",
+  "expansion": "*Grundzüge und Chrestomathie der Papyruskunde* I. i, ed. U. Wilcken, and II. i. ed. L. Mitteis. Leipzig and Berlin, 1912. See also Abbreviations II. Papyri s.v. Chrest.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Modica *Introduzione*",
+  "abbrev_clean": "Modica Introduzione",
+  "expansion": "*Introduzione allo Studio della Papirologia Giuridica*, by M. Modica, Milan, [1913].",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Moeris*",
+  "abbrev_clean": "Moeris",
+  "expansion": "*Moeridis Atticistae Lexicon Atticum*. Ed. J. Pierson. Leiden, 1759.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Moulton *Proleg.*",
+  "abbrev_clean": "Moulton Proleg",
+  "expansion": "*A Grammar of New Testament Greek. Vol. I. Prolegomena³*, by James Hope Moulton. Edinburgh, 1908.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Gr.* ii.",
+  "abbrev_clean": ",, Gr. ii",
+  "expansion": "*A Grammar of New Testament Greek. Vol. II. Accidence and Word-Formation with an Appendix on Semitisms in the New Testament*, by James Hope Moulton and Wilbert Francis Howard. Edinburgh, 1929.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Egyptian Rubbish-heaps*",
+  "abbrev_clean": ",, Egyptian Rubbish-heaps",
+  "expansion": "*From Egyptian Rubbish-heaps*, by James Hope Moulton. London, 1916.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Einleitung*",
+  "abbrev_clean": ",, Einleitung",
+  "expansion": "*Einleitung in die Sprache des Neuen Testaments*. (Translated with additions from the third edition of *Prolegomena*.) Heidelberg, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Musonius*",
+  "abbrev_clean": "Musonius",
+  "expansion": "*C. Musonii Rufi Reliquiae*. Ed. O. Hense. Leipzig, 1905.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Nachmanson",
+  "abbrev_clean": "Nachmanson",
+  "expansion": "*Laute und Formen der Magnetischen Inschriften*, von E. Nachmanson. Uppsala, 1903.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Nägeli*",
+  "abbrev_clean": "Nägeli",
+  "expansion": "*Der Wortschatz des Apostels Paulus*, von Th. Nägeli. Göttingen, 1905.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Norden *Agnostos Theos*",
+  "abbrev_clean": "Norden Agnostos Theos",
+  "expansion": "*Agnostos Theos*, von Eduard Norden. Leipzig und Berlin, 1913.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Oertel *Liturgie*",
+  "abbrev_clean": "Oertel Liturgie",
+  "expansion": "*Die Liturgie. Studien zur Ptolemäischen und Kaiserlichen Verwaltung Ägyptens*, von F. Oertel. Leipzig, 1917.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Otto *Priester*",
+  "abbrev_clean": "Otto Priester",
+  "expansion": "*Priester und Tempel im Hellenistischen Ägypten*, von Walter Otto, 2 vols. Leipzig and Berlin, 1905, 1908.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Pelagia-Legenden*",
+  "abbrev_clean": "Pelagia-Legenden",
+  "expansion": "*Legenden der heiligen Pelagia*. Ed. H. Usener. Bonn, 1879.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Plaumann *Ptolemais*",
+  "abbrev_clean": "Plaumann Ptolemais",
+  "expansion": "*Ptolemais in Oberägypten. Ein Beitrag zur Geschichte des Hellenismus in Ägypten*, von Gerhard Plaumann. Leipzig, 1910.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Poland *Vereinswesen*",
+  "abbrev_clean": "Poland Vereinswesen",
+  "expansion": "*Geschichte des Griechischen Vereinswesens*, von Franz Poland. Leipzig, 1909.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Preisigke *Fachwörter*",
+  "abbrev_clean": "Preisigke Fachwörter",
+  "expansion": "*Fachwörter des öffentlichen Verwaltungsdienstes Ägyptens in den griechischen Papyrusurkunden der ptolemäisch-römischen Zeit*, von Friedrich Preisigke. Göttingen, 1915.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Namenbuch*",
+  "abbrev_clean": ",, Namenbuch",
+  "expansion": "*Namenbuch enthaltend alle griechischen, lateinischen, ägyptischen, hebräischen, arabischen und sonstigen semitischen und nichtsemitischen Menschennamen, soweit sie in griechischen Urkunden (Papyri, Ostraka, Inschriften, Mumienschildern usw.) Ägyptens sich vorfinden*, von Friedrich Preisigke. Heidelberg, 1922.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Wörterbuch*",
+  "abbrev_clean": ",, Wörterbuch",
+  "expansion": "*Wörterbuch der griechischen Papyrusurkunden*, von Friedrich Preisigke (und E. Kiessling). Vols. I. II. III. i. Berlin, 1925-29.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Preuschen-Bauer *Wörterbuch*",
+  "abbrev_clean": "Preuschen-Bauer Wörterbuch",
+  "expansion": "*Griechisch-Deutsches Wörterbuch zu den Schriften des Neuen Testaments* (being an entirely new edition of E. Preuschen's *Handwörterbuch zu den Schriften des Neuen Testaments*), von W. Bauer. Giessen, 1928.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*Proleg.*",
+  "abbrev_clean": "Proleg",
+  "expansion": "See under Moulton.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Psaltes *Gr.*",
+  "abbrev_clean": "Psaltes Gr",
+  "expansion": "*Grammatik der Byzantinischen Chroniken* (being *Forschungen zur griechischen und lateinischen Grammatik*, 2), von Stamatios B. Psaltes. Göttingen, 1913.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Radermacher *Gr.* and *Gr.²*",
+  "abbrev_clean": "Radermacher Gr. and Gr.²",
+  "expansion": "*Neutestamentliche Grammatik* (being *Handbuch zum Neuen Testament* I. i.), von L. Radermacher. Tübingen, 1911 and 1925.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Ramsay *Cities*",
+  "abbrev_clean": "Ramsay Cities",
+  "expansion": "*The Cities of St. Paul*, by W. M. Ramsay. London, 1907.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *CRE.*",
+  "abbrev_clean": ",, CRE",
+  "expansion": "*The Church in the Roman Empire before A.D. 170*, by the same. Fifth edition. London, 1897.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Letters*",
+  "abbrev_clean": ",, Letters",
+  "expansion": "*The Letters to the Seven Churches of Asia*, by the same. London, 1904.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Luke*",
+  "abbrev_clean": ",, Luke",
+  "expansion": "*Luke the Physician*, by the same. London, 1908.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Paul*",
+  "abbrev_clean": ",, Paul",
+  "expansion": "*S. Paul the Traveller and the Roman Citizen*, by the same. Third edition. London, 1897.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Recent Discovery*",
+  "abbrev_clean": ",, Recent Discovery",
+  "expansion": "*The Bearing of Recent Discovery on the Trustworthiness of the New Testament*, by the same. London, 1915.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Stud. in the E. Rom. Prov.*",
+  "abbrev_clean": ",, Stud. in the E. Rom. Prov",
+  "expansion": "*Studies in the History and Art of the Eastern Provinces of the Roman Empire* (being *Aberdeen University Studies*, 20), edited by the same. Aberdeen, 1906.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Teaching*",
+  "abbrev_clean": ",, Teaching",
+  "expansion": "*The Teaching of Paul in Terms of the Present Day*, by the same. London, [1913].",
+  "section": "general"
+ },
+ {
+  "abbrev": "Regard *Prépositions*",
+  "abbrev_clean": "Regard Prépositions",
+  "expansion": "*Contribution à l'Étude des Prépositions dans la Langue du Nouveau Testament*, par Paul F. Regard. Paris, 1919.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*REGr*",
+  "abbrev_clean": "REGr",
+  "expansion": "*Revue des Études Grecques*. Paris, 1888- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Reinhold",
+  "abbrev_clean": "Reinhold",
+  "expansion": "*De Graecitate Patrum Apostolicorum Librorumque Apocryphorum Novi Testamenti Quaestiones Grammaticae* (being *Diss. Phil. Hal.* xiv. i.), by H. Reinhold. Halle, 1898.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Reitzenstein *Poimandres*",
+  "abbrev_clean": "Reitzenstein Poimandres",
+  "expansion": "*Poimandres: Studien zur Griechisch-Ägyptischen und Frühchristlichen Literatur*, von R. Reitzenstein. Leipzig, 1904.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Hellen. Mysterienrelig.*",
+  "abbrev_clean": ",, Hellen. Mysterienrelig",
+  "expansion": "*Die Hellenistischen Mysterienreligionen, ihre Grundgedanken und Wirkungen*, by the same. Leipzig, 1910.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Revillout *Mélanges*",
+  "abbrev_clean": "Revillout Mélanges",
+  "expansion": "*Mélanges sur la métrologie, l'économie politique, et l'histoire de l'ancienne Égypte*, by Eugène Revillout. Paris, 1895.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Robertson *Gr.²*",
+  "abbrev_clean": "Robertson Gr.²",
+  "expansion": "*A Grammar of the Greek New Testament in the Light of Historical Research*, by A. T. Robertson. New York, [1914].",
+  "section": "general"
+ },
+ {
+  "abbrev": "Rossberg",
+  "abbrev_clean": "Rossberg",
+  "expansion": "*De Praepositionum Graecarum in Chartis Aegyptiis Ptolemaeorum Aetatis Usu*, by C. Rossberg. Jena, 1909.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Rostovtzeff *A Large Estate*",
+  "abbrev_clean": "Rostovtzeff A Large Estate",
+  "expansion": "*A Large Estate in Egypt in the Third Century B.C. A Study in Economic History* (being *University of Wisconsin Studies in the Social Sciences and History*, 6), by Michael Rostovtzeff. Madison, 1922.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Rouffiac *Recherches*",
+  "abbrev_clean": "Rouffiac Recherches",
+  "expansion": "*Recherches sur les caractères du grec dans le Nouveau Testament d'après les inscriptions de Priène*, par J. Rouffiac. Paris, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Rutherford *NP*",
+  "abbrev_clean": "Rutherford NP",
+  "expansion": "*The New Phrynichus*, by W. G. Rutherford. London, 1881.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*SAM*",
+  "abbrev_clean": "SAM",
+  "expansion": "*Studi della Scuola Papirologica*, R. Accademia Scientifico-Letteraria in Milano. Milano, 1915- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Schlageter",
+  "abbrev_clean": "Schlageter",
+  "expansion": "*Der Wortschatz der ausserhalb Attikas gefundenen attischen Inschriften*, von J. Schlageter. Strassburg, 1912.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Schmid *Atticismus*",
+  "abbrev_clean": "Schmid Atticismus",
+  "expansion": "*Der Atticismus in seinen Hauptvertretern von Dionysius von Halikarnass bis auf den Zweiten Philostratus*, by W. Schmid. 4 vols. and Register. Stuttgart, 1887-97.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Schmidt *Jos.*",
+  "abbrev_clean": "Schmidt Jos",
+  "expansion": "*De Flavii Josephi Elocutione Observationes Criticae*, by W. Schmidt. Leipzig, 1893.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Schubart *Buch*",
+  "abbrev_clean": "Schubart Buch",
+  "expansion": "*Das Buch bei den Griechen und Römern*, von W. Schubart. Berlin, 1907.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Einführung*",
+  "abbrev_clean": ",, Einführung",
+  "expansion": "*Einführung in die Papyruskunde*, von W. Schubart. Berlin, 1918.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Schulze *Gr. Lat.*",
+  "abbrev_clean": "Schulze Gr. Lat",
+  "expansion": "*Graeca Latina*, scripsit Gulielmus Schulze. Göttingen.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Schürer *Geschichte*",
+  "abbrev_clean": "Schürer Geschichte",
+  "expansion": "*Geschichte des Jüdischen Volkes im Zeitalter Iesu Christi*, von E. Schürer, 3te u. 4te Aufl. Leipzig, 1901.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *HJP.*",
+  "abbrev_clean": ",, HJP",
+  "expansion": "The above *History of the Jewish People in the Time of Jesus Christ*, translated from the second German edition. Edinburgh, 1890-1.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Schweizer *Perg.*",
+  "abbrev_clean": "Schweizer Perg",
+  "expansion": "*Grammatik der Pergamenischen Inschriften*, von E. Schweizer. Berlin, 1898.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Searles *Lexicographical Study*",
+  "abbrev_clean": "Searles Lexicographical Study",
+  "expansion": "*A Lexicographical Study of the Greek Inscriptions* (being *Chicago Studies in Classical Philology*. II.). By Helen M. Searles. Chicago, 1898.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*SH*",
+  "abbrev_clean": "SH",
+  "expansion": "*The Epistle to the Romans*, by W. Sanday and A. C. Headlam. Fifth Edition. Edinburgh, 1902.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Sharp *Epict.*",
+  "abbrev_clean": "Sharp Epict",
+  "expansion": "*Epictetus and the New Testament*, by Douglas S. Sharp. London, 1914.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Slaten *Qualitative Nouns*",
+  "abbrev_clean": "Slaten Qualitative Nouns",
+  "expansion": "*Qualitative Nouns in the Pauline Epistles and Their Translation in the Revised Version* (being *Historical and Linguistic Studies in Literature related to the New Testament*. Second Series, Vol. IV., Part 1), by Arthur Wakefield Slaten. Chicago, 1918.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Sophocles *Lex*",
+  "abbrev_clean": "Sophocles Lex",
+  "expansion": "*Greek Lexicon of the Roman and Byzantine Periods*, by E. A. Sophocles. New York, 1887.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Souter *Lex*",
+  "abbrev_clean": "Souter Lex",
+  "expansion": "*A Pocket Lexicon to the Greek New Testament*, by A. Souter. Oxford, 1916. *Stud. della Scuola Pap.* . . . See s.v. SAM.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Sudhoff *Ärztliches*",
+  "abbrev_clean": "Sudhoff Ärztliches",
+  "expansion": "*Ärztliches aus griechischen Papyrus-Urkunden* (being *Studien zur Geschichte der Medizin*, 5/6), von Karl Sudhoff. Leipzig, 1909.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Suidas *Lex*",
+  "abbrev_clean": "Suidas Lex",
+  "expansion": "*Suidae Lexicon*. Ed. I. Bekker. Berlin, 1854.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Teles ed. Hense",
+  "abbrev_clean": "Teles ed. Hense",
+  "expansion": "*Teletis Reliquiae* ed. O. Hense. Editio secunda. Tübingen, 1909.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Thackeray *Arist*",
+  "abbrev_clean": "Thackeray Arist",
+  "expansion": "*The Letter of Aristeas* translated into English, by H. St. J. Thackeray. London, 1917.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Gr.*",
+  "abbrev_clean": ",, Gr",
+  "expansion": "*A Grammar of the Old Testament in Greek* i., by H. St. John Thackeray. Cambridge, 1909.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Thayer",
+  "abbrev_clean": "Thayer",
+  "expansion": "See under Grimm.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Thieme",
+  "abbrev_clean": "Thieme",
+  "expansion": "*Die Inschriften von Magnesia am Mäander und das Neue Testament*, von G. Thieme. Göttingen, 1906.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Thumb *Dial.*",
+  "abbrev_clean": "Thumb Dial",
+  "expansion": "*Handbuch der Griechischen Dialekte*, von Albert Thumb. Heidelberg, 1909.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Handbook*",
+  "abbrev_clean": ",, Handbook",
+  "expansion": "*Handbook of the Modern Greek Vernacular*, by Albert Thumb. Translated from the second German edition by S. Angus. Edinburgh, 1912.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Hellen.*",
+  "abbrev_clean": ",, Hellen",
+  "expansion": "*Die Griechische Sprache im Zeitalter des Hellenismus*, von A. Thumb. Strassburg, 1901.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Spiritus asper*",
+  "abbrev_clean": ",, Spiritus asper",
+  "expansion": "*Untersuchungen über den Spiritus asper im Griechischen*, von A. Thumb. Strassburg, 1889.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Trench *Syn.*",
+  "abbrev_clean": "Trench Syn",
+  "expansion": "*Synonyms of the New Testament*, by Richard Chenevix Trench. New edit. London, 1901.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Usener *Epic.*",
+  "abbrev_clean": "Usener Epic",
+  "expansion": "*Epicurea*, ed. H. Usener. Leipzig, 1887.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Vettius Valens",
+  "abbrev_clean": "Vettius Valens",
+  "expansion": "*Vettii Valentis Anthologiarum Libri*. Ed. W. Kroll. Berlin, 1908.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Viereck *SG*",
+  "abbrev_clean": "Viereck SG",
+  "expansion": "*Sermo Graecus quo S.P.Q.R. magistratusque populi Romani usque ad Tib. Caesaris aetatem in scriptis publicis usi sunt*, by Paul Viereck. Göttingen, 1888.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Völker *Art.*",
+  "abbrev_clean": "Völker Art",
+  "expansion": "*Syntax der griechischen Papyri*. I. *Der Artikel*, von F. Völker. Münster, 1903.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Wackernagel *Anredeformen*",
+  "abbrev_clean": "Wackernagel Anredeformen",
+  "expansion": "*Über einige antike Anredeformen* (Einladung zur akadem. Preisverkündigung), von J. Wackernagel. Göttingen, 1912.",
+  "section": "general"
+ },
+ {
+  "abbrev": ",, *Hellenistica*",
+  "abbrev_clean": ",, Hellenistica",
+  "expansion": "*Hellenistica* (Einladung zur akadem. Preisverkündigung), von J. Wackernagel. Göttingen, 1907.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Wendland *Literaturformen*",
+  "abbrev_clean": "Wendland Literaturformen",
+  "expansion": "*Die Urchristlichen Literaturformen* (being *Handbuch zum Neuen Testament*, I. 3), von Paul Wendland. Tübingen, 1912.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Wenger *Stellvertretung*",
+  "abbrev_clean": "Wenger Stellvertretung",
+  "expansion": "*Die Stellvertretung im Rechte der Papyri*, von L. Wenger. Leipzig, 1906.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*WH*",
+  "abbrev_clean": "WH",
+  "expansion": "*The New Testament in the Original Greek*, by B. F. Westcott and F. J. A. Hort. Vol. i. *Text*. Vol. ii. *Introduction*. Revised editions. London, 1898 and 1896.",
+  "section": "general"
+ },
+ {
+  "abbrev": "White *Sayings*",
+  "abbrev_clean": "White Sayings",
+  "expansion": "*The Sayings of Jesus from Oxyrhynchus*. Ed. Hugh G. Evelyn White. Cambridge, 1920.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Winer-Moulton *Gr.*",
+  "abbrev_clean": "Winer-Moulton Gr",
+  "expansion": "*A Treatise on the Grammar of New Testament Greek*. Translated from G. B. Winer's 7th edition, with large additions, by W. F. Moulton, 3rd edition. Edinburgh, 1882.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Winer-Schmiedel *Gr.*",
+  "abbrev_clean": "Winer-Schmiedel Gr",
+  "expansion": "*Grammatik des neutestamentlichen Sprachidioms*, von G. B. Winer. 8te Aufl. von P. W. Schmiedel. Göttingen, 1894- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Zahn *Introd.*",
+  "abbrev_clean": "Zahn Introd",
+  "expansion": "*Introduction to the New Testament*, by Theodore Zahn. English tr. Edinburgh, 1909.",
+  "section": "general"
+ },
+ {
+  "abbrev": "Ziemann *Epist.*",
+  "abbrev_clean": "Ziemann Epist",
+  "expansion": "*De epistularum Graecarum formulis sollemnibus quaestiones selectae* (being *Diss. philolog. Halenses* xviii. 4), by F. Ziemann. Halle, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "*ZNTW*",
+  "abbrev_clean": "ZNTW",
+  "expansion": "*Zeitschrift für die Neutestamentliche Wissenschaft*. Giessen, 1900- .",
+  "section": "general"
+ },
+ {
+  "abbrev": "Zorell",
+  "abbrev_clean": "Zorell",
+  "expansion": "*Novi Testamenti Lexicon Graecum* (being *Cursus Scripturae Sacrae* I. vii.), auctore Francisco Zorell, S.J. Paris, 1911.",
+  "section": "general"
+ },
+ {
+  "abbrev": "BGU",
+  "abbrev_clean": "BGU",
+  "expansion": "*Ägyptische Urkunden aus den Königlichen Museen zu Berlin: Griechische Urkunden* I.-VIII. Berlin, 1895-1926.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "Chrest. I. and II.",
+  "abbrev_clean": "Chrest. I. and II",
+  "expansion": "*Grundzüge und Chrestomathie der Papyruskunde*. I. ii. ed. U. Wilcken, and II. ii. ed. L. Mitteis. Leipzig and Berlin, 1912.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "Ghedini *Lettere*",
+  "abbrev_clean": "Ghedini Lettere",
+  "expansion": "*Lettere Christiane dai Papiri Greci del III. e IV. Secolo*. Ed. G. Ghedini. Milan, 1923.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "Gnomon or Gnomon",
+  "abbrev_clean": "Gnomon or Gnomon",
+  "expansion": "BGU V. 1.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "Olsson *Papyrusbriefe*",
+  "abbrev_clean": "Olsson Papyrusbriefe",
+  "expansion": "*Papyrusbriefe aus der frühesten Römerzeit*. Ed. Bror Olsson. Uppsala, 1925.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Alex.",
+  "abbrev_clean": "P Alex",
+  "expansion": "*Papyrus ptolémaïques du Musée d'Alexandrie*, ed. G. Botti in *Bulletin de la Société Archéol. d'Alexandrie*, p. 65 ff. Alexandria, 1899.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Amh.",
+  "abbrev_clean": "P Amh",
+  "expansion": "*The Amherst Papyri* I. II. Edd. B. P. Grenfell and A. S. Hunt. London, 1900-1.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Bad.",
+  "abbrev_clean": "P Bad",
+  "expansion": "*Griechische Papyri* (= *Veröffentlichungen aus den badischen Papyrus-Sammlungen* ii. and iv.). Ed. Friedrich Bilabel. Heidelberg, 1923 and 1924.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Bouriant",
+  "abbrev_clean": "P Bouriant",
+  "expansion": "*Les Papyrus Bouriant*, par Paul Collart. Paris, 1926.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Cairo Preis.",
+  "abbrev_clean": "P Cairo Preis",
+  "expansion": "*Griechische Urkunden des Ägyptischen Museums zu Kairo*. Ed. F. Preisigke. Strassburg, 1911.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Cairo Zen.",
+  "abbrev_clean": "P Cairo Zen",
+  "expansion": "*Catalogue Général des Antiquités Egyptiennes du Musée du Caire*. Nos. 59001-59531. *Zenon Papyri*, I. II. III. Ed. C. C. Edgar. Cairo, 1925-28.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Catt",
+  "abbrev_clean": "P Catt",
+  "expansion": "P Cattaoui, ed. G. Botti in *Rivista Egiziana* vi. p. 529 ff.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Cornell",
+  "abbrev_clean": "P Cornell",
+  "expansion": "*Greek Papyri in the Library of Cornell University*. Edd. William Linn Westermann and Casper J. Kraemer, Jr. New York, 1926.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Eleph.",
+  "abbrev_clean": "P Eleph",
+  "expansion": "*Elephantine-Papyri*. Ed. O. Rubensohn. Berlin, 1907.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Eud.",
+  "abbrev_clean": "P Eud",
+  "expansion": "*Eudoxi ars astronomica, qualis in Charta Aegyptiaca superest*, ed. F. Blass. Kiliae, 1887.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Fay",
+  "abbrev_clean": "P Fay",
+  "expansion": "*Fayûm Towns and their Papyri*. Edd. B. P. Grenfell, A. S. Hunt, and D. G. Hogarth. London, 1900.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Flor",
+  "abbrev_clean": "P Flor",
+  "expansion": "*Papiri Fiorentini* I.-III. Edd. G. Vitelli and D. Comparetti. Milan, 1906-15.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Frankf.",
+  "abbrev_clean": "P Frankf",
+  "expansion": "*Griechische Papyri aus dem Besitz des Rechtswissenschaftlichen Seminars der Universität Frankfurt* (being *Sitzungsberichte der Heidelberger Akademie der Wissenschaften, Philosophisch-historische Klasse, 14 Abhandlung*), von H. Ewald. Heidelberg, 1920.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Gen.",
+  "abbrev_clean": "P Gen",
+  "expansion": "*Les Papyrus de Genève* I. Ed. J. Nicole. Geneva, 1896-1900.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Giss.",
+  "abbrev_clean": "P Giss",
+  "expansion": "*Griechische Papyri zu Giessen* I. Edd. O. Eger, E. Kornemann, and P. M. Meyer. Leipzig, 1910-12.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Goodsp",
+  "abbrev_clean": "P Goodsp",
+  "expansion": "*A Group of Greek Papyrus Texts*. Ed. Edgar J. Goodspeed (being *Classical Philology*, I. 2.). Chicago, 1906.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Goodsp Cairo",
+  "abbrev_clean": "P Goodsp Cairo",
+  "expansion": "*Greek Papyri from the Cairo Museum*. Ed. E. J. Goodspeed. Chicago, 1902.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Goodsp Chicago",
+  "abbrev_clean": "P Goodsp Chicago",
+  "expansion": "*Chicago Literary Papyri*. Ed. E. J. Goodspeed. Chicago, 1908.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Grad.",
+  "abbrev_clean": "P Grad",
+  "expansion": "*Griechische Papyri der Sammlung Gradenwitz*. Ed. G. Plaumann. Heidelberg, 1914.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Grenf I.",
+  "abbrev_clean": "P Grenf I",
+  "expansion": "*An Alexandrian Erotic Fragment, and other Greek Papyri, chiefly Ptolemaic*. Ed. B. P. Grenfell. Oxford, 1896.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Grenf II.",
+  "abbrev_clean": "P Grenf II",
+  "expansion": "*New Classical Fragments, and other Greek and Latin Papyri*. Edd. B. P. Grenfell and A. S. Hunt. Oxford, 1897.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Hal",
+  "abbrev_clean": "P Hal",
+  "expansion": "*Dikaiomata*, herausgegeben von der *Graeca Halensis*. Berlin, 1913.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Hamb.",
+  "abbrev_clean": "P Hamb",
+  "expansion": "*Griechische Papyrusurkunden der Hamburger Staats-und Universitätsbibliothek* I. Ed. P. M. Meyer. Leipzig u. Berlin, 1911-1924.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Hawara",
+  "abbrev_clean": "P Hawara",
+  "expansion": "Flinders Petrie, *Hawara, Biahmu, and Arsinoe*. London, 1889.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Heid",
+  "abbrev_clean": "P Heid",
+  "expansion": "*Veröffentlichungen aus der Heidelberger Papyrus-Sammlung* I. Ed. A. Deissmann. Heidelberg, 1905.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "CP Herm",
+  "abbrev_clean": "CP Herm",
+  "expansion": "*Corpus Papyrorum Hermopolitanorum* I. Ed. C. Wessely. Leipzig, 1905.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Hib.",
+  "abbrev_clean": "P Hib",
+  "expansion": "*The Hibeh Papyri*, I. Edd. B. P. Grenfell and A. S. Hunt. London, 1906.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Iand",
+  "abbrev_clean": "P Iand",
+  "expansion": "*Papyri Iandanae* Parts i.-iv. Edd. E. Schäfer, L. Eisner, L. Spohr, and G. Spiess. Leipzig, 1912-14.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Karanis",
+  "abbrev_clean": "P Karanis",
+  "expansion": "*Papyri from Karanis*. Ed. E. J. Goodspeed. Chicago, 1900.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Leid",
+  "abbrev_clean": "P Leid",
+  "expansion": "*Papyri Graeci Musei antiquarii publici Lugduni-Batavi*, 2 vols. Ed. C. Leemans. 1843, 1885.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Lille",
+  "abbrev_clean": "P Lille",
+  "expansion": "*Papyrus Grecs de Lille* I. Parts i. ii. iii. Ed. P. Jouguet. Paris, 1907-23.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Lips",
+  "abbrev_clean": "P Lips",
+  "expansion": "*Griechische Urkunden der Papyrussammlung zu Leipzig* I. Ed. L. Mitteis. Leipzig, 1906.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Lond",
+  "abbrev_clean": "P Lond",
+  "expansion": "*Greek Papyri in the British Museum*. Vols. I. and II. ed. F. G. Kenyon; Vol. III. edd. F. G. Kenyon and H. I. Bell; Vols. IV., V., ed. H. I. Bell. London, 1893-1917.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Lond 1912-1929",
+  "abbrev_clean": "P Lond 1912-1929",
+  "expansion": "being *Greek Papyri in the British Museum*, ed. by H. I. Bell in *Jews and Greeks in Egypt*. London, 1924.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Magd",
+  "abbrev_clean": "P Magd",
+  "expansion": "*Papyrus de Magdola* being *Papyrus Grecs de Lille* II. Ed. J. Lesquier. Paris, 1912.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Masp",
+  "abbrev_clean": "P Masp",
+  "expansion": "*Papyrus Grecs d'Époque Byzantine* (being *Catalogue Général des Antiquités Egyptiennes du Musée du Caire*, Nos. 67001-67359), par Jean Maspero, I.-III. Cairo, 1911-16.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Meyer",
+  "abbrev_clean": "P Meyer",
+  "expansion": "*Griechische Texte aus Ägypten*, ed. P. M. Meyer. Berlin, 1916.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Michigan",
+  "abbrev_clean": "P Michigan",
+  "expansion": "*Classical Philology*, xxii. 3 (July, 1927), pp. 237 ff.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Mon",
+  "abbrev_clean": "P Mon",
+  "expansion": "*Veröffentlichungen aus der Papyrus-Sammlung der K. Hof- und Staatsbibliothek zu München*, I. *Byzantinische Papyri*. Leipzig, 1914.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Osl.",
+  "abbrev_clean": "P Osl",
+  "expansion": "*Papyri Osloenses*. I. *Magical Papyri*. Ed. S. Eitrem. Oslo, 1925.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Oxy",
+  "abbrev_clean": "P Oxy",
+  "expansion": "*The Oxyrhynchus Papyri*. Vols. I.-VI. edd. B. P. Grenfell and A. S. Hunt; Vols. VII.-IX. ed. A. S. Hunt; Vols. X.-XV., edd. B. P. Grenfell and A. S. Hunt; Vol. XVI., edd. B. P. Grenfell, A. S. Hunt, and H. I. Bell; Vol. XVII., ed. A. S. Hunt. London, 1898-1927.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Par",
+  "abbrev_clean": "P Par",
+  "expansion": "Paris Papyri in *Notices et Extraits* XVIII. ii. Ed. Brunet de Presle. Paris, 1865.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Par 574",
+  "abbrev_clean": "P Par 574",
+  "expansion": "The Paris Magical papyrus edited by C. Wessely in *Denkschriften der philosophisch-historischen Classe der Kaiserlichen Akademie der Wissenschaften zu Wien* XXXVI (1888), p. 75 ff.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Petr",
+  "abbrev_clean": "P Petr",
+  "expansion": "*The Flinders Petrie Papyri* in the *Proceedings of the Royal Irish Academy*—\"*Cunningham Memoirs*,\" Nos. viii., ix., and xi. Parts I. II. ed. J. P. Mahaffy ; Part III. edd. J. P. Mahaffy and J. G. Smyly. Dublin, 1891-4.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "CPR.",
+  "abbrev_clean": "CPR",
+  "expansion": "*Corpus Papyrorum Raineri, Griechische Texte* I. Ed. C. Wessely. Vienna, 1895.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Rein",
+  "abbrev_clean": "P Rein",
+  "expansion": "*Papyrus Grecs et Démotiques*, Ed. Th. Reinach. Paris, 1905.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Rev L",
+  "abbrev_clean": "P Rev L",
+  "expansion": "*Revenue Laws of Ptolemy Philadelphus*. Ed. B. P. Grenfell with an Introduction by J. P. Mahaffy. Oxford, 1896.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Ryl",
+  "abbrev_clean": "P Ryl",
+  "expansion": "*Catalogue of the Greek Papyri in the John Rylands Library, Manchester* I., ed. A. S. Hunt; II. edd. J. de M. Johnson, V. Martin, and A. S. Hunt. Manchester, 1911-15.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Sa'îd Khan",
+  "abbrev_clean": "P Sa'îd Khan",
+  "expansion": "*Greek Parchments from Avroman in Media*, discovered by Dr. Sa'îd Khan, published in *JHS* xxxv. pp. 22-65, by E. H. Minns. London, 1915.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "PSI",
+  "abbrev_clean": "PSI",
+  "expansion": "*Pubblicazioni della Società Italiana per la ricerca dei Papiri greci e latini in Egitto: Papiri Greci e Latini* I.-IX. i. Florence, 1912-28.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Strass",
+  "abbrev_clean": "P Strass",
+  "expansion": "*Griechische Papyrus zu Strassburg* I, II. Ed. F. Preisigke. Leipzig, 1912-1920.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Tebt",
+  "abbrev_clean": "P Tebt",
+  "expansion": "*The Tebtunis Papyri*. Vol. I. edd. B. P. Grenfell, A. S. Hunt, and J. G. Smyly; Vol. II. edd. B. P. Grenfell, A. S. Hunt, and E. J. Goodspeed. London, 1902-7.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Thead",
+  "abbrev_clean": "P Thead",
+  "expansion": "*Papyrus de Théadelphie*. Ed. P. Jouguet. Paris, 1911.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Tor",
+  "abbrev_clean": "P Tor",
+  "expansion": "*Papyri Graeci Regii Taurinensis Musei Aegyptii*. 2 vols. Ed. A. Peyron. Turin, 1826-7.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "P Vat",
+  "abbrev_clean": "P Vat",
+  "expansion": "A. Mai, *Classicorum auctorum e Vaticanis codicibus editorum Tomi IV. et V.* Rome, 1831-33.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "Preisigke",
+  "abbrev_clean": "Preisigke",
+  "expansion": "*Papyri in Sammelbuch*: see under Abbreviations III.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "*Selections*",
+  "abbrev_clean": "Selections",
+  "expansion": "*Selections from the Greek Papyri*, by George Milligan. Cambridge, 1927.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "UPZ",
+  "abbrev_clean": "UPZ",
+  "expansion": "*Urkunden der Ptolemäerzeit. (Ältere Funde)*. I. *Papyri aus Unterägypten*. Ed. U. Wilcken. Berlin u. Leipzig, 1927.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "Witkowski² or Witkowski *Epp²*",
+  "abbrev_clean": "Witkowski² or Witkowski Epp²",
+  "expansion": "*Epistulae Privatae Graecae²*. Ed. S. Witkowski. Leipzig, 1911.",
+  "section": "papyri"
+ },
+ {
+  "abbrev": "Audollent",
+  "abbrev_clean": "Audollent",
+  "expansion": "*Defixionum Tabellae*. Ed. A. Audollent. Paris, 1904.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Brit. Mus. Inscrr.",
+  "abbrev_clean": "Brit. Mus. Inscrr",
+  "expansion": "*The Collection of Ancient Greek Inscriptions in the British Museum*. Oxford, 1874- .",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Cagnat",
+  "abbrev_clean": "Cagnat",
+  "expansion": "*Inscriptiones Graecae ad Res Romanas pertinentes*, ed. R. Cagnat. I. III. IV. 1-5. Paris, 1911-14.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "C. and B.",
+  "abbrev_clean": "C. and B",
+  "expansion": "*Cities and Bishoprics of Phrygia*, by W. M. Ramsay. Vol. I. Parts i. ii. Oxford, 1895, 1897.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "CIA",
+  "abbrev_clean": "CIA",
+  "expansion": "*Corpus Inscriptionum Atticarum*. Berlin, 1873-97.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "CIG",
+  "abbrev_clean": "CIG",
+  "expansion": "*Corpus Inscriptionum Graecarum*. Berlin, 1828-77.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "CIL",
+  "abbrev_clean": "CIL",
+  "expansion": "*Corpus Inscriptionum Latinarum*. Berlin, 1862-1909.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Calder",
+  "abbrev_clean": "Calder",
+  "expansion": "(unpublished) Greek Inscriptions from Phrygia, ed. W. M. Calder.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Cauer",
+  "abbrev_clean": "Cauer",
+  "expansion": "*Delectus Inscriptionum Graecarum²*. Ed. P. Cauer. Leipzig, 1883.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Cos",
+  "abbrev_clean": "Cos",
+  "expansion": "*The Inscriptions of Cos*, edd. W. R. Paton and E. L. Hicks. Oxford, 1891.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Duchesne et Bayet",
+  "abbrev_clean": "Duchesne et Bayet",
+  "expansion": "*Mémoire sur une Mission au Mont Athos*, par L'Abbé Duchesne et M. Bayet. Paris, 1876.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Fay Ostr",
+  "abbrev_clean": "Fay Ostr",
+  "expansion": "*Fayûm Towns and their Papyri*, pp. 317-332.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "GDI",
+  "abbrev_clean": "GDI",
+  "expansion": "*Sammlung der griechischen Dialekt-Inschriften*. Ed. H. Collitz. Göttingen, 1884- .",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "IG",
+  "abbrev_clean": "IG",
+  "expansion": "*Inscriptiones Graecae*, ed. cons. et auct. Acad. Regiae Borussicae. Berlin, 1873- .",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "IG Sept.",
+  "abbrev_clean": "IG Sept",
+  "expansion": "*Corpus Inscriptionum Graeciae Septentrionalis*. Ed. W. Dittenberger. Berlin, 1892.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "IGSI",
+  "abbrev_clean": "IGSI",
+  "expansion": "*Inscriptiones Graecae Siciliae et Italiae*. Ed. G. Kaibel. Berlin, 1890.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "IMAe",
+  "abbrev_clean": "IMAe",
+  "expansion": "*Inscriptiones Graecae Insularum Maris Aegaei*. Edd. H. von Gaertringen and W. R. Paton. Berlin, 1895- .",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "IoPE",
+  "abbrev_clean": "IoPE",
+  "expansion": "*Inscriptiones Oris Septentrionalis Ponti Euxini*, being *Inscriptions from Olbia on the Euxine* in the Appendix to *Scythians and Greeks*, by E. H. Minns. Cambridge, 1913.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Kaibel",
+  "abbrev_clean": "Kaibel",
+  "expansion": "*Epigrammata Graeca ex lapidibus conlecta*. Ed. G. Kaibel. Berlin, 1878.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Latyschev",
+  "abbrev_clean": "Latyschev",
+  "expansion": "*Inscriptiones Antiquae Orae Septentrionalis Ponti Euxini Graecae et Latinae*, ed. B. Latyschev. I, II. Petropolis, 1885, 1890.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Letronne",
+  "abbrev_clean": "Letronne",
+  "expansion": "*Recueil des inscriptions grecques et latines de l'Égypte*, by M. Letronne. 2 vols. Paris, 1842-8.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Magn",
+  "abbrev_clean": "Magn",
+  "expansion": "*Die Inschriften von Magnesia am Mäander*. Ed. O. Kern. Berlin, 1900.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Meyer Ostr",
+  "abbrev_clean": "Meyer Ostr",
+  "expansion": "*Ostraka der Sammlung Deissmann*, ed. Paul M. Meyer in *Griechische Texte aus Ägypten*, p. 107 ff. Berlin, 1916.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Michel",
+  "abbrev_clean": "Michel",
+  "expansion": "*Recueil d'Inscriptions Grecques*. Ed. Ch. Michel. Paris, 1900. *Supplément* i. Paris, 1912. Milne *Theb. Ostr.* . . . See under *Theb. Ostr.*",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "OGIS",
+  "abbrev_clean": "OGIS",
+  "expansion": "*Orientis Graeci Inscriptiones Selectae*, 2 vols. Ed. W. Dittenberger. Leipzig, 1903-5.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Ostr or Wilcken Ostr",
+  "abbrev_clean": "Ostr or Wilcken Ostr",
+  "expansion": "*Griechische Ostraca aus Aegypten und Nubien*. 2 vols. Ed. U. Wilcken. Leipzig, 1899.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "PAS",
+  "abbrev_clean": "PAS",
+  "expansion": "*Papers of the American School of Classical Studies at Athens*. Boston.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Perg",
+  "abbrev_clean": "Perg",
+  "expansion": "*Die Inschriften von Pergamon* I. II. (in *Altertümer von Pergamon* viii.). Ed. M. Fränkel. Berlin, 1900-05.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Preisigke",
+  "abbrev_clean": "Preisigke",
+  "expansion": "*Sammelbuch Griechischer Urkunden aus Ägypten*. I, II. III. Ed. F. Preisigke. Strassburg and Berlin, 1915-27. [Includes many papyri: when these are cited the abbreviation is \"Preisigke\" in Roman type.]",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Preisigke Ostr",
+  "abbrev_clean": "Preisigke Ostr",
+  "expansion": "*Die Prinz-Joachim-Ostraka*, edd. F. Preisigke and W. Spiegelberg. Strassburg, 1914.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Priene",
+  "abbrev_clean": "Priene",
+  "expansion": "*Die Inschriften von Priene*. Ed. H. von Gaertringen. Berlin, 1906.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Roberts-Gardner",
+  "abbrev_clean": "Roberts-Gardner",
+  "expansion": "*Introduction to Greek Epigraphy*, Part ii. *The Inscriptions of Attica*. Edd. E. S. Roberts and E. A. Gardner. Cambridge, 1905.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Syll. and Syll³",
+  "abbrev_clean": "Syll. and Syll³",
+  "expansion": "*Sylloge Inscriptionum Graecarum²*, 2 vols. and index. Ed. W. Dittenberger. Second edition. Leipzig, 1888-1901. References are also given to the third edition, 3 vols. and index. Leipzig, 1915-24.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Theb. Ostr.",
+  "abbrev_clean": "Theb. Ostr",
+  "expansion": "*Theban Ostraca*, pp. 68-161. *Greek Texts*, ed. J. G. Milne. Oxford, 1913.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Waddington *Inscriptions*",
+  "abbrev_clean": "Waddington Inscriptions",
+  "expansion": "*Inscriptions grecques et latines recueillies en Grèce et en Asie Mineure*. Edd. Ph. Le Bas et W. H. Waddington. Paris, 1870. Wilcken Ostr . . . See under Ostr.",
+  "section": "inscriptions"
+ },
+ {
+  "abbrev": "Wünsch *AF*",
+  "abbrev_clean": "Wünsch AF",
+  "expansion": "*Antike Fluchtafeln* (in *Kleine Texte für theologische Vorlesungen und Übungen*, 20). Ed. R. Wünsch. Bonn, 1907.",
+  "section": "inscriptions"
+ }
+]

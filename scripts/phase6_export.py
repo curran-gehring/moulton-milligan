@@ -28,6 +28,7 @@ CREATE TABLE IF NOT EXISTS mm_entries (
     lemma_translit    TEXT,
     body_markdown     TEXT NOT NULL,
     papyri_citations  TEXT,
+    papyri_citations_norm TEXT,
     nt_references     TEXT,
     source_page       INTEGER NOT NULL,
     needs_review      INTEGER NOT NULL DEFAULT 0,
@@ -68,6 +69,7 @@ def main() -> int:
             lemma_translit,
             body_markdown,
             papyri_citations,
+            papyri_citations_norm,
             nt_references,
             page_no AS source_page,
             needs_review
@@ -102,13 +104,15 @@ def main() -> int:
             """
             INSERT INTO mm_entries (
                 strongs, lemma_greek, lemma_translit, body_markdown,
-                papyri_citations, nt_references, source_page, needs_review
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                papyri_citations, papyri_citations_norm, nt_references,
+                source_page, needs_review
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 r["strongs"], r["lemma_greek"], r["lemma_translit"],
                 r["body_markdown"],
-                r["papyri_citations"], r["nt_references"],
+                r["papyri_citations"], r["papyri_citations_norm"],
+                r["nt_references"],
                 r["source_page"], r["needs_review"],
             ),
         )
@@ -129,6 +133,7 @@ def main() -> int:
                 "lemma_translit": r["lemma_translit"],
                 "body_markdown": r["body_markdown"],
                 "papyri_citations": json.loads(r["papyri_citations"] or "[]"),
+                "papyri_citations_norm": json.loads(r["papyri_citations_norm"] or "[]"),
                 "nt_references": json.loads(r["nt_references"] or "[]"),
                 "source_page": r["source_page"],
                 "needs_review": bool(r["needs_review"]),
@@ -140,7 +145,8 @@ def main() -> int:
         w = csv.writer(f, delimiter="\t", quoting=csv.QUOTE_MINIMAL)
         w.writerow([
             "strongs", "lemma_greek", "lemma_translit", "body_markdown",
-            "papyri_citations", "nt_references", "source_page", "needs_review",
+            "papyri_citations", "papyri_citations_norm", "nt_references",
+            "source_page", "needs_review",
         ])
         for r in rows:
             key = (r["strongs"], r["lemma_greek"])
@@ -150,6 +156,7 @@ def main() -> int:
                 r["strongs"], r["lemma_greek"], r["lemma_translit"] or "",
                 (r["body_markdown"] or "").replace("\t", " ").replace("\n", "\\n"),
                 r["papyri_citations"] or "[]",
+                r["papyri_citations_norm"] or "[]",
                 r["nt_references"] or "[]",
                 r["source_page"], r["needs_review"],
             ])
@@ -245,8 +252,11 @@ Generated: {now}
 ## Scope of this export
 
 **Lexicon-body chunk** — pages {min_page}–{max_page} ({parsed_pages} pages parsed).
-Phase 4 (citation normalization) is skipped for this preview; `papyri_citations`
-field holds the raw as-written strings from `papyri_citations_raw`. Phase 5
+Phase 4 (citation normalization) is DONE: `papyri_citations_norm` holds per-citation
+objects {{raw, norm, series, status}} normalized against MM's own front-matter
+abbreviation table (reference/papyri_abbreviations.json, 303 entries); ib./id.
+anaphora expanded from the preceding citation. `papyri_citations` remains the raw
+as-written strings. Phase 5
 (disagreement resolution) has run deterministic auto-policies + manual sweeps;
 remaining cases requiring human judgment are surfaced in `disagreements_manual.tsv`.
 
@@ -305,7 +315,7 @@ Auto-resolution breakdown:
 
 1. Pages 1–30 (front matter + abbreviation tables) NOT parsed.
 2. Pages {max_page_plus1}–735 NOT parsed (Phase 2 continues over time).
-3. `papyri_citations` is raw-as-written, not normalized (Phase 4 unskipped).
+3. `papyri_citations` is raw-as-written; `papyri_citations_norm` is the Phase-4 normalized form.
 4. {open_dis} disagreements remain in the manual queue (Phase 5 partial).
 5. Continuation-from-prior-page entries sometimes have inferred lemma rather
    than the true prior-page headword. See entries with
