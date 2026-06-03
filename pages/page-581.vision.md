@@ -1,0 +1,31 @@
+*προσρήγνυμι*   551   *προσφάγιον*
+
+one of many exx. of this writer's preference for compounds of πορεύομαι: indeed, except in 9³⁰, he does not use the simple verb at all. As Mark's Greek culture was manifestly small, Harnack's thesis in his "Sayings of Jesus" as to the connexion between culture and compound verbs cannot pass unchallenged: see further *Exp.* VII. vii. p. 411 f.
+
+## προσρήγνυμι,
+
+"dash against," Lk 6⁴⁸ᶠ·: cf. M. Anton. iv. 49 ὅμοιον εἶναι τῇ ἄκρᾳ ᾗ διηνεκῶς τὰ κύματα προσρήσσεται, "be like the promontory whereon the waves break unceasingly."
+
+## προστάσσω,
+
+"appoint," is read in the critical text of Ac 17²⁶: cf. P Amh II. 29²⁰ (*c.* B.C. 250) βασιλέως προστάξαντος . . ., and P Tebt I. 7¹ (B.C. 114) βασιλέων προσταξάν[τ]ων μηθένα τῶν ἐπὶ τῶν κριτηρίων καὶ τῶν ἄλ[λ]ων τῶν πρὸς χρείαις δέχεσθαι ἐγκλήματα . . ., "the sovereigns decree that neither anyone who exercises judicial functions nor any of the other officials shall receive complaints . . .," where the editors note that the formula βασιλέων προσταξάντων "appears to be used in cases where the following decree is not quoted in its exact words, whether because it was extracted from a series or because the construction is altered to *oratio obliqua.*" See also P Reinach 18²¹ (B.C. 108) παρὰ τὰ . . . προστεταγμένα. The verb is common in the inscrr., *e.g.* *Syll* 365 (= ³ 798)¹⁶ (A.D. 37) ὁ δὲ δῆμος . . . προσέταξε τοῖς ἄρχουσι ψήφισμα ὑπαντήσεως εἰσηγήσασθαι αὐτοῖς, and *ib.* 523 (= ³ 578)⁴⁸ (ii/B.C.) μὴ ποιήσῃς τι τῶν προστεταγμένων ἐν τῶι νόμωι τῶιδε. For the subst. πρόσταγμα cf. P Cairo Zen 59034¹⁹ (B.C. 257) καλῶς οὖν ἔχει, Ἀπολλώνιε, ἐπακολουθῆσαί σε τοῖς ὑπὸ τοῦ θεοῦ προστάγμασιν, and for προσταγή cf. Diog. Oenoand. p. 18² (ed. William).
+
+## προστάτις.
+
+We can supply no instance of the fem. προστάτις (Rom 16²), "protectress," "patroness," from our sources, but the masc. προστάτης is common in various connotations, e.g. BGU IV. 1136² (*c.* B.C. 11) Ἀπολλώνιος . . . Τρύφωνι . . . προστάτηι ἐράν[ων χαίρειν, P Oxy II. 299⁴ (late i/A.D.) Διονυσίῳ προσ[τ]άτῃ Νεμερῶν κέκρηκα (δραχμὰς) ῆ, "I have also lent Dionysius, the chief man of Nemerae, 8 drachmae" (Edd.), and *ib.* XI. 1150¹ (vi/A.D.) ὁ θεὸς τοῦ προστάτου ἡμῶν τοῦ ἁγίου Φιλοξένου, "the god of Saint Philoxenus our patron." The title is applied to the office-bearer in a heathen religious association in Foucart *Associations Religieuses* p. 202, No. 20³⁴ (Imperial times) (= *CIG* I. 126) δοκιμα[ζέ]τω δὲ ὁ προστάτης [καὶ ὁ] ἀρχιερανιστὴς καὶ ὁ γραμματεὺς κα[ὶ οἱ] ταμίαι καὶ σύνδικοι: cf. SH *ad* Rom *l.c.*, and Otto *Priester* ii. p. 75, n.¹ See also *CR* i. p. 6, and Field *Notes* p. 166.
+
+For the verb προστατέω, cf. P Petr II. 13(19)⁴ (*c.* B.C. 252) (= Witkowski², p. 18) where a son writes to his father, οὐ] μὴν οὐθέν ἐμοὶ [ἔσται με]ῖζον ἢ σοῦ προστατῆσα[ι τὸν ἐ[π]λοιπον βίον, ἀξίως [μὲ]ν σοῦ, ἀξίως δ' ἐμοῦ, "there will be nothing of more importance for me than to look after you for the remainder of life, in a manner worthy of you, and worthy of me": for the subst. προστασία, cf. P Par 63¹¹³ (B.C. 164) (= P Petr III. p. 28) τοῦ προγεγραμμένου πλή-[θο]υς προστασίαι [π]ροσεδρεύων, "putting pressure on the leaders of the persons just described" (Mahaffy): and for the adj προστατικός, cf. P Oxy XVI. 1857¹ (vi/vii A.D.) ἀπέστειλα τῇ ὑμετέρᾳ προστατικῇ μεγαλοπρεπείᾳ . . ., "I send to your protecting magnificence . . ."
+
+## προστίθημι,
+
+"add." With Heb 12¹⁹ we may compare *Chrest.* II. 372ʳ· ¹¹ (ii/A.D.) καὶ προσέθηκεν· 'Ἐχθὲς ἔφης ἄλλους ἐσχηκέναι παῖδας,' and P Strass I. 41²¹ (A.D. 250) Σαραπίων ῥ]ήτωρ προσέθηκεν (his λόγος follows). Other exx. of the verb are P Oxy III. 471² (ii/A.D.) π]ροσθήσω τι κύριε περ[ὶ οὗ] θαυμάσεις οἶμαι, "I will add a fact, my lord, which will, I expect, excite your wonder" (Edd.), *ib.* VII. 1062⁴ (ii/A.D.) προσθεὶς ὅτι τὰ θερίᾳ ἐστὶν τὰ κρείσσονα, "adding that the summer ones (*sc.* fleeces) were the best" (Ed.), P Ryl II. 153²⁷ (A.D. 138–161) ταῦτα οἱ προγεγραμμέ[νοι ἐπίτροποί] μου κα[ὶ κ]ληρονόμ[οι] μετελεύσονται καὶ προσθήσουσιν τῷ υἱῷ μου, "these (*sc.* certain allowances) shall be claimed by my aforesaid guardians and heirs and delivered to my son" (Edd.), BGU I. 8ⁱⁱ· ¹⁵ (A.D. 248) ἐδηλώ]θη προστεθεῖσθαι εἰ[ς ἀριθμ]ησιν μην[ὸς Πα]ῦνι, and *Ostr* 1159³ (ii/iii A.D.) πρόσθες εἰς ὄνομ(α) Ἐπων(ύχου), "put down to the account of Eponychus." With the use of the verb in Ac 2⁴¹ Preuschen (*HZNT ad l.*) compares Demosth. xviii. 39 ὅσα ἑκουσίως προσετίθετο τῶν πολισμάτων.
+
+The confident assertion of Hebraism in the idiom προσέθετο πέμψαι, which Luke (20¹¹ᶠ·) deliberately substitutes for the πάλιν ἀπέστειλε of Mk 12¹, needs some reconsideration: see *Proleg.* p. 233. Helbing (*Gr.* p. iv.), goes so far as to call it "a good Greek construction," adding naturally that its extreme frequency in the LXX is due to "mechanical imitation of the original." The very fact that no other Hebraism has ever been discovered in Josephus (see Thumb *Hellen.* p. 125 f., Schmidt *Jos.* p. 514 ff., Deissmann *BS* p. 67 n.¹) might be fairly held to prove that the locution was really Greek.
+
+## προστρέχω,
+
+"run up to," "approach": cf. the metaphorical use in P Oxy II. 247¹² (A.D. 90) ἀπογράφομ[αι τῷ ὁμογν]ησίῳ μου ἀδελ[φῷ] . . . προστρέχοντι τῇ ἐννόμῳ ἡλικίᾳ, "I register for my full brother who is approaching the legal age" (Edd.).
+
+## προσφάγιον.
+
+In the private account P Oxy IV. 736⁴⁶, ⁸⁹ (*c.* A.D. 1) a half obol and 2½ obols respectively are set down for προσφάγιον, which the editors render "relish" (similarly in *ib.* 739¹⁰· ¹²). In the same account ⁶¹; ⁵²· ⁶² ὄψον and ὀψάριον are translated "sauce." But the plentiful evidence from Hellenistic writers in Wetstein *ad* Jn 6⁹ would seem to show that ὄψον and ὀψάριον meant "fish" predominantly as early as Plato, and ordinarily in later times as in Athenaeus. In the same way, to judge from the papyrus evidence, προσφάγιον is best understood of some staple article of food of the *genus* fish, rather than of a mere "relish." Thus P Oxy III. 498³³ (ii/A.D.) it is provided that a stone-cutter's wages are to be so many drachmae a day along with ἄρ]τον ἕνα καὶ προσ-

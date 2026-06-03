@@ -1,0 +1,33 @@
+προτείνω   554   προϋπάρχω
+
+(iv/A.D.) **τοῦ προτεταγ[μένου]** (*sc.* ἐπιστάλματος, or the like), and P Amh II. 145²⁴ (iv/v A.D.) **τοῦτο γὰρ προτάττεσθαι εὔλογον,** "for it is right that this should be put in the foremost place" (Edd.).
+
+## προτείνω.
+
+In Ac 22²⁵, its only occurrence in the NT, this verb seems to be used not of binding or tying with thongs (AV, RV), but rather of "stretching forward" with thongs, so as to cause a tense posture for receiving blows (see Field *Notes*, p. 136 f.) : cf. P Leid Wˣᵛⁱⁱⁱ· ³² (ii/iii A.D.) (=II. p. 145) **ἰς τὸν βορρᾶ** (*l.* εἰς τὸν βορρᾶν) **τὴν μίαν πὺξ** (*l.* πυγμὴν) **προτί-** (= εἴ)**νας,** "versus septemtrionem unum pugnum extendens." For the derived meaning "put forward," "propose," cf. P Par 63¹⁶¹ (B.C. 164) (= P Petr III. p. 32) **ἀσμενῶς ἐπιδέξασθαι τὸ προτεινόμενον,** "to receive what is proposed cheerfully" (Edd.), and *OGIS* 315⁵³ (B.C. 164–159) **χλωρὸς δ' εὐτονώτατος ἦν τὰ Ῥωμαϊκὰ προτείνων καὶ οὐθενὶ τρόπωι συμβουλεύων οὐθὲν ἄνευ 'κείνων πράσσειν.**
+
+## πρότερος.
+
+The comparative rarity of **πρότερος** in the NT, where it occurs only eleven times (never in Lk), as contrasted with the 200 appearances of **πρῶτος,** meets us again in the papyri. For the adj., as in Eph 4²², cf. P Fay 34⁹ (A.D. 161) **κατὰ τὴν τῶν προτέρων ἐτῶν συνήθειαν,** "according to the custom of former years," and for the neut. used adverbially see BGU IV. 1096⁴ (i/ii A.D.) (*sc.* γραμματέα) **πρότερον εἶχον·** P Lond 1221¹⁹ (A.D. 105) (= III. p. 25) **ἐν οἰ[κί]ᾳ πρότερον Κλαυδίας,** and with the art. P Tebt II. 302⁶ (A.D. 71-2) **ἀρούρας φ̅δ̅ τὸ πρότερον τῶν προκι[μένων θεῶν,** "500¼ arourae which previously belonged to the aforesaid gods."
+
+In view of these exx. we are probably right in understanding **τὸ πρότερον** in Gal 4¹³ in the general sense of "previously," "originally," rather than "on the former of two visits" (cf. Lake *Earlier Epp. of St. Paul,* p. 265 f.) : so also in all the other appearances of the phrase in the NT.
+
+In the following exx. **πρότερον** is best rendered by our English "first"—P Petr I. 29¹⁵ (iii/B.C.) **γίνωσκε δὲ καὶ ὅτι ὕδωρ ἕκαστος τῶν ὅρων τὴν ἄμπελον φυτευομένην πρότερον δεῖν φασίν, [ο]ὐ [δὲ ὑ]πάρχειν,** "know, also, that each of the watchers says that the planted vines want water first, and that they have none" (Ed.), P Oxy X. 1281⁹ (A.D. 21) **ἐφ' ὧι κομιζομένου [τοῦ] Ἰωσήπου ταῦτα πρότερον δώσει λόγο[ν] τούτων,** "on condition that when Joseph receives it he shall first render an account of it" (Edd.), and P Fay 32¹⁵ (A.D. 131) **ἐὰν δέ τι κατὰ τοῦτ(ου) ἐξοικονομῶ πρότερον ἀποδίξω ὑπάρχειν,** "if I alienate any of my rights over it, I will first establish my title to the ownership" (Edd.). See also *s.v.* **πρῶτος.**
+
+## προτίθημι
+
+is very common in the papyri = "proclaim," "set forth" publicly, an edict or notice, e.g. P Oxy I. 34 *verso*ⁱⁱⁱ· ¹⁴ (A.D. 127) **προτεθήτω,** "let this edict be publicly issued" (Edd.), *ib.* VIII. 1100² (A.D. 206) **διατάγματος προτεθέντος ὑπ' ἐμοῦ ἐν τῇ λαμπροτάτ[ῃ πόλει τῶν Ἀλεξανδρέων] ἀντίγραφον,** *ib.* XIV. 1633³⁷ (A.D. 275) **δημ(οσίᾳ) προετέθ(η).** Cf. P Tor I. 1ⁱⁱ· ⁶ (B.C. 116) **ἐνέβαλον ἔντευξιν εἰς τὸ προτεθὲν** ("expositum") **ὑπ' αὐτῶν ἀγγεῖον** ("vas") **ἐν τῇ Διοσπόλει,** P Amh II. 85¹⁹ (A.D. 78) **ἐὰν φαίνη<ται> προτεθ[ῆ]ναι τῆσδε τῆς μισθώσεως ἀντίγραφον ἐπὶ τὰς καθηκούσας ἡμέρας δέκα,** "subject to your consenting to the publication of this lease for the legal period of ten days" (Edd.), BGU II. 372ⁱⁱ· ¹⁸ (A.D. 154) **ἔστω π[ρο]θεσμία [αὐτο]ῖς, ἐξ οὗ ἂν τοῦτ[ό] μου τὸ διάταγ[μ]α ἐν ἑκά[στ]ῳ νομῷ προτεθῇ μῆνες γ̅,** "let their limit of time be three months from the date of publication of my edict in each several nome," and P Strass I. 22⁸ (iii/A.D.) **προετέθη ἐν Ἀλεξανδ[ρ]είᾳ η̅ (ἔτει) Φαρμοῦθι κ̅δ̅.**
+
+This meaning of "set forth publicly" is preferred for **προέθετο** by SH *ad* Rom 3²⁵ (cf. Deissmann *BS* p. 129 ff.) ; but Moulton on the strength of an inscr. suggests that the meaning may rather be "offered," or "provided" for a propitiatory gift. The inscr. is *Syll* 325 (= ³708)¹⁵ (before B.C. 100) **τισὶν δὲ τῶν πολειτῶν ε[ἰς] λύτρα προτιθεὶς** (*sc.* χρήματα) **ἔδειξεν ἑαυτὸν πρὸς πᾶσαν ἀπάντησιν τῶν σωζομένων εὐομείλητον,** which Moulton renders, "offering money for the ransom of other citizens, he showed himself gracious at every welcoming of those who from time to time safely returned." See further *Exp* VIII. i. p. 475 f.
+
+A medical receipt for quartan fever, P Oxy VIII. 1088⁵⁷ (early i/A.D.), runs—**φακὸν πρὸς τοὺς πόδας προτιθείς, καὶ σκεπάζειν ἱματίοις,** "apply a warm bottle to the feet, and cover him up with blankets."
+
+## προτρέπω.
+
+This NT **ἅπ. εἰρ.** lends itself easily to illustration in the same sense as in Ac 18²⁷, "urge forwards," "encourage" : P Par 63¹⁶⁵ (B.C. 164) (= P Petr III. p. 32) **προτρεψαμένου τοὺς στρατηγοὺς καὶ τοὺς λαοὺς ἐ[πι]δέξασθαι τὰ τῆς ἀσχολίας,** "instigated the strategi and the people to undertake the labour" (Mahaffy), P Ryl II. 77⁴⁸ (A.D. 192) **ἡμῶν δὲ προτρεπομένων αὐτὸν ἀναδέξασθαι τὴν κοσμητείαν,** "but when we urged him to undertake the office of cosmetes" (Edd.), BGU I. 164¹⁷ (ii/iii A.D.) **ἐὰν μὴ τοῦτο ποιήσῃς καὶ προτρέψῃς αὐτὸν ἐλθεῖν,** *ib.* II. 450¹⁵ (ii/iii A.D.) **προτρέψῃ αὐτὸν τ[α]κχέως παρ[αγ]ενέ[σ]θαι,** P Oxy X. 1252 *verso*³² (A.D. 288-95) **προετρεψάμην Ἀμμώνιον . . ἐν τῷ μεταξὺ** (= ὺ) **ἀποδοῦναι,** "I urged Ammonius to discharge this in the meantime," *OGIS* 339⁹⁰ (*c.* B.C. 120) **ἵνα . . . ζηλωταὶ μὲν τῶν καλλίστων γίνωνται, προτρέπωνται δὲ πρὸς ἀρετήν,** *Syll* 326 (= ³709)⁵ (*c.* B.C. 107) **ἐπ[ὶ] τὰ κάλλιστα καὶ ἐνδοξότατα τὸν [βασ]ιλέα προτρεπόμενος,** and *ib.* 686 (= ³1073)³⁷ (A.D. 117) **ἐπὶ πλεῖστον ἀγωνίζεσθαι προτρεπόμενος.** See also *Kaibel* 940⁵ *s.v.* **παραδειγματίζω.**
+
+For the subst. see P Oxy X. 1252 *verso*²⁷ (A.D. 288-95) **οἵ]τινες κατὰ μὲν τὴν προτροπὴν τῆς βουλῆς παρελθόντες,** "who came forward at the behest of the senate," and for the adj. see Vett. Val. p. 55⁴ **προτρεπτικῶν καὶ διδασκαλικῶν λόγων.**
+
+## προϋπάρχω,
+
+"am before or previously." Like **προτρέπω,** this Lucan word (Lk 23¹², Ac 8⁹) is found in vernacular sources. Thus in a description of the repair of certain canal dykes, P Lille I. 1 *verso*⁴ (B.C. 259-8), reference is made to the already existing dykes—**τῶν δὲ προϋπαρχόντων χωμάτων ἐν τοῖς διαπλευρισμοῖς τούτοις** : cf. P Tebt I. 9³ (B.C. 119) **κατασταθεὶς πρὸς [τ]ῆι προϋπαρχούση[ι] μοι κωμογραμματείας**
