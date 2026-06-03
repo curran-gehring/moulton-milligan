@@ -1,10 +1,10 @@
 # Moulton-Milligan Digitization — Report
 
-Generated: 2026-06-03T18:33:56.278533+00:00
+Generated: 2026-06-03T18:57:07.699430+00:00
 
 ## Scope of this export
 
-**Lexicon-body chunk** — pages 31–735 (699 pages parsed).
+**Lexicon-body chunk** — pages 31–735 (695 pages parsed).
 Phase 4 (citation normalization) is DONE: `papyri_citations_norm` holds per-citation
 objects {raw, norm, series, status} normalized against MM's own front-matter
 abbreviation table (reference/papyri_abbreviations.json, 303 entries); ib./id.
@@ -14,51 +14,51 @@ as-written strings. Phase 5
 remaining cases requiring human judgment are surfaced in `disagreements_manual.tsv`.
 
 This export uses the **relaxed filter** (all entries included).
-Pass `--strict` to apply spec §6's `needs_review=0` filter (1873
+Pass `--strict` to apply spec §6's `needs_review=0` filter (1623
 entries would be excluded).
 
 ## Source coverage
 
 - Total source pages: 735
-- Parsed pages: 699 (range 31–735)
+- Parsed pages: 695 (range 31–735)
 - Pages still on Tesseract baseline (need Phase 1B): 1
 
 ## Entries
 
-- Total entries: 5055
-- `needs_review=1` flagged: 1873
-- Placeholder lemmas (`??`): 1
-- Exported to mm.sqlite: 4788
-- Duplicate (strongs, lemma) skipped: 267
+- Total entries: 4804
+- `needs_review=1` flagged: 1623
+- Placeholder lemmas (`??`): 0
+- Exported to mm.sqlite: 4787
+- Duplicate (strongs, lemma) skipped: 17
 
 ## Strong's keying (Phase 3)
 
-- Strong's-keyed: 4975 (98.4%)
-- `G_N/A:<lemma>` placeholders: 80
+- Strong's-keyed: 4720 (98.3%)
+- `G_N/A:<lemma>` placeholders: 84
 - Fuzzy snap corrections (logged in disagreements): 108
 
 Spec §8 gate: ≥75% Strong's coverage — **PASS**.
 
 ## Adversarial review (Codex)
 
-- agree: 4017 (79.5%)
-- minor: 381 (7.5%)
-- major: 636 (12.6%)
+- agree: 3974 (82.7%)
+- minor: 281 (5.8%)
+- major: 529 (11.0%)
 - reject: 0
 
-agree+minor rate: **87.0%** (spec §8 gate: ≥85%) — **PASS**.
+agree+minor rate: **88.6%** (spec §8 gate: ≥85%) — **PASS**.
 
 ## Phase 5 disagreement resolution
 
-- Resolved: **1400** (auto-policies)
+- Resolved: **1183** (auto-policies)
 - Remaining manual queue: **0** (see `disagreements_manual.tsv`)
 
 Auto-resolution breakdown:
-- `auto:has-translation-from-body` — 297
-- `auto:accept-reviewer-note` — 232
-- `auto:producer-superset-citations` — 63
-- `auto:reviewer-superset-citations` — 57
-- `auto:summary-diff-not-content` — 14
+- `auto:has-translation-from-body` — 295
+- `auto:producer-superset-citations` — 61
+- `auto:reviewer-superset-citations` — 55
+- `auto:accept-reviewer-note` — 35
+- `auto:summary-diff-not-content` — 12
 - `auto:lemma-strip-period` — 7
 - `auto:set-equal-keep-producer` — 1
 
