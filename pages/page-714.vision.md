@@ -1,0 +1,31 @@
+χάραξ  684  χάρις
+
+(= *Chrest.* II. p. *88*) οὐ τῶν χαρα[κτή]ρων μόνων κληρο[ν]όμους δεῖ εἶναι, and P Leid W xxiv. 11 (ii/iii A.D.) (= II. p. 159) τέλει τέ μοι κύριε, τὸν μέγαν, κύριον, ἄφθεγτον χαρακτῆρα ("notam"), ἵνα αὐτὸν ἔχω. In the case of *Syll*³ 783²³ (after B.C. 27) μέχρι τῶν Σεβαστείων εὐπλόησεν χαρακτήρων, Deissmann (*LAE*² p. 341 n.¹) translates "he made a successful voyage to the August Persons (Augustus and Livia)," taking χαρακτήρ thus early in the transferred sense of "person." See also notes on the word by J. Geffcken in *Exp T* xxi. p. 426 f., and by A. Körte in *Hermes* lxiv. (1929), p. 69 ff.
+
+## χάραξ.
+
+For the meaning "palisade," as in Lk 19⁴³, cf. BGU III. 830⁵ (i/A.D.) συμβαλὼν χάρ[ακα] περὶ τοῦ ἐ[λαιῶν]ος: and see *Syll*³ 363¹ (B.C. 297) οἱ] ἐν τῶι χάρακι, where the reference is to a fortified camp. The word has its earlier meaning of "stake," "vine-prop" in PSI IV. 393⁶ (B.C. 242-1) χάρακος καλαμίνου μυριάδες τρεῖς, BGU IV. 1122¹⁷ (B.C. 13) τὸ φυτὸν καὶ χάρακας καὶ φλοῦν.
+
+## χαρίζομαι.
+
+The two meanings usually assigned to this verb, "show kindness to" and "graciously bestow," can hardly be separated as the following miscellaneous exx. show— P Lond 42³² (B.C. 168) (= I. p. 31, *UPZ* i. p. 301, *Selections*, p. 11) χαριε (*l.* χαριεῖ) δὲ καὶ τοῦ σώματος ἐπιμε[λό]μενος, ἵν' ὑγιαίνηις, P Tebt I. 56¹⁶ (*c.* B.C. 130-121) τοῦτο δὲ ποιήσας ἔσῃ μοι κεχαρισμένος εἰς τὸν ἅπαντα χρόν[ον, "if you do this I shall be eternally obliged to you" (Edd.), P Oxy II. 292⁹ (*c.* A.D. 25) χαρίεσαι (see below) δέ μοι τὰ μέγιστα, P Tebt II. 509 (i/ii A.D.) μεθ' ἃς ἐχαρισάμην αὐτῶι ἀπὸ λοι[π(ῶν)] κοπ(ῆς) χόρτ(ου) (δραχμὰς) κ̄, P Oxy I. 33 *verso* iii. 1 (late ii/A.D.) καὶ τοῦτο ἡμεῖν χάρ[ισ]αι, κύριε Καῖσαρ, "grant me this one favour, lord Caesar" (Edd.), P Grenf II. 68³ (A.D. 247) ὁμολογῶ χαρίζεσθ[αι] σοὶ χάριτι ἀναφαιρέτῳ καὶ ἀμετανοήτῳ . . ., a deed of gift, *Chrest* I. 461¹⁵ (beg. iii/A.D.) εὐεργεσίας ἧς ἐχαρί[σαντο τοῖς ἀπολυθεῖ]σι στρατιώταις, Aristeas 38 βουλομένων δ' ἡμῶν καὶ τούτοις χαρίζεσθαι, "since we desire to confer a favour not on these only," the favour being the LXX translation of the Law, and the Christian amulet BGU III. 954²⁸ (vi/A.D.) (= *Selections*, p. 134) ὁ φῶς ἐκ φωτός, θ(εὸ)ς ἀληθινὸς χάρισον ἐμὲ τὸν δοῦλόν σου τὸ φῶς, "O Light of light, very God, graciously give thy servant light."
+
+A striking linguistic parallel to our Lord's trial before Pilate occurs in P Flor I. 61 (A.D. 85), where a Prefect, after stating to an accused man, ⁵⁹ᶠ· ἄξιος μ[ὲ]ν ἧς μαστιγωθῆναι, "thou art worthy to be scourged" (cf. Jn 19¹), adds ⁶¹ χαρίζομαι δέ σε τοῖς ὄχλοις, "but I give you freely to the multitude" (cf. Mk 15¹⁵): see Deissmann *LAE*², p. 269 f.
+
+For the form χαρίεσαι = χαριεῖσαι, as in P Oxy 292 *supra*, cf. P Grenf II. 14 (c)⁷ (iii/B.C.) χαρίεσαί μοι τοῦτο ποιήσας, and see *Proleg.* p. 53 f., where Moulton shows that this formation of the 2nd sing. pres. mid., like the similar NT formations καυχᾶσαι, ὀδυνᾶσαι, has been "formed afresh in the Κοινή with the help of the -σαι that answers to 3rd sing. -ται in the perfect." MGr χαρίζω, "present," "give."
+
+## χάριν,
+
+"for the sake of," "by reason of." In classical Greek χάριν generally follows its case, and so always in the NT, except in 1 Jn 3¹². In the LXX, on the other hand, it generally precedes, and similarly in the papyri, e.g. P Oxy IV. 743²⁹ (B.C. 2) χάριν τῶν ἐκφορίων, "for the rents," P Tebt II. 410⁴ (A.D. 16) χάριν οὗ παρορίζεται ὑπὸ γίτονος, "on account of the encroachments being made on him by a neighbour" (Edd.), P Oxy XII. 1583⁶ (ii/A.D.) χάριν τοῦ [φαι]νόλου, and *ib.* VI. 934¹³ (iii/A.D.) χάριν τῶν ποτισμῶν. In *ib.* XIV. 1683¹⁸ (late iv/A.D.) χάριν follows— σημί (= εἰ)ου δὲ χάριν, "and in proof": and in *ib.* VII. 1068 (iii/A.D.) it is found both before and after its case— ¹⁶ χάριν ἀναγκέας χρίας, and ²¹ Σιμίου χάριν, "for Simias's sake." See also the illiterate BGU III. 948⁴ (iv/v A.D.) εὔχομε τὸν παντοκράτορον θεὸν τὰ πε[ρὶ τ]ῆς ὑγίας σου καὶ ὁλοκληρίας σου χαίριν (*l.* χάριν), and cf. P Tebt II. 393¹⁶ (A.D. 150) περισπασμῶν χάρειν, "on account of his anxieties."
+
+Χάριν in the weakened sense of "about" is seen in P Fay 126⁵ (ii/iii A.D.) ⟨ἔ⟩πεμψεν ἐπὶ τὴν πενθερά⟨ν⟩ σου χάριν τοῦ κτήματος ἐπὶ μέλ⟨λ⟩ι ὁρίζεσθαι, "he had sent a message to your mother-in-law about the farm, since the boundaries are to be fixed" (Edd.).
+
+## χάρις.
+
+The utmost we can attempt with this important word is to illustrate some of its meanings from our sources with the view of showing how readily it lent itself to the deeper Christian implications involved in its NT use.
+
+1. "grace," "graciousness": *OGIS* 383⁹ (Commagene rescript—mid. i/B.C.) ἔργα χάριτος ἰδίας: cf Lk 4²².
+
+2. "favour": P Leid Dⁱ· ¹¹ (B.C. 162-161) (= I. p. 25, *UPZ* i. p. 231) περὶ μὲν οὖν τούτων δοῖ σοι ὁ Σάραπις καὶ ἡ Ἶσις ἐπαφροδισί[α]ν χάριν μορφὴν πρὸς τὸν βασιλέα καὶ τὴν βασίλισσαν, similarly *ib.* K¹⁰ (*c.* B.C. 99) (= I. p. 52), P Lips I. 104¹⁴ (ii/i B.C.) χάριν σοι ἔχω ἐφ' αἷς γράφεις ἐπι[σ]τολαῖς, and *ib.*²⁴, BGU I. 19ⁱ· ²¹ (A.D. 135) ἠξίου προσφυγεῖν τῇ χάριτι τοῦ θεοῦ ἐπιφανεστάτου Αὐτοκράτορος, *ib.* IV. 1085⁵ (time of Marcus) κατὰ τὴν χάριν τοῦ θεοῦ Αἰλ[ί]ου Ἀντων[ε]ίνου δύνονται ἔχειν τὸν τάφον, P Grenf II. 68⁴ (A.D. 247) ὁμολογῶ χαρίζεσθ[αι] σοὶ χάριτι ἀναφαιρέτῳ καὶ ἀμετανοήτῳ, P Oxy XIV. 1664¹² (iii/A.D.) τὰς γὰρ ἐντολάς σου ἥδιστα ἔχων ὡς χάριτας λήμψομαι, "for I shall be most pleased to accept your commands as favours" (Edd.), and P Fay 136⁸ (iv/A.D.) (= Ghedini p. 242) in which the writer summons those whom he is addressing to return to their homes πρὸ τοῦ τις ὑμᾶς ἐνέγκῃ· καὶ οὐκ ἔστιν οὐκέτι ἐν ὑμῖν χάρις, "before some one compels them, and there is no longer favour extended to them": cf. Lk 1³⁰, 2⁵², Ac 2⁴⁷, *al.*
+
+3. "thanks," "gratitude": P Oxy VII. 1021¹⁸ (A.D. 54) διὸ πάντες ὀφείλομεν . . . θεοῖς πᾶσι εἰδέναι χάριτας, "therefore ought we all to give thanks to all the gods," notification of the accession of Nero, BGU II. 596¹³ (A.D. 84) τοῦτ[ο] οὖν ποιήσας ἔσῃ μοι μεγάλην χάριταν (= -ιτα), P Oxy VI. 963 (ii/iii A.D.) χάριν δέ σοι οἶδα,
