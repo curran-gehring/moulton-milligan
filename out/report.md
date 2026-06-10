@@ -1,6 +1,6 @@
 # Moulton-Milligan Digitization — Report
 
-Generated: 2026-06-03T19:32:04.094733+00:00
+Generated: 2026-06-10T02:12:28.782047+00:00
 
 ## Scope of this export
 
@@ -14,7 +14,7 @@ as-written strings. Phase 5
 remaining cases requiring human judgment are surfaced in `disagreements_manual.tsv`.
 
 This export uses the **relaxed filter** (all entries included).
-Pass `--strict` to apply spec §6's `needs_review=0` filter (1623
+Pass `--strict` to apply spec §6's `needs_review=0` filter (1622
 entries would be excluded).
 
 ## Source coverage
@@ -25,16 +25,16 @@ entries would be excluded).
 
 ## Entries
 
-- Total entries: 4804
-- `needs_review=1` flagged: 1623
+- Total entries: 4803
+- `needs_review=1` flagged: 1622
 - Placeholder lemmas (`??`): 0
-- Exported to mm.sqlite: 4787
+- Exported to mm.sqlite: 4786
 - Duplicate (strongs, lemma) skipped: 17
 
 ## Strong's keying (Phase 3)
 
-- Strong's-keyed: 4720 (98.3%)
-- `G_N/A:<lemma>` placeholders: 84
+- Strong's-keyed: 4727 (98.4%)
+- `G_N/A:<lemma>` placeholders: 76
 - Fuzzy snap corrections (logged in disagreements): 108
 
 Spec §8 gate: ≥75% Strong's coverage — **PASS**.
@@ -42,19 +42,19 @@ Spec §8 gate: ≥75% Strong's coverage — **PASS**.
 ## Adversarial review (Codex)
 
 - agree: 3974 (82.7%)
-- minor: 281 (5.8%)
-- major: 529 (11.0%)
+- minor: 281 (5.9%)
+- major: 528 (11.0%)
 - reject: 0
 
 agree+minor rate: **88.6%** (spec §8 gate: ≥85%) — **PASS**.
 
 ## Phase 5 disagreement resolution
 
-- Resolved: **1183** (auto-policies)
+- Resolved: **1179** (auto-policies)
 - Remaining manual queue: **0** (see `disagreements_manual.tsv`)
 
 Auto-resolution breakdown:
-- `auto:has-translation-from-body` — 295
+- `auto:has-translation-from-body` — 294
 - `auto:producer-superset-citations` — 61
 - `auto:reviewer-superset-citations` — 55
 - `auto:accept-reviewer-note` — 35
