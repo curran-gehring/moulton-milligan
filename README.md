@@ -57,3 +57,9 @@ cd ..
 - Do not consult Allan Loder's VGNT/VGNTS — copyrighted derivative work.
 - Do not translate untranslated Greek/Latin papyri quotations.
 - Same-family adversarial review is forbidden (Claude → reviewed by Codex; Codex → reviewed by Claude).
+
+**Exception (user-approved 2026-09-29):** `scripts/sb_audit.py` ran a whole-book scan
+audit with the free OpenRouter stealth model `stealth/space-bunny-alpha` via the ARL
+proxy. Fixes were applied only when an independent *blind* re-read agreed; Greek-text,
+multi-site, delete and re-key changes were routed to manual review
+(`out/sb_audit_disagreements.tsv`). Ground truth: 40/41 sampled number fixes correct.
