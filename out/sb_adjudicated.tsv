@@ -1,0 +1,1380 @@
+page	entry_id	key	via	old	new
+31	87	87:patch:1	sonnet	*ib.* 803²⁻³ (i/B.C.)	*Syll* 803⁹³ (iii/B.C.)
+32	91	91:patch:0	sonnet	Sir 48¹¹ ἀ. is the only other occurrence	Sir 48¹¹ א. is the only other occurrence
+32	93	93:patch:0	convention-only	*P Petr* II. 20¹⁻⁵ (B.C. 252)	*P Petr* II. 20ⁱᵛ·⁵ (B.C. 252)
+32	93	93:patch:1	convention-only	*P Tebt* I. 5¹⁸² (B.C. 118)	*P Tebt* I. 5¹⁸², ²⁵² (B.C. 118)
+32	93	93:patch:2	convention-only	*BGU* I. 21¹⁶ (A.D. 340)	*BGU* I. 21ⁱⁱⁱ·¹⁶ (A.D. 340)
+32	93	93:patch:3	convention-only	*BGU* I. 21¹⁻¹⁶ (A.D. 340—coeval with the MSS.)	*BGU* I. 21ⁱⁱⁱ·¹⁶ (A.D. 340—coeval with the MSS.)
+33	95	95:patch:5	sonnet	*Michel* 1361¹⁴	*Michel* 1361⁴ᶠ·
+34	104	104:patch:0	convention-only	*P Amh* I. 3(a)ⁱⁱⁱ⁻²²ᶠ	*P Amh* I. 3(a)ⁱⁱⁱ·²²ᶠ
+34	106	106:patch:1	sonnet	ἡ μετα[φο]ρὰ τῶν ἀνκαλῶν	ἡ μεταφ[ορὰ] τῶν ἀνκαλῶν
+34	106	106:patch:2	convention-only	*P Oxy* VI. 935¹⁸ᶠ	*P Oxy* VI. 935¹⁸ᶠᶠ
+34	108	108:patch:0	convention-only	*P Lond* 193 *verso* ³³	*P Lond* 193 *verso* ²²
+34	108	108:patch:1	convention-only	*P Hamb* I. 10⁹	*P Hamb* I. 10²²
+34	109	109:patch:2	sonnet	*P Par* 5ⁱˣ⁻²⁰	*P Par* 5ˣⁱᵛ·10
+34	109	109:patch:3	convention-only	*BGU* I. 17²	*BGU* I. 1¹⁷
+34	109	109:patch:4	convention-only	*P Oxy* V. 840,	*P Oxy* V. 840⁸,
+34	109	109:patch:5	convention-only	*P Tebt* II. 298²⁸	*P Tebt* II. 298⁶⁸
+34	109	109:patch:6	sonnet	⁶⁄₆ art. of wheat daily	¼ art. of wheat daily
+34	111	111:patch:0	convention-only	*P Tebt* II. 314⁹	*P Tebt* II. 314³
+34	111	111:patch:1	convention-only	*P Tebt* I. 43⁵	*P Tebt* I. 43²⁵
+34	112	112:patch:0	convention-only	*P Tebt* I. 5¹ (B.C. 118)	*P Tebt* I. 5³ (B.C. 118)
+34	112	112:patch:1	convention-only	Similarly in *P Par* 63 ⁱⁱⁱ⁻² one of the Ptolemies writes	Similarly in *P Par* 63 ˣⁱⁱⁱ·² one of the Ptolemies writes
+35	114	114:patch:0	convention-only	*P Tebt* I. 24⁹ (B.C. 117)	*P Tebt* I. 24³³ (B.C. 117)
+35	114	114:patch:1	sonnet	With a different turn cf. *P Tebt* II. 333⁵ (A.D.) ἐπεὶ κατ' ἄγνοιαν τῶν φροντίδων αὐτῶν ἠργάσατο, *ib.* I. 78⁵ ᶜ. (iii/A.D.)	With a gen. the same phrase occurs in *P Oxy* VI. 923⁹ (ii/iii A.D.) ἐπεὶ κατ' ἄγνοιαν τῶν φροντίδων αὐτῶν ἠργάσατο, *ib.* I. 78²³ ff. (iii/A.D.)
+35	114	114:patch:2	convention-only	*P Oxy* II. 237ⁱⁱⁱ ⁸ (A.D. 186)	*P Oxy* II. 237ᵛⁱⁱⁱ·³⁶ (A.D. 186)
+35	115	115:patch:2	sonnet	εἰσίναι εἰς τὸ] ἱερὸν ἁγνὸν ἐν] ἐσθῆτι λευκ[ῆι]	εἰσίναι εἰς τ[ὸ] ἱερὸν ἁγνὸν ἐ[ν] ἐσθῆτι λευκ[ῆι]
+35	115	115:patch:4	convention-only	*P Oxy* I. 41¹⁹ᶠ	*P Oxy* I. 41²⁹ᶠ
+35	118	118:patch:0	convention-only	*P Giss* I. 3²⁻⁴ (A.D. 117)	*P Giss* I. 3²ᶠ (A.D. 117)
+35	118	118:patch:1	convention-only	*BGU* II. 590⁵ (A.D. 177–8)	*BGU* II. 590⁶ (A.D. 177–8)
+36	121	121:patch:2	sonnet	παρὰ Τασαρ[α]π[ί]ωνος	παρὰ Τασαρ[α]πίωνος
+36	124	124:patch:0	convention-only	Chrest.* I. 167⁴⁵	Chrest.* I. 167¹⁵
+37	132	132:patch:14	sonnet	P. Tebt II. 331⁵	P. Tebt II. 331¹⁶
+38	135	135:patch:2	sonnet	P Oxy IV. 744⁹	P Oxy IV. 744⁴
+38	136	136:patch:0	sonnet	P Tebt II. 423¹⁸ ff.	P Tebt II. 423¹³ f.
+38	138	138:patch:1	sonnet	*Priene* 111¹⁷⁶	*Priene* 111¹³³
+38	139	139:patch:1	sonnet	P Tebt II. 320⁹	P Tebt II. 320⁵
+39	144	144:patch:1	sonnet	Skt *dasmah*:	Skt *dasmáḥ*:
+39	145	145:patch:1	sonnet	(ἡ γῆ ἀκούσασα	(οὗ ἡ γῆ ἀκούσασα
+40	149	149:patch:3	sonnet	so P Passal 8 (Ptol.) (= Witkowski *Epp.* p. 53)	so P Passal⁸ (Ptol.) (= Witkowski *Epp.*² p. 53)
+40	154	154:patch:0	sonnet	BGU III. 781ⁱⁱ. ³	BGU III. 781ᵛⁱ. ²
+40	156	156:patch:1	sonnet	διὰ ἀσθένιαν τῆς φύσεως]	διὰ ἀσθένιαν τῆς φύσε[ως]
+40	158	158:patch:1	sonnet	P Oxy III. 502¹⁰	P Oxy III. 503²⁰
+40	158	158:patch:3	sonnet	only two (iii²) or iii/B.C. A.D.) are dissociated	only two (iii/ or ii/iii A.D.) are dissociated
+41	160	160:patch:0	sonnet	P Hib I. 27¹⁰⁰·¹³⁸	P Hib I. 27¹⁰⁷·¹³⁸
+41	162	162:patch:0	sonnet	*ib.* 48⁷ ⁱ·	*ib.* 48⁷ ff.
+41	162	162:patch:4	sonnet	P Lond 42⁴⁰	P Lond 42¹⁴·²⁷
+41	163	163:patch:0	sonnet	Vettius Valens p. 330¹⁰	Vettius Valens p. 330¹⁸
+41	163	163:patch:2	sonnet	BGU IV. 1207⁸	BGU IV. 1207⁶
+41	164	164:patch:0	sonnet	1 Cor 15⁵³·⁵⁴	1 Cor 15⁵³ f.
+41	164	164:patch:2	sonnet	Wünsch *AF* 5³³	Wünsch *AF* 5²¹
+41	165	165:patch:1	sonnet	αἷς (*sc.* θεαῖς)	αἷς [*sc.* θεαῖς]
+42	169	169:patch:2	sonnet	ἀθετ(ῶσι)	ἀθετ[ῶσι]
+42	169	169:patch:3	sonnet	P Amh II. 64¹³ (A.D. 107)	P Amh II. 64¹²·ᶠ (A.D. 107)
+42	170	170:patch:1	sonnet	P Amh II. 111¹⁶·ᶠ	P Amh II. 111¹⁸·ᶠ
+42	171	171:patch:0	convention-only	CP Herm 119 verso ll. 18	CP Herm 119 verso iii.¹³
+42	171	171:patch:1	sonnet	*Syll* 686⁵⁵	*Syll* 686²¹
+42	173	173:patch:0	sonnet	P Amh II. 37⁵·ᶜᶠ·¹⁵	P Amh II. 37⁷ cf. 10
+42	175	175:patch:1	sonnet	P Oxy II. 234ⁱⁱ·¹⁶	P Oxy II. 234¹⁶
+42	175	175:patch:3	sonnet	ἀπέχειν αὐτοὺς	ἀ[πέ]χειν αὐτοὺς
+43	178	178:patch:2	sonnet	*ib.* 248³⁶	*ib.* 248²⁶
+44	187	187:patch:2	sonnet	P Fay 34⁴ (A.D. 161)	P Fay 34¹⁴ (A.D. 161)
+44	188	188:patch:1	sonnet	*ib.* 607²⁶·⁵⁷	*ib.* 607²⁰, ²⁷
+44	189	189:patch:4	sonnet	(see *Archiv* I. p. 333)	(see *Chrest.* I. p. 33)
+44	189	189:patch:6	sonnet	αἰσθή(σει) σου τοῦ μεγάλου ὀνόματος αὐτοῦ, καὶ μάθῃς ἐν εἷς κατεβ[ι]άσθην πικρίαν	αἰσθόμε(νον) τὴν τοῦ καιροῦ πικρίαν
+44	190	190:patch:0	sonnet	Wünsch *AF* 4¹⁸	Wünsch *AF* 1⁸ ff.
+44	190	190:patch:2	sonnet	*ib.* 5⁴⁰	*ib.* 4⁵⁵
+45	196	196:patch:1	sonnet	αἰσχυνόμενος δὲ ἅτε] καταγελάμενος	αἰσχυνόμενος δ[ὲ ἅτε] καταγελάμενος
+45	197	197:patch:2	sonnet	In *ib.* 121⁴·ᶠ (c. A.D. 100)	In *ib.* 121¹² ᶠᶠ· (c. A.D. 100)
+45	198	198:patch:0	sonnet	*Syll* 418⁸⁵ (iii/A.D.)	*Syll* 418⁶² (iii/A.D.)
+45	198	198:patch:1	sonnet	P Oxy I. 56⁹ (A.D. 211)	P Oxy I. 56²¹ ᶠᶠ· (A.D. 211)
+45	199	199:patch:4	sonnet	P Giss I. 40ⁱ·⁷ (A.D. 212)	P Giss I. 40ⁱ·² (A.D. 212)
+45	199	199:patch:5	sonnet	BGU I. 136⁵¹ (A.D. 135)	BGU I. 136²⁵ ᶠ· (A.D. 135)
+46	203	203:patch:1	sonnet	αἰφνιδί[ω]ς	αἰφνιδί[.]ως
+46	204	204:patch:0	sonnet	*Syll* 348⁷⁻¹⁰	*Syll* 348⁷·¹⁰
+46	204	204:patch:1	sonnet	[ὅτι] ἠχμαλώτισται	[ὅ]τι ἠχμαλώτισται
+46	207	207:patch:1	sonnet	BGU II. 362¹·⁸⁻⁹	BGU II. 362ⁱᵛ·¹¹ ᶠᶠ.
+46	207	207:patch:2	sonnet	Αὐτοκράτορος] Σεουή[ρου	Αὐτοκρά[τορος] Σεουή[ρου
+47	211	211:patch:1	sonnet	λάχανον	λ[άχαν]ον
+47	212	212:patch:6	sonnet	I. 50⁷	I. 50⁷²
+47	216	216:patch:0	sonnet	P Tebt I. 124¹⁹·²⁰ (B.C. 118) ἀσυκοφαν[τή]τους	P Tebt I. 124²⁶ (*c.* B.C. 118) ἀσυκοφαντή-(τους)
+48	220	220:patch:0	sonnet	P Oxy VI. 904⁵	P Oxy VI. 904⁹
+48	222	222:patch:1	sonnet	*Syll* 326²⁰	*Syll* 326¹⁸
+48	224	224:patch:3	sonnet	P Tebt II. 296⁸ (A.D. 123) ἀκόλουθόν ἐστι	P Tebt II. 296¹⁴ (A.D. 123) ἀκόλουθ(όν) ἐστι
+48	225	225:patch:2	sonnet	BGU II. 511¹⁵	BGU II. 511ⁱⁱ· ²
+49	228	228:patch:1	sonnet	*Od.* ix. 297 ἄκρητον γάλα πινέμεν.	*Od.* ix. 297 ἄκρητον γάλα.
+49	229	229:patch:1	sonnet	τὴν ἐκτενε[σ]τάτην	τὴν ἐκτ[ε]νε[σ]τάτην
+49	229	229:patch:3	sonnet	P Oxy III. 471⁷⁸	P Oxy III. 471¹¹ ff.
+49	230	230:patch:2	sonnet	P Tebt II. 28¹⁹	P Tebt II. 287¹⁹
+49	232	232:patch:0	convention-only	P Goodsp Cairo 3⁸·⁶	P Goodsp Cairo 3⁸ f.
+49	235	235:patch:0	sonnet	*CR* iii. p. 419⁸	*CR* iii. p. 419ᵃ
+50	237	237:patch:0	sonnet	and *Syll* 804⁴ (?ii/A.D.)	and *Syll* 804⁹ (?ii/A.D.)
+50	238	238:patch:0	sonnet	(BGU II. 484⁹, A.D. 201–2) and Ἀκύλα (*ib.* I. 71⁵, A.D. 189, P Strass 22³, iii/A.D.	(BGU II. 484⁶, A.D. 201–2) and Ἀκύλα (*ib.* I. 71²¹, A.D. 189, P Strass 22¹⁰, iii/A.D.
+50	240	240:patch:1	sonnet	*ib.* VI. 912¹¹ (A.D. 235), *ib.* VIII. 1127⁷ (A.D. 183)	*ib.* VI. 912¹⁹ (A.D. 235), *ib.* VIII. 1127¹⁶ (A.D. 183)
+50	240	240:patch:3	sonnet	P Lips I. 26²² (beginning iv/A.D.) P Gen I. 17⁸ (A.D. 350)	P Lips I. 26¹¹ (beginning iv/A.D.) P Gen 11¹⁶ (A.D. 350)
+50	244	244:patch:1	sonnet	Mayser (*Gr.* p. 286) quotes a conjectural reading ἅλατος for ἅλατος in the same document	Mayser (*Gr.* p. 286) quotes a conjectural reading ἅλατος for ἅμτος in the same document
+50	244	244:patch:2	convention-only	P Lond 1170 verso¹⁴ (= III. p. 196)	P Lond 1170 verso¹²⁴ (= III. p. 196)
+51	246	246:patch:3	convention-only	OGIS 59³⁰ (iii/B.C.)	OGIS 59¹⁶ (iii/B.C.)
+51	246	246:patch:5	convention-only	P Petr II. 25 (a)¹⁰	P Petr II. 25 (a)¹³
+51	247	247:patch:2	sonnet	BGU I. 269⁹ (ii/iii A.D.) and IV. 1067⁴ ⁻¹⁰ (A.D. 101-2)	BGU I. 269⁴ (ii/iii A.D.) and IV. 1067¹¹ f. (A.D. 101–2)
+51	247	247:patch:3	sonnet	P Leid Vⁱˣ· ³¹⁻³², ˣ·¹	P Leid Vⁱˣ· ³¹, ³², ˣ· ¹
+51	249	249:patch:2	sonnet	With ὁ Ἰη¹, 3 Jn¹ ὃν ἐγὼ	With 2 Jn¹, 3 Jn¹ ὃν ἐγὼ
+51	252	252:patch:0	convention-only	P Petr II. 19 (1a)⁵ (iii/B.C.)	P Petr II. 19 (1a)⁶ (iii/B.C.)
+51	252	252:patch:4	sonnet	P Giss I. 40 ¹·²⁷	P Giss I. 40 ⁱⁱ· ²⁷
+52	255	255:patch:0	sonnet	P Flor II. 275⁴,	P Flor II. 275²¹,
+52	257	257:patch:0	sonnet	*Syll* 178¹ᵇ· ³³	*Syll* 178¹⁴·²²
+52	257	257:patch:2	sonnet	BGU IV. 1141¹⁴⁷·²⁴ (Augustus)	BGU IV. 1141⁴¹·⁴⁴ (Augustus)
+52	257	257:patch:6	sonnet	P Oxy V. 840¹⁸ τοῦτο τὸ ἱερὸν τί[όπον ὄν]τα	P Oxy V. 840¹⁷ ff. τοῦτο τὸ ἱερὸν τ[όπον ὄν]τα
+53	264	264:patch:0	sonnet	P Petr III. 117 (g) ¹⁻¹⁷ ᶠ· [Μ]ένρης	P Petr III. 117 (g) ⁱⁱ·¹⁷ ᶠ· [Μ]άνρης
+53	264	264:patch:1	sonnet	Μανρης ἀδελφὸς	Μάνρης ἀδελφὸς
+53	266	266:patch:2	convention-only	ib.* IV. 1121²⁵	ib.* IV. 1121²²
+54	271	271:patch:0	sonnet	BGU IV. 1031⁷ (ii/A.D.)	BGU IV. 1031¹¹ (ii/A.D.)
+54	272	272:patch:1	convention-only	P Lond 973 ᴬᶠ (iii/A.D.)	P Lond 973 ᵇ¹¹ ᶠ· (iii/A.D.)
+54	272	272:patch:3	sonnet	BGU I. 22⁴¹ ᶠ· (A.D. 114)	BGU I. 22¹⁴ ᶠ· (A.D. 114)
+54	275	275:patch:0	sonnet	*Syll* 586⁹ (iv/B.C.), 588⁸⁵ (ii/B.C.) αἱ P Leid Wᵛⁱ·³ πᾶσα	*Syll* 586⁸⁶ (iv/B.C.), 588³² (ii/B.C.) *al.* P Leid Wᵛⁱⁱ· ³² πᾶσα
+54	276	276:patch:0	sonnet	P Tebt I. 68⁵¹ (B.C. 117-6)	P Tebt I. 68³¹ (B.C. 117-6)
+54	277	277:patch:6	sonnet	P Lond 1239⁸ (A.D. 278-81)	P Lond 1239¹³ (A.D. 278-81)
+54	278	278:patch:4	sonnet	1 Cor 14¹⁶·²³·²⁴	1 Cor 14¹⁶, ²³
+55	281	281:patch:5	sonnet	P Par 68ᴿ·²²	P Par 68⁵⁰ff.
+55	286	286:patch:2	sonnet	ἄμαχος ἐβίωσα μετὰ φίλων κ(αὶ) συνγενῶν.	ἄμαχος ἐβίωσα με[τὰ φί]λων κὲ συνγενῶν.
+56	289	289:patch:3	sonnet	P Oxy I. 113²⁵	P Oxy I. 113¹⁶
+56	291	291:patch:7	sonnet	P Oxy VI. 930⁸ (ii/iii A.D.)	P Oxy VI. 930⁸ff. (ii/iii A.D.)
+56	294	294:patch:0	sonnet	P Lips I. 26²¹	P Lips I. 26⁶f.
+57	297	297:patch:0	sonnet	99 is a common symbol in the Christian papyri for ἀμήν	ϙθ is a common symbol in the Christian papyri for ἀμήν
+57	297	297:patch:1	sonnet	concludes—γένοιτο, 4θ,	concludes—γένοιτο, ϙθ,
+57	300	300:patch:1	sonnet	P Flor II. 157⁸ (iii/A.D.) εἰς τὸ] ἔργον	P Flor II. 157⁵ (iii/A.D.) εἰς τ[ὸ] ἔργον
+57	302	302:patch:0	convention-only	Cagnat IV. 293 ⁱⁱ⁻³⁹	Cagnat IV. 293 ⁱⁱ·³⁹
+58	308	308:patch:0	convention-only	Syll 356⁵⁵	Syll 356³⁵
+58	311	311:patch:0	convention-only	OG/S 200²⁰	OG/S 200²⁴
+58	311	311:patch:1	convention-only	(Kühner Gramm.² ii. p. 366)	(Kühner Gramm.³ ii. p. 366)
+58	311	311:patch:2	convention-only	Syll 197²	Syll 197²⁴
+58	312	312:patch:0	sonnet	PSI 38⁵	PSI 38²
+59	317	317:patch:4	convention-only	ib. 79ⁱⁱ⁻⁶ (same period)	ib. 79ⁱⁱⁱ·⁶ (same period)
+59	318	318:patch:3	sonnet	P Ryl II. 96¹⁵ (A.D. 117-8)	P Ryl II. 96¹⁴ (A.D. 117-8)
+59	318	318:patch:4	convention-only	(Edd., who cite ib. 99⁷, BGU I. 155⁵ and IV. 1049²⁹).	(Edd., who cite ib. 99⁷, BGU I. 155¹³ and IV. 1049²³).
+59	318	318:patch:7	sonnet	(IG iv. 597⁵⁷ ¹⁻—Argos, "3rd c.").	(*IG* iv. 597⁹ ᶠᶠ·—Argos, “spät”).
+59	320	320:patch:1	sonnet	ib. 88 ἐὰν ἀναβῶ	*ib.* ³⁴ ἐὰν ἀναβῶ
+59	320	320:patch:3	sonnet	P Lond 1170 verso ⁶⁴ (A.D. 258-9)	P Lond 1170 *verso*⁴⁶ (A.D. 258–9)
+59	320	320:patch:4	sonnet	as ³⁵ ἀντίγραψον	as ²⁵ ἀντίγραψον
+59	320	320:patch:5	convention-only	ib. VI. 935⁶ (iii/A.D.)	ib. VI. 935¹³ (iii/A.D.)
+59	320	320:patch:7	convention-only	ib. 1141¹⁵ (late i/B.C.)	ib. 1141³³ (late i/B.C.)
+59	320	320:patch:10	sonnet	BGU I. 12⁸ (A.D. 181-2)	BGU I. 12⁴ (A.D. 181–2)
+60	322	322:patch:1	sonnet	ἀναβιεβλήκατε) εἰς χῶ(μα)	ἀναβ(εβλήκατε) εἰς χῶ(μα)
+60	324	324:patch:0	convention-only	Syll 807¹⁵	Syll 807¹⁷
+60	324	324:patch:2	sonnet	αἱ ὀρθὸν ἀνέβλεψε.	καὶ ὀρθὸν ἀνέβλεψε.
+60	326	326:patch:1	sonnet	τοὺς [διωρύγων τε κ[αὶ ὑδ]ραγωγῶν [ἀ]ναβολάς	τοὺς [δι]ωρύγων τε κ[αὶ ὑδ]ραγωγῶν [ἀ]ναβολάς
+60	326	326:patch:2	sonnet	P Amh II. 91¹⁴ (A.D. 159) ἀναβολὰς διωρύγο(υ)	P Amh II. 91¹¹ (A.D. 159) ἀναβολὰς διωρύγω(ν)
+60	326	326:patch:7	sonnet	P Petr III. 21 (g) (iii/B.C.)	P Petr III. 21 (g)²¹ (iii/B.C.)
+61	330	330:patch:0	sonnet	P Goodsp Cairo 29¹¹·¹⁶	P Goodsp Cairo 29ⁱⁱⁱ·¹
+61	330	330:patch:6	sonnet	P Oxy VII. 1062⁸	P Oxy VII. 1062¹³
+61	334	334:patch:4	sonnet	P Lond 121⁵⁰⁸	P Lond 121⁶⁴⁸
+62	340	340:patch:2	sonnet	*ib.* 25⁹ (iii/A.D.)	*ib.* 25³⁰ (ii/A.D.)
+62	340	340:patch:4	sonnet	P Tebt II. 448 (early ii/A.D.) gives ἀνάδος αὐτὰ τὸ ἐπιστόλιον	P Tebt II. 448 (ii/iii A.D.) τῷ ἀναδιδόντι σοι τὸ ἐπιστόλιον
+62	340	340:patch:6	sonnet	P Oxy VII. 1063³	P Oxy VII. 1063¹⁴
+63	344	344:patch:0	sonnet	P Leid Wⁱ·⁴³	P Leid Wˣᵛⁱ·⁴³
+63	346	346:patch:2	sonnet	where on any one's interfering with the remains the curse is called ἀονη= ἀνάθεμα ἤτω μαραν αθα	where on any one's interfering with the remains the curse is called down—ἀνάθεμα ἤτω μαρὰν ἀθὰν
+64	362	362:patch:1	sonnet	P Théad 19¹⁸	P Théad 19¹⁶
+65	367	367:patch:7	sonnet	τοῦ κρατίστου] δι[ο]ικητοῦ	τοῦ κρα[τίστου] δι[ο]ικητοῦ
+65	369	369:patch:2	sonnet	P Lond 1177¹⁷⁹ (A.D. 113)	P Lond 1177¹¹ (B.C. 113)
+65	369	369:patch:4	sonnet	τὰ μάταια ἀναλώματα α[ὐ]ξεται	τὰ μάταια ἀναλώματα π[α]ύσεται
+66	374	374:patch:1	sonnet	1053ⁱ·⁸ (*ic.*), 1055²⁰ (*ic.*), 1156¹⁸ (B.C. 15), 1167⁵⁵ (B.C. 12)	1053ⁱ·³³ (*id.*), 1055²⁶ (*id.*), 1156¹⁸ (B.C. 15), 1167⁵⁴ (B.C. 12)
+67	383	383:patch:0	sonnet	P Magd 14⁵ᶠ	P Magd 14³ᶠ
+67	383	383:patch:2	sonnet	1 Macc 1⁴¹	1 Macc 1¹¹
+68	394	394:patch:4	sonnet	βελτίστου ἀναστρεφομένων	βελτ[ί]στου ἀναστρεφομένων
+68	399	399:patch:6	sonnet	ἀπὸ ἀν[ατολῆς ἡλίου] μέχρι δύσεως	ἀπὸ ἀν[ατολῆς] ἡ[λίου] μέχρι δύσεως
+69	404	404:patch:13	convention-only	P Eleph 17¹⁹ᶠ	P Eleph 17¹⁹ᶠᶠ.
+70	410	410:patch:2	sonnet	P Cattaoui Vᵛ·¹⁶ = *Chrest.* II. p. 423	P Cattaoui ᵛ·¹⁶ = *Chrest.* II. p. 423
+71	419	419:patch:0	sonnet	*Cagnat* IV. 293ⁱⁱ⁻⁴ (Pergamon, ii/B.C.) πάντα δὲ κίνδυν]ον	*Cagnat* IV. 293ⁱⁱ·⁴ (Pergamon, ii/B.C.) πάντα δὲ κίνδυν]ο[ν
+71	427	427:patch:4	sonnet	Latyschev *I.osPE.* II. 52⁸.	Latyschev *IosPE*, II. 52⁸ ᶠᶠ.
+72	433	433:patch:0	sonnet	803⁶ (iii/B.C.)	803²⁶ (iii/B.C.)
+72	434	434:patch:1	sonnet	P Lips I. 5 ⁱⁱ-⁸	P Lips I. 5 ii. 8
+72	436	436:patch:0	sonnet	*Syll* 804⁷⁸	*Syll* 804²⁶
+73	438	438:patch:2	sonnet	P Flor I. 1²⁹ (A.D. 153)	P Flor I. 1⁴ *al.* (A.D. 153)
+73	446	446:patch:2	sonnet	So P Tebt II. 333⁷ (A.D. 216), 332⁷, 633²² (Rom.—note	So P Tebt II. 333¹¹ (A.D. 216), *Syll* 633¹³ (Rom.—note
+74	449	449:patch:6	sonnet	*ib.* 891²	*ib.* 890²²
+74	451	451:patch:2	convention-only	P Amh II. 99 (a)⁸	P Amh II. 99 (b)⁹
+75	455	455:patch:4	convention-only	Syll* 790⁶ (i/A.D.)	Syll* 790⁴⁷ (i/A.D.)
+75	455	455:patch:6	convention-only	OGIS* 222⁵⁶	OGIS* 222³⁶
+75	455	455:patch:7	convention-only	OGIS* 529¹ (A.D. 117–38)	OGIS* 529¹¹ (A.D. 117–38)
+75	455	455:patch:12	sonnet	BGU I. 326ⁱⁱ⁻²⁹	BGU I. 326ⁱⁱ·¹⁰
+76	468	468:patch:1	sonnet	P Tor 3¹³ (ii/B.C.), and 1¹¹·¹⁶ (B.C. 116)	P Tor 3²⁴ (ii/B.C.), and 1ⁱⁱ·¹⁴ (B.C. 116)
+76	468	468:patch:5	sonnet	*ib.* 282⁹	*ib.* 282²⁰
+76	468	468:patch:12	sonnet	are all *ἡ. gen. rei*	are all *c. gen. rei*
+76	469	469:patch:8	sonnet	Ἐπίεικυς ἀνθ᾽ οὗ Ἐπίεικυς	Ἐκύσεως ἀνθ᾽ οὗ Ἐκύσεως
+77	473	473:patch:1	sonnet	Cf. P Petr II. 65¹⁵ (B.C. 67?), P Oxy II. 237 vii. ²⁶, ³², viii. ¹² (A.D. 186), BGU II. 592³ (ii/A.D.), P Strass I. 41⁷·³³ (c. A.D. 250).	Cf. P Ryl II. 65¹⁵ (B.C. 67?), P Oxy II. 237ᵛⁱⁱ·²⁴, ³², ᵛⁱⁱⁱ·¹² (A.D. 186), BGU II. 592⁷ (ii/A.D.), P Strass I. 41⁷, ²³ f. (c. A.D. 250).
+77	478	478:patch:2	sonnet	in the first -αςθαι has intruded	in the first two -ασθαι has intruded
+77	478	478:patch:3	sonnet	P Flor I. 47a]³ (A.D. 213-7)	P Flor I. 47a¹² (A.D. 213-7)
+78	479	479:patch:2	sonnet	P Fay 12⁷	P Fay 12³⁴
+78	481	481:patch:3	sonnet	P Tebt II. 283⁷	P Tebt II. 283²⁰ ff.
+79	490	490:patch:1	sonnet	P Cattaoui verso i.² (mid. ii/A.D.)	P Cattaoui *verso* i.⁷ (mid. ii/A.D.)
+79	494	494:patch:2	sonnet	ἀντ᾽ ὀφθαλμῖ[ῶ]ν	ἀντ᾽ ὀφθαλμ[ῶ]ν
+80	500	500:patch:1	sonnet	P Hib I. 110³⁷	P Hib I. 110⁶⁵
+80	500	500:patch:3	sonnet	ἐορτά[σθη]ν	ἐκομισά[μη]ν
+80	500	500:patch:11	sonnet	BGU II. 595⁶	BGU II. 595⁵ ff.
+80	500	500:patch:15	sonnet	(3) *aigle* 732⁴	(3) *denuo* 732¹¹
+80	500	500:patch:16	sonnet	γενηθεὶς δὲ] καὶ	γενηθεὶς δ[ὲ] καὶ
+80	504	504:patch:0	sonnet	(Plut. *Mor.* 43 e)	(Plut. *Mor.* 43 C)
+81	506	506:patch:2	sonnet	P Eleph 19⁵ ᶠ	P Eleph 19¹⁸
+81	506	506:patch:3	sonnet	P Par 49⁹	P Par 49¹⁰ ᶠᶠ
+81	506	506:patch:8	sonnet	Esther 5³, 7²ᶠ	Esther 5³⁻⁸, 7²ᶠ
+81	508	508:patch:2	sonnet	ⁱⁱⁱ· ⁶ ᶠᶠ; ὑπὲρ	ᵛ· ⁶ ᶠᶠ: ὑπὲρ
+81	509	509:patch:0	convention-only	P Petr III. 36 (a) verso⁸	P Petr III. 36 (a) verso⁶
+82	516	516:patch:1	convention-only	P Lond 1157 verso (b)	P Lond 1157 verso (b)³
+83	519	519:patch:0	sonnet	P Tebt I. 43⁷·⁷	P Tebt I. 43ⁱ·⁷
+84	525	525:patch:1	sonnet	BGU II. 448⁸ ᶠ	BGU II. 448²³ ᶠᶠ
+84	525	525:patch:2	convention-only	P Catt versoⁱⁱⁱ· ³	P Catt versoⁱⁱⁱ· ¹³
+84	526	526:patch:1	sonnet	IV. 1150⁵¹ (B.C. 11) ἀνακεκόμισται δὲ ἡ Ὀπώρα παρὰ τῆ(ς) Ἀρτέμιδ(ος) ἃς ἔδωκ[εν)	IV. 1150¹¹ (B.C. 11) ἀνακεκόμισται δὲ ἡ Ὀπώρα παρὰ τῆ(ς) Ἀρτέμιδ(ος) ἃς ἔδωκ(εν)
+84	526	526:patch:4	sonnet	588²⁵⁰ (ii/B.C.); 611¹⁰	588¹¹⁴ (ii/B.C.); 611²¹
+84	529	529:patch:2	sonnet	[τοῖς θεαταῖς, αὐλητήν ἤ]	[τοῖς θεαταῖς, αὐλητήν?]
+84	529	529:patch:3	convention-only	in P Petr III. 11 *Ἀπάτη*	in P Petr III. 11²¹ *Ἀπάτη*
+85	532	532:patch:3	sonnet	BGU III. 747ⁱ· ¹⁴ (A.D. 139) ὑπόδιγμα τῆς ἀπειθίας, and P Rein 51¹¹	BGU III. 747ⁱⁱ· ¹⁴ (A.D. 139) ὑπόδιγμα τῆς ἀπειθίας, and P Rein 51²¹
+85	533	533:patch:6	sonnet	*ib*. 737¹³ (ii/A.D., Athens)	*ib*. 737⁹⁹ (ii/A.D., Athens)
+85	533	533:patch:7	sonnet	and similarly ¹⁴², *ib*. 653⁸ (Andania, B.C. 91) τὸν δὲ ἀπειθοῦντα ἢ ἀπρεπῶς ἀναστρεφόμενον εἰς τὸ θεῖον μαστιγούντω οἱ ἱεροί, and so.	and similarly ¹⁴², *ib*. 653⁴⁰ (Andania, B.C. 91) τὸν δὲ ἀπειθοῦντα ἢ ἀπρεπῶς ἀναστρεφόμενον εἰς τὸ θεῖον μαστιγούντω οἱ ἱεροί, and so ⁴³.
+87	551	551:patch:0	sonnet	Otto *Priester* I. p. 214	Otto *Priester* i. p. 214
+87	552	552:patch:0	sonnet	Ταήσαι ἐβίωσεν ἔτη εἴκουσι ὀκτώ	Ταήσαι ἐβίωσεν εἴκουσι ὀκτώ
+87	552	552:patch:2	sonnet	BGU III. 884 ii.¹³⁶ (iii/A.D.)	BGU III. 884 ii.¹³f. (ii/iii A.D.)
+87	553	553:patch:4	sonnet	τὴν ὀφίλη(ν) c. αὐ[τῇ]	τὴν ὀφίλη (*i. e.* ει) [αὐτῇ]
+88	560	560:patch:5	convention-only	*CPR* 38⁵, BGU I. 39⁹	*CPR* 38²¹, BGU I. 39²¹
+89	565	565:patch:2	sonnet	*Syll* 727¹⁹ (iii/B.C.) and 850 (ii/B.C.)	*Syll* 727¹⁵ (iii/B.C.) and 850¹² (ii/B.C.)
+90	570	570:patch:2	sonnet	P Amh II. 77⁸²	P Amh II. 77³²
+91	573	573:patch:1	sonnet	εὐμενῶς	εὔνους
+91	578	578:patch:0	sonnet	P Giss I. 47¹ ff.	P. Giss I. 47¹⁴ ff.
+92	580	580:patch:3	sonnet	P Petr III 36 (a) i 12 (B.C. 252) βουκόλῳν κ(ώμης) ἀποδοχίῳ[ι]	P Petr III 36 (b) ii. 12 (B.C. 252) βουκόλων κ(ώμης) ἀποδοχίῳ[ι]
+92	581	581:patch:0	sonnet	BGU II. 606⁹ (A.D. 306) πρὸς ἀπόθεσιν ἀχύρου.	BGU II. 606⁵ (A.D. 306) πρὸς ἀ]πόθεσιν ἀχύρου.
+92	582	582:patch:0	convention-only	P Oxy I. 43 verso ⁱⁱⁱ·²¹ (A.D. 295)	P Oxy I. 43 verso ⁱⁱⁱ·²⁹ (A.D. 295)
+92	585	585:patch:0	sonnet	P Par 47⁶⁻⁸ (*c.* B.C. 153)	P Par 47⁷ ff. (*c.* B.C. 153)
+92	586	586:patch:0	sonnet	P Petr III. 53 (*a*)¹²	P Petr III. 53 (*p*)¹²
+93	591	591:patch:3	sonnet	the editors render ¹⁰⁻¹:	the editors render ¹⁰ ff.
+93	591	591:patch:5	sonnet	Epicurus 88 (Linde	Epicurus 89 (Linde
+93	592	592:patch:0	sonnet	*Kaibel* 416²	*Kaibel* 416⁶
+94	597	597:patch:12	sonnet	BGU III. 936¹⁵ (A.D. 426), PSI 52⁸³ (vi/A.D.) and 61²⁵, 62²⁵	BGU III. 936¹³ (A.D. 426), PSI 52³³ (vi/A.D.) and 61³³, 62²⁴
+95	601	601:patch:0	sonnet	(ἢ κτισμάτων ed.)	(? κτισμάτων ed.)
+95	601	601:patch:1	sonnet	(Fⁱⁱⁱ·⁸⁸); cf. ⁱ·¹⁸.	(viii. ³³): cf. i. ¹⁸.
+95	602	602:patch:2	convention-only	*ib.* 11 verso ⁶	*ib.* 11 verso ²
+95	602	602:patch:8	sonnet	ξίφι κατέκ[τεινε.	ξίφι ἀπέκ[τεινε.
+96	607	607:patch:0	sonnet	*P Oxy* I. 105⁴	*P Oxy* I. 105³·⁴
+96	607	607:patch:2	sonnet	*BGU* IV. 1098²⁰	*BGU* IV. 1098⁴⁹
+96	607	607:patch:4	sonnet	ἀπόλευπέ μοι	ἀπόλειπέ μοι
+96	608	608:patch:2	sonnet	χυ]ρίδια	χ[υ]ρίδια
+96	609	609:patch:0	sonnet	*P Lond* 929²⁴ᶠ· (ii/iii A.D.)	*P Lond* 929⁴⁴·⁶⁶ (ii/iii A.D.)
+96	612	612:patch:5	sonnet	*P Par* 63 *iii·²*	P Par 63 xiii·²ᶠᶠ
+97	614	614:patch:0	convention-only	*P Leid* W ˣˣⁱⁱ·⁴⁰	*P Leid* W ˣˣⁱⁱ·¹⁶
+97	614	614:patch:1	sonnet	where line 19 has ]αρα τῶν σεμνοτάτων βασιλέων ἀπομνημονεύ[	where line 10 has ]παρὰ τῶν σεμνοτάτων βασιλέων ἀπομνημονεύ[
+97	616	616:patch:0	sonnet	*Syll* 802⁸⁸	*Syll* 802⁶³
+97	618	618:patch:0	sonnet	*P Oxy* VII. 1011¹⁰⁹ᶠ·	*P Oxy* VII. 1011²⁹⁹ᶠ·
+97	619	619:patch:0	sonnet	In *P Lond* 911² (A.D.	In *P Lond* 911¹ (A.D.
+99	628	628:patch:0	sonnet	*BGU* IV. 1002¹⁸	*BGU* IV. 1002¹⁶
+99	628	628:patch:1	convention-only	*P Hib* I. 96⁴	*P Hib* I. 96³
+99	628	628:patch:2	sonnet	*P Ryl* II. 160ᵇ	*P Ryl* II. 160⁹
+99	628	628:patch:3	convention-only	*P Giss* I. 36⁵¹	*P Giss* I. 36²¹
+99	628	628:patch:4	convention-only	*BGU* III. 919⁸	*BGU* III. 919²³
+99	629	629:patch:1	convention-only	*P Oxy* I. 87³⁸	*P Oxy* I. 87¹⁸
+99	629	629:patch:2	convention-only	*BGU* IV. 1141¹⁹	*BGU* IV. 1141¹²
+99	629	629:patch:3	convention-only	*CPHerm* 101⁸	*CPHerm* 101⁵
+99	629	629:patch:4	sonnet	*P Par* 60⁴	*P Par* 60⁴ ff.
+99	629	629:patch:5	sonnet	*P Oxy* IV. 742⁵	*P Oxy* IV. 742³ f.
+99	630	630:patch:0	sonnet	*P Par* 26⁴⁰	*P Par* 26³³ ff.
+99	630	630:patch:1	convention-only	*P Par* 31²³	*P Par* 31³³
+99	630	630:patch:2	convention-only	*P Oxy* II. 237ⁱ·²²	*P Oxy* II. 237ᵛⁱ·²²
+99	630	630:patch:3	sonnet	*P Oxy* I. 71ⁱ·¹⁹	*P Oxy* I. 71ⁱ·¹⁰
+101	640	640:patch:0	sonnet	P Petr I. 16 (2)⁸ (iii/B.C.)	P Petr I. 16 (2)¹³ (iii/B.C.)
+101	640	640:patch:3	sonnet	BGU I. 100⁸ᶠᶠ·	BGU I. 190³ᶠᶠ·
+101	641	641:patch:0	sonnet	*Syll* 803¹⁵	*Syll* 803⁹⁴
+101	642	642:patch:0	sonnet	BGU IV. 1208¹·²⁷	BGU IV. 1208ⁱ·¹⁷
+101	642	642:patch:1	sonnet	P Oxy II. 237ᵛⁱ· ⁴² (A.D. 186)	P Oxy II. 237ᵛⁱⁱ· ⁴⁰ (A.D. 186)
+101	645	645:patch:1	sonnet	P Gen I. 34⁴	P Gen I. 3¹¹
+102	651	651:patch:0	sonnet	P Giss I. 17⁸ᶠ· (Hadrian)	P Giss I. 17⁵ᶠᶠ· (Hadrian)
+103	657	657:patch:0	sonnet	1058³¹ (= *Chrest.* II. 170), 1106⁶	1058³⁵ (= *Chrest.* II. 170), 1106³³
+103	657	657:patch:1	sonnet	Paris magical papyrus 1245 (= *Selections*, p. 114)	Paris magical papyrus ¹²⁴⁵ ᶠᶠ (= *Selections*, p. 114)
+103	658	658:patch:1	sonnet	P Hal 1¹¹¹⁻¹¹² (middle of iii/B.C.)	P Hal 1ᵛⁱⁱⁱ· ¹⁷² (middle of iii/B.C.)
+103	661	661:patch:0	sonnet	P Lond 401¹ (B.C. 116-11)	P Lond 401¹⁰ (B.C. 116-11)
+103	662	662:patch:1	sonnet	*ib.* 9 (3)² (B.C. 241-39)	*ib.* 9 (3)⁷ (B.C. 241-39)
+103	662	662:patch:5	sonnet	cf. *ib.* ἐὰν δὲ πλείονας	cf. ⁴⁰ ἐὰν δὲ πλείονας
+103	662	662:patch:8	sonnet	P Lond 1170 verso (A.D. 258-9)	P Lond 1170 *verso*⁴⁵ (A.D. 258-9)
+104	664	664:patch:1	sonnet	BGU IV. 1078²⁴ (A.D. 39)	BGU IV. 1078⁶ ff. (A.D. 39)
+104	664	664:patch:2	sonnet	P Lond 1170 verso²⁴⁸· ²⁸⁸	P Lond 1170 verso⁴⁷⁴· ⁴⁸³
+104	664	664:patch:3	sonnet	P Flor I. 14⁹⁹ and P Amh II. 97⁹	P Flor I. 14ᵃˡ and P Amh II. 97⁹
+104	664	664:patch:7	convention-only	P Lond 1170 verso²¹⁴ ᵉᵗᶜ· (= III. p. 202)	P Lond 1170 verso¹⁸⁴ etc. (= III. p. 202)
+104	665	665:patch:4	sonnet	P Lond 1247⁶	P Lond 124²⁶
+104	667	667:patch:1	sonnet	BGU III. 781ⁱⁱⁱ· ⁵	BGU III. 781ⁱᵛ· ⁵
+104	668	668:patch:2	sonnet	BGU III. 992ⁱⁱ· ²⁰	BGU III. 992ⁱⁱ· ⁵· ¹⁰
+104	668	668:patch:4	sonnet	P Said Khan 1²·⁴⁶	P Saïd Khan 1ᵃ·¹⁶
+105	672	672:patch:1	sonnet	(BGU IV. 1140⁸ᶠ·).	(BGU IV. 1140⁵ᶠᶠ·).
+105	673	673:patch:3	sonnet	*Michel* 456⁷⁵·⁹ (ii/B.C.)	*Michel* 456¹⁵ ᶠᶠ· (ii/B.C.)
+105	675	675:patch:1	sonnet	P Hib I. 15⁸⁵ (a rhetorical exercise	P Hib I. 15⁸⁵ᶠᶠ· (a rhetorical exercise
+105	675	675:patch:2	sonnet	P. Tebt I. 5¹⁶⁵ (B.C. 118)	P. Tebt I. 5¹⁶⁵ᶠᶠ· (B.C. 118)
+105	675	675:patch:7	sonnet	P Oxy I. 60⁴ (A.D. 323)	P Oxy I. 60⁴ᶠᶠ· (A.D. 323)
+107	683	683:patch:2	sonnet	P Tebt I. 120⁸⁹	P Tebt I. 120⁸²
+107	684	684:patch:0	sonnet	BGU II. 531ⁱⁱ·³⁹	BGU II. 531ⁱⁱ·²⁴
+107	685	685:patch:3	sonnet	P Goodsp 5⁸	P Goodsp 5²⁹
+107	685	685:patch:4	sonnet	P Lips I. 33ⁱⁱ·¹	P Lips I. 33ⁱⁱ·¹¹
+107	685	685:patch:7	sonnet	P Tor I. 1¹·⁸	P Tor I. 1ⁱⁱ·¹⁸
+107	686	686:patch:1	convention-only	*CIG* III. 6131⁴	*CIG* III. 6131ᵇ
+107	687	687:patch:2	sonnet	Τραϊαν[ῷ]	Τραϊαν[ῶι]
+107	688	688:patch:1	sonnet	*OGIS* 335⁵⁸	*OGIS* 335¹⁵⁹
+108	690	690:patch:0	sonnet	ἀρνούμενος] “persisted in his denial.” *OGIS* 484⁵¹	ἀρνούμενο[s] “persisted in his denial.” *OGIS* 484³¹
+108	691	691:patch:0	sonnet	BGU II. 377³²	BGU II. 377²·⁷
+108	695	695:patch:1	convention-only	Mk 10⁴¹)	Mk 10⁴¹ᶠᶠ)
+108	696	696:patch:0	convention-only	In P Par 68ᶜ¹ (a document relating to the Jewish war of Trajan, ii/A.D.) we have τινὰς ἐπὶ κωστωδίαν ἥρπασαν καὶ [τοὺς ἁρπασθέν-]τ[α]ς ἐτραυμάτισαν	In P Par 68⁸ᶠ (a document relating to the Jewish war of Trajan, ii/A.D.) we have τινὰς ἐπὶ κωστωδίαν ἥρπασαν καὶ [τοὺς ἁρπασθέντ]ας ἐτραυμάτισαν
+108	696	696:patch:2	sonnet	P Oxy I. 37¹·²⁷	P Oxy I. 37ⁱ·¹⁷
+109	699	699:patch:0	sonnet	P Lond 334¹⁵·⁵¹	P Lond 334¹⁴·³¹
+109	699	699:patch:3	sonnet	P Grenf II. 67¹⁷·²²	P Grenf II. 67¹⁷ ᶠᶠ·
+109	700	700:patch:1	sonnet	P Leid W*viii·16*	P Leid W*xvii·16*
+109	701	701:patch:2	sonnet	*ib.* 52¹⁰	*ib.* 52¹⁰ ᶠᶠ·
+109	701	701:patch:3	sonnet	P Hawara 56⁷·⁹	P Hawara 56¹⁸ ᶠᶠ·
+110	710	710:patch:0	sonnet	(=¼ artaba)	(=⅛ artaba)
+110	710	710:patch:3	sonnet	*ib.* I. 9¹·⁵	*ib.* I. 9ⁱᵛ·⁵
+110	710	710:patch:4	sonnet	*Michel* 1001ⁱⁱⁱ·⁸·¹⁴	*Michel* 1001ⁱᵛ·³⁷, ᵛ·⁴
+110	712	712:patch:6	sonnet	ἀρχαῖα 1·1, ἄλλα ἀρχαῖα ὠτάρια ἔχοντα 1·4	ἀρχαῖα ⁱ·1, ἄλλα ἀρχαῖα ὠτάρια ἔχοντα ⁱᵛ·4
+111	714	714:patch:0	convention-only	P Oxy III. 472¹⁸ (c. A.D. 130)	P Oxy III. 472¹⁸ f. (c. A.D. 130)
+111	714	714:patch:1	sonnet	*Syll* 929³³ (?B.C. 139)	*Syll* 929²³ (?B.C. 139)
+111	714	714:patch:3	convention-only	BGU IV. 1141¹⁴ (c. B.C. 14)	BGU IV. 1141⁴⁴ (c. B.C. 14)
+111	714	714:patch:7	convention-only	P Petr II. 37 2b verso (p. [120])	P Petr II. 37 2b verso⁴ (p. [120])
+111	714	714:patch:10	sonnet	P Hal 1⁷ (iii/B.C.)	P Hal 1²²⁶ (iii/B.C.)
+111	715	715:patch:3	sonnet	P Oxy X. 1241¹⁰· ³⁵ (ii/A.D., *lit.*)	P Oxy X. 1241ⁱⁱⁱ· ³⁵ (ii/A.D., *lit.*)
+112	719	719:patch:2	convention-only	P Petr III. 53 (A)²	P Petr III. 53 (p)²
+112	723	723:patch:0	sonnet	P Ryl II. 156³⁸	P Ryl II. 156¹³
+112	723	723:patch:2	sonnet	πλὴν ἀρξόμεθα] τοῦ ἔργου	πλὴν ἀρξόμεθ[α] τοῦ ἔργου
+114	734	734:patch:2	sonnet	*ib.* 63ⁱˣ·¹²²	*ib.* 63ⁱᵛ·¹²²
+115	737	737:patch:0	sonnet	P Amh II. 78⁵⁴	P Amh II. 78¹⁴
+115	737	737:patch:2	sonnet	P Flor I. 58⁹	P Flor I. 58¹⁴
+115	737	737:patch:3	sonnet	P Théad 20¹⁵	P Théad 20ⁱ· ¹⁵
+115	742	742:patch:0	sonnet	P Grenf II. 14 (a)¹⁷	P Grenf II. 14 (a)¹⁷ᶠ·
+115	744	744:patch:9	sonnet	OGIS 219²⁶	OGIS 219⁴³
+116	748	748:patch:0	convention-only	In OGIS 90⁴⁴	In OGIS 90⁴³
+116	750	750:patch:3	sonnet	or ⅙ denarius to ¹⁄₂₄ den.	or ¼ denarius to ⅛ den.
+116	753	753:patch:0	convention-only	In OGIS 194⁵ (i/B.C.)	In OGIS 194¹⁹ (i/B.C.)
+117	757	757:patch:1	sonnet	BGU II. 531¹·¹⁹ (ii/A.D.) ἐὰν δὲ ἀστοχήσῃς αἰωνίαν	BGU II. 531ⁱⁱ·¹⁹ (ii/A.D.) ἐὰν δὲ ἀστοχήσῃς [αἰω]νίαν
+117	759	759:patch:0	sonnet	*ib.* 121²¹¹ (iii/A.D.) and 122⁸¹ (iv/A.D.)	*ib.* 121²³¹ (iii/A.D.) and 122⁹² (iv/A.D.)
+117	761	761:patch:0	sonnet	*IG* III. 1093 4⁰	*IG* III. 1093 h⁵
+118	768	768:patch:4	sonnet	P Lips I. 106⁹ᶠ (A.D. 98)	P Lips I. 106¹⁰ᶠᶠ (A.D. 98)
+118	768	768:patch:5	sonnet	P Ryl II. 77⁴⁵ (A.D. 192) αὐτὰ ταῦτα ἀσφαλίσομαι κτλ,	P Ryl II. 77⁴⁰ (A.D. 192) αὐτὰ ταῦτα ἀσφαλίσομαι κτλ.,
+119	772	772:patch:3	sonnet	PSI 4¹⁵	PSI 41¹²
+121	789	789:patch:1	sonnet	ℵC*A	ℵC*Δ
+121	792	792:patch:0	sonnet	*ib.* xⁱ ⁴⁸, P Oxy II. 260⁵ (A.D. 59)	*ib.* vi. 46, P Oxy II. 260²⁰ (A.D. 59)
+121	792	792:patch:1	sonnet	so *ib.* IV. 719⁶· ³¹ (A.D. 193)	so *ib.* IV. 719³⁰·³³ (A.D. 193)
+121	793	793:patch:7	sonnet	illustrates Ps 84² ¹⁰ (LXX 83 al.)	illustrates Ps 84²·¹⁰ (LXX 83³·¹¹)
+121	793	793:patch:8	sonnet	*ib.* 734⁵² (Cos)	*ib.* 734⁸⁴ (Cos)
+122	800	800:patch:6	sonnet	BGU II. 511 ⁱⁱ ¹⁸	BGU II. 511 ⁱ. ¹⁸
+123	802	802:patch:3	sonnet	OGIS 168³⁵	*OGIS* 168⁵⁷
+123	804	804:patch:5	convention-only	*ib.* 1171 verso³⁵	*ib.* 1171 verso *c.* ⁵
+123	806	806:patch:0	convention-only	CPHerm 119 verso ⁱ· ¹⁸	CPHerm 119 verso ⁱ· ¹⁶
+124	809	809:patch:4	sonnet	P Ryl II. 77³⁵	P Ryl II. 77³⁹
+124	809	809:patch:10	convention-only	ib.* 1126¹⁰	ib.* 1126¹²
+125	817	817:patch:1	sonnet	P Ryl II. 152¹³ (A.D. 42)	P Ryl II. 152¹⁴ (A.D. 42)
+125	817	817:patch:5	sonnet	P Oxy VIII. 1081⁸ ᶠ·	P Oxy VIII. 1081²⁵ ff.
+125	820	820:patch:0	convention-only	OGIS 483²²⁰ (ii/B.C.)	OGIS 483²²⁰ f. (ii/B.C.)
+125	821	821:patch:0	convention-only	OGIS 383ⁱⁱ⁸ (i/B.C.)	OGIS 383¹⁴² (i/B.C.)
+125	821	821:patch:1	sonnet	P Tebt I. 24¹⁸ (B.C. 117)	P Tebt I. 24⁷⁶ (B.C. 117)
+125	821	821:patch:3	convention-only	OGIS 640¹ (iii/A.D.)	OGIS 640¹² (iii/A.D.)
+125	822	822:patch:0	sonnet	see p. 240⁷⁵, the cultured man ῥᾳδίως	see p. 240¹⁵, the cultured man ῥᾳδίως
+126	824	824:patch:0	sonnet	*ib.* III. 39¹³, and 44 verso ii.¹⁸¹.	*ib.* III. 39¹², and 44 verso ii.¹⁸ᶠ·
+126	824	824:patch:2	sonnet	P Oxy VI. 918². ³ (ii/A.D.)	P Oxy VI. 918ᵛ·²⁰ (ii/A.D.)
+126	824	824:patch:5	sonnet	P Tebt I. 5⁸⁷² (B.C. 118)	P Tebt I. 5³⁷ al (B.C. 118)
+126	824	824:patch:8	sonnet	*CIG* 2058–70 (Olbia, ii/i B.C.), 2335⁸	*CIG* 2058ᵇ·⁷⁰ (Olbia, ii/i B.C.), 2335⁶
+126	824	824:patch:11	sonnet	runs λόγο[ς] ἀφέσεως	runs Λόγο[ς] ἀφέσεως
+126	825	825:patch:0	sonnet	BGU II. 362¹·¹³⁵·etc·	BGU II. 362ⁱ·¹, ¹², ᵉᵗᶜ·
+127	830	830:patch:3	sonnet	P Oxy III. 413²⁹⁹ ἄφες ἐγὼ αὐτὸν θρηνήσω (literary, (i/A.D.).	P Oxy III. 413¹⁸⁴ ἄφες ἐγὼ αὐτὴν θρηνήσω (literary, i/A.D.).
+127	830	830:patch:11	sonnet	P Fay 112¹³ (A.D. 99) ἀθέρι (sc. -στον) αὐτὸν ἕως σήμερον ἀφῖκας	P Fay 112¹³ (A.D. 99) ἀθέρις (sc. -στον) αὐτὸν ἕως σήμερον ἀφῖκας
+128	834	834:patch:0	sonnet	13(18a)⁴	13(18a)⁶
+128	834	834:patch:2	sonnet	ἐφάνησαν οἱ λευκοὶ] κόρακες	ἐφά[νησαν οἱ λευκοὶ] κόρακες
+128	835	835:patch:6	sonnet	P Lond 1209⁷	P Lond 1209¹²
+128	838	838:patch:2	sonnet	*OGIS* 689 (iv/B.C.)	*OGIS* 620 (iv/B.C.)
+129	847	847:patch:0	sonnet	(and Heb 11¹⁰)	(and Heb 9¹¹·²⁴)
+129	848	848:patch:0	sonnet	P Par 65³⁴	P Par 68⁵⁴
+129	848	848:patch:2	convention-only	*IG* Sept 303¹⁹	*IG* Sept 303¹⁰
+130	852	852:patch:4	sonnet	an *abusiē* variant	an *ablaut* variant
+130	853	853:patch:2	sonnet	ἀχύρων πάκοι	ἀχύρων σάκοι
+130	854	854:patch:0	sonnet	BGU II. 432¹·¹ (A.D. 190) λεγομενοί . ἀψ]ευδῶς	BGU II. 432ⁱⁱ· ¹ (A.D. 190) λεγομενο[. ἀψ]ευδῶς
+131	857	857:patch:0	sonnet	P Iand 15¹⁻⁵ (ii/A.D.)	P Iand 15ⁱⁱⁱ·⁵ (iv/A.D.)
+131	857	857:patch:1	sonnet	P Flor II. 278¹⁻¹ (iii/A.D.)	P Flor II. 278ⁱⁱ·⁸ (ii/A.D.)
+131	862	862:patch:3	sonnet	καὶ τὸ ὀξύτερον εἰς τὸ] ἄλλ[ο].	καὶ τὸ ὀξύτερον εἰς τ[ὸ] ἄλλ[ο].
+132	867	867:patch:0	sonnet	P Oxy V. 840⁵ μ[ή]τε μὴν τῶν μαθητῶν σου τοὺς πίόδας βαπτισθέντων	P Oxy V. 840¹⁵ μ[ή]τε μὴν τῶν μαθητῶν σου τοὺς π[όδας βα]πτισθέντων
+133	871	871:patch:0	sonnet	οἱ μέ]ν εἰσι] γναφεῖς	οἱ μέ]ν εἰ[σι] γναφεῖς
+133	871	871:patch:1	sonnet	P Par 52¹⁹, 53⁸	P Par 52¹⁰, 53⁵
+133	872	872:patch:1	sonnet	Ezra 21⁵¹⁽²⁸⁾	Ezra 21³¹⁽³⁶⁾
+133	873	873:patch:3	sonnet	so *ib.* 4²·⁸, two documents	so *ib.* 6ⁱⁱ·¹⁰, two documents
+133	875	875:patch:1	sonnet	*Syll* 418³²	*Syll* 418⁶⁷
+135	887	887:patch:1	sonnet	βασιλίσσῃ [Κλεοπάτρᾳ	βασιλίσσῃ [Κλεο]πάτρᾳ
+136	889	889:patch:3	convention-only	πρὼ (l. πρὸ) μὲν	πρὼ (i.e. πρὸ) μὲν
+136	889	889:patch:5	sonnet	where original σϙ (Lat. *f*) passed into σ :	where original *bh* (Lat. *f*) passed into *b* :
+136	890	890:patch:5	sonnet	cf. P Tebt 5⁸⁴ (B.C. 118). Similarly P Oxy III. 502²⁸ (A.D. 164)	cf. P Thead 5¹² (A.D. 338). Similarly P Oxy III. 507²⁹ (A.D. 169)
+137	894	894:patch:0	sonnet	The verb βατραχοῦν forms	The γλῶττα βατράχου forms
+137	894	894:patch:1	sonnet	P Lond 46⁶⁹	P Lond 46²⁹⁴
+137	896	896:patch:2	sonnet	P Lond 121⁸⁹³	P Lond 121⁴³⁴
+138	905	905:patch:2	sonnet	of the continual invention of further improvements	by the continual invention of further improvements
+138	905	905:patch:4	sonnet	P Magd 29⁵ (B.C. 117)	P Magd 29⁴ (B.C. 117)
+139	907	907:patch:0	sonnet	P Tebt I. 120¹	P Tebt I. 120¹³²
+139	910	910:patch:0	convention-only	P Lond 1171 verso (c) (A.D. 42)	P Lond 1171 verso (c)⁹ (A.D. 42)
+140	913	913:patch:2	sonnet	π]ρὸς παράλημψιν καὶ] καταγωγὴν βιβλίων	π]ρὸς παράλημψ[ιν καὶ] καταγωγὴν βιβλί[ων
+140	913	913:patch:4	sonnet	γράψας [σου τὰ βιβλία ἄνελθε	γράψας [σ]ου τὰ βιβλία ἄνελθε
+141	916	916:patch:1	sonnet	εἰς [ξέ]νια φοίνικας καὶ ἐμβαλὼν εἰς βίκους δὸς καὶ τῶν παρακομίσαι ἡμῖν	εἰς [ξέ]νια φοίνικας καὶ ἐμβαλὼν εἰς βίκους δὸς καὶ ταῦτα παρακομίσαι ἡμῖν
+141	917	917:patch:2	convention-only	*CP Herm* I. 7⁴⁻⁴	*CP Herm* I. 7ⁱⁱ·⁴
+141	918	918:patch:0	convention-only	P Lips I. 119 verso ⁱⁱ⁻⁶	P Lips I. 119 verso ⁱⁱ·⁶
+141	918	918:patch:6	sonnet	Musonius (ed. Hense) p. 89¹	Musonius (ed. Hense) p. 89¹⁶ f.
+142	924	924:patch:2	convention-only	ib.*³⁹⁷	ib.*⁵⁰⁷
+142	926	926:patch:1	sonnet	(for construction cf. 4 Kings 19⁶)	(for construction cf. 4 Kings 19⁶,²²)
+143	928	928:patch:4	sonnet	P Fay 111²⁸	P Fay 111¹⁶
+143	929	929:patch:1	sonnet	*Syll* 670⁹⁸	*Syll* 607¹⁵
+143	929	929:patch:2	sonnet	*ib.* 737²⁵·²⁸	*ib.* 737¹³·²⁴
+144	935	935:patch:0	sonnet	p. 6²⁶ (ed. Usener)	p. 6²¹ᶠᶠ. (ed. Usener)
+144	936	936:patch:1	sonnet	Sir 43²⁷·²⁰	Sir 43¹⁷·²⁰
+144	936	936:patch:4	sonnet	*OGIS* 176²	*OGIS* 176⁸
+144	937	937:patch:3	sonnet	(*ib.* 58(e)¹)	(*ib.* 58(e)ⁱ )
+145	940	940:patch:4	sonnet	P Grenf II. 63¹ (? middle ii/A.D.)	P Grenf II. 63ⁱ·⁹ (? middle ii/A.D.)
+145	941	941:patch:2	sonnet	P Leid Wˣⁱⁱ·⁴	P Leid Wˣⁱ·⁴⁴
+145	941	941:patch:3	sonnet	κακχᾶσε	κακγᾶσε
+145	943	943:patch:4	sonnet	*Syll* 803⁵	*Syll* 893²
+145	944	944:patch:4	sonnet	(δραχμῶν) ι̅.	(δραχμῶν) μ̅.
+146	946	946:patch:4	convention-only	*Magn* 122 (*b*)¹² (iv/B.C.). See also P Flor I. 58¹ (iii/A.D.)	*Magn* 122 (*d*)¹² *f*. (iv/B.C.). See also P Flor I. 58¹² (iii/A.D.)
+146	948	948:patch:1	sonnet	Nageli, p. 37,	Nägeli, p. 37,
+147	955	955:patch:7	sonnet	P Lille I. 1 verso³⁰	P Lille I. 1 *verso*¹⁵
+147	955	955:patch:10	sonnet	]ηγείσθω	]ήγείσθω
+148	960	960:patch:0	sonnet	comes P Petr III. 43 (2) verso ii.⁸ (B.C. 245)	comes P Petr III. 43 (2) recto ii.13 (B.C. 245)
+149	971	971:patch:0	sonnet	P Tebt II. 313⁹⁶ (A.D. 210-1)	P Tebt II. 313²⁰ (A.D. 210-1)
+150	976	976:patch:0	sonnet	in the same Κοινή—Γάϊος	in the same town—Γάϊος
+150	977	977:patch:2	sonnet	P Lond 322 (B.C. 146 or 135) (= I. p. 46), BGU I. 297¹³	P Lond. 3²² (B.C. 146 or 135) (= I. p. 46), BGU I. 297¹⁴
+151	986	986:patch:3	sonnet	*IG* 802⁵ (iii/B.C.)	*Syll* 802⁸ (iii/B.C.)
+152	989	989:patch:0	convention-only	found in Mk 9⁴⁵ D, *ib.* 47.	found in Mk 9⁴⁷ D, *ib.* 45 E *al.*
+153	999	999:patch:0	sonnet	*recto*²⁹	*recto*⁶⁰
+154	1007	1007:patch:1	sonnet	Ἀντιοχέων τῶν [ἐπὶ τῷ Χρυσορόᾳ, τῶν πρότερο[ν Γε]ρασηνῶν	Ἀντιοχέων τῶν [ἐπὶ τ]ῷ Χρυσορόᾳ, τῶν πρότερο[ν Γε]ρασηνῶν
+155	1011	1011:patch:0	sonnet	P Oxy VI. 899⁴ (A.D. 200)	P Oxy VI. 899⁸ (A.D. 200)
+155	1011	1011:patch:1	sonnet	P Giss I. 4¹⁵ (A.D. 118)	P Giss I. 4¹⁰ (A.D. 118)
+155	1012	1012:patch:2	sonnet	cf. P Lond 314⁹ (A.D. 149)	cf. P Lond 314¹² ff. (A.D. 149)
+155	1014	1014:patch:0	sonnet	BGU III. 992⁴·¹⁰	BGU III. 993ⁱⁱⁱ·¹⁰
+155	1014	1014:patch:4	sonnet	*ib.* 154⁵	*ib.* 154⁴⁰
+156	1018	1018:patch:2	sonnet	*Syll* 802⁸ (iii/B.C.)	*Syll* 802⁶ (iii/B.C.)
+156	1018	1018:patch:5	convention-only	P Petr II. 40 (a)² (B.C. 277)	P Petr II. 40 (b)⁷ (B.C. 277)
+156	1018	1018:patch:10	sonnet	P Flor III. 382²⁴ (cited *ad init.*)	P Flor III. 382⁶¹ (cited *ad init.*)
+156	1018	1018:patch:13	sonnet	cf. P Fay II. 121⁵ (A.D. 100)	cf. P Ryl II. 231³ (A.D. 40)
+157	1020	1020:patch:2	convention-only	P Oxy X. 1252 verso²⁹	P Oxy X. 1252 verso³³
+157	1020	1020:patch:3	sonnet	*ib.* VII. 1062¹⁵ (ii/A.D.)	*ib.* VII. 1062¹³ᶠ· (ii/A.D.)
+158	1027	1027:patch:9	sonnet	*Syll* 722¹⁵ (ii/B.C.) φανερὰ ἧι	*Syll* 722⁴¹ (ii/B.C.) φανερὰ ἧι
+159	1030	1030:patch:2	sonnet	III. 53(*b*)⁵, (*g*)³	III. 53(*o*)⁵, (*q*)³
+161	1043	1043:patch:1	sonnet	μακροπ[ρόσωπος]	μακροπ(ρόσωπος)
+161	1044	1044:patch:4	sonnet	Deissmann (*BS*, p. 380)	Deissmann (*LAE*, p. 380)
+161	1045	1045:patch:1	sonnet	γρ[αμ]ματεῖς ἀνέστησαν	γρ[αμ]ματεῖς ἀνέστη[σαν
+162	1048	1048:patch:0	sonnet	Jas 2²³, 1 Cor 15³ ⁴	Jas 2⁸, 1 Cor 15³f.
+163	1055	1055:patch:0	convention-only	Mt 22¹¹⁻¹²	Mt 22¹¹ f.
+165	1063	1063:patch:2	sonnet	*ib.* 672⁲	*ib.* 672⁷
+165	1065	1065:patch:0	sonnet	P Petr II. 1⁵	P Petr II. 1⁴
+166	1067	1067:patch:6	sonnet	τετάρ[τ]ταις	τετά[ρ]ταις
+166	1068	1068:patch:1	sonnet	P Lond 464 (iv/A.D.)	P Lond 464⁵⁶ (iv/A.D.)
+168	1084	1084:patch:0	sonnet	237ⁿ⁰·²¹	237ᵛⁱ·²¹
+168	1085	1085:patch:0	sonnet	BGU II. 372ⁱⁱ·²⁸	BGU II. 372ⁱ·²⁶
+168	1089	1089:patch:2	sonnet	*Syll* 802¹⁴	*Syll* 802¹¹⁴
+168	1090	1090:patch:0	convention-only	Lk 14¹⁶, where	Lk 14¹⁶ ff., where
+170	1099	1099:patch:1	sonnet	(p. 323)— “The	(p. 323). “The
+170	1108	1108:patch:0	sonnet	(*AGNT* in *loc.*)	(*HZNT* in *loc.*)
+171	1110	1110:patch:0	convention-only	P Oxy X. 1252 verso ii.39	P Oxy X. 1252 verso ii.19
+171	1110	1110:patch:1	sonnet	εἶν]αι . . . μὴ φυλάσσ[ε]ιν	εἶ[ν]αι . . . μὴ φυλάσσ[ι]ν
+171	1110	1110:patch:4	sonnet	P Ryl II. 154⁵	P Ryl II. 154³⁶
+171	1112	1112:patch:9	sonnet	CPHerm 52¹·¹⁵	CPHerm 52ⁱ·¹⁶
+172	1116	1116:patch:0	sonnet	BGU III. 814¹³ (iii/A.D.) πέμψι]ς	BGU III. 814¹⁰ (iii/A.D.) πέμψι]ς
+172	1119	1119:patch:0	convention-only	P Lond 131 recto 478.437	P Lond 131 recto 426,437
+172	1120	1120:patch:1	sonnet	*ib.* IX. 1212⁴ (ii/A.D.) ἀσπαράγου δέσμ(ας) ιθ, αἱ.	*ib.* IX. 1212⁴ (ii/A.D.) ἀσπαράγου δέσμ(αι) ιθ, *al.*
+172	1120	1120:patch:3	sonnet	A diminutive δεσμίδιον is also found, e.g. P Oxy X. 1288²⁻⁴⁵ (iv/A.D.) Εὐγ . . . the idiomatic	A diminutive δεσμίδιον is also found, e.g. P Oxy X. 1288⁹,¹⁵ (iv/A.D.) For the idiomatic
+172	1123	1123:patch:0	sonnet	P Petr III. 28 (e) verso (i)⁵	P Petr III. 28 (e) verso (b)⁵
+173	1130	1130:patch:0	sonnet	βα of σαββάτων	βα of σαββάτῳ
+173	1132	1132:patch:0	convention-only	P Hib I. 70 (a)⁴	P Hib I. 70 (a)²
+174	1134	1134:patch:0	sonnet	*Syll* 809⁴ (iv/iii B.C.)	*Syll* 809¹⁴ (iv/iii B.C.)
+175	1144	1144:patch:3	sonnet	thus²⁸ καὶ ἐσώθη	thus⁹ καὶ ἐσώθη
+175	1147	1147:patch:6	sonnet	*ib.* xxxiv. p. 5 (no. 10⁵ of Lycian inscrr.)	*JHS* xxxiv. p. 5 (no. 10³ of Lycian inscrr.)
+175	1147	1147:patch:14	sonnet	διὰ σοῦ in Ac 24⁴	διὰ σοῦ in Ac 24²
+176	1149	1149:patch:2	sonnet	P Tor I. 1 vii.20 (B.C. 116)	P Tor I. 1 viii.20 (B.C. 116)
+177	1155	1155:patch:2	sonnet	περὶ τ]οῦ πράγματος	π[ερὶ τ]οῦ πράγματος
+177	1159	1159:patch:3	sonnet	*OGIS* 308⁵	*OGIS* 308¹²
+178	1164	1164:patch:0	sonnet	(13⁴⁵, 21⁷)	(13⁴,⁵, 21⁷)
+178	1165	1165:patch:0	convention-only	P Petr III. 6 (b)¹	P Petr III. 6 (b)¹²
+179	1167	1167:patch:2	sonnet	P Strass I. 29⁴⁰. ⁴⁵	P Strass I. 29⁴³, ⁴⁵
+179	1168	1168:patch:0	sonnet	διαιρεθήσεται εἰς μέρη] ἴσα	διαιρεθήσεται εἰς μέ[ρη] ἴσα
+179	1168	1168:patch:1	sonnet	P Oxy X. 1272² (A.D. 144)	P Oxy X. 1272¹⁰ (A.D. 214)
+179	1170	1170:patch:1	sonnet	*OGIS* 383¹⁴⁸	*OGIS* 383¹⁵⁹
+179	1172	1172:patch:1	sonnet	*IG* IX. 1, 486 (iii/B.C.) and IV. 774¹ (iii/B.C.)	*IG* IX. 1, 486 (ii/i B.C.) and IV. 774¹¹ (iii/B.C.)
+180	1173	1173:patch:0	sonnet	BGU I. 168⁵	BGU I. 168²⁸
+180	1174	1174:patch:5	sonnet	P Tor I. 1¹·³	P Tor I. 1ᵛⁱⁱ·³
+180	1175	1175:patch:0	sonnet	P Par 69⁵·⁵	P Par 69ᶜ·⁵
+180	1176	1176:patch:1	convention-only	*ib.* 61 (b)³·⁵⁵	*ib.* 61 (b)³⁶⁵
+181	1182	1182:patch:0	sonnet	(as in Ac 8²² D* and syrʰᶜˡ ᵐᵍ)	(as in Ac 8²⁴ D* and syrʰˡ ᵐᵍ)
+181	1183	1183:patch:1	sonnet	BGU II. 665ⁱ⁻¹	BGU II. 665ⁱⁱ·¹¹
+181	1185	1185:patch:0	sonnet	BGU I. 19¹³	BGU I. 19ⁱ·¹³
+181	1185	1185:patch:1	convention-only	ib.* 226⁸	ib.* 226²²
+181	1185	1185:patch:4	convention-only	ib.* VII. 1032⁵⁵	ib.* VII. 1032²¹
+181	1185	1185:patch:6	sonnet	P Leid B¹⁴	P Leid Bⁱ·¹³
+181	1186	1186:patch:1	sonnet	Michel* 1001ⁱⁱⁱ⁻⁵	Michel* 1001ᵛⁱⁱⁱ·⁶
+181	1186	1186:patch:2	sonnet	λιμός—1²² (B.C. 157)	λιμός—12²³ (B.C. 157)
+182	1189	1189:patch:4	sonnet	αἰω[νίο]υ διαμο[νῆ]ς	αἰω[νίου] διαμο[νῆ]ς
+183	1199	1199:patch:1	convention-only	1136⁸ (c. B.C. 11)	1136⁵ (c. B.C. 11)
+183	1204	1204:patch:1	sonnet	P Leid G⁹	P Leid G¹⁵
+183	1205	1205:patch:0	sonnet	φύν[ε]ικες	φύν[ι]κες
+183	1206	1206:patch:0	sonnet	*Syll* 510⁷⁹ ([B.C.])	*Syll* 510¹¹ (ii/B.C.)
+184	1208	1208:patch:0	sonnet	*ib.* 63 col. ⁹ (B.C. 165)	*ib.* 63ᵛⁱⁱ·¹⁹ (B.C. 165)
+184	1212	1212:patch:3	sonnet	*ib.* 34¹¹⁸ (ii/A.D.) (as restored in Preisigke p. 40)	*ib.* 341¹³ (ii/A.D.) (as restored in Preisigke p. 40)
+184	1212	1212:patch:4	sonnet	ἡμῖν ἵλεως ἐγένετο [καὶ ταῖς εὐχαῖς ἡμῶν ἐπένευσεν	ἡμῖν ἵλεως ἐγένετο [καὶ ταῖς εὐ]χαῖς ἡμῶν ἐπένευσεν
+185	1214	1214:patch:0	sonnet	P Giss I. 40ⁱ⁻⁸	P Giss I. 40ⁱⁱ·⁸
+185	1217	1217:patch:0	convention-only	P Petr II. 29 (b)²	P Petr II. 29 (e)²
+185	1217	1217:patch:3	sonnet	*ib.* 121⁴⁵⁸	*ib.* 121⁴⁵³
+185	1218	1218:patch:0	sonnet	*Syll* 342⁶³⁸	*Syll* 342³⁶·³⁸
+186	1225	1225:patch:14	sonnet	*Chrest.* II. 88¹·⁸	*Chrest.* II. 88ⁱ·³⁰
+187	1229	1229:patch:0	sonnet	P Lond Inv No. 1885⁹ (A.D. 114–5)	P Lond Inv No. 1885ⁱⁱ· (A.D. 114–5)
+188	1236	1236:patch:0	sonnet	p. 150²⁶—adverb pp. 158⁴, 304¹⁴	p. 150²⁹—adverb pp. 158⁴, 304²⁴
+188	1238	1238:patch:0	sonnet	*Syll* 306⁵ (ii/B.C.) ὑπὲρ τᾶς τῶν παίδων διδασκαλίας, *ib.* 423¹⁵, 663¹⁹.	*Syll* 306⁹ (ii/B.C.) ὑπὲρ τᾶς τῶν παίδων διδασκαλίας, *ib.* 423¹⁶, 663¹⁰.
+188	1239	1239:patch:0	sonnet	BGU IV. 1021²¹ (iii/A.D.)	BGU IV. 1021¹²*al.* (iii/A.D.)
+189	1242	1242:patch:1	sonnet	P Oxy X. 1224 Fr. 2 verso²	P Oxy X. 1224 Fr. 2 verso³
+189	1244	1244:patch:2	sonnet	P Lond 604 B⁵⁸² (a.D. 47)	P Lond 604 B³³⁷ (c. A.D. 47)
+189	1244	1244:patch:5	sonnet	*ib.* II. 447¹⁸ (A.D. 173–4) (= I. *l.c.*).	*ib.* II. 447¹⁰ (A.D. 173–4) (= I. 2-).
+190	1252	1252:patch:2	sonnet	ὅταν δ᾽] ὁ	ὅταν δ]ὲ ὁ
+190	1253	1253:patch:3	sonnet	θύσει δὲ κ]τήτωρ	θύσει δ[ὲ κ]τήτωρ
+190	1253	1253:patch:4	sonnet	[δ].τ.[ῆ]	[δ]ιτ[ῆ]
+191	1257	1257:patch:0	sonnet	“concise”:—“Διὰ	“concise”:—⁸ Διὰ
+191	1259	1259:patch:0	sonnet	τῶν συναλλαξ[ί]ων	τῶν συναλλαξ[έ]ων
+191	1259	1259:patch:3	sonnet	P Leid W⁸·¹ ³	P Leid Wxi. ³⁵
+191	1260	1260:patch:0	sonnet	πρός σε, P Strass	πρός σ[ε, P Strass
+191	1260	1260:patch:1	sonnet	P Oxy II. 237⁷·¹⁸	P Oxy II. 237ᵛⁱⁱ·³²
+191	1262	1262:patch:0	convention-only	P Hawara 69 verso ⁶⁻⁸	P Hawara 69 verso ⁱⁱ·⁸
+192	1264	1264:patch:1	sonnet	P Rein 20⁹⁴	P Rein 20²⁴
+192	1264	1264:patch:2	sonnet	P Petr II. 28(I).⁶	P Petr II. 28ᵛⁱⁱⁱ·⁶
+192	1264	1264:patch:9	sonnet	P Lond 1164(e)⁸	P Lond 1164(*e*)⁶
+192	1264	1264:patch:15	sonnet	P Magd 29⁸ (B.C. 218)	P Magd 29⁵ (B.C. 218)
+192	1265	1265:patch:3	sonnet	P Lond 46⁸	P Lond 46⁴⁰³
+192	1265	1265:patch:5	sonnet	*ib.* 438⁵	*ib.* 438³
+193	1268	1268:patch:1	sonnet	so⁴ and ⁵ ἐπελθὼν	so²³ and v. 25 ἐπελθὼν
+193	1268	1268:patch:9	sonnet	IV. 1033⁷·¹³	IV. 1033⁷·¹⁹
+193	1269	1269:patch:2	sonnet	δ[εόμεθα συ]νχωρηθῆναι δικαστὴν ἡ]μεῖν	δ[εόμεθα συ]νχωρηθῆναι δικα[στὴν ἡ]μεῖν
+193	1269	1269:patch:6	sonnet	P Strass I. 5¹⁰⁹	P Strass I. 5¹⁷·¹⁹
+193	1270	1270:patch:1	sonnet	ἡ δίκη σοι ἀναγραφήσετα]ι	ἡ δίκη σοι ἀναγραφήσετ[α]ι
+193	1270	1270:patch:6	sonnet	δίκης μετὰ λοίσθιον ἧμαρ	δίκης μετὰ λοίσθιον ἧμα[ρ
+194	1275	1275:patch:2	sonnet	κινδυν[εύω παρ’ ἕκαστον·	κινδυν[εύω π]αρ’ ἕκαστον·
+194	1277	1277:patch:0	sonnet	P Flor III. 382²⁸	P Flor III. 382¹⁸
+194	1279	1279:patch:0	sonnet	Rev L 57²	Rev L 57¹
+194	1279	1279:patch:1	sonnet	P Par 62 i.²	P Par 62 i.⁷
+194	1280	1280:patch:1	sonnet	P Leid W¹²·²²	P Leid W xvi. 12
+194	1281	1281:patch:0	sonnet	P Petr III. 28 verso (*a*)¹⁷	P Petr III. 28 verso (*b*)²
+194	1282	1282:patch:0	sonnet	P Petr III. 117(*d*)²⁹	P Petr III. 117(*d*)²⁴
+194	1283	1283:patch:0	sonnet	P Tebt I. 24⁵⁴	P Tebt I. 24³⁴
+194	1283	1283:patch:1	sonnet	P Lond 243¹⁰	P Lond 243¹⁴
+194	1283	1283:patch:4	sonnet	*OGIS* 90⁵⁴	*OGIS* 90⁵⁸
+195	1286	1286:patch:4	sonnet	cf. P Tebt I. 360⁸ (A.D. 146)	cf. P Tebt II. 360³ (A.D. 146)
+196	1294	1294:patch:1	sonnet	κριθήσεται δὲ [οὕτως	κριθήσεται δὲ [ο]ὕτως
+196	1298	1298:patch:2	sonnet	412² (Roman period) δόγματι τῆς Ὀλυμπικῆς βουλῆς, 552²¹ παρὰ τὸ δόγμα	412² (Roman period) δόγματι τῆς Ὀλυμπικῆς βουλῆς, 557²¹ παρὰ τὸ δόγμα
+196	1299	1299:patch:1	convention-only	δογματισθέντα ὁ Senatus consulta	δογματισθέντα of Senatus consulta
+196	1300	1300:patch:5	sonnet	P Tebt II. 335⁷ (a petition to the Praefect (?)—middle of ii/A.D.)	P Tebt II. 335¹⁵ (a petition to the Praefect (?)—middle of iii/A.D.)
+196	1300	1300:patch:7	sonnet	κυρία], ἠμεληκέναι	κυρί[α], ἠμεληκέναι
+196	1300	1300:patch:9	sonnet	τῷ Α. λαβῆ[σ]αι	τῷ Ἀ. λαβῆ[σ]αι
+197	1305	1305:patch:0	sonnet	and so *ib.* *l.* 1045 ii.¹² (A.D. 154) τὴν φερνὴν	and so ²⁰, *ib.* 1045 ii.¹² (A.D. 154) τὴν φερνὴν
+198	1306	1306:patch:0	sonnet	χ[ρ]υσίον δοκιμίου	χ[ρ]υσίου δοκιμίου
+198	1308	1308:patch:1	sonnet	ἐκ τῶν ἐμ]ῶν δαπανῶν μ]ηχανὴν	ἐκ τῶν ἐμ]ῶν δαπανῶ[ν μ]ηχανὴν
+198	1308	1308:patch:5	sonnet	P Amh II. 51³²	P Amh II. 51¹³, ²³
+198	1310	1310:patch:0	sonnet	BGU II. 388¹·²³	BGU II. 388ⁱ· ²³
+198	1313	1313:patch:0	sonnet	PSI III. 158⁹⁵, ¹¹¹	PSI III. 158²⁴, ⁴¹
+199	1315	1315:patch:1	sonnet	(pap. υἱοτς)	(pap. υἱοῦς)
+199	1316	1316:patch:0	sonnet	*Syll* 854¹·¹³	*Syll* 854¹¹·¹²
+199	1317	1317:patch:0	sonnet	P Petr III. 41⁸·²⁴	P Petr III. 41⁸·¹⁹
+199	1318	1318:patch:0	sonnet	Nageli (p. 62 n.⁴)	Nägeli (p. 62 n.¹)
+200	1321	1321:patch:2	sonnet	P Tebt I. 6³ (B.C. 140-39)	P Tebt I. 6²⁵ (B.C. 140-39)
+200	1322	1322:patch:1	sonnet	*ib.* I. 193⁸ (A.D. 136)	*ib.* I. 193¹² (A.D. 136)
+200	1325	1325:patch:3	convention-only	*Kaibel* 1140 ⁸·⁹,	*Kaibel* 1140 *b.*³,
+200	1326	1326:patch:4	sonnet	P Flor II. 185¹·¹⁷ (A.D. 254)	P Flor II. 185⁵, ¹⁷ (A.D. 254)
+201	1332	1332:patch:0	sonnet	P Leid W^{ii.} (ii/iii A.D.)	P Leid W^{xiii. 29} (ii/iii A.D.)
+202	1335	1335:patch:2	sonnet	*OGIS* 383²⁸ (middle of i/B.C.)	*OGIS* 383²⁹ (middle of i/B.C.)
+202	1335	1335:patch:3	sonnet	τῶν πόλεων καὶ βασιλέων] καὶ δυναστῶν	τῶν πόλεων καὶ βασιλέ[ων] καὶ δυναστῶν
+202	1336	1336:patch:8	sonnet	P Giss I. 36⁵ (B.C. 161), *ib.* 91¹¹ (ii/A.D.)	P Giss I. 36⁶ (B.C. 161), *ib.* 41ⁱⁱ·¹¹ (ii/A.D.)
+202	1338	1338:patch:7	sonnet	MGr δυό(ε) occurs occasionally	MGr δυῶν(ε) occurs occasionally
+202	1338	1338:patch:8	sonnet	P Leid Tⁱ (B.C. 164-0)	P Leid Tⁱ· ²⁴ (B.C. 164-0)
+203	1344	1344:patch:0	sonnet	P Tebt 54¹⁸ (A.D. 209)	P Thead 54¹⁵ (A.D. 299)
+203	1344	1344:patch:2	sonnet	ἀπὸ μὲν ἀνατολῶν and ἀπὸ δυσμῶν	ἀπὸ μὲν ἀνατολῶν and ἀπὸ δὲ δυσμῶν
+204	1349	1349:patch:2	sonnet	P Tebt I. 123¹·²¹⁴	P Tebt I. 123¹²,¹⁴
+204	1349	1349:patch:6	sonnet	κ?]έρατα	χ ?]ώματα
+204	1350	1350:patch:5	sonnet	with which v. 41	with which cf. ᵛ·¹¹
+204	1350	1350:patch:6	sonnet	λελῃτούρκηκε δι.	λελῃτούρκηκε δ.
+204	1351	1351:patch:2	sonnet	P Oxy VIII. 1153¹¹	P Oxy VIII. 1153¹⁵
+207	1359	1359:patch:1	sonnet	P Par 63⁹⁷	P Par 63¹⁶²
+208	1366	1366:patch:1	sonnet	εἴπ]εν αὐτῷ μὴ ἐγ[γ]ίζειν τῷ τρ . . . τει.	εἶπ]εν αὐτῷ μὴ ἐγ[γ]ίζειν τῷ γρ . . . τει.
+208	1368	1368:patch:2	sonnet	P Ryl II. 174ᵇ·³³	P Ryl II. 174²⁰·³²
+208	1368	1368:patch:5	sonnet	*ib.* VI. 902¹⁷	*ib.* VI. 902¹⁰·¹⁷
+209	1371	1371:patch:1	sonnet	Catal. VII. p. 51 f. τι	Catal. VII. p. 51 f. ⁷²
+209	1374	1374:patch:0	sonnet	Δημητρίᾳ	Δημητρίαι
+209	1374	1374:patch:2	sonnet	P Hamb I. 25⁸	P Hamb I. 25³
+209	1376	1376:patch:2	sonnet	P Oxy II. 237ᵛ·¹⁶	P Oxy II. 237ᵛⁱⁱ·¹⁶
+210	1383	1383:patch:1	sonnet	πρεσβυτάτη αἱ. And similarly	πρεσβυτάτη *al.* And similarly
+210	1383	1383:patch:2	sonnet	κόσμῳ αἱ. With the construction	κόσμῳ *al.* With the construction
+210	1383	1383:patch:4	sonnet	P Tebt I. 58⁸·¹⁵	P Tebt I. 58⁶·¹⁵
+211	1394	1394:patch:2	sonnet	cf. ¹⁰. In P Petr III. 59 (*d*)²	cf. ¹⁹, ²⁰. In P Petr III. 59 (*b*)⁴
+212	1398	1398:patch:0	sonnet	P Tebt II. 391¹⁹	P Tebt II. 391²³
+212	1403	1403:patch:1	sonnet	P Tebt I. 5⁵⁹	P Tebt I. 5⁷⁰f.
+213	1405	1405:patch:1	sonnet	ἀπέκτεινεν	ἀπέκτ]εινεν
+214	1412	1412:patch:0	sonnet	*OGIS* 763¹⁹ (ii/B.C.) ἐξηγο[ύ]μενοι σύμπαντος	*OGIS* 763⁴⁰ (ii/B.C.) ἐξηγο[ύμενοι σύμπαν]τος
+214	1414	1414:patch:6	sonnet	Mt 11⁰²¹ C	Mt 10¹³ C
+214	1414	1414:patch:13	sonnet	P Leid W^iii·²⁰ (ii/iii A.D.) σὺ δὲ	P Leid W^iii·10 (ii/iii A.D.) σὺ δὲ
+214	1414	1414:patch:21	sonnet	P Leid W^ii·⁴⁹ (ii/iii A.D.) ἤτωσαν	P Leid W^iii·⁴⁰ (ii/iii A.D.) ἤτωσαν
+214	1414	1414:patch:28	sonnet	P Leid W^i (ii/iii A.D.) καὶ ἔσῃ	P Leid W^i·35 (ii/iii A.D.) καὶ ἔσῃ
+215	1418	1418:patch:2	sonnet	P Tor I. 1¹·²¹	P Tor I. 1ˣ·¹
+216	1423	1423:patch:14	sonnet	P Meyer 1⁵⁷	P Meyer 1²⁷
+216	1423	1423:patch:17	sonnet	P Oxy II. 275¹	P Oxy II. 275¹⁹
+216	1423	1423:patch:25	sonnet	BGU III. 916¹⁸	BGU III. 916¹⁵
+217	1425	1425:patch:5	sonnet	P Oxy VII. 1032⁵	P Oxy VII. 1032⁵⁶
+217	1426	1426:patch:3	sonnet	P Grenf II. 76⁵ (A.D. 305)	P Grenf II. 78³ (A.D. 307)
+218	1430	1430:patch:0	sonnet	Φιλωνίδης δεῖ . . . . . ]ου	Φιλωνίδης δε[. . . . . ]ωι
+218	1433	1433:patch:0	sonnet	P Oxy II. 243¹⁰	P Oxy II. 241¹⁹
+218	1434	1434:patch:0	sonnet	P Oxy I. 37 ⁱ·¹⁴	P Oxy I. 37 ⁱ·¹⁶
+218	1436	1436:patch:0	sonnet	P Eleph 8⁵	P Eleph 8¹⁹
+218	1436	1436:patch:4	sonnet	βασί[τ]άξαντές	βασ[τ]άξαντές
+220	1442	1442:patch:6	sonnet	P Tebt I. 60⁵⁹	P Tebt I. 60⁸⁵
+220	1442	1442:patch:21	sonnet	two strips of cloth . one of which please give to your children	two strips of cloth, one of which please give to your children
+220	1442	1442:patch:27	sonnet	P Tebt I. 27⁴⁹	P Tebt I. 27⁶⁰
+221	1444	1444:patch:0	sonnet	P Flor III. 367⁹ (iii/A.D.) ἑκάστ[ο]τε [πε]ρὶ τα[ς ὑγ]είας σου πυνθάνομαι.	P Flor III. 367²⁰ (iii/A.D.) ἑκάστ[ο]τε [πε]ρὶ τῆ[ς ὑγ]είας σου πυνθάνομαι.
+221	1446	1446:patch:0	sonnet	*ib.* 81¹³ (*c.* A.D. 104) διὰ Ἰουλ. . . . . . ἑ[κατον]τάρχου Ἰουλίου.	*ib.* 81¹² (*c.* A.D. 104) διὰ τοῦ [ . . . . . . . ] ἑ[κατον]τάρχου Ἰουλίου.
+221	1447	1447:patch:1	sonnet	P Tebt II. 309⁵ (A.D. 116–7)	P Tebt II. 309¹⁴ (A.D. 116–7)
+221	1448	1448:patch:2	sonnet	P Tebt I. 104²⁸ (B.C. 92) and *ib.* 105²² (B.C. 103)	P Tebt I. 104²² (B.C. 92) and *ib.* 105³¹ (B.C. 103)
+222	1452	1452:patch:0	sonnet	Πτολ. *wth.* In	Πτολ. κτλ. In
+222	1454	1454:patch:3	sonnet	Vett. Val. p. 9²²	Vett. Val. p. 92¹⁰
+222	1456	1456:patch:4	sonnet	P Oxy II. 237⁵ⁱ· ³⁸	P Oxy II. 237ᵛⁱⁱ·²⁸
+222	1457	1457:patch:2	sonnet	P Lond 245⁸ (A.D. 343) (= II. p. 271)	P Lond 245¹⁹ (A.D. 343) (= II. p. 272)
+222	1457	1457:patch:3	sonnet	τὰ τοαῖ[ῦ]τα	τὰ τοια[ῦτ]α
+223	1465	1465:patch:5	convention-only	Preisigke* 1002¹⁴¹	Preisigke* 1002¹⁰ f.
+224	1469	1469:patch:1	sonnet	τὰ ἐ[κεῖ σε κατασκεθέντ[α χρήματα	τὰ ἐ[κεῖ ?]σε κατασκεθέντ[α χρή]ματα
+224	1472	1472:patch:0	sonnet	 ἡμᾶς. Also *Menandrea* p. 53³¹.	 ἡμᾶς.
+225	1481	1481:patch:1	sonnet	P Fay 12⁷⁴	P Fay 12²⁴
+225	1481	1481:patch:2	sonnet	*OGIS* 629⁹⁸	*OGIS* 629²⁸
+225	1487	1487:patch:0	sonnet	PSI IV. 422¹⁶	PSI IV. 422¹⁴
+226	1491	1491:patch:5	sonnet	P Flor I. 47²⁴ (A.D. 213-17) (= *Chrest.* II. p. 156)	P Flor I. 47¹⁴ (A.D. 213-17) (= *Chrest.* II. p. 158)
+226	1491	1491:patch:6	sonnet	ε[ἰς τύμβον ἐ]μὸν τῆς ἐκλ[ογῆς ἀπ]ὸ	ε[ἰς τύμβον ἐ]μὸν τῆς τε ἐκλ[ογῆς ἀπ]ὸ
+226	1496	1496:patch:2	sonnet	P Oxy III. 473⁸ (A.D. 138-160)	P Oxy III. 473³ (A.D. 138-160)
+227	1498	1498:patch:0	sonnet	P Oxy VI. 938⁴	P Oxy VI. 938⁸
+227	1498	1498:patch:1	sonnet	εὐεργέτησεν.	εὐεργέ[τησεν.
+228	1507	1507:patch:0	sonnet	1078⁵	1078⁴
+228	1507	1507:patch:2	sonnet	P Leid Wˣˣⁱⁱⁱ (ii/iii A.D.)	P Leid Wᵛⁱⁱⁱ. ¹⁷ (ii/iii A.D.)
+229	1517	1517:patch:4	sonnet	P Petr II. 13 (18ᵃ)¹	P Petr II. 13 (18*b*)¹⁰
+229	1518	1518:patch:2	sonnet	P Lond 1170 verso²	P Lond 1170 verso⁸
+229	1518	1518:patch:3	sonnet	*Preisigke* 4369ⁱⁱ·³⁷	*Preisigke* 4369 b²⁰ f.
+229	1519	1519:patch:0	sonnet	P Tebt II. 343⁸⁵	P Tebt II. 343⁶⁹
+230	1529	1529:patch:1	sonnet	P Lond 1177⁵⁸	P Lond 1177⁸⁴
+230	1532	1532:patch:1	sonnet	ἀπελθόντι	ἀπελθόν[τι]
+231	1535	1535:patch:1	sonnet	138⁵ (A.D. 34)	138⁹ (A.D. 34)
+231	1535	1535:patch:4	convention-only	P Amh II. 31⁸—B.C. 112	P Amh II. 31³ᵃˡ—B.C. 112
+231	1536	1536:patch:0	sonnet	P Petr III. 32(*g*)¹⁶	P Petr III. 32(*f*)¹⁰
+231	1536	1536:patch:5	sonnet	εἶπ[εν]	εἶπ(εν)
+232	1544	1544:patch:0	sonnet	715ᶦᶦ⁸	715ⁱ·⁸
+232	1548	1548:patch:0	sonnet	P Oxy I. 130²² (vi/A.D.) (ἅμα) Ἀνοὐπ	P Oxy I. 130³ (vi/A.D.) π(αρὰ) Ἀνοὺπ
+233	1558	1558:patch:1	sonnet	*ib.* 122⁸⁷	*ib.* 122⁶⁷
+233	1558	1558:patch:3	sonnet	P Oxy I. 113²⁶	P Oxy I. 113⁴
+234	1561	1561:patch:1	sonnet	*OGIS* 483⁹⁰	*OGIS* 483⁶²
+234	1565	1565:patch:2	sonnet	Field *Notes*, p. 135.	Field *Notes*, p. 135 f.
+235	1572	1572:patch:0	sonnet	τῶν ἐμαυτοῦ ὑπαρχόντων κύ]ριον εἶναι	τῶν ἐμαυτοῦ ὑπαρχόν[των κύ]ριον εἶναι
+236	1577	1577:patch:1	sonnet	cf. *ib.* 51 (A.D. 88-96), PSI IV. 282¹⁸ (A.D. 183)	cf. *ib.* 55³¹ (A.D. 88-96), PSI IV. 282¹⁶ (A.D. 183)
+236	1578	1578:patch:0	sonnet	περίστασιν	περί<στασιν>
+236	1579	1579:patch:1	sonnet	Ps 7¹² ᾳ	Ps 7¹² *Aq*
+236	1581	1581:patch:0	sonnet	P Tor II. 8¹³ (ii/B.C.)	P Tor II. 8³¹ (ii/B.C.)
+236	1581	1581:patch:2	sonnet	BGU II. 600 (ii/iii A.D.)	BGU II. 600⁸ (ii/iii A.D.)
+236	1581	1581:patch:4	sonnet	*Syll* 879 (end of iii/B.C.)	*Syll* 879²⁰ (end of iii/B.C.)
+236	1581	1581:patch:7	sonnet	transgress (the terms of a will] shall	transgress [the terms of a will] shall
+236	1582	1582:patch:0	sonnet	P Petr I. 23⁵¹ (iii/B.C.)	P Petr I. 23ⁱⁱ· ² (iii/B.C.)
+236	1583	1583:patch:2	sonnet	PSI III. 223⁵ (A.D. 580)	PSI III. 223⁶ (A.D. 580)
+236	1583	1583:patch:4	sonnet	τ]ὸ προσκύνη[μα]	τ]ὸ προ<σ>κύνη[μα]
+238	1596	1596:patch:2	sonnet	Μενεμενεαλιτος ἐμπόρου παρὰ τῷ θ[ε]ῷ κυρί[ῳ Βησᾷ	Μενεμεν.αλιτος ἐμπόρου παρὰ τῷ θ[ε]ῷ κυρί[ῳ Βησᾷ.
+238	1598	1598:patch:0	sonnet	ἐνέπτυσεν οἱ εἰς τὸ πρόσωπον	ἐνέπτυσεν . . . εἰς τὸ πρόσωπον
+238	1598	1598:patch:1	sonnet	ἀπαντῶσά ἐς μευ	ἀπαντῶσα ἐς μευ
+238	1599	1599:patch:1	sonnet	ἱεροῦ καὶ πάσης]	ἱεροῦ κα[ὶ πάσης]
+238	1599	1599:patch:4	convention-only	ib.* X. 1258⁸	ib.* X. 1258⁶
+238	1599	1599:patch:5	sonnet	P Gen I. 28⁷ (A.D. 136) αἱ.	P Gen I. 28²⁴ (A.D. 136) *al.*
+239	1603	1603:patch:0	sonnet	P Leid Wᵛⁱ· ¹⁵	P Leid Wˣᵛⁱⁱ· ¹⁵
+241	1613	1613:patch:0	sonnet	*ib.* 28⁵	*ib.* 28⁸
+242	1618	1618:patch:2	sonnet	*ib.* 790⁹	*ib.* 790⁸⁰
+242	1618	1618:patch:3	sonnet	*OGIS* 764⁵⁶ (ii/B.C.) ποιησαμένων τὴν	*OGIS* 764³⁵ (ii/B.C.) ποιησα]μένων τὴν
+242	1622	1622:patch:0	sonnet	P Leid Wⁱⁱ·¹ (ii/iii A.D.)	P Leid Wˣⁱ·⁷ (ii/iii A.D.)
+242	1623	1623:patch:1	sonnet	P Leid Wⁱⁱⁱ·² (ii/iii A.D.)	P Leid Wˣⁱᵛ·⁹ (ii/iii A.D.)
+242	1623	1623:patch:2	sonnet	P Ryl I. 28¹²²	P Ryl I. 28¹⁰⁸
+242	1624	1624:patch:5	sonnet	p. 80⁹⁹ ἐνδύμαθ᾽	p. 80²⁶⁹ ἐνδύμαθ᾽
+243	1632	1632:patch:0	sonnet	P Oxy VI. 892⁷ (A.D. 338)	P Oxy VI. 892¹¹ (A.D. 338)
+243	1634	1634:patch:0	sonnet	P Oxy II. 242⁸ (A.D. 77)	P Oxy II. 242¹⁶ (A.D. 77)
+243	1635	1635:patch:1	convention-only	P Oxy X. 1293¹⁶ (A.D. 117–38)	P Oxy X. 1293¹⁶f. (A.D. 117–38)
+243	1635	1635:patch:3	sonnet	P Flor II. 158 (iii/A.D.) ἕνεκεν [ἀναγκαίας χρείας	P Flor II. 158³ (iii/A.D.) ἕνεκεν [ἀνα]γκαίας χρείας
+243	1635	1635:patch:5	sonnet	P Meyer 23² (end iv/A.D.)	P Meyer 23⁴ (end iv/A.D.)
+243	1635	1635:patch:8	sonnet	P Petr II. 19 (1a)⁶	P Petr II. 19 (1a)²
+243	1635	1635:patch:9	sonnet	Εἵνεκ᾽ ἐμῆς δόξης φασὶ] τεκεῖν με πόλεις.	Εἵνεκ᾽ ἐμῆς δόξης φ[ασὶ] τεκεῖν με πόλεις.
+243	1636	1636:patch:0	sonnet	*Ostr* 1508⁵ (B.C. 144–3), 1511⁵·⁸ (B.C. 143–2) ϟ´. See also	*Ostr* 1508⁵ (B.C. 144–3), 1511⁴ ff. (B.C. 143–2) al. See also
+244	1642	1642:patch:1	sonnet	P Oxy XII. 1461⁵	P Oxy XII. 1461⁶
+244	1645	1645:patch:1	sonnet	P Lond 42³⁹	P Lond 42²⁰
+244	1645	1645:patch:3	sonnet	No. 101⁵	No. 101³
+245	1649	1649:patch:0	sonnet	P Hib I. 28⁹	P Hib I. 28²⁰
+245	1649	1649:patch:4	sonnet	P Flor I. 25¹²	P Flor I. 2²¹²
+245	1650	1650:patch:2	sonnet	P Lond 1164(d)⁷	P Lond 1164(h)⁶
+245	1650	1650:patch:3	sonnet	P Oxy I. 37¹⁸	P Oxy I. 37ⁱ·¹¹
+245	1650	1650:patch:4	sonnet	δευτέρ[ου]	δευτέρου
+245	1653	1653:patch:0	sonnet	ἐνκακήσαντος (?)	ἐνκακήσα[ντος (?)
+246	1657	1657:patch:0	sonnet	*CIG* II. 2715¹ (c. A.D. 20), *IG* VII. 29⁸ (iii/ii B.C.).	*CIG* II. 2715ᵃ·¹¹ (c. A.D. 20), *IG* VII. 29⁶ (iii/ii B.C.).
+246	1661	1661:patch:0	sonnet	P Par 63⁸³ (B.C. 165)	P Par 63³² (B.C. 165)
+246	1662	1662:patch:1	sonnet	P Ryl II. 153¹⁶ (A.D. 138-61)	P Ryl II. 153¹⁹ (A.D. 138–61)
+247	1668	1668:patch:5	sonnet	P Tebt II. 335¹³¹ (mid. iii/A.D.) παῦσαί ἐμοῦ	P Tebt II. 335¹³ᶠ· (mid. iii/A.D.) παύεσθαί μου
+247	1673	1673:patch:0	sonnet	P Lond 1164(*l*) ⁸	P Lond 1164(*f*) ¹⁸
+248	1675	1675:patch:1	sonnet	P Amh I. 3(a)ⁱⁱ· ²²	P Amh I. 3(a)ⁱⁱⁱ· ²²
+248	1677	1677:patch:4	sonnet	P Ryl I. 81³	P Ryl II. 81²²
+248	1678	1678:patch:0	sonnet	P Lond 192³⁵	P Lond 192⁹⁴
+248	1678	1678:patch:1	sonnet	P Oxy VIII. 1153²³	P Oxy VIII. 1153²⁶
+248	1678	1678:patch:3	sonnet	P Lond 755 verso ¹⁹	P Lond 755 verso ¹⁰
+249	1683	1683:patch:1	sonnet	A.D. 300—¹⁹⁷⁸	A.D. 300—³⁰⁷⁶
+250	1693	1693:patch:4	convention-only	*Preisigke* 3925⁵	*Preisigke* 3925⁶
+250	1694	1694:patch:1	sonnet	*al.* In P Petr I. 12⁸⁴	*al.* : in P Petr I. 12²⁴
+250	1698	1698:patch:4	sonnet	ἐξακογῆς	ἐξακοκῆς
+251	1699	1699:patch:6	sonnet	P Ryl II. 172¹	P Ryl II. 172¹¹
+251	1702	1702:patch:0	sonnet	καὶ ἐξαίφνης] ἀνύγω	καὶ ἐξαί[φνης] ἀνύγω
+251	1703	1703:patch:1	sonnet	*ib.* 63⁸⁹	*ib.* 63¹³⁰
+251	1704	1704:patch:0	sonnet	*OGIS* 218⁵	*OGIS* 218¹²⁹
+251	1706	1706:patch:0	sonnet	BGU III. 717² (A.D. 149) as amended, unfortunately in a broken context, Ἀ[φροδείτην σὺν θήκῃ, ἐξανάστασις, σκάφιον Αἰγύπτι[ο]ν (ὁ τιον) βαθῖ. . . κτλ.	BGU III. 717¹¹ (A.D. 149) as amended, unfortunately in a broken context, Ἀ]φροδείτην σὺν θήκῃ, ἐξανάστασις, σκάφιον Αἰγύπτιν (*l.* —τιον) βαθ[ . . . κτλ.
+251	1707	1707:patch:0	convention-only	P Petr III. 21(g)¹⁶	P Petr III. 21(g)¹⁰
+251	1707	1707:patch:1	sonnet	αὐτῶν ἐξαναστήσηι κατὰ τὸ]	αὐτῶν ἐξανασ[τήσηι κατὰ τὸ]
+252	1709	1709:patch:2	sonnet	ὀφειλόντων	ὀφειλόν[των
+252	1715	1715:patch:1	sonnet	καλῶς πιοιή]σεις	καλῶς π[οιή]σεις
+253	1726	1726:patch:1	sonnet	P Petr III. 20⁵	P Petr III. 20ⁱⁱⁱ. ⁶
+253	1728	1728:patch:0	sonnet	ἀφ᾽ ἧ]ς	ἀ[φ᾽ ἧ]ς
+255	1741	1741:patch:3	sonnet	*ib.* viii·²⁹, viii·⁴	*ib.* vii·²⁷, viii·⁴
+255	1741	1741:patch:11	sonnet	P Fay 125⁸	P Fay 125⁶
+256	1747	1747:patch:5	sonnet	P Rev L¹⁶	P Rev Lˣˡⁱ. ¹³
+256	1751	1751:patch:3	sonnet	καθ' ἕκαστον ἐνιαυτὸν] ἑορτάζειν	κ[αθ' ἕκαστον ἐνιαυτὸν] ἑορτάζειν
+256	1752	1752:patch:0	sonnet	P Fay 118⁶	P Fay 118¹⁶
+258	1765	1765:patch:10	sonnet	P Oxy II. 269 (A.D. 59)	P Oxy II. 260²⁰ (A.D. 59)
+258	1765	1765:patch:18	sonnet	P Tebt I. 100² (quoted above)	P Tebt I. 100²⁰ (quoted above)
+258	1766	1766:patch:0	sonnet	P Par 51³¹	P Par 51²⁴
+258	1766	1766:patch:1	sonnet	P Leid Wᵛⁱ· ⁴¹	P Leid Wᵛ· ⁴¹
+258	1768	1768:patch:4	sonnet	ἐπί[ά]ν	ἐπ[ά]ν
+259	1771	1771:patch:0	sonnet	P Par 63⁹ (B.C. 164)	P Par 63⁶ (B.C. 164)
+259	1773	1773:patch:1	sonnet	cf. Lk 2¹·³.	cf. Lk 2¹ᶠᶠ.
+259	1775	1775:patch:3	sonnet	ἐπι-στρεφ[έσ]τερον	ἐπι-στρεφ[έ]στερον
+259	1776	1776:patch:7	sonnet	Wünsch *AF* 3⁸	Wünsch *AF* 3²⁴
+260	1783	1783:patch:0	sonnet	*Syll* 893²⁴	*Syll* 893³⁴
+260	1786	1786:patch:0	sonnet	P Lond 42⁸	P Lond 42²⁸
+260	1789	1789:patch:1	sonnet	ὁ γρα as[ ]	ὁ γράψας[ ]
+261	1791	1791:patch:0	sonnet	P Par 63¹⁸	P Par 63¹⁸⁶
+261	1792	1792:patch:1	sonnet	P Giss I. 2¹·³⁹	P Giss I. 2ⁱ·²⁰
+261	1796	1796:patch:1	sonnet	P Oxy X. 1282¹⁸ (A.D. 83) *al.* II. 266¹⁶,²² (A.D. 96), *ib.* I. 91⁸	P Oxy X. 1282²⁰ (A.D. 83) *ib.* II. 266¹⁶,²¹ (A.D. 96), *ib.* I. 91²²
+261	1798	1798:patch:0	sonnet	P Cairo Preis 11⁹	P Cairo Preis 1¹⁶
+262	1801	1801:patch:3	sonnet	*OGIS* 484³³	*OGIS* 484²⁶
+262	1802	1802:patch:2	sonnet	P Oxy I. 99¹³	P Oxy I. 99¹⁴
+262	1802	1802:patch:3	sonnet	Σαρα[πίων καὶ μέτοχοι	Σαρα[πί]ων καὶ μέτοχοι
+262	1802	1802:patch:9	sonnet	BGU I. 153¹⁷	BGU I. 153²⁷
+262	1802	1802:patch:12	sonnet	Πάμφιλε,] σαφῶς	Πάμφιλε, | σαφῶς
+262	1802	1802:patch:16	sonnet	*OGIS* 90⁷⁴	*OGIS* 90¹⁶
+262	1802	1802:patch:18	sonnet	Mk 6²⁵·⁵⁵	Mk 6²⁵·²⁸
+262	1802	1802:patch:43	sonnet	P Oxy IV. 743⁸	P Oxy IV. 743²⁵
+262	1802	1802:patch:44	sonnet	P Meyer 3⁵	P Meyer 3¹⁶
+262	1802	1802:patch:45	sonnet	BGU I. 22²⁸	BGU I. 22³⁶
+265	1806	1806:patch:5	sonnet	P Lond 1170⁷	P Lond 1170⁸
+265	1807	1807:patch:10	sonnet	P Lond 32 (B.C.	P Lond 3²¹ (B.C.
+265	1807	1807:patch:15	convention-only	Syr. S aeth = ἤρξατο at Mk 10²²	Syr. S aeth = 565 at Mk 10⁵⁰
+265	1808	1808:patch:1	sonnet	P Oxy XII. 1481ⁱ⁸	P Oxy XII. 1481¹²
+266	1809	1809:patch:0	sonnet	P Leid W^{vi.39}	P Leid W^{xiv.23}
+266	1810	1810:patch:0	sonnet	*Syll* 877^{5}	*Syll* 877⁴
+266	1812	1812:patch:0	sonnet	P Oxy II. 237^{vii. 31}	P Oxy II. 237^{vi. 31}
+266	1814	1814:patch:0	sonnet	P Par 574^{3000}	P Par 574³⁰⁴³
+266	1814	1814:patch:1	sonnet	P Lond 46^{157}	P Lond 46¹⁶⁷
+266	1814	1814:patch:2	sonnet	Wünsch *AF* 4^{7, 4^{31}}	Wünsch *AF* 4¹¹
+266	1814	1814:patch:3	sonnet	πύργος δίστεγος	πύργος διώρυφος
+266	1815	1815:patch:0	sonnet	P Lond 42^{16}	P Lond 42²³
+266	1815	1815:patch:1	sonnet	P Ryl II. 111^{4}	P Ryl II. 111¹²
+266	1816	1816:patch:0	sonnet	*ib*. 110^{4}	*ib*. 110¹⁶
+266	1816	1816:patch:1	sonnet	P Tebt II. 297^{4}	P Tebt II. 297⁹
+266	1816	1816:patch:2	sonnet	P Oxy IX. 1188^{4}	P Oxy IX. 1188¹⁶
+266	1816	1816:patch:3	sonnet	VI. 930^{4}	VI. 930¹⁴
+266	1816	1816:patch:4	sonnet	932^{6}	932⁸
+266	1816	1816:patch:5	sonnet	P Cairo Preis 48^{5}	P Cairo Preis 48³
+267	1820	1820:patch:3	convention-only	Petr II. 21(a)⁶	Petr II. 21(a)⁵
+267	1821	1821:patch:3	sonnet	P Giss I. 2^{i. 19}	P Giss I. 2^{i. 24}
+267	1821	1821:patch:4	sonnet	P Tor I. 1^{vi.18}	P Tor I. 1^{vii.4}
+267	1821	1821:patch:5	sonnet	P Tor I. 1^{vi. 7}	P Tor I. 1^{vii. 7}
+267	1822	1822:patch:3	sonnet	P Oxy III. 498⁹	P Oxy III. 498⁶
+267	1822	1822:patch:5	sonnet	PSI IV. 316¹	PSI IV. 316¹⁶
+267	1823	1823:patch:3	sonnet	P Par 26³⁻⁴	P Par 26^{i. 4}
+267	1823	1823:patch:5	sonnet	CP Herm I. 8¹⁻³	CP Herm I. 8^{ii. 3}
+268	1828	1828:patch:3	convention-only	*CPR* I. 19¹⁶ (A.D. 350)	*CPR* I. 19¹⁶, ²⁴ (A.D. 350)
+268	1829	1829:patch:1	convention-only	*Priene* 119¹⁵ (i/B.C. ad init.)	*Priene* 119¹³ (i/B.C. ad init.)
+268	1829	1829:patch:2	sonnet	*Priene* 119¹⁵. On the relation	*Priene* 119 *ut s.* On the relation
+268	1830	1830:patch:0	sonnet	P Fay 39⁴	P Fay 39¹⁴
+268	1830	1830:patch:2	sonnet	P Tebt II. 314⁸	P Tebt II. 314⁶
+269	1835	1835:patch:2	convention-only	described as³⁴—ἐρῶντα	described as⁷ᶠ—ἐρῶντα
+269	1837	1837:patch:4	sonnet	P Ryl II. 172⁷	P Ryl II. 172⁹
+270	1840	1840:patch:1	sonnet	P Grenf II. 57⁶	P Grenf II. 57⁸
+270	1841	1841:patch:0	sonnet	ἐπικ(εφαλαίου) ι̅θ̅ (ἔτους) (δραχμὰς) δεκαέξ (ὀβολοὺς) β̅ [(ἡμιωβέλιον),	ἐπικ(εφαλαίου) ι̅θ̅ (ἔτους) (δραχμὰς) δεκαέξ (ὀβολοὺς) β̅ [(ἡμιωβέλιον)],
+270	1842	1842:patch:0	sonnet	Ἀρωίαν	Ἀμυνίαν
+270	1843	1843:patch:3	sonnet	P Oxy XII. 1407⁴	P Oxy XII. 1407⁶
+270	1845	1845:patch:1	sonnet	p. 451 ff., we have ὁ ἐπιλαβ	p. 451 ff., we have ⁵ ἐπιλαβ
+270	1847	1847:patch:0	sonnet	βλέπε μὴ ἐπιλάθῃ μηδέν	βλέπε μὴ ἐπιλάθῃ μηδὲν
+271	1849	1849:patch:1	sonnet	P Petr II. 40(a)¹⁸	P Petr II. 40(a)¹⁶
+271	1849	1849:patch:2	sonnet	P Hib I. 78⁷	P Hib I. 78¹²
+272	1859	1859:patch:1	sonnet	PSI IV. 408⁵⁰	PSI IV. 405²⁰
+272	1864	1864:patch:0	convention-only	P Petr III. 56 (4)¹²	P Petr III. 56 (b)¹²
+272	1864	1864:patch:1	convention-only	(II. § 120 δ)	(II. § 120 b)
+273	1867	1867:patch:0	sonnet	P Tebt I. 41¹⁵	P Tebt I. 41²³
+273	1867	1867:patch:1	sonnet	P Tor I. 1ⁱⁱ·¹⁸	P Tor I. 1ⁱⁱⁱ·¹⁴
+273	1868	1868:patch:0	sonnet	P Petr II. 10¹³	P Petr II. 10(1)¹¹
+273	1869	1869:patch:0	convention-only	Moulton *Gr.* ii. § 41 (4)	Moulton *Gr.* ii. § 41 (b)
+273	1872	1872:patch:4	sonnet	P Fly II. 426	P Ryl II. 426
+273	1872	1872:patch:9	sonnet	P Lond 106⁷⁶	P Lond 106²⁸
+274	1877	1877:patch:1	sonnet	ἐπισκοποῦ —δ[ὲ] καὶ	ἐπισκοποῦ <δ[ὲ]> καὶ
+274	1878	1878:patch:1	convention-only	(*Exp* VII. vi. p. 387: *R.* and *B.* ii. p. 543)	(*Exp* VII. vi. p. 387: *C.* and *B.* ii. p. 543)
+274	1879	1879:patch:0	sonnet	*IMAe* 49⁸² (ii/i B.C.)	*IMAe* 49⁴³ ff. (ii/i B.C.)
+274	1879	1879:patch:1	convention-only	P Petr III. 36(4) verso¹⁷	P Petr III. 36(*a*) verso¹⁷
+275	1881	1881:patch:0	sonnet	ἀλλὰ σὲ αὐτὸν μάρτυρα ἐπισπῷω, the verb	ἀλλὰ σὲ αὐτὸν μάρτυρα ἐπισπάσῳ, the verb
+275	1881	1881:patch:1	sonnet	so⁸⁴, and *Syll* 929⁵² (ii/B.C.)	so¹³, and *Syll* 929⁴⁰ (ii/B.C.)
+275	1881	1881:patch:5	sonnet	in P Tor I. 1ⁱᵛ·⁹⁹ (B.C. 117)	in P Tor I. 1ᵛⁱⁱⁱ·³⁰ (B.C. 117)
+275	1883	1883:patch:0	sonnet	P Tebt II. 408⁹ (A.D. 3)	P Tebt II. 408⁸ (A.D. 3)
+275	1883	1883:patch:2	sonnet	P Leid Wⁱⁱ·⁹ (ii/iii A.D.)	P Leid Wˣⁱˣ·⁹ (ii/iii A.D.)
+275	1883	1883:patch:7	sonnet	Musonius p. 12⁸	Musonius p. 12⁵
+275	1886	1886:patch:0	sonnet	P Amh II. 33⁸ (c. B.C. 157)	P Amh II. 33³⁵ (c. B.C. 157)
+276	1888	1888:patch:1	sonnet	*P Oxy* XII. 1469¹	*P Oxy* XII. 1469¹²
+276	1888	1888:patch:2	convention-only	*P Fay* 106⁷⁸	*P Fay* 106²²
+276	1888	1888:patch:3	convention-only	*P Oxy* VI. 896⁹	*P Oxy* VI. 896⁵
+276	1889	1889:patch:0	convention-only	*P Amh* II. 64¹⁹	*P Amh* II. 64¹⁰
+276	1889	1889:patch:1	convention-only	*P Hamb* I. 18⁴¹⁶	*P Hamb* I. 18ⁱⁱ.⁶
+276	1889	1889:patch:2	convention-only	*BGU* IV. 1046ᵢⁱ⁻⁵	*BGU* IV. 1046ⁱⁱ.⁵
+276	1889	1889:patch:4	sonnet	ἰδοὺ ἤ[δ]η τρίτην	ἰδοὺ δ[ὴ] τρίτην
+276	1892	1892:patch:0	sonnet	*Michel* 543⁹	*Michel* 543⁸
+277	1896	1896:patch:6	sonnet	πρα­κτορεύιν (*l*. —ευειν)	πρα­κτορεύιν (*l*. —ειν)
+277	1901	1901:patch:2	sonnet	*ib*. XII. 1480⁸	*ib*. XII. 1480⁶
+278	1904	1904:patch:4	sonnet	BGU I. 235⁸	BGU I. 235¹²
+278	1905	1905:patch:2	sonnet	cf. Mk 3¹⁶ ¹⁷	cf. Mk 3¹⁶ ff.
+278	1905	1905:patch:3	sonnet	*ib*. 121¹¹ (ii/A.D.) τ[ὰς] σφραγεῖδας ἃς ἐπέθηκε,	*ib*. 121¹⁰ (ii/A.D.) τ[ὰς] σφραγεῖδας ἃς ἐπέθηκ[ε,
+278	1906	1906:patch:4	sonnet	P Oxy II. 275²⁵	P Oxy II. 275²⁹
+278	1906	1906:patch:5	sonnet	*ib*. X. 1282²⁰	*ib*. X. 1282⁴⁰
+279	1910	1910:patch:0	sonnet	P Ryl II. 120⁴	P Ryl II. 120¹⁶
+279	1910	1910:patch:1	sonnet	P Oxy III. 474⁵	P Oxy III. 474⁴⁰
+279	1912	1912:patch:1	sonnet	αἰτοῦσά [με]	αἰτοῦσά μ[ε]
+280	1916	1916:patch:2	sonnet	ἐ]νιαυτοῦ πρώτου τᾶς [Γαΐου Καίσαρος	ἐ]νιαυτοῦ πρώτου τᾶς [Γαΐ]ου Καίσαρος
+280	1919	1919:patch:0	sonnet	*OGIS* 595¹⁸ (ii/A.D.) ἐπεφώνησαν· . . . . . . ὥς εἶπεν Σοκλῆς	*OGIS* 595³⁵ (ii/A.D.) ἐπεφώνησαν· . . . . . . καλῶς εἶπεν Φιλοκλῆς
+281	1923	1923:patch:1	sonnet	cf. the late form ἴη *ib.* i⁸·²⁸	cf. the late form in *ib.* ⁱˣ·²⁶
+281	1924	1924:patch:1	sonnet	[ἐ]πιχορηγοῦϊντος]	[ἐ]πιχορηγοῦ[ντος]
+281	1930	1930:patch:2	sonnet	P Lond 121⁵⁸¹·⁵⁷²	P Lond 121³⁵¹·⁵⁷²
+282	1932	1932:patch:2	sonnet	*Syll* 693⁷⁴ (iii/B.C.), 722²⁵ (ii/B.C.).	*Syll* 693²¹ (iii/B.C.), 722⁶ (ii/B.C.).
+282	1932	1932:patch:3	sonnet	Sanskrit *vac*, etc.	Sanskrit vāc, etc.
+282	1937	1937:patch:2	sonnet	(see the editors' note *ad l.*)	(see the editors' note *ad* ¹⁴)
+282	1939	1939:patch:2	sonnet	π[αρ' ὑμῶν τὴν χρυσοχ[οϊ]κὴν ἐργασίαν	π[αρ'] ὑμῶν τὴν χρυσοχ[οϊ]κὴν ἐργασίαν
+283	1941	1941:patch:1	sonnet	P Ryl II. 98(*a*)¹⁰	P Ryl II. 98(*a*)¹⁶
+283	1941	1941:patch:8	sonnet	P Fay 111¹³	P Fay 111⁶
+283	1943	1943:patch:0	sonnet	*Syll* 891¹	*Syll* 891¹²
+284	1952	1952:patch:3	sonnet	P Meyer 20⁶	P Meyer 20³⁶
+284	1952	1952:patch:5	sonnet	P Ryl II. 94⁵	P Ryl II. 94¹⁴
+284	1956	1956:patch:3	sonnet	Vett. Val. p. 45⁷ ὁ	Vett. Val. p. 4⁵ <ὁ>
+284	1958	1958:patch:1	sonnet	Ἰσ[ι]δωριανὸς [........ ἑρμήνευσα	Ἰσ[ι]δωριανὸς [. . . . . .] ἑρμήνευσα
+285	1961	1961:patch:2	sonnet	Μηνὶ ¹ Ἀξιοττηνῷ. ² Ἐπεὶ Ἑρμογένης ³ Γλύκωνος ⁴ καὶ Νιτωνὶς ⁵ Φιλοξένου ⁶ ἐλοιδόρησαν ⁷ Ἀρτεμίδωρον ⁸ περὶ ⁹ οἴνου ¹⁰ Ἀρτεμίδωρος πιττάκιον ἔδωκεν· Ὁ ¹ θεὸς ¹² ἐκολάσετο τὸν ¹³ Ἑρμογένην ¹⁴ καὶ εἱλάσετο ¹⁵ τὸν ¹⁶ θεόν, καὶ ἀπὸ νῦν ¹⁷ εὐδοξεῖ.	Μηνὶ · Ἀξιοττηνῷ. · Ἐπεὶ · Ἑρμογένης Γλύκωνος · καὶ Νιτωνὶς · Φιλοξένου · ἐλοιδόρησαν · Ἀρτεμίδωρον · περὶ · οἴνου · Ἀρτεμίδωρος πιττάκιον · ἔδωκεν · · Ὁ · θεὸς · ἐκολάσετο τὸν · Ἑρμογένην · καὶ εἱλάσετο · τὸν · θεόν, καὶ ἀπὸ νῦν · εὐδοξεῖ.
+285	1964	1964:patch:3	sonnet	P Vat A¹⁰	P Vat A¹²
+285	1967	1967:patch:3	sonnet	*OGIS* 383⁵⁶	*OGIS* 383¹³⁵
+285	1967	1967:patch:4	sonnet	*Michel* 833³⁴	*Michel* 833⁶²
+286	1974	1974:patch:2	sonnet	BGU IV. 1024ⁱᵛ·³⁸	BGU IV. 1024ⁱᵛ·¹⁸
+286	1974	1974:patch:3	sonnet	*Michel* 326⁹	*Michel* 326²
+287	1983	1983:patch:3	convention-only	BGU I. 194³¹ (A.D. 177)	BGU I. 194¹⁵ ᶠ· (A.D. 177)
+287	1983	1983:patch:10	sonnet	cf. *ib.* 31⁵ ᶠ· (ii A.D.), 67 (A.D. 238).	cf. *ib.* 3¹⁹ (ii/iii A.D.), 6¹⁷ (A.D. 238).
+287	1983	1983:patch:11	convention-only	P Par 26³¹ ᶠ·	P Par 26³² ᶠ·
+287	1983	1983:patch:13	sonnet	ἕτερον] ἄτοπόν τι	ἕτερο[ν] ἄτοπόν τι
+287	1984	1984:patch:0	sonnet	*Syll* 406⁹ (A.D. 147)	*Syll* 406¹⁰ (A.D. 147)
+288	1985	1985:patch:1	sonnet	Revillout 276² p. 295⁵	Revillout *Mél.* p. 295⁶
+288	1985	1985:patch:2	sonnet	P Oxy VIII. 1111¹·¹³ (A.D. 203) ὃν ἔφα(σαν) τετελ(ευτηκέναι)	P Oxy VIII. 1111ⁱⁱ·¹³ (A.D. 203) ὃν δηλ(ῶ) τετελ(ευτηκέναι)
+288	1987	1987:patch:1	sonnet	(*l.* εὐσχοληθῇς)	(*l.* εὐσχοληθῆς)
+288	1988	1988:patch:2	sonnet	ἔχωμεν αἱ ὑτογὺς ἑτοίμους	ἔχωμεν α[ὐτο]ὺς ἑτοίμους
+288	1988	1988:patch:4	sonnet	P Gen I. 76 (iii/iv A.D.)	P Gen I. 76⁸ (iii/iv A.D.)
+289	1991	1991:patch:2	sonnet	*ib.* III. 527²	*ib.* III. 527⁹
+289	1991	1991:patch:3	sonnet	P Eleph 23⁹	P Eleph 23¹⁹
+289	1993	1993:patch:0	sonnet	(*OGIS* 458, Deissmann *LAE*, p. 370⁶)	(*OGIS* 458⁴⁰, Deissmann *LAE*, p. 370 f.)
+289	1993	1993:patch:1	sonnet	*OGIS* 4²	*OGIS* 4⁴²
+289	1993	1993:patch:2	sonnet	*Menandrea* p. 90⁵⁵	*Menandrea* p. 90⁴¹⁵
+289	1994	1994:patch:0	sonnet	H. von Gartringen	H. von Gärtringen
+289	1994	1994:patch:1	sonnet	(= ὁ ἱε)ρὸς, Kaibel)	(= ὁ [ἱε]ρὸς, Kaibel)
+289	1994	1994:patch:5	sonnet	τοῦ ἁγίου τοῦ εὐλόγου καὶ εὐαγγελίστου Ἰωάννου	τοῦ ἁγίου Ἰωάννου τοῦ εὐλόγου καὶ εὐαγγελιστοῦ
+289	1995	1995:patch:1	sonnet	*Michel* 1001¹⁻⁴	*Michel* 1001ⁱ·⁴
+289	1996	1996:patch:0	sonnet	p. 134¹³	p. 134¹¹ f.
+289	1996	1996:patch:3	sonnet	τὰς τοῦ πύρου εὐαρέστου ἀρτάβα]ς	τὰς τοῦ πύρου εὐαρέ[στου ἀρταβά]ς
+290	2004	2004:patch:1	convention-only	*Priene* 105⁴⁸ (c. B.C. 9)	*Priene* 105⁴⁶ (c. B.C. 9)
+290	2004	2004:patch:3	sonnet	P Ryl II. 119⁹ (A.D. 54–67)	P Ryl II. 119³⁶ (A.D. 54–67)
+290	2004	2004:patch:4	convention-only	P Tebt II. 302⁵¹ (A.D. 71–2), 326¹⁴ (c. A.D. 266)	P Tebt II. 302³¹ (A.D. 71–2), 326¹⁶ (c. A.D. 266)
+291	2007	2007:patch:0	sonnet	*Syll* 653⁷ (Mysteries inscr.	*Syll* 653⁷⁴ (Mysteries inscr.
+291	2008	2008:patch:2	sonnet	P Ryl II. 229⁵ (A.D. 38)	P Ryl II. 229⁹ (A.D. 38)
+291	2008	2008:patch:3	sonnet	P Fay 119¹¹ (c. A.D. 100)	P Fay 119³⁴ (c. A.D. 100)
+291	2010	2010:patch:0	sonnet	For the subst. see the fragmentary P [Iand] II. 43⁹ (iii/A.D.) where the desire is expressed—αὖτις μετ' εὐθυμίας	For the subst. see the fragmentary P Ryl II. 439 (iii/A.D.) where the desire is expressed—αὖθις μετ' εὐθυμίας
+291	2011	2011:patch:0	sonnet	ἐπινεύσαντος ο[ὖ]ν «σου» τα[ῇ] δεήσει	ἐπινεύσαντος ο[ὖ]ν <σου> τῆ[ι] δεήσει
+291	2012	2012:patch:0	sonnet	*ib.* 53³³ (B.C. 110)	*ib.* 53²² (B.C. 110)
+292	2015	2015:patch:1	sonnet	P Leid C¹·⁷	P Leid Cⁱ·²⁷
+292	2016	2016:patch:2	sonnet	*Michel* 1499⁴⁻⁵	*Michel* 1499ᴮ·⁴
+292	2017	2017:patch:1	sonnet	εὐκαιρη (*l.* —ίᾳ)	εὐκαιρη (*l.* —ία)
+292	2017	2017:patch:2	sonnet	*ib.* X. 1300⁸	*ib.* X. 1300²
+292	2022	2022:patch:0	sonnet	BGU IV. 1116²⁰	BGU IV. 1116⁴²
+292	2023	2023:patch:3	sonnet	P Tebt II. 304¹⁰	P Tebt II. 304¹⁴
+293	2025	2025:patch:0	sonnet	εὐλογῶ [τ]ὴν Ἶσιν.	εὐλογῶ [τ]ὴν Εἶσιν.
+293	2026	2026:patch:0	sonnet	γινώσκε(ιν) σε	γινώσκει(ν) σε
+293	2026	2026:patch:3	sonnet	P Tor I. 1ⁱⁱⁱ·³ (B.C. 117)	P Tor I. 1ᵛ·² (B.C. 117)
+294	2038	2038:patch:2	sonnet	P Cairo Preis 18⁵	P Cairo Preis 18⁹
+295	2046	2046:patch:1	convention-only	*CP Herm* I. 52⁵	*CP Herm* I. 52¹⁹
+295	2046	2046:patch:3	convention-only	*BGU* IV. 1197¹	*BGU* IV. 1197¹⁶
+295	2046	2046:patch:5	sonnet	*Priene* 117⁶²-i/B.C.	*Priene* 117⁶³–i/B.C.
+295	2046	2046:patch:6	sonnet	τὴν μεγίστην πρόνοιαν ποιούμενο[ς ()⁷⁾τελεὶ 459⁹-ii/B.C. *ad init.*)	τὴν μεγίστην πρόνοιαν ποιούμενο[ς (*Michel* 459⁹–ii/B.C. *ad init.*)
+296	2052	2052:patch:0	sonnet	*Syll* 246⁵⁶ (B.C. 220–16)	*Syll* 246³⁶ (B.C. 220–16)
+296	2053	2053:patch:2	sonnet	*Syll* 717²⁵ (ii/B.C.)	*Syll* 717¹³ (ii/B.C.)
+297	2063	2063:patch:0	sonnet	113¹ (A.D. 303)	71ⁱ·²² (A.D. 303)
+297	2064	2064:patch:1	sonnet	227⁸	227⁶
+298	2067	2067:patch:1	convention-only	*BGU* IV. 1080⁸ (iii/A.D.?)	*BGU* IV. 1080⁵ (iii/A.D.?)
+298	2067	2067:patch:2	sonnet	adds ¹⁰ ταῦτά μ]οι	adds ¹⁰ ταῦ[τά μ]οι
+298	2067	2067:patch:4	convention-only	*BGU* III. 954³⁸ (vi/A.D.)	*BGU* III. 954¹⁵ (vi/A.D.)
+298	2068	2068:patch:1	sonnet	Τάϊος Ἰούλιος	Γάϊος Ἰούλιος
+298	2069	2069:patch:3	sonnet	εἰς χρείας κυρ[ια]κὰς	εἰς χρίας κυρ[ια]κὰς
+298	2070	2070:patch:0	convention-only	*BGU* IV. 1097⁵ (time of Claudius or Nero)	*BGU* IV. 1097¹⁵ (time of Claudius or Nero)
+299	2077	2077:patch:1	sonnet	ἐφημερ(εύ)οντος	ἐφημερ(οῦ)ντος
+299	2079	2079:patch:4	sonnet	ihre ἰδία (origo) ist das Dorf «s.», ihr Domizil Antinoupolis	ihre ἰδία (origo) ist das Dorf . . ., ihr Domizil Antinoupolis
+299	2080	2080:patch:3	sonnet	Crönert *Mem Herc.* p. 89 n8.	Crönert *Mem. Herc.* p. 89 n³.
+299	2080	2080:patch:4	sonnet	*P Lond* 214⁵ (A.D. 270-275)	P Lond 214³ (A.D. 270–275)
+300	2084	2084:patch:3	sonnet	*P Oxy* IV. 743²⁰ (B.C. 2)	*P Oxy* IV. 743¹⁹ (B.C. 2)
+300	2084	2084:patch:9	sonnet	περὶ γεν[ε]ῆς	περὶ γε<ι>νεῆς
+300	2084	2084:patch:13	sonnet	*PSI* V. 514⁴ (B.C. 252–1)	*PSI* V. 514⁹ (B.C. 252–1)
+300	2085	2085:patch:2	sonnet	*P Oxy* III. 531⁹ (ii/A.D.)	*P Oxy* III. 531⁶ (ii/A.D.)
+300	2085	2085:patch:5	sonnet	*OGIS* 90⁴⁶ (Rosetta stone—B.C. 196)	*OGIS* 90¹⁶ (Rosetta stone—B.C. 196)
+302	2091	2091:patch:5	sonnet	φρέατρου [κ]αὶ	φορέτρου [κ]αὶ
+302	2092	2092:patch:2	sonnet	(*l.* -ὰν) μῆλα	(*l.* -ὼν) μῆλα
+303	2096	2096:patch:1	sonnet	521⁵	521⁸³
+303	2097	2097:patch:2	sonnet	εὐϊτον]ῶν	εὐ[τον]ῶν
+304	2103	2103:patch:1	sonnet	*ib.* ³⁹	viii. ³⁹
+304	2105	2105:patch:2	sonnet	ἐν Ζμίρνῃ	ἐν Ζμύρνῃ
+304	2111	2111:patch:0	sonnet	P Petr I. 14[?]²	P Petr I. 14¹²
+306	2117	2117:patch:0	sonnet	P Petr III. 56(*a*)⁹	P Petr III. 56(*a*)⁶
+306	2118	2118:patch:0	sonnet	ἐπὶ Πετρωνίου τοῦ ἡγεμονεύσαντος	ἐπὶ Πετρωνίου] τοῦ ἡγεμονεύσαντος
+306	2119	2119:patch:0	sonnet	*ib*. II. 237⁰⁸· ⁶ (A.D. 186)	*ib*. II. 237ᵛ· ⁶ *al.* (A.D. 186)
+307	2122	2122:patch:11	sonnet	ᾧ ἡγούμ[ενος]	ὁ ἡγούμ[ενος]
+308	2130	2130:patch:3	sonnet	Σαρ-απιεῖον	Σερ-απιεῖον
+308	2130	2130:patch:4	sonnet	531⁵	531⁸
+309	2133	2133:patch:0	sonnet	μου ἀδελφῷ] . . .	μου ἀδελ[φῷ] . . .
+309	2136	2136:patch:0	sonnet	P Lond 1177⁹⁹¹	P Lond 1177²³¹
+309	2136	2136:patch:1	sonnet	P Oxy IX. 1220¹⁵⁶	P Oxy IX. 1220¹⁶
+310	2138	2138:patch:0	sonnet	P Par 1⁴¹ (B.C. 117) ἡμέρας, "during the day," *ib.* 27⁴ (B.C. 160)	P Par 1³⁴¹ (B.C. 117) ἡμέρας, "during the day," *ib.* 27²¹ (B.C. 160)
+310	2138	2138:patch:7	sonnet	*Syll* 656⁴	*Syll* 656⁴⁹
+310	2138	2138:patch:8	sonnet	*Priene* 174² (ii/B.C.)	*Priene* 174⁸ (ii/B.C.)
+310	2138	2138:patch:11	sonnet	P Leid Dⁱ⁻²² (B.C. 162)	P Leid Dⁱ·²⁴ (B.C. 162)
+310	2141	2141:patch:0	sonnet	BGU I. 183¹⁴ (A.D. 85)	BGU I. 183⁴¹ (A.D. 85)
+310	2141	2141:patch:1	sonnet	Jannaris *Gr.* § 401⁰	Jannaris *Gr.* § 401ᵇ
+311	2144	2144:patch:0	sonnet	ἡνίκα ηρέλλον	ἡνίκα ἤμελλον
+312	2156	2156:patch:2	sonnet	ἐθαμβήθη, and *ib.* ⁵¹ σὺ	ἐθαμβήθη, and ˣⁱⁱ· ⁵¹ σὺ
+313	2157	2157:patch:1	convention-only	Michel* 372¹⁴	Michel* 372¹¹
+313	2159	2159:patch:0	sonnet	P Leid Wˣⁱ· ³⁷ (ii/iii A.D.)	P Leid W v. 30 (ii/iii A.D.)
+314	2168	2168:patch:0	sonnet	P Oxy III. 471⁹⁵	P Oxy III. 471³
+315	2172	2172:patch:2	sonnet	(PSI I. 41⁹ⁱᵛ/A.D.)	(PSI I. 41¹⁹—iv/A.D.)
+315	2173	2173:patch:5	sonnet	VI. 937¹⁹	VI. 937¹¹
+315	2174	2174:patch:2	sonnet	*Priene* 105⁵⁶	*Priene* 105²²
+315	2174	2174:patch:3	sonnet	P Ryl II. 117⁸⁷	P Ryl II. 117²⁷
+315	2174	2174:patch:8	sonnet	*ib.* I. ³²	*ib.* i. ²²
+315	2174	2174:patch:13	sonnet	P Heid 6³⁶	P Heid 6²⁵
+316	2179	2179:patch:0	sonnet	θέμα = θεμέλιος.⏎⏎The neut.	θεμέλιος.⏎⏎The neut.
+316	2179	2179:patch:3	sonnet	to those who dug the foundation, 9 (drachmae),	to those who dug the foundation, 5 (drachmae),
+317	2183	2183:patch:0	sonnet	cites from Frankel,	cites from Fränkel,
+317	2183	2183:patch:1	sonnet	At Heraclea in the Pontus, as Frankel goes on	At Heraclea in the Pontus, as Fränkel goes on
+317	2187	2187:patch:0	sonnet	(*OGIS* 655³)	(*OGIS* 655²)
+318	2190	2190:patch:3	sonnet	Ἐνθάδε κεῖτε Ῥουφεῖνος ἀμύμων, ἁγνὸς ταῖς Νύμφαις καὶ θεοσεβὴς γενόμενος.	Ἐνθάδε ἐν εἰρήνῃ κεῖτε Ῥουφεῖνος ἀμύμων, θεοσεβής.
+318	2190	2190:patch:4	sonnet	*Syll* 325 τιν. ἡλικία *sub fin.*	*Syll* 325 s.v. ἡλικία *sub fin.*
+318	2191	2191:patch:0	sonnet	*Michel* 594¹⁰	*Michel* 594⁸⁰
+318	2191	2191:patch:4	sonnet	ἡ [κρα]τίστη βουλή	ἡ [κρατίστη βου]λή
+318	2191	2191:patch:5	sonnet	*OGIS* 383⁸²	*OGIS* 383⁴²
+318	2192	2192:patch:2	sonnet	τὸ προσκύνημα Εὐγραφίος	τὸ προσκύνημα Εὐγράφιος
+318	2192	2192:patch:5	sonnet	*Michel* 829¹⁹	*Michel* 829¹⁸
+319	2194	2194:patch:9	sonnet	P Giss I. 20⁹	P Giss I. 20²⁰
+320	2199	2199:patch:0	convention-only	*P Hib* I. 44⁶ (B.C. 253–2)	*P Hib* I. 44⁴ (B.C. 253–2)
+320	2200	2200:patch:0	sonnet	*P Oxy* I. 54¹³ (A.D. 201)	*P Oxy* I. 54¹⁴ (A.D. 201)
+320	2201	2201:patch:0	convention-only	*P Hib* I. 27⁸³ (a calendar—B.C. 301–240)	*P Hib* I. 27³³ (a calendar—B.C. 301–240)
+320	2201	2201:patch:2	convention-only	*P Petr* I. 12²⁸ (iii/B.C.)	*P Petr* I. 12¹⁸ (iii/B.C.)
+320	2202	2202:patch:0	convention-only	*P Oxy* X. 1242⁴⁻¹⁴ (early iii/A.D.)	*P Oxy* X. 1242ⁱ·¹⁴ (early iii/A.D.)
+320	2203	2203:patch:1	sonnet	*P Giss* I. 19⁵ (ii/A.D.)	*P Giss* I. 9¹⁰ (ii/A.D.)
+320	2204	2204:patch:0	convention-only	*P Lond* 121¹⁷⁸ (magic—iii/A.D.)	*P Lond* 121⁴⁷³ (magic—iii/A.D.)
+320	2204	2204:patch:1	convention-only	*CP Herm* I. 7¹: ⁵ (ii/A.D.?)	*CP Herm* I. 7ⁱⁱ·²³ (ii/A.D.?)
+320	2205	2205:patch:0	convention-only	*P Ryl* II. 148¹⁸ (A.D. 40)	*P Ryl* II. 148¹³ (A.D. 40)
+320	2205	2205:patch:1	convention-only	*BGU* III. 781ⁱⁱⁱ·⁶ (i/A.D.)	*BGU* III. 781ⁱᵛ·¹⁶ (i/A.D.)
+331	2271	2271:patch:0	convention-only	*PSI* V. 515¹ The	*PSI* V. 515¹⁵. The
+331	2271	2271:patch:1	convention-only	*P Lond* 358¹ (*c.* A.D. 150)	*P Lond* 358¹⁹ (*c.* A.D. 150)
+331	2271	2271:patch:2	convention-only	*BGU* II. 613¹⁶ (time of Anton. Pius)	*BGU* II. 613¹⁹ (time of Anton. Pius)
+331	2271	2271:patch:3	convention-only	*P Lond* 1178¹ (A.D. 194)	*P Lond* 1178¹⁶ (A.D. 194)
+331	2272	2272:patch:0	sonnet	*P Leid* W=iii18	*P Leid* Wˣˣⁱⁱⁱ.¹⁸
+331	2275	2275:patch:0	convention-only	*P Tebt* II. 293⁵⁶	*P Tebt* II. 293²⁰
+331	2275	2275:patch:3	sonnet	*P Par* 69⁷⁻¹⁴	*P Par* 69ᴱ.¹⁴
+331	2277	2277:patch:2	convention-only	Michel 704⁵	Michel 704¹⁵
+332	2280	2280:patch:0	sonnet	des sommes assez fortes	des sommes considérables
+332	2280	2280:patch:12	sonnet	*P Giss* I. 40ⁱⁱ·⁸	P Giss I. 40ⁱ·⁵
+332	2280	2280:patch:14	sonnet	*P Petr* III. 53(ι)⁸	*P Petr* III. 53(n)³
+332	2282	2282:patch:3	sonnet	*P Par* 39 (B.c. 161)	P Par 39⁹ (B.C. 161)
+332	2284	2284:patch:0	sonnet	Blass *Gr.* 3, p. 8.	Blass *Gr.* p. 8.
+333	2286	2286:patch:0	convention-only	*BGU* I. 332¹	*BGU* I. 332¹²
+333	2286	2286:patch:1	convention-only	*P Giss* I. 22⁵	*P Giss* I. 22⁹
+333	2286	2286:patch:2	sonnet	*P Lond* 46²⁹	*P Lond* 46⁴¹⁶
+333	2288	2288:patch:0	sonnet	*Syll* 641⁵ (end of iii/B.c.)	*Syll* 641⁵ᶠᶠ. (end of iii/B.c.)
+333	2288	2288:patch:3	sonnet	*Syll* 633 14ⁱᶠ· : cf.	*Syll* 633 14ᶠᶠ· : cf.
+333	2290	2290:patch:1	sonnet	*P Fay* 337⁺³ᶠ	*P Fay* 337ⁱ·³ᶠᶠ·
+333	2291	2291:patch:0	sonnet	*P Par* 51¹⁶	*P Par* 51²⁴
+333	2291	2291:patch:1	sonnet	*Leid* U^{ii·39}	*Leid* Uⁱⁱ·¹⁹
+334	2293	2293:patch:0	sonnet	(a)⁹ (iii/B.c.)	(d)² (iii/B.c.)
+334	2294	2294:patch:1	sonnet	*ib.* III. 489²⁷	*ib.* III. 489⁹·¹⁷
+334	2295	2295:patch:0	sonnet	*P Par* 59⁵ (B.c. 160)	*P Par* 59⁴ (B.c. 160)
+334	2295	2295:patch:1	sonnet	*P Lond* 429ⁱⁱ·⁴¹	*P Lond* 429³⁸·⁴¹
+334	2295	2295:patch:2	sonnet	*P Fay* 12¹ (*c.* B.c. 103)	*P Fay* 12¹⁹ (*c.* B.c. 103)
+334	2295	2295:patch:3	sonnet	*ib.* 109³ (early i/A.D.)	*ib.* 109⁵ (early i/A.D.)
+334	2295	2295:patch:4	sonnet	*P Par* 10² (B.c. 145)	*P Par* 10²² (B.c. 145)
+334	2296	2296:patch:2	sonnet	*P Eleph* 1⁶ (B.c. 311–0)	*P Eleph* 1⁴ (B.c. 311–0)
+334	2298	2298:patch:0	sonnet	*P Oxy* IV. 742⁵ (B.c. 2)	*P Oxy* IV. 742⁶ (B.c. 2)
+334	2298	2298:patch:2	sonnet	*ib.* II. 237ⁱⁱ⁻¹² (A.D. 186)	*ib.* II. 237ⁱᵛ·¹² (A.D. 186)
+334	2298	2298:patch:11	sonnet	*P Oxy* IV. 744⁶ (B.c. 1)	*P Oxy* IV. 744¹³ (B.c. 1)
+334	2298	2298:patch:19	sonnet	*IG* II. 667¹⁵ (B.c. 385)	*IG* II. 667¹⁴ (B.c. 385)
+336	2310	2310:patch:1	sonnet	*P Petr* III. 34(α)⁹	*P Petr* III. 34(*a*)⁵
+336	2312	2312:patch:1	sonnet	(cf Jn 4⁵¹)	(cf. Jn 4⁵²)
+336	2313	2313:patch:4	sonnet	εὐχὴ Ἰουλιανος, Εἰσάκ, Ἀββιβοῦ εὐλογητοῦ.	εὐχὴ Ἰουλιανοῦ, Εἰσάκ, Ἀββιβοῦ εὐλογητοῦ.
+337	2322	2322:patch:5	convention-only	*BGU* I. 140¹⁰	*BGU* I. 140¹⁹
+337	2322	2322:patch:6	convention-only	*P Gen* I. 7⁹	*P Gen* I. 7⁸
+337	2322	2322:patch:7	convention-only	*P Lips Inv.* 266⁸	*P Lips Inv.* 266⁶
+337	2322	2322:patch:9	convention-only	*P Oxy* VIII. 1088⁷¹	*P Oxy* VIII. 1088²¹
+338	2324	2324:patch:1	sonnet	(= θεάομαι)	(= *inspicio*)
+338	2324	2324:patch:5	convention-only	*P Oxy* VII. 1027¹ (i/A.D.)	*P Oxy* VII. 1027¹¹ (i/A.D.)
+338	2324	2324:patch:6	convention-only	*BGU* IV. 1141 (B.C. 14), *PSI* I. 64⁴, *P Oxy* I. 67³⁴ *al.*	*BGU* IV. 1141⁴⁰ (B.C. 14), *PSI* I. 64²¹ (i/B.C. ?) *al.*
+338	2325	2325:patch:0	convention-only	*P Leid* Wⁱ·³³	*P Leid* Wv. 33
+338	2325	2325:patch:1	convention-only	*P Ryl* II. 165¹	*P Ryl* II. 165¹²
+338	2325	2325:patch:2	sonnet	*Syll* 226⁹	*Syll* 226⁵⁹
+338	2326	2326:patch:0	convention-only	*BGU* II. 371³⁹ (Arab.) πράσεως τῆς ἐχούσης	*BGU* II. 371³⁰ (Arab.) πράσεως τῆς . . . ἐχούσης
+338	2327	2327:patch:2	convention-only	*P Ryl* II. 119¹⁵	*P Ryl* II. 119³⁰
+338	2328	2328:patch:0	sonnet	*P Magd* 29¹·⁸	*P Magd* 29⁵·⁸
+338	2328	2328:patch:1	convention-only	*P Giss* I. 76⁸	*P Giss* I. 76⁶
+338	2328	2328:patch:2	convention-only	*P Amh* II. 135⁶	*P Amh* II. 135¹⁶
+338	2328	2328:patch:3	convention-only	*P Tebt* II. 424⁸	*P Tebt* II. 424³
+338	2328	2328:patch:4	convention-only	*P Oxy* IX. 1204⁷¹	*P Oxy* IX. 1204²¹
+339	2333	2333:patch:0	convention-only	*P Petr* III. 107(e)⁸·⁹	*P Petr* III. 107(e)⁶·⁹
+339	2333	2333:patch:1	convention-only	*BGU* IV. 1123 (time of Augustus)	*BGU* IV. 1123⁹ (time of Augustus)
+339	2333	2333:patch:2	convention-only	*P Fay* 113²⁴	*P Fay* 113¹³
+339	2333	2333:patch:3	sonnet	*P Hamb* I. 64 (A.D. 128)	*P Hamb* I. 61¹ (A.D. 128)
+339	2334	2334:patch:0	convention-only	*P Giss* I. 91⁹	*P Giss* I. 91¹⁰
+339	2338	2338:patch:1	sonnet	Τραιανοῦ Καίσαρος το]ῦ κυρίου.	Τραιανοῦ Καίσαρος τ[ο]ῦ κυρίου.
+340	2343	2343:patch:1	sonnet	οἶκος καθειρῃμένος	οἶκος καθειρημένος
+340	2343	2343:patch:2	sonnet	cf. *P Tor* I. 1¹¹¹ (B.C. 117), *P Leid* Mᵃ (ii/B.C.).	cf. *P Tor* I. 1ⁱⁱ·¹ (B.C. 117), *P Leid* M¹⁵ (ii/B.C.).
+340	2343	2343:patch:4	sonnet	[τὸ τοὺς λῃστὰς κα]θαι[ρ]εῖν	[τὸ ? τοὺς λῃστὰς κα]θαι[ρ]εῖν
+340	2344	2344:patch:3	convention-only	*Kaibel* 104¹⁴—	*Kaibel* 104¹ f.—
+340	2345	2345:patch:6	convention-only	*CIG* 84 ᾱ Κέφαλος εἶπ᾽·	*CIG* 84⁶ f. Κέφαλος εἶπε·
+341	2347	2347:patch:2	sonnet	*ib.* 131⁴⁸⁶ (A.D. 78)	*ib.* 131*⁶³ (A.D. 78)
+341	2349	2349:patch:6	sonnet	653⁶ (iii/A.D.)	653⁴ (iii/A.D.)
+341	2349	2349:patch:10	sonnet	*Syll* 567⁸ (ii/A.D.)	*Syll* 567³ᶠᶠ (ii/A.D.)
+341	2349	2349:patch:17	sonnet	ἀλλὰ μεμολυ[σμένος]	ἀλλὰ μεμολυ[μμένος]
+342	2353	2353:patch:0	sonnet	*Syll* 737⁵ (*c.* A.D. 175)	*Syll* 737⁵⁵ (*c.* A.D. 175)
+342	2353	2353:patch:2	sonnet	*OGIS* 201¹⁸ (vi/A.D.) οὐκ ἀφῶ αὐτοὺς καθεζόμενοι (for καθεζομένους) εἰς χώραν αὐτῶν, οὐκ	*OGIS* 201¹³ (vi/A.D.) οὐκ ἀφῶ αὐτοὺς καθεζόμενοι (for καθεζομένους) εἰς χώραν αὐτῶν, ²⁰ οὐκ
+342	2357	2357:patch:2	sonnet	*ib.* 10⁶ (A.D. 133)	*ib.* 10,⁹ (A.D. 133)
+343	2363	2363:patch:0	sonnet	P Hib I. 82³⁴	P Hib I. 82ⁱ·¹⁴
+343	2365	2365:patch:2	sonnet	ὑπερεθέμην τὸ νῦν πρᾶγ]μα	ὑπερεθέμην τὸ νῦν π[ρᾶγ]μα
+343	2365	2365:patch:4	sonnet	P Oxy XIV. 1663²	P Oxy XIV. 1663¹⁵
+344	2371	2371:patch:1	sonnet	βα(= δ)ίζειν	βατ(= δ)ίζειν
+344	2371	2371:patch:4	sonnet	*Hellen.* p. 129 ς.	*Hellen.* p. 129.
+344	2373	2373:patch:4	sonnet	P Hib I. 54⁸⁶	P Hib I. 54²⁶
+345	2376	2376:patch:11	sonnet	*ib.* ⁴ ὣς ἔτι]	*ib.* ²⁴ ὡς ἔτ[ι]
+345	2376	2376:patch:12	sonnet	παιδί[ον σῆον	παιδί[ον σ]ου
+345	2376	2376:patch:21	sonnet	*ib.* 143², 266²	*ib.* 143², 266³
+345	2376	2376:patch:22	sonnet	P Amh II. 35⁸	P Amh II. 35⁹
+346	2379	2379:patch:0	sonnet	*Syll* 929⁹ (ii/B.C.)	*Syll* 929⁸² (ii/B.C.)
+346	2381	2381:patch:0	sonnet	ἰδ[όϊντες τὴν κακίαν	ἰδ[ό]ντες τὴν κακίαν
+346	2383	2383:patch:0	convention-only	P Lond 98 recto²	P Lond 98 recto⁷³
+346	2383	2383:patch:2	sonnet	p. 61⁴ κακοπαθῶν	p. 61⁶ κακοπαθῶν
+346	2385	2385:patch:2	sonnet	*ib.* 809³·⁵	*ib.* 893¹⁵
+347	2392	2392:patch:1	convention-only	*Syll* 584⁸ᶠ·, which	*Syll* 584⁵ *f.*, which
+347	2392	2392:patch:2	convention-only	*Kaibel* 734⁴ . . .⏎	*Kaibel* 734⁷ *f.*—⏎
+348	2396	2396:patch:1	sonnet	P Fay 34⁵ (A.D. 139–40), P Amh II. 90⁸ (A.D. 159), 91⁸ (A.D. 159).	P Fay 34⁵ (A.D. 139–40), P Amh II. 90²² (A.D. 159), 91²³ (A.D. 159).
+348	2396	2396:patch:6	sonnet	and with 3 [113 cf. P Grenf II. 38⁷ (B.C. 81) καλάμων	and with 3 Jn 13 cf. P Grenf II. 38⁷ (B.C. 81) κα]λάμων
+348	2396	2396:patch:7	convention-only	P Lond 195(4)¹ (A.D. 14–37)	P Lond 195(b)¹¹ (A.D. 14–37)
+348	2397	2397:patch:0	sonnet	P Oxy XII. 1487² (iv/A.D.) καλῖ σε	P Oxy XII. 1487¹ (iv/A.D.) καλῖ σε
+348	2397	2397:patch:7	sonnet	P Leid Wⁱˣ·²⁹ (ii/iii A.D.)	P Leid Wⁱˣ·³⁶ (ii/iii A.D.)
+348	2400	2400:patch:3	sonnet	P Fay 133⁵	P Fay 133⁶
+348	2400	2400:patch:6	sonnet	P Oxy XIV. 1672²⁴	P Oxy XIV. 1672⁶ ff.
+348	2400	2400:patch:9	sonnet	P Oxy II. 237ⁱ·⁸	P Oxy II. 237ᵛⁱⁱⁱ·⁸
+349	2405	2405:patch:0	sonnet	In P Tebt I. 25² (B.C. 95–4 or 62–1) 1 talent is paid for ι. μυς καμή(λων?),	In P Tebt I. 252 (B.C. 95–4 or 62–1) 1 talent is paid for ]. ρης καμή(λων?),
+350	2409	2409:patch:3	sonnet	κάμε ἄξια τοῦ ἐπάνω χρόνου	κάμε ἄξια τοῦ ἐπάν[ω χρόνου
+350	2411	2411:patch:0	sonnet	P Oxy XII. 1593⁶ᶠ	P Oxy XII. 1593⁵ᶠᶠ.
+351	2419	2419:patch:1	sonnet	Wünsch 4⁸·³¹ (Imperial age)	Wünsch *AF* 3¹⁵ (Imperial age)
+351	2424	2424:patch:1	sonnet	*Syll*² 655⁶	*Syll* 655⁵
+352	2426	2426:patch:0	sonnet	*P Par* 41¹² (B.C. 160)	*P Par* 41²² (B.C. 160)
+352	2426	2426:patch:1	sonnet	denn er hielt sich an den, den er nicht sahe, als sahe er ihn.	denn er hielt sich an den, den er nicht sähe, als sähe er ihn.
+352	2426	2426:patch:2	sonnet	MGr (ἀγ)καρτερῶ	MGr (ἀ)καρτερῶ
+352	2428	2428:patch:0	sonnet	*P Petr* II. 18(2*b*) (B.C. 246)	*P Petr* II. 18(2*b*)¹⁵ (B.C. 246)
+352	2428	2428:patch:1	sonnet	*P Par* 45⁴ (B.C. 153)	*P Par* 45⁷ (B.C. 153)
+352	2428	2428:patch:2	sonnet	*P Oxy* VI. 898³³ (A.D. 123)	*P Oxy* VI. 898³⁴ (A.D. 123)
+352	2428	2428:patch:3	sonnet	confined to Lk (4 al.)	confined to Lk (4¹⁴ al.)
+352	2428	2428:patch:4	convention-only	*BGU* II. 571¹⁶ (ii/A.D.) (as amended *Archiv* i. p. 151 n.²)	*BGU* II. 571¹¹ (ii/A.D.) (as amended *Archiv* i. p. 151 n.⁸)
+352	2428	2428:patch:5	convention-only	*P Oxy* VI. 918¹·¹⁰ (ii/A.D.)	*P Oxy* VI. 918ˣⁱ·¹³ al. (ii/A.D.)
+352	2428	2428:patch:7	sonnet	*P Par* 574¹⁴⁰ (iii/A.D.)	*P Par* 574¹²⁴⁰ (iii/A.D.)
+352	2428	2428:patch:9	sonnet	*OGIS* 168¹² (B.C. 115)	*OGIS* 168¹⁷ (B.C. 115)
+352	2428	2428:patch:10	sonnet	*P Oxy* I. 120¹⁰ (iv/A.D.)	*P Oxy* I. 120¹⁴ (iv/A.D.)
+352	2428	2428:patch:11	sonnet	*P Hib* I. 82⁹ (B.C. 239–8)	*P Hib* I. 82¹⁹ (B.C. 239–8)
+352	2428	2428:patch:13	sonnet	*P Lond* 1164(*h*)²⁰ (A.D. 212)	*P Lond* 1164(*k*)²⁰ (A.D. 212)
+352	2428	2428:patch:14	sonnet	*P Hib* I. 27⁴ (B.C. 301–240)	*P Hib* I. 27⁴² (B.C. 301–240)
+352	2428	2428:patch:15	sonnet	as in Rom 10⁵, 1 Cor 7⁶, 2 Cor 8⁸, Heb 11³³	as in Rom 10², 1 Cor 7⁶, 2 Cor 8⁸, Heb 11¹³
+352	2428	2428:patch:16	sonnet	*P Tebt* I. 40²⁰ (B.C. 117)	*P Tebt* I. 40²⁵ (B.C. 117)
+352	2428	2428:patch:17	sonnet	*P Oxy* I. 37ⁱ·⁸ (A.D. 49)	*P Oxy* I. 37ⁱⁱ·⁸ (A.D. 49)
+352	2428	2428:patch:18	sonnet	*Chrest.* I. 352¹⁴ (A.D. 117) κατὰ ‹τὰ› κελευσθέντα	*Chrest.* I. 352¹¹ (A.D. 117) κατὰ <τὰ> κελευσθέντα
+352	2428	2428:patch:19	convention-only	*OGIS* 56³⁸ (B.C. 237) κατὰ τὸ πρότερον	*OGIS* 56³³ (B.C. 237) κατὰ τὸ πρότερον
+352	2428	2428:patch:20	sonnet	*P Goodsp Cairo* 4⁵ (ii/B.C.)	*P Goodsp Cairo* 4³ (ii/B.C.)
+352	2428	2428:patch:21	convention-only	*P Hib* I. 82¹³ (B.C. 239–8) κατὰ τόπον	*P Hib* I. 82¹⁹ (B.C. 239–8) κατὰ τόπον
+352	2428	2428:patch:22	convention-only	*P Par* 63³⁵ (B.C. 165) (= *P Petr* III. p. 26)	*P Par* 63⁹³ (B.C. 165) (= *P Petr* III. p. 26)
+352	2428	2428:patch:23	sonnet	*P Oxy* XIV. 1635¹⁰ (B.C. 44–37)	*P Oxy* XIV. 1635¹¹ (B.C. 44–37)
+352	2428	2428:patch:25	sonnet	*P Oxy* IV. 725³ (A.D. 183)	*P Oxy* IV. 725³⁶ (A.D. 183)
+352	2428	2428:patch:26	sonnet	*Michel* 1001ⁱⁱ·³⁴	*Michel* 1001ᵛⁱ·²⁴
+352	2428	2428:patch:27	sonnet	*P Oxy* II. 275¹³ (B.C. 66)	*P Oxy* II. 275¹⁸ (B.C. 66)
+352	2428	2428:patch:29	sonnet	*P Tebt* II. 412⁵ (late ii/A.D.)	*P Tebt* II. 412² (late ii/A.D.)
+352	2428	2428:patch:30	convention-only	*P Oxy* IX. 1220⁹ (iii/A.D.) ἀνέπεμψά σοι διὰ σημι[ώ]σεως	*P Oxy* IX. 1220⁴ (iii/A.D.) ἀνέπεμψά σοι διὰ σημι[ω]σεως
+352	2428	2428:patch:31	sonnet	*P Oxy* VI. 886⁹ (iii/A.D.)	*P Oxy* VI. 886¹⁹ (iii/A.D.)
+352	2428	2428:patch:32	sonnet	*P Tebt* I. 47⁳⁴ (B.C. 113)	*P Tebt* I. 47³⁴ (B.C. 113)
+352	2428	2428:patch:36	sonnet	*P Tebt* II. 422²⁰ (iii/A.D.)	*P Tebt* II. 422¹⁶ (iii/A.D.)
+352	2428	2428:patch:37	sonnet	*P Lond* 259⁷ (A.D. 94–5)	*P Lond* 259⁷³ (A.D. 94–5)
+352	2428	2428:patch:39	sonnet	*P Fay* 32¹⁸ (A.D. 131)	*P Fay* 32¹⁴ (A.D. 131)
+352	2428	2428:patch:40	sonnet	*ib.* 27ⁱⁱ·⁸⁵ (B.C. 113)	*ib.* 27ⁱⁱⁱ·⁸³ (B.C. 113)
+352	2428	2428:patch:41	convention-only	*OGIS* 90²² (Rosetta stone—B.C. 196) τήν τε πόλιν	*OGIS* 90²⁶ (Rosetta stone—B.C. 196) τήν τε πόλιν
+352	2428	2428:patch:42	sonnet	*ib.* II. 382¹⁸ (B.C. 30–A.D. 1)	*ib.* II. 382²⁴ (B.C. 30–A.D. 1)
+352	2428	2428:patch:44	convention-only	*P Tebt* I. 42⁹ (*c.* B.C. 114) ἠδικημένος	*P Tebt* I. 42⁶ (*c.* B.C. 114) ἠδικημένος
+352	2428	2428:patch:45	sonnet	Will *P Eleph* 2⁹ (B.C. 285–4)	Will *P Eleph* 2⁶ (B.C. 285–4)
+352	2428	2428:patch:46	sonnet	*OGIS* 56³⁴ (B.C. 237) ἐξεῖναι δὲ	*OGIS* 56⁶⁶ (B.C. 237) ἐξεῖναι δὲ
+354	2431	2431:patch:3	sonnet	μυ(ρι)άδων) βκ	μυ(ριάδων) βκ
+354	2432	2432:patch:1	sonnet	Φιλοξένου κ.. λόγον	Φιλοξένου . . . λόγον
+355	2440	2440:patch:0	convention-only	*BGU* III. 814³¹	*BGU* III. 814²¹
+355	2441	2441:patch:0	convention-only	*P Oxy* VII. 1062¹¹	*P Oxy* VII. 1062¹⁴
+355	2441	2441:patch:2	convention-only	so Souter *Lex.* *l.c.*,	so Souter *Lex.* *s.v.*,
+355	2441	2441:patch:4	convention-only	*P Strass* I. 40⁸	*P Strass* I. 40²⁹
+355	2442	2442:patch:1	sonnet	*BGU* II. 647¹³	BGU II. 647¹²ᶠ
+355	2443	2443:patch:0	convention-only	*P Lond* 46³⁸	*P Lond* 46³¹³
+355	2443	2443:patch:1	sonnet	*ib.* 4 (= I. p. 76)	*ib.* ³⁴⁴ (= I. p. 76)
+355	2443	2443:patch:2	sonnet	*ib.* 121⁵⁷⁷ (iii/A.D.)	*ib.* 121⁸⁷⁷ (iii/A.D.)
+355	2446	2446:patch:0	convention-only	*P Oxy* XIV. 1636⁴³	*P Oxy* XIV. 1636⁴²⁻³
+355	2446	2446:patch:2	convention-only	Audollent 47⁶¹	Audollent 47⁶ f.
+355	2447	2447:patch:0	convention-only	*BGU* I. 812⁹	*BGU* I. 812²⁰
+355	2447	2447:patch:1	convention-only	*P Magd* 11²³	*P Magd* 11¹⁰
+364	2534	2534:patch:2	sonnet	βλέπω Μενδήμον κατατρέχοντά με	βλέπω Μενέδημον κατατρέχοντά με
+364	2536	2536:patch:0	sonnet	P Magd 5⁴ (B.C. 221) ἵνα ἐπὶ σὲ καταφυγοῦσα	P Magd 2⁸ (B.C. 221) ἵνα ἐ[πὶ] σὲ καταφυγοῦσα
+364	2536	2536:patch:2	sonnet	ἐπὶ σ[αθ]ελύγοντας καθ᾽ ὁνδηποτοῦν τρόπον	τοὺς κατ[αφ]εύγοντας καθ᾽ ὁνδηποτοῦν τρόπον
+364	2537	2537:patch:1	sonnet	PSI IV. 387¹² (B.C. 250–49) ἵνα μὴ καταφθαρῇ τὸ καταθύμιον	PSI IV. 377¹¹ (B.C. 250–49) ἵνα μὴ ἐνταῦθα καταφθείρωμαι
+364	2537	2537:patch:6	sonnet	τοῖς ὑπὲρ τῶν πάντων πρεσβεύουσιν	τοῖς ὑπὲρ τῆς πόλεως πρεσβεύουσιν
+364	2538	2538:patch:3	sonnet	λαμβάνων μου καταφιλεῖ | τὰς χεῖρας	λαμβάνων μου κατεφίλει | τὰς χεῖρας
+364	2539	2539:patch:4	sonnet	BGU I. 340²¹ (A.D. 148–9) καταφρονοῦν[τ]ες τῆς π[ε]ρὶ ἐμὲ ἀπυχμοσύνη[ς (l. ἀπραγ-), *ib.* 291⁸	BGU I. 340²¹ (A.D. 148–9) καταφρονοῦν[τ]ες τῆς [π]ερὶ ἐμὲ ἀπωγμοσύνη[ς (*l.* ἀπραγ—), *ib.* 291⁹
+365	2543	2543:patch:0	sonnet	ἤτω ἱερόσυλος	ἔστω ἱερόσυλος
+365	2544	2544:patch:0	sonnet	τῆι φερνῆι	τῆι φερνῇ
+369	2581	2581:patch:6	sonnet	P Tebt I. 27ᴸ·⁷	P Tebt I. 27ⁱ·⁷
+369	2583	2583:patch:0	sonnet	(cf. Lat. *tondeo*) see *OGIS* 765⁵⁹	(cf. Lat. *tondeo* and our “fleece”) see *OGIS* 765¹⁰
+375	2636	2636:patch:0	sonnet	γινόσκις σε θέλω	γινόσκειν σε θέλω
+375	2642	2642:patch:1	convention-only	*BGU* III. 775⁵·ⁿˡ· (ii/A.D.)	*BGU* III. 775⁵ *al.* (ii/A.D.)
+376	2646	2646:patch:0	sonnet	and **Κλωπᾶs**	and **Κλωπᾶς**
+376	2646	2646:patch:1	sonnet	The name **Κλεοπᾶs** occurs	The name **Κλεοπᾶς** occurs
+376	2648	2648:patch:0	sonnet	¹⁸⁸ κλεπτῆν εὑρέτην	¹⁸⁸ κλεπτῶν εὑρέτην
+379	2673	2673:patch:0	sonnet	a Hellenised form of *quadrans* (Mk 5⁶²), for which Luke (12⁵⁹) with his characteristic avoidance of Aramaic and Latin words (see Thumb *Hellen.* p. 184) substitutes λεπτόν, with also a similar avoidance in 21². Cf. Mk 12⁴².	a Hellenized form of *quadrans* (Mt 5²⁶), for which Luke (12⁵⁹) with his characteristic avoidance of Aramaic and Latin words (see Thumb *Hellen.* p. 184) substitutes λεπτόν, which was ½ *quadrans* (cf. Mk 12⁴²).
+380	2677	2677:patch:0	sonnet	δ[εσμῶ]ι	δ[εσμῶ]ν
+380	2680	2680:patch:0	sonnet	καὶ ἀποστελλεὶς θιαρούς	καὶ ἀποστέλλειν θιαρούς
+392	2766	2766:patch:1	sonnet	πέμψως τοὶ ἐλαίαν	πέμψω σοι ἐλαίαν
+394	2783	2783:patch:0	convention-only	*P Tebt* I. 112¹⁸ (an account—B.C. 112)	*P Tebt* I. 112¹³ (an account—B.C. 112)
+394	2787	2787:patch:0	sonnet	Cyrenaica the decree	Cyrenaica see the decree
+394	2790	2790:patch:1	convention-only	*P Oxy* VI. 903¹⁸	*P Oxy* VI. 903¹⁹
+397	2801	2801:patch:0	convention-only	P Tebt II. 283⁸ (B.C. 93 or 60) Πατῦνιν (l. -νι) ὃ ἐπικαλούμενον (l. -νος) κωφόν (l. -φω) ; *cf.* BGU IV. 1098²⁵ (p. B.C. 10).	P Tebt II. 283⁸ (B.C. 93 or 60) Πατῶνιν (l. -ις) ὃ ἐπικαλούμενον (l. -ος) κωφόν (l. -ός): cf. BGU IV. 1196⁴⁹,⁶³ (c. B.C. 10).
+397	2801	2801:patch:1	sonnet	τύφου, ἄψυχος, and χάμοι (*Kaibel* 208⁵² (ii/A.D.), 251⁸ (i/A.D.), 298²). For the adv. κωφῶς = Lat. *obscure*, see Vett. Val. pp. 251²⁰, 301³⁵.	τάφοι, δάκρυα, and χάρις (*Kaibel* 208²⁶ (ii/A.D.), 252⁶ (i/A.D.), 298²). For the adv. κωφῶς = Lat. *obscure*, see Vett. Val. pp. 251²⁵, 301²⁸.
+400	2821	2821:patch:1	sonnet	P Tebt I. 5¹⁸ (B.C. 118)	P Tebt I. 5²¹⁹ (B.C. 118)
+400	2821	2821:patch:2	sonnet	P Tor I. 1ⁱⁱⁱ·³ (B.C. 116)	P Tor I. 1ᵛⁱⁱ ³ (B.C. 116)
+406	2874	2874:patch:0	sonnet	a needle and thread ι ob.	a needle and thread 1 ob.
+406	2874	2874:patch:2	sonnet	ι linen Dalmatian vest,	1 linen Dalmatian vest,
+409	2886	2886:patch:8	sonnet	ἥ τις δ᾽ ἕτερον ἐπινβάλη τῷ τάφῳ	ἥ τις δ᾽ ἕτερον ἐπενβάλῃ τῷ τάφῳ
+409	2886	2886:patch:12	sonnet	τοῦ ἡμίσους) κατὰ λόγον	τοῦ ἡμίσους] κατὰ λόγον
+409	2886	2886:patch:13	sonnet	τῆς) τιμῆς	τῆς] τιμῆς
+409	2886	2886:patch:14	sonnet	(Ed.) (see Ac 10²⁹), P Thead 22⁸	(Ed.) (cf. Ac 10²⁹), P Thead 22⁵
+410	2887	2887:patch:0	sonnet	ἐγκοιταθέντος δ' (α)ὐτοῦ ἐξελὼν τὰν λ(ό)γχαν	ἐγκοιτασθέντος δ' (α)ὐτοῦ ἐξελὼν τὰν λ[ό]γχαν
+410	2888	2888:patch:0	sonnet	καὶ ἀσχημ[ό]νει	καὶ ἀσχημό[νει
+416	2931	2931:patch:0	sonnet	ἅπ. εἰρ (1	ἅπ. εἰρ. (I
+418	2950	2950:patch:0	sonnet	προγεγρ(ρ)αμμένοι	προγεγ(ρ)αμμένοι
+420	2966	2966:patch:0	sonnet	ὁ δὲ παραλαβὼν τὸ ἀνδρά]ποδον	ὁ δὲ παραλ[αβὼν τὸ ἀνδρά]ποδον
+422	2986	2986:patch:0	sonnet	καὶ μεγάλι (*l.* μεγάλαι?) ἕστωσαν	καὶ μεγάλε (*l.* μεγάλαι?) ἔστωσαν
+423	2992	2992:patch:0	sonnet	ἀναλίσκουσι τὰ p. 337) ὦ λαοί	ἀναλίσκουσι τὰ περικτηθέντα, and cf. *Poimandres* § 27 (ed. Reitzenstein, p. 337) ὦ λαοί
+424	2994	2994:patch:0	sonnet	μεθ[ε][[ε]]ίστασθαι	μεθ[[ε]]ίστασθαι
+427	3020	3020:patch:1	sonnet	καθὼ(ς προκειται	καθὼ(ς πρόκειται
+428	3027	3027:patch:3	sonnet	δικαιοδ[ό]της διέπων τὰ μέρη τῆς διοικήσεως	δικαιοδό[της διέ]πων τὰ μέρη τῆς διοικήσεως
+429	3031	3031:patch:4	convention-only	*P Oxy* X. 1298³¹³ (iv/A.D.)	*P Oxy* X. 1298¹⁹ (iv/A.D.)
+429	3031	3031:patch:5	sonnet	BGU II. 445⁹ (A.D. 148–9) ἀπὸ μεσιτία	BGU II. 445⁹ (A.D. 148–9) ἐπὶ μεσιτίᾳ
+429	3032	3032:patch:2	sonnet	ἡσυχᾳ γένηται	ἡσυχία γένηται
+429	3033	3033:patch:2	sonnet	*P Oxy* II. 73¹³ (A.D. 94) Θαμούνιον . . μέση μελίχρως	*P Oxy* I. 73¹³ (A.D. 94) Θαμούνιον . . μέση μελίχρως
+430	3040	3040:patch:0	convention-only	(*l.* Lk 14¹⁸·¹·)	(cf. Lk 14¹⁸ f.)
+432	3049	3049:patch:1	sonnet	μετεκαλέσω ἡμâς	μετεκαλέσω ἡμᾶς
+433	3052	3052:patch:0	sonnet	χάριν ἔχω θεοῖς πâσιν γινώσκων	χάριν ἔχω θεοῖς πᾶσιν γινώσκων
+433	3054	3054:patch:0	sonnet	τῆς Θνâτος ἀνδρός	τῆς Θνᾶτος ἀνδρός
+433	3057	3057:patch:0	sonnet	ὑμâς μετανενοηκότας	ὑμᾶς μετανενοηκότας
+434	3059	3059:patch:1	sonnet	mentions a ἡμέρα] μετάνοιας	mentions a ἡμέρ(α) μεταν(οίας)
+434	3060	3060:patch:4	sonnet	[καὶ τιν?]ων	[καί τιν?]ων
+434	3062	3062:patch:0	sonnet	ὡς ἂν θέλης	ὡς ἐὰν θέλῃς
+436	3077	3077:patch:0	sonnet	where Windisch's note in *HZNT.*	where see Windisch's note in *HZNT.*
+439	3089	3089:patch:0	convention-only	*P* Ryll II. 69¹⁶	*P* Ryl II. 69¹⁶
+439	3089	3089:patch:1	convention-only	*P* Oxy XII. 492¹⁰	*P* Oxy III. 492¹⁰
+440	3096	3096:patch:0	sonnet	εἰς [τὸ τοῦ.[. . . . . .] ἀγοραίου	εἰς [τὸ] τοῦ.[. . . . . .] ἀγοραίου
+444	3128	3128:patch:0	sonnet	πλινθοφορούσι	πλινθοφοροῦσιν
+444	3130	3130:patch:0	sonnet	**παρεμφαίνων . . . τὸ ἀρχαγγέλου Μιχαήλ.**	**παρεμφαίνων . . . τῷ ἀρχαγγέλῳ Μιχαήλ.**
+444	3134	3134:patch:0	sonnet	τ[ῆς φίλης** αὐτοῦ	τ[ῆς φί]λης** αὐτοῦ
+446	3153	3153:patch:3	sonnet	ἀπὸ τῆς αὐτῆς Μονῆς Χε[ρ]αίου	ἀπὸ τῆς] αὐτῆς Μονῆς Χε[ρ]αίου
+446	3154	3154:patch:3	convention-only	P Leid V ⱽ· ³⁴	P Leid V *v.* ³⁴
+447	3159	3159:patch:2	sonnet	ἔνδον τ[ῷ]η μορφῶν	ἔνδον τ[ῶ]ν μορφῶν
+448	3162	3162:patch:0	sonnet	The subst. μόρφωσις is found	The subst. μόρφωμα is found
+448	3164	3164:patch:0	sonnet	καὶ τὸ ξ[ύ]λον τοῦ μόσχου	καὶ τὸ δ[έρ]μα τοῦ μόσχου
+448	3164	3164:patch:5	sonnet	διέγραψε τέλος μόσχου ἐνὶ θυομένου	διέγραψε τέλος μόσχου θυομένου
+448	3165	3165:patch:2	sonnet	From P Flor I. 74⁴	From P Flor I. 74⁶
+448	3167	3167:patch:2	sonnet	τοῦ τῆς μυήσεως	τό τε τῆς μυήσεως
+453	3200	3200:patch:0	sonnet	cf. P Oxy VIII. 1101⁸ (A.D. 367–70) ἐπὶ τὸ ἔλαιον τοῖς νεανίοις (*l.* -αις) στατῆρας δέκα.	cf. *Syll* 425 (= ³ 546 B)²⁵ (B.C. 216–14) εἰς τὸ ἔλαιον τοῖς νεανίοις (*l.* -αις) στατῆρας δέκα.
+455	3218	3218:patch:0	sonnet	Hastings' *DB* p. 722	Hastings' *DB* i. p. 722
+457	3242	3242:patch:0	sonnet	βασκάνιον αὐτῶν τὴν διάνοιαν	βασάνισον αὐτῶν τὴν διάνοιαν
+457	3242	3242:patch:3	sonnet	παρ' οὗ ἂν αὐτῶι νοηται καὶ ἐκ τῶν ὑ[παρχόντων]	παρ' οὗ ἂν αὐτῶν νοῆται καὶ ἐκ τῶν ὑ[παρχόντων]
+458	3246	3246:patch:0	sonnet	we read οι certain persons	we read o. certain persons
+458	3246	3246:patch:2	sonnet	νο[μᾶ]ς χάριν	νο[μῶ]ν χάριν
+458	3247	3247:patch:1	sonnet	ἐχθὲς κατέσχον	ἔχθες κατέσχον
+458	3248	3248:patch:1	sonnet	P Cattaoui ⁱⁱⁱ·¹³ (ii/A.D.) (= *Archiv* iii. p. 59, *Chrest.* II. p. Λοῦπ[ος]	P Cattaoui ⁱⁱⁱ·¹⁸ (ii/A.D.) (= *Archiv* iii. p. 59, *Chrest.* II. p. *421*) Λοῦπ[ος]
+469	3313	3313:patch:1	sonnet	ὁρίμου σπαρῆναι	ὡρίμου σπαρῆναι
+469	3315	3315:patch:3	sonnet	P Eleph 27a.¹⁸ (iii/B.C.) ὀθονίων	P Eleph 27a.¹⁶ (iii/B.C.) βυσσίνων ὀθονίων
+469	3316	3316:patch:1	sonnet	περὶ ὄ{ι} οἶδες	περὶ δ{ι} οἶδες
+472	3336	3336:patch:1	sonnet	Νυννᾶφ	Νιννάρῳ
+475	3359	3359:patch:0	sonnet	χρησάμενός με ἕως τοῦ νῦν	χρησάμενος, παρελκυσέ με ἕως τοῦ νῦν
+482	3409	3409:patch:0	sonnet	τὸν Ἡρᾶν οἷ τοὺς	τὸν Ἡρᾶν καὶ τοὺς
+482	3410	3410:patch:0	sonnet	ἀπ[οστεῖλό]ν	ἀπ[οστεῖ]λόν
+482	3410	3410:patch:1	sonnet	συνκεχρημέ[θ]α	συνκεχρήμε[θ]α
+482	3410	3410:patch:2	sonnet	ᾔροσαν	ἤροσαν
+482	3410	3410:patch:5	sonnet	if you can go up to find the ass, do so	if you can go up to find out the ass, do so
+482	3410	3410:patch:7	sonnet	For P Fay 119³ (*c.* A.D. 100), and for ὀνηλάτης cf. P Ryl II. 183(a)² (A.D. 16).	For ὀνηλάτης cf. P Fay 119³ (*c.* A.D. 100), and for ὀνηλάσιον cf. P Ryl II. 183(a)² (A.D. 16).
+483	3414	3414:patch:0	sonnet	P Oxy I. 140⁷ (A.D. 550), and see the introduction to the comp. ὀξύτερον	P Oxy I. 140⁷ (A.D. 550), and see the introduction to P Hamb I. 9. On the form ὀξεῖα cf. Moulton *Gr.* ii. p. 118. The comp. ὀξύτερον
+483	3416	3416:patch:0	sonnet	P Tebt I. 58 *recto*² (B.C. 111) τἀπίλοιπα ὀπείσωι	P Tebt I. 58 *recto*³⁷ (B.C. 111) τἀπίλοιπα ὀπείσωι
+491	3479	3479:patch:5	sonnet	Δευκανῶν	Λευκανῶν
+493	3487	3487:patch:3	sonnet	P Oxy II. 237⁸	P Oxy II. 237ᵛ·⁸
+505	3560	3560:patch:4	sonnet	cf. 1 Cor 5⁸	cf. 1 Cor 5⁷ᶠ
+505	3560	3560:patch:7	sonnet	P Oxy VII. 1492⁸	P Oxy XII. 1492⁹
+505	3562	3562:patch:0	sonnet	Artem. p. 255²²	Artem. p. 255¹⁶
+505	3562	3562:patch:2	sonnet	P Oxy XIII. 1601⁴	P Oxy XIII. 1601⁸
+505	3562	3562:patch:4	sonnet	P Lond 1178⁶. 78	P Lond 1178⁵⁶, 79
+505	3563	3563:patch:0	sonnet	εἰ οὖν πάλιν δύνη ἐκπλέξαι	εἰ οὖν πάλιν δύνῃ ἐκπλέξαι
+507	3580	3580:patch:0	sonnet	Μω[σ]ῆς	Μω[υσ]ῆς
+510	3595	3595:patch:0	sonnet	τ[ῇ παρ]αγγελία, πειραθήσονται	τ[ῇ παρ]αγγελίᾳ, πειραθήσονται
+514	3619	3619:patch:2	sonnet	*BGU* I. 326ii. 26 (A.D. 194)	*BGU* I. 326ⁱ· ¹⁶ (A.D. 194)
+515	3621	3621:patch:3	convention-only	P Tebt I. 61(*b*)¹⁹⁹ (B.C. 118-7)	P Tebt I. 61(*b*)¹³² (B.C. 118-7)
+515	3622	3622:patch:1	sonnet	and on the similar meaning "comfort," "consolation" in Hort *Ecclesia* p. 55) in Ac 9³¹ see Swete *Holy Spirit in the NT* p. 65f.	and on the similar meaning "comfort" (not "invocation" as Hort *Ecclesia* p. 55) in Ac 9³¹ see Swete *Holy Spirit in the NT* p. 96f.
+523	3684	3684:patch:0	sonnet	The more usual constr. is c. acc.	The more usual constr. in the Κοινή is c. acc.
+523	3684	3684:patch:4	sonnet	Demiazuk	Demiańczuk
+523	3686	3686:patch:1	sonnet	conÍexion	connexion
+524	3694	3694:patch:7	sonnet	ἔτι δὲ οὐ̣[κ] ἀγνοεῖς	ἔτι δὲ [οὐ]κ ἀγνοεῖς
+525	3697	3697:patch:0	convention-only	ci. *PSI*	cf. *PSI*
+525	3697	3697:patch:4	sonnet	⏎⏎"saying to each passer-by, 'Drink, for thou seest the end',".⏎⏎Cf. also	⏎⏎“saying to each passer-by, ‘Drink, for thou seest the end’”.⏎⏎Cf. also
+528	3720	3720:patch:0	sonnet	BGU IV. 1024¹¹·¹⁷	BGU IV. 1024ⁱⁱⁱ·¹⁷
+532	3759	3759:patch:0	sonnet	κλ(=αι)ων	κλέ(=αι)ων
+533	3762	3762:patch:0	sonnet	[θυγατέρα[ν]] τῆς σωφροσύνης	[θυγ]ατέρα[[ν]] τῆς σωφροσύνης
+533	3762	3762:patch:1	sonnet	ἀπεστέρη]σεν.	ἀπεστέρη[σεν.
+533	3769	3769:patch:0	sonnet	γράφιν σο]ι	γράφιν σ[ο]ι
+533	3773	3773:patch:3	sonnet	P Oxy X. 1298³ (iv/A.D.)	P Oxy X. 1298⁴ (iv/A.D.)
+533	3773	3773:patch:7	sonnet	τὴν αὐτὴν Φθόχιν	τὴν αὐτὴν Φθῶχιν
+534	3779	3779:patch:2	sonnet	(and *Berichtigungen*, p. 182)	(as emended *Berichtigungen*, p. 182)
+536	3790	3790:patch:0	sonnet	εἰς ἔνδειά]ν με τὴν τυχοῦσαν περιστῆναι	εἰς ἔνδειά]ν με οὐ τὴν τυχοῦσαν περιστῆναι
+539	3815	3815:patch:1	sonnet	αὐτῷ μᾶλήγῃ	αὐτῷ μελήσῃ
+543	3856	3856:patch:1	convention-only	*BGU* III. 781ᵛ· ¹	*BGU* III. 781ⁱᵛ· ¹⁶
+546	3881	3881:patch:1	sonnet	Σαραπιά(δην)	Σαραπιακ(ὴν)
+547	3883	3883:patch:2	sonnet	BGU III. 845³ (ii/A.D.)	BGU III. 845¹ (ii/A.D.)
+547	3884	3884:patch:1	sonnet	P Oxy I. 41⁴ (iii/iv A.D.) ἐπὶ σοῦ τὰ ἀγαθὰ καὶ πλέον γίνεται, "acclamation to a prytanis at a public meeting.	P Oxy I. 41⁵ (iii/iv A.D.) ἐπὶ σοῦ τὰ ἀγαθὰ καὶ πλέον γίνεται, "under you our blessings increase ever more" (Edd.), acclamation to a prytanis at a public meeting.
+551	3915	3915:patch:1	sonnet	ḄGU III. 1364²	BGU VI. 1364²
+551	3916	3916:patch:0	sonnet	Wünsch *AP* p. 15³	Wünsch *AF* p. 15⁷
+551	3916	3916:patch:1	sonnet	the Christian amulet *P* Iand 6¹⁶ (v/vi A.D.) directed πρὸς τὴν ῥαφθρωσιν πνεύματα,	the Christian amulet *P* Iand 6¹⁰ (v/vi A.D.) directed πρὸς πᾶν ἀκάθαρτον πν(εῦμ)α,
+552	3918	3918:patch:1	sonnet	(= I. p. 66) ὧ συστροφὴ	(= I. p. 66) ἐν συστροφῇ
+552	3918	3918:patch:3	sonnet	231²⁹ περὶ καταδίκης καὶ πνευματικῶν κινδύνων	231²⁰ περὶ καταδίκης καὶ πνευματικοῦ κινδύνου
+552	3919	3919:patch:1	sonnet	στρ(αγγ)ισον ("strain tight") αὐτῶν τὴν ψυχὴν καὶ τὴν καρ[δ]ίαν, μηδὲ πνεύσωσιν.	στρέβλωσον ("strain tight") αὐτῶν τὴν ψυχὴν καὶ τὴν καρδίαν ἵνα μὴ[π]νέωσιν.
+552	3920	3920:patch:1	sonnet	Cf. Artem. p. 2 ἐὰν τίς πνίγεσθαι.	Cf. Artem. p. 3¹³ ἢ ἐμεῖν ἢ πνίγεσθαι.
+552	3923	3923:patch:0	sonnet	χρυσοῖ γὰρ κώδωνες περὶ τὸν ποδήρη ἐλάλε αὐτοῦ	χρυσοῖ γὰρ κώδωνες περὶ τὸν ποδήρη εἰσὶν αὐτοῦ
+552	3925	3925:patch:0	sonnet	*P* Lille I. 5⁶·¹⁰ (iii/B.C.)	*P* Lille I. 5³ *a.l.* (iii/B.C.)
+552	3926	3926:patch:1	sonnet	ἀντιφών[ησί]ν	ἀντιφώνη[σ]ιν
+554	3932	3932:patch:1	sonnet	τῷ Συρίων παραστῆσαι	τῷ Συρίωνι παραστῆσαι
+554	3932	3932:patch:5	convention-only	p. 263³³ ff.	p. 263²⁷ ff.
+554	3938	3938:patch:1	sonnet	Μαρρῆ . . . κατεσχηκέναι	Μαρρῆν . . . κατεσχηκέναι
+555	3943	3943:patch:1	sonnet	P Tebt I. 32² (B.C. 145 ?)	P Tebt I. 32⁹ (B.C. 145 ?)
+557	3955	3955:patch:2	sonnet	*Menandrea* p. 97⁶⁶	*Menandrea* p. 97⁵⁴
+558	3958	3958:patch:0	sonnet	ῥῦσαι ἡμᾶς ἀπὸ	ῥῦ[σαι ἡ]μᾶς ἀπὸ
+558	3962	3962:patch:0	sonnet	P Lond 328³¹ (A.D. 163) (= ib. p. 75)	P Lond 328¹¹ (A.D. 163) (= II. p. 75)
+558	3963	3963:patch:1	sonnet	Ps 77³⁸	Ps 77³⁹
+562	3995	3995:patch:0	sonnet	αὐτοῦ γε[ε]νέσθαι	αὐτοῦ γ[ε]νέσθαι
+562	3999	3999:patch:0	sonnet	(8) In Phil 1²³	(b) In Phil 1¹³
+562	3999	3999:patch:1	sonnet	cf. Tac. *Hist.* iv. 46 *militum et stipendia omnia . . . igitur* in praetorium accepti	cf. Tac. *Hist.* iv. 46 militiam et stipendia orant . . . igitur in praetorium accepti
+562	3999	3999:patch:3	sonnet	παραλα[νβ]α[νι]ν	παραλα[νβ]ά[νι]ν
+563	4001	4001:patch:3	sonnet	and ἄνθλικος, as in the Lukan passage	and ἀντίδικος, as in the Lukan passage
+563	4001	4001:patch:4	sonnet	P Oxy III. 533¹⁵·²⁸ (iii/A.D.).	P Oxy III. 533¹¹·²³ (ii/iii A.D.).
+563	4002	4002:patch:0	sonnet	With the title πρᾶξις (πρᾶξις (?) ἀποστόλων (B)	With the title πράξεις (πρᾶξις D) ἀποστόλων (B)
+563	4002	4002:patch:1	sonnet	The Greek use of a ii/A.D. Coptic spell	The Greek text of a iii/A.D. Coptic spell
+563	4002	4002:patch:2	sonnet	cf. Ac 19¹⁴.	cf. Ac 19¹⁸.
+563	4002	4002:patch:4	sonnet	τὴν πρᾶξιν ποιήσομαι [ἔκ τε] Ἰουδάμου ἐκ τοῦ μεμισθωμένου κα[ὶ]	τῆς πράξεως [ο]ὔσης [τ]ῶι Ἰσιδώρωι ἐκ τε τοῦ μεμισθωμένου κα[ὶ]
+563	4003	4003:patch:0	sonnet	BGU II. 530⁴¹ (i/A.D.) (= *Selections*, p. 62) μόλις γὰρ μίαν πρασιὰν	BGU II. 530²⁷ (i/A.D.) (= *Selections*, p. 62) μόλις γὰρ μίαν πρασεὰν
+563	4004	4004:patch:0	sonnet	Jn 5¹⁸, Rom 7¹⁸	Jn 5²⁹, Rom 7¹⁵
+563	4004	4004:patch:3	sonnet	P Tebt I. 58⁵⁸	P Tebt I. 58⁴⁰
+565	4012	4012:patch:1	sonnet	**ἀεί π]οτε μὲν πρεσβύτε[ρους	ἀεί π]οτε μὲν πρεσβυτέ[ρους
+566	4020	4020:patch:1	convention-only	P Hib I. 60⁴ (B.C. 245)	P Hib I. 60⁴ (c. B.C. 245)
+566	4020	4020:patch:3	sonnet	("some time ago—). **Οἱ	(“some time ago”). Οἱ
+566	4020	4020:patch:4	sonnet	**[διὰ τῆς πρὸ ταύτης] ἐπισ(τολῆς**	**[[διὰ τῆς πρὸ ταύτης]] ἐπισ(τολῆς**
+566	4020	4020:patch:6	sonnet	[εἰσε]λθοῖς	[εἰσέ]λθοις
+567	4022	4022:patch:0	sonnet	αὐτὰ προελω,	αὐτὰ προέλωι,
+567	4026	4026:patch:1	sonnet	τῆς μικρᾶς ωνίας	τῆς μικρᾶς ξενίας
+567	4027	4027:patch:0	sonnet	ησὶν προβεβλῆσθαι	φησὶν προβεβλῆσθαι
+567	4027	4027:patch:1	sonnet	μ̣ωθυμαδὸν	ὁμοθυμαδὸν
+567	4027	4027:patch:3	sonnet	φίλους τε . . . οὓς	φίλους τε κρινεῖν, οὓς
+570	4057	4057:patch:0	sonnet	*Jas l.²⁵*	Jas *l.c.*
+575	4083	4083:patch:3	sonnet	P Oxy I. 71^{i·3}	P Oxy I. 71ⁱ·³
+577	4100	4100:patch:0	sonnet	For a pagan instance of προσευχή in the general sense of " prayer," " supplication," we can now cite the interesting letter, BGU IV. 1080² (iii/A.D.) (= *Chrest.* I. 36⁴), in which a father congratulates his son on his marriage—τὰ τὰς εὐοδίας ἡμῖν εὐχὰς πρὸ προσευχῆς.	For a pagan instance of προσευχή in the general sense of "prayer," "supplication," we can now cite the interesting letter, BGU IV. 1080⁴ (iii/A.D.) (= *Chrest.* I. p. 564), in which a father congratulates his son on his marriage κατὰ τὰς κοινὰς ἡμῶν εὐχὰς καὶ προσευχάς.
+581	4135	4135:patch:0	convention-only	Chrest.* II. 372ʳ· ¹¹	Chrest.* II. 372ᵛ· ¹¹
+582	4141	4141:patch:6	sonnet	BGU IV. 1024ᵛⁱⁱ·¹³ (iv/v A.D.)	BGU IV. 1024ᵛⁱⁱ·²⁵ (iv/v A.D.)
+582	4141	4141:patch:7	sonnet	τοῖς βου[λομένοις ὡς νεκρά	τοῖς βου[λομένοις] ὡς νεκρά
+586	4172	4172:patch:0	convention-only	derived from **πρό, πρωΐνός**	derived from **πρό, πρωϊνός**
+586	4174	4174:patch:0	convention-only	**σπεύδοντες τοὺς παῖδας** ἐν τάδει τάχερι πρωτότοκα. A less pleasing	**σπεύδοντες τοὺς παῖδας** ἐν πᾶσι τάχιον πρωτεύσαι. A less pleasing
+586	4174	4174:patch:1	sonnet	οἷσιν ὁ θεὸς νὰ πάντα πρωτεῖα νέμει,⏎οὐ δεῖ τάχιστ᾽ ἐπιστάτου ἐνὶ προεστάναι.	οἶκος δ᾽ ἐν ᾧ τὰ πάντα πρωτεύει γυνή,⏎οὐκ ἔστιν ὅστις πώποτ᾽ οὐκ ἀπώλετο,
+587	4177	4177:patch:0	sonnet	but for the title πρωτοκλινάρχης (see *l.* in LS⁸), see *Archiv* i. p. 413 f.	but for the title πρωτοκλίναρχος (not in LS⁸), see *Archiv* i. p. 413 f.
+587	4178	4178:patch:0	sonnet	In the LXX regularly (Thackeray *Gr.* i. p. 183) and in the Κοινή frequently, especially in the Ptolemaic period, πρῶτος stands for πρότερος, an oversetting the usual Hellenistic rule that the comparative does duty for both degrees of comparison. For an ex. almost contemporary with the NT we may cite P Oxy II. 237ᵛⁱ (A.D. 56), where a man asks for information for a supplementary return of lands born since the first or former return for the year had been made—τοῦ τῶν πρώτου ἀπογραφῆς. No utens can, therefore, be laid on the use of πρῶτος in Ac 1ᵃ, as if Luke meant to write a *third* treatise (cf. Ramsay *Paul*, p. 28).	In the LXX regularly (Thackeray *Gr.* i. p. 183) and in the Κοινή frequently, especially in the Ptolemaic period, πρῶτος stands for πρότερος, so reversing the usual Hellenistic rule that the comparative does duty for both degrees of comparison. For an ex. almost contemporary with the NT we may cite P Oxy II. 297⁹ (A.D. 54), where a man asks for information for a supplementary return of lambs born since the first or former return for the year had been made—παρὰ τὴν πρώτην ἀπογραφήν. No stress can, therefore, be laid on the use of πρῶτος in Ac 1¹, as if Luke meant to write a *third* treatise (cf. Ramsay *Paul*, p. 28).
+588	4192	4192:patch:1	sonnet	against βαρὺ πτῶμα being placed	against ἕτερον πτῶμα being placed
+589	4202	4202:patch:0	sonnet	P Leid Wⁿⁱⁱ· ⁴⁰	P Leid Wᵛⁱⁱ· ⁴⁰
+590	4204	4204:patch:1	sonnet	No. 10³)	No. 10¹)
+590	4208	4208:patch:0	sonnet	τρεῖς ὧδε π̣άρεσμεν, ὁ ἀνὴρ καὶ [ἡ θυγά]τηρ καὶ ἣν [π̣]επύρωκαν ἐγώ.	τρεῖς ὧδ[ε π]άρεσμεν, ὁ ἀνὴρ καὶ [ἡ θυγά]τηρ καὶ ἣν [π]επύρωκαν ἐγώ.
+590	4210	4210:patch:0	sonnet	P Leid Wⁿⁱⁱ· ⁴⁶	P Leid Wvii.⁴⁶
+590	4211	4211:patch:0	sonnet	ἀσχοληημένο(υ)	ἀσχολημένο(υ)
+590	4211	4211:patch:1	sonnet	*ib.* 43 *recto*ⁱ· ⁹ (A.D. 295)	*ib.* 43 *recto*ᵛ. ⁹ (A.D. 295)
+592	4220	4220:patch:0	sonnet	showing that ε was regarded	showing that ει was regarded
+593	4227	4227:patch:0	sonnet	P Petr III. 42 H (8)ᶠ⁵ (mid. iii/B.C.) ῥάκη λεπτά, P Oxy	P Petr III. 42 H (8)ᶠ²⁷ (mid. iii/B.C.) ῥάκος λεπτόν, P Oxy
+593	4227	4227:patch:1	sonnet	Apoc. Petr. 15 ῥάκη ῥυπαρὰ	Apoc. Petr. 15 ἄνδρες ῥάκη ῥυπαρὰ
+593	4236	4236:patch:0	sonnet	ὅθεν τυγχάνει Νεῖλος ῥέων	ὅθεν τ[υγ]χάνει Νεῖλος ῥέων
+594	4247	4247:patch:0	convention-only	In Hort's *exx. ad* Jas 1⁶ of this word to denote the surface of the water blown upon by shifting breezes, rather than billows lashed by a storm, we may add Aristeas 70 where the workmanship bestowed on certain ornamental basins is described as so life-like that if a breath of wind blew upon them—ῥιπίζοντος τοῦ κατὰ τὸν ἀέρα πνεύματος—the leaves seemed in their places. It should be noted that the verb is derived not from ῥιπή, '' a rushing motion '' (ῥίπτω), but from ῥιπίς, '' a fire-fan.''	To Hort’s *exx. ad* Jas 1⁶ of this word to denote the surface of the water blown upon by shifting breezes, rather than billows lashed by a storm, we may add Aristeas 70 where the workmanship bestowed on certain ornamental leaves is described as so life-like that if a breath of wind blew upon them—ῥιπίζοντος τοῦ κατὰ τὸν ἀέρα πνεύματος—the leaves stirred in their places. It should be noted that the verb is derived not from ῥιπή, “a rushing motion” (ῥίπτω), but from ῥιπίς, “a fire-fan.”
+594	4256	4256:patch:0	sonnet	For the probable identification of the *Ῥοῦφος of Rom 16¹³* with the *Ῥοῦφος of Mk 15²¹,* see (cf. *Cf.*) p. 396 *al l.* 4¹6¹. The name is very common : see e.g. P Hawb I. 29 (A.D. 89), and the reft. in Preisigke *Namenbuch s.v.*	For the probable identification of the Ῥοῦφος of Rom 16¹³ with the Ῥοῦφος of Mk 15²¹, see SH p. 426 f. The name is very common : see e.g. P Hamb I. 29⁵ (A.D. 89), and the reff. in Preisigke *Namenbuch s.v.*
+599	4291	4291:patch:3	sonnet	χόρτου . . . σαπρὸν σαπρόν	χόρτου . . δύσμην σαπράν
+599	4291	4291:patch:9	sonnet	μαθθω[το]ῦ	μισθω[το]ῦ
+599	4293	4293:patch:1	sonnet	δερματικὴ σαπιφ(ίνη) (l. δερματικὴ σαπφειρίνη)	δερματικὴ σαπιρίν(η) (l. δελματικὴ σαπφειρίνη)
+599	4300	4300:patch:0	sonnet	(= *Chrest.* I. p. *524*) ἀστὴ σαμφθεῖσα σὺν τῷ νηρῷ. See also Herm. *Sim.* ix. 10. 3 al. ἡ παρθένος λαβοῦσα· πάρους ἐσφράγισεν (cf. Lk. 15⁹). The subst. is found in P Lond XIV. 1692³⁹ (A.D. 188) σφάκτι φύλλων.	(= *Chrest.* I. p. *524*) ὥστε σαρωθῆναί σου τὸν νομόν. See also Herm. *Sim.* ix. 10. 3 αἱ δὲ παρθένοι λαβοῦσαι σάρους ἐσάρωσαν (cf. Lk 15⁸). The subst. is found in P Oxy XIV. 1692¹¹ (A.D. 188) σάρωσις φύλλων.
+600	4302	4302:patch:3	sonnet	υἱὸς Μηνᾶ μητρὸς Σάρρας.	υἱὸς Μηνᾶ μητρὸς Σάρας.
+600	4303	4303:patch:3	sonnet	κατὰ διαβον(=ολικ)ὴν καὶ σατανικὴν ἐπίγνωσιν.	κατὰ διαβου(=ο)λικὴν καὶ σατανικὴν ἐνέργειαν.
+600	4305	4305:patch:0	sonnet	the discussion on δ καί	the discussion on ὁ καί
+606	4368	4368:patch:0	sonnet	μαχαίρᾳ εἰς τὸ P Lips I. 37²⁰	μαχαίρᾳ εἰς τὸ σκέλος, P Lips I. 37²⁰
+610	4406	4406:patch:0	sonnet	**ζμαράγδου**	**ζσμαράγδου**
+612	4417	4417:patch:0	sonnet	μᾶλλον δὲ σοφιζομένους δύνασθαι ἐκκλεῖναι (*l.* ἐκκλίνειν) τῆς δουλίας.	μᾶλλον δὲ σοφιζομένους δύνασθαι ἐκκλείνειν [τὸν δεσμὸν] τῆς δουλίας.
+612	4418	4418:patch:0	sonnet	*C. and B.* ii. p. 391, No. 704³	*C. and B.* ii. p. 761, No. 704¹
+614	4442	4442:patch:2	sonnet	ἠκούσαμεν ὅτι τὸν καταβεβρωμένον τὸν σπόρον	ἠκούσαμεν τὸν μῦν καταβεβρωκέναι τὸν σπόρον
+616	4450	4450:patch:0	sonnet	In *ib.* 137² (A.D. 135) the words ἐν σ[τ]αδίωι δευτέρωι occur	In *ib.* 157⁷ (A.D. 135) the words ἐν [σ]ταδίωι δευτέρωι occur
+616	4454	4454:patch:0	sonnet	P Oxy I. 37¹ (A.D. 49)	P Oxy I. 37ⁱ· ²⁵ (A.D. 49)
+620	4485	4485:patch:0	sonnet	2 Cor 6⁴⁵, 11²³⁻²⁷	2 Cor 6⁴⁻⁶, 11²³⁻²⁷
+623	4502	4502:patch:0	sonnet	To the exx. in LS⁹ add Jos. *Bell.* v. 9. 4 βαοθὸν στρατολογήσας.	To the exx. in LS⁸ add Jos. *Bell.* v. 9. 4 **βοηθὸν ἐστρατολόγησε**.
+625	4519	4519:patch:3	sonnet	*ib.* 133⁸ (B.C. 146–116)	*ib.* 137⁹ (B.C. 146–116)
+627	4536	4536:patch:1	convention-only	(= *LAE*, p. 165)	(= *LAE*², p. 165)
+627	4536	4536:patch:5	sonnet	παρακ[α]λῶ	παρακ]αλῶ
+627	4541	4541:patch:1	sonnet	Λεύκιος [ . ] . Σύλλᾳ Ἐπαφρόδιτος	Λεύκιος . [ . . Σύλλας Ἐπαφρόδιτος
+627	4542	4542:patch:5	convention-only	ἐπὶ τοῦ συνβουλίο[υ, and *ib.* 334	ἐπὶ τοῦ συνβουλίο[υ, = coram consilio, and *ib.* 334
+628	4550	4550:patch:0	sonnet	See *s.v.* συμφ.	See *passim* συνφ—
+631	4571	4571:patch:1	sonnet	and στρεψ is laid on the *praesent* part	and stress is laid on the *present* part
+637	4626	4626:patch:0	sonnet	For the NT use this comp. of the adj. συνῇλίξ—P Tebt II. 384¹³ (A.D. 10) σὺν τοῖς συνῃλικιώταις, Preisigke (*Wörterb.* *s.v.*) cites CIG III. 4129.	For this NT ἅπ. εἰρ. (Gal 1¹⁴) = ″a contemporary,″ Preisigke (*Wörterb.* *s.v.*) cites *CIG* III. 4929.
+637	4628	4628:patch:0	sonnet	For συνθλάω, ″crush together,″ ″break in pieces,″ of divine punishment, as in Mt 21⁴⁴, Lk 20¹⁸, cf. Ps 67(68)³¹, συνθλασθήτωσαν *ib.*	For συνθλάω ″crush together,″ ″break in pieces,″ of divine punishment, as in Mt 21⁴⁴, Lk 20¹⁸, cf. Pss 67(68)²², 109(110)⁵ f.
+637	4629	4629:patch:0	sonnet	According to Hobart, p. 249 θρῶπτε is a medical term for the crushing of a calculus, and his thinks that the comp¹. may have been similarly employed, and, in pursuance of his theme, points out that it is peculiar to Luke (Lk 21⁹) among Greek authors. But LS⁹ cite at least one other passage, Theod. Prodr. ii. 325 συνθλίβω. For the simple θρῶπτε P Oxy III. 471⁷⁶ (ii/A.D.) θρ[ί]βειν καὶ πλήσσειν μᾶλθον ϊᵉᵒθρῷ, where the editors noted, ″this banlovou and rich punch grave himself airs.″	According to Hobart p. 249 θρύπτω is a medical term for the crushing of a calculus, and he thinks that the compᵈ. may have been similarly employed, and, in pursuance of his theme, points out that it is peculiar to Luke (Ac 21¹³) among Greek authors. But LS⁸ cite at least one other passage, Theod. Prodr. 4. 325 συνεθρύβη. For the simplex θρύπτω see P Oxy III. 471⁸⁰ (ii/A.D.) εὔμορφον καὶ πλούσιον μειράκιον ἐθρύπτετο, where the editors render, ″this handsome and rich youth gave himself airs.″
+642	4674	4674:patch:0	convention-only	P Oxy* IX. 1188³⁴	P Oxy* IX. 1188²⁴
+642	4674	4674:patch:3	sonnet	(*l.* συμπτωσίμης)	(*l.* συμπτωσίμου)
+642	4674	4674:patch:5	sonnet	may have come into them	may be included in them
+642	4675	4675:patch:3	sonnet	P Par 63⁸⁷	P Par 63⁶⁷
+647	4722	4722:patch:0	sonnet	κ(ί)στην σταφυλῆς	κ[ί]στην σταφυλῆς
+647	4722	4722:patch:1	sonnet	καλοῦ καὶ ἐσφραγισμένας,	καλοῦ ἐσφραγι(σμένας),
+648	4726	4726:patch:0	sonnet	*Ostr* 1152²	*Ostr* 1152³
+649	4729	4729:patch:0	sonnet	so ˣⁱ·¹⁸ (= II. pp. 89, 133)	so ˣᵛ·¹⁶ (= II. pp. 89, 133)
+649	4729	4729:patch:1	sonnet	P Amh II. 142³¹ (iv/A.D.) καταφρονήσαντος τῆς περὶ ἀπραγμοσύνης μου τοῦ σχήματος	P Amh II. 142¹⁴ (iv/A.D.) καταφρονήσαντες τῆς περὶ ἐμὲ ἀπραγμοσύνης καὶ τοῦ σχήματος
+649	4730	4730:patch:1	sonnet	ὑποσχ[ε]ισμοὺς	ὑποσχ[ει]σμοὺς
+656	4777	4777:patch:1	sonnet	σοι δύο καμήλους	σοι δύω καμήλους
+659	4802	4802:patch:1	sonnet	τάξ[ει κατὰ τὸ ἔ[θ]ος	τάξ[ει κατὰ] τὸ ἔ[θ]ος
+664	4837	4837:patch:5	sonnet	(A.D. 189). P Magn 67⁷	(A.D. 189). The aor. ἔθηκα is seen in Magn 67⁷
+673	4905	4905:patch:0	sonnet	BGU IV. 1024ʳ ⁱⁱ· ¹⁶	BGU IV. 1024ᵛⁱⁱ·¹⁶
+674	4916	4916:patch:1	sonnet	= ]ν καὶ τρυφᾶν.	—]ν καὶ τρυφᾶν.
+674	4919	4919:patch:2	sonnet	ὀψαρίου μὴ ἅπτεσθαι	ὀψαρίου μὴ θινγάνειν
+674	4920	4920:patch:10	sonnet	For the strong perf. τέτ]ευχα Heb 8⁶ ℵ* BD*E	For the strong perf. τέτ(ε)υχα Heb 8⁶ ℵᶜ B Dᶜ E
+675	4922	4922:patch:0	convention-only	P Par 11 *verso* (B.C. 157)	P Par 11 *verso*⁵ (B.C. 157)
+675	4924	4924:patch:0	sonnet	P Lond 1122⁻³	P Lond 1122ᵇ³
+675	4924	4924:patch:1	sonnet	ἵνα ἐφάρῃς	ὅπως ἐφάρῃς
+675	4924	4924:patch:3	convention-only	P Flor I. 278¹¹	P Flor I. 278ⁱⁱ·²⁰
+675	4924	4924:patch:10	sonnet	ἵνα τυπώσεται	ἵνα τυπώσηται
+680	4964	4964:patch:1	sonnet	the mantic P Ryl I. 28⁴⁸ (iii/B.C.) ὁ δανίοις δὲ ἀναβολὰς ποιούμενος ἀποδώσει	the mantic P Ryl I. 28⁴⁵ (iii/iv A.D.) ἐν δανίοις δὲ ὑπάρχων ἀποδώσει
+681	4966	4966:patch:0	sonnet	Epict. *Fragm.* 27 τὸν προσαμελοῦντα . . . δικαιότατ' ἂν . . . εἰ μὲν ἀμείνονι ἑαυτοῦ τινι παρὸν ὑπεῖκαι, οὐ ὑπεῖκε, κωλύοιτο, εἰ δὲ χείρονι, αὐτὸς τι σαι πείθοιται.	Epict. *Fragm.* 27 τὸν προσομιλοῦντα . . . διασκοποῦ . . . εἰ μὲν ἀμείνονα, ἀκούειν χρὴ καὶ πείθεσθαι.
+681	4968	4968:patch:1	sonnet	Ἀχ[ιλλεῖ οὐδ' ἄλλῳ ὑπὲρ αὐτοῦ ἀπαίτησιν ποιεῖσθαι] . . . τῶν προκει[μ]ένων	Ἀχ[ιλλεῖ οὐδ' ἄλλῳ ὑ]πὲρ αὐτοῦ ἀπαίτησιν ποιε[ῖσθαι] . . . τῶν προκει[μ]ένων
+687	5013	5013:patch:1	sonnet	P Tebt II. 597	P Tebt II. 92¹³
+687	5014	5014:patch:0	sonnet	and for the form ὑποζωνον, see in L8⁸	and for the form ὑπόζωνον, not in LS⁸
+688	5023	5023:patch:0	sonnet	δι(πλο)κ(εράμον) ā	δι(πλο)κ(έραμον) ā
+688	5025	5025:patch:1	sonnet	προσευξάμενος δ(ὲ) αὐ[τῶι, ἐ]ά[μ με]	προσευξάμενος δ[ὲ] αὐ[τῶι, ἐ]ά[μ με]
+690	5042	5042:patch:3	sonnet	Τνεφερσοῦτι	Τνεφερσόιτι
+690	5042	5042:patch:4	sonnet	P Cairo Zen III. 59391⁹ (B.C. 240)	P Cairo Zen III. 59361⁹ (B.C. 242)
+693	5065	5065:patch:0	sonnet	(before c. b.c. 161)	(before b.c. 161)
+705	5173	5173:patch:1	convention-only	cf. Burton and *ICC* Gal 6³	cf. Burton *ad* *ICC* Gal 6³
+705	5166	5166:patch:0	sonnet	φλαγγίλιον	φλαγγέλιον
+714	5232	5232:patch:1	sonnet	εἴ(η) ἂν	εἴ⟨η⟩ ἂν
+714	5232	5232:patch:3	sonnet	θεοῖς δὲ χάρις ὅτι ᾕρες	θεοῖς δὲ χάρις ὅτι ἤρεσε
+714	5232	5232:patch:4	sonnet	διασῴζεται ἡμῖν	διασώσας ἡμῖν
+715	5235	5235:patch:0	sonnet	BGU IV. 1026ᵪˡⁱⁱⁱ. ²⁴	BGU IV. 1026ˣˣⁱⁱⁱ. ²⁴
+715	5236	5236:patch:1	sonnet	(δραχμαὶ) δ· :	(δραχμαὶ) δ̄ :
+715	5236	5236:patch:3	sonnet	εἰς τοῦτ[ο]ν ἔγραψα	εἰς τοῦ[τ]ον ἔγραψα
+717	5244	5244:patch:0	sonnet	P Lond 2200ⁱⁱ. ²¹	P Lond 220ⁱⁱ. ²¹
+721	5282	5282:patch:0	sonnet	καὶ προαιρεῖν, ἵν᾽	καὶ προαιρ[εῖν], ἵν᾽
+722	5286	5286:patch:0	sonnet	παρὰ Αμμωναρί[ο]υ τῆς Αμμω[νί]ου	παρὰ Ἀμμωναρί[ο]υ τῆς Ἀμμω[νί]ου
+726	5315	5315:patch:0	sonnet	P Ryl II. 138³³ (A.D. 34) χωρὶς δὲ τούτου κατέλαβα τοῦτο . . ., "over and beyond this I detected this . . ."	P Ryl II. 138¹³ (A.D. 34) χωρὶς δὲ τούτου κατέλαβα τοῦτον . . ., "over and beyond this I detected him . . ."
+726	5315	5315:patch:2	sonnet	P Oxy II. 249⁷ (supplementary property return—A.D. 80) ἀπογράφομαι . . . χωρὶς τῶν προαπεγραψαμέν . . .	P Oxy II. 249⁷ (supplementary property return—A.D. 80) ἀπογράφομαι . . . χωρὶς τῶν προαπεγραψάμην . . .
+727	5319	5319:patch:0	sonnet	Exx. of a later date seem to be P Hal I. 1 (mid. iii/B.C.) εὑρῶσι ψευδὲς ἥ⟨ι⟩ παρὰ τὸ δέον παραγεγραφότες, and CPR I.	Exx. of a later date seem to be rare, but cf. *OGIS* 669⁵⁴ (i/A.D.) ἐάν τι εὑρεθῶσι ψευδὲς ἥ⟨ι⟩ παρὰ τὸ δέον παραγεγραφότες, and CPR I.
+727	5327	5327:patch:0	sonnet	ἀπὸ διαγραφου	ἀπὸ διαγράφου
+728	5332	5332:patch:3	sonnet	ψυχῇ τοὺ τε σ[ώ]ματι παραβαλλόμενος	ψυχῇ καὶ σ[ώ]ματι παραβαλλόμενος
+731	5345	5345:patch:1	sonnet	θνῆσκω δ' ἄλγεσ	θνήσκω δ' ἄλγεσ
