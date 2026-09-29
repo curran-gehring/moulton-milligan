@@ -196,5 +196,55 @@ class MultiSpan(unittest.TestCase):
         self.assertEqual(sb.blind_verdict(ch, {"printed": ch["new"]}), "accept")
 
 
+class Adjudicate(unittest.TestCase):
+    ITEM = {"kind": "patch", "old": "P Ryl I. 28²⁷", "new": "P Ryl I. 28¹³⁰", "reread": "P Ryl I. 28¹³⁹"}
+
+    def test_italics_only_difference_is_agreement(self):
+        self.assertEqual(sb.fold_conventions("*P Petr* II. 20ⁱᵛ·⁵"), sb.fold_conventions("P Petr II. 20 iv. 5"))
+
+    def test_sonnet_agrees_with_proposal(self):
+        self.assertEqual(sb.adjudicate(self.ITEM, "P Ryl I. 28¹³⁰"), ("apply", "P Ryl I. 28¹³⁰"))
+
+    def test_sonnet_agrees_with_blind_reread(self):
+        self.assertEqual(sb.adjudicate(self.ITEM, "P Ryl I. 28¹³⁹"), ("apply", "P Ryl I. 28¹³⁹"))
+
+    def test_reread_agreement_applies_sonnets_house_style_text(self):
+        item = {"kind": "patch", "old": "1001ⁱⁱⁱ·⁸", "new": "1001ⁱⁱⁱ·³⁷", "reread": "1001 iv. 37"}
+        self.assertEqual(sb.adjudicate(item, "1001ⁱᵛ·³⁷"), ("apply", "1001ⁱᵛ·³⁷"))
+
+    def test_sonnet_agrees_with_current_text(self):
+        self.assertEqual(sb.adjudicate(self.ITEM, "P Ryl I. 28²⁷"), ("keep", None))
+
+    def test_three_way_split_stays_manual(self):
+        self.assertEqual(sb.adjudicate(self.ITEM, "P Ryl I. 28¹⁸⁰"), ("manual", None))
+
+    def test_illegible_stays_manual(self):
+        self.assertEqual(sb.adjudicate(self.ITEM, None), ("manual", None))
+
+    def test_reread_in_other_conventions_applies_in_house_style(self):
+        item = {"kind": "patch", "old": "20¹⁻⁵", "new": "20ⁱᵛ·⁵", "reread": "20 iv. 5"}
+        self.assertEqual(sb.adjudicate(item, "20 iv. 5"), ("apply", "20ⁱᵛ·⁵"))
+
+    def test_pre_resolve_italics_only_disagreement(self):
+        item = {"kind": "patch", "old": "*P Petr* II. 20¹⁻⁵", "new": "*P Petr* II. 20ⁱᵛ·⁵",
+                "reread": "P Petr II. 20ⁱᵛ·⁵"}
+        self.assertEqual(sb.pre_resolve(item), ("apply", "*P Petr* II. 20ⁱᵛ·⁵"))
+
+    def test_pre_resolve_noop_lemma_dropped(self):
+        item = {"kind": "lemma_greek", "old": "ἀγών", "new": unicodedata.normalize("NFD", "ἀγών"), "reread": "ἀγών"}
+        self.assertEqual(sb.pre_resolve(item), ("keep", None))
+
+    def test_pre_resolve_leaves_real_disagreement(self):
+        self.assertIsNone(sb.pre_resolve(self.ITEM))
+
+
+class AdjudicateHeadword(unittest.TestCase):
+    def test_headword_change_never_auto_applies(self):
+        # 2026-09-29: most agreed headword changes renamed an entry to its
+        # NEIGHBOUR's headword (κνήφη -> κοδράντης) — readers looked at the wrong entry
+        item = {"kind": "lemma_greek", "old": "κνήφη", "new": "κοδράντης", "reread": "κοδράντης"}
+        self.assertEqual(sb.adjudicate(item, "κοδράντης"), ("manual", None))
+
+
 if __name__ == "__main__":
     unittest.main()

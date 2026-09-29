@@ -92,11 +92,45 @@ _SUPERS = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹ⁱᵛˣᵇᶠᵃᶜᵈᵉ�
                         "0123456789ivxbfacdeghjklmnoprstuwyz")
 
 
-def _fold_conventions(t: str) -> str:
+def fold_conventions(t: str) -> str:
     """Ignore house-convention differences (superscripts vs plain, spacing,
-    periods/middle dots) that do not change what is printed."""
+    periods/middle dots, *italic* markers) that do not change the characters."""
     t = unicodedata.normalize("NFC", t or "").translate(_SUPERS)
-    return re.sub(r"[\s.·]", "", t)
+    return re.sub(r"[\s.·*]", "", t)
+
+
+def pre_resolve(item: dict) -> tuple[str, str | None] | None:
+    """Settle manual-queue items without another model call, or None.
+    keep: the proposal is a no-op. apply: proposal and blind re-read agree once
+    convention differences are ignored (plain 'disagree' items only; Greek and
+    multi-site items always get a third reading)."""
+    old, new, reread = item["old"], item["new"], item.get("reread") or ""
+    if _norm_text(new) == _norm_text(old):
+        return ("keep", None)
+    if item.get("why", "disagree") != "disagree":
+        return None
+    f = fold_conventions
+    if f(new) == f(reread) and f(new) != f(old):
+        return ("apply", new)
+    return None
+
+
+def adjudicate(item: dict, reading: str | None) -> tuple[str, str | None]:
+    """Two-of-three agreement with an independent Sonnet reading. Headword
+    changes never auto-apply: agreed ones mostly renamed an entry to its
+    neighbour's headword, which would also orphan its Strong's key."""
+    if reading is None or item["kind"] == "lemma_greek":
+        return ("manual", None)
+    f = fold_conventions
+    old, new, reread = f(item["old"]), f(item["new"]), f(item.get("reread") or "")
+    s = f(reading)
+    if s == new and new != old:
+        return ("apply", item["new"])
+    if s == reread and reread != old:
+        return ("apply", reading)  # same characters; Sonnet was asked for house style
+    if s == old:
+        return ("keep", None)
+    return ("manual", None)
 
 
 def _is_greekish(ch: str) -> bool:
@@ -154,7 +188,7 @@ def _blind_compare(change: dict, printed: str) -> str:
         return "accept"
     if _norm_text(printed) == _norm_text(change["old"]):
         return "false_alarm"
-    p, n, o = (_fold_conventions(x) for x in (printed, change["new"], change["old"]))
+    p, n, o = (fold_conventions(x) for x in (printed, change["new"], change["old"]))
     if n != o:
         if p == n:
             return "accept"
