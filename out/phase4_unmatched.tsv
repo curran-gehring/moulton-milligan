@@ -2,9 +2,9 @@ count	citation_prefix
 12	
 5	al.
 3	Chrest. II. p. 89
-2	P Revill Mél p. 295⁵
 2	al
 2	P Petri II. 13
+2	P Rev Lˣˡⁱ· ¹³
 2	Sym 1295²⁵
 1	P Théad 15²⁴
 1	Leyden papyrus magica
@@ -20,18 +20,18 @@ count	citation_prefix
 1	Heliod. Aethiop. v. 15
 1	P Saʼīd Khan 2⁹
 1	Eus. H.E. iv. 15, 19
-1	P Saʼīd Khan 2⁸·¹¹
-1	P Saʼīd Khan 2¹·²⁴
+1	P Saʼīd Khan 2ᵃ·¹¹
+1	P Saʼīd Khan 2ᵇ·¹⁴
 1	I. 24³⁹
 1	Revenue Papyrus
 1	Minns IosPE i. 22⁸⁵
+1	xii. 35
 1	p. 44¹⁸
 1	I. p. 72
 1	I. p. 171
 1	CPHerm 22⁵
 1	"Barnabas" 2¹⁰
 1	no. 899
-1	Syll² 423¹⁵
 1	P Saïd Khan 1⁸·³³
 1	Syll² 329²⁰
 1	VII. 1036²⁷
@@ -43,7 +43,7 @@ count	citation_prefix
 1	Deissmann NBS p. 115
 1	Inv. Nr. 74
 1	IV. 724¹⁰
-1	Lafoscade, no. 105¹
+1	Lafoscade, no. 105¹¹
 1	Bacchylides papyrus, iii. 86
 1	P Said Khan
 1	Rev L
@@ -57,7 +57,7 @@ count	citation_prefix
 1	IV. 1049²⁹
 1	CPHerm 41
 1	P Théad Inv. 15
-1	VI. 911⁷
+1	VI. 911¹⁵
 1	Syll² 656⁹
 1	Deissmann LAE p. 94 ff.
 1	G. A. Cooke's North Semitic Inscriptions
@@ -69,9 +69,9 @@ count	citation_prefix
 1	OGI 24987
 1	Lucian Pud. voc. 9
 1	Ant. xviii. 243
-1	P Grenf. I. 64⁷
+1	P Grenf. I. 64²
 1	P Cattaoui ⁱⁱ⁻¹⁸
-1	P Brem 40⁵
+1	P Brem 40⁴
 1	Chrest. II. 372 vi. ⁸
 1	CPHerm 7¹⁵
 1	Anth. Pal. 12⁸
@@ -88,20 +88,22 @@ count	citation_prefix
 1	Rev L, 43¹⁰
 1	CPHerm 25ⁱⁱ· ²
 1	P I. 28¹²⁷
-1	CPHerm 26³
+1	CPHerm 26¹⁶
 1	P Grenf. I. 21⁴
-1	P Grenf. I. 11⁴⁻¹⁵
-1	Pelagia, p. 7²
+1	P Grenf. I. 11ⁱⁱ·³
+1	Pelagia, p. 7³
 1	P [Lond] 233⁵ [= II. p. 273—A.D. 345]
 1	III. 756
 1	Philologus
 1	P Petrie II. 11
+1	P Cattᵛ·²⁰
 1	p. 278¹⁸
 1	p. 313²⁶
 1	Rev L 31¹⁸
 1	Chrest. II. 96ⁱ·⁶
 1	p. 16¹⁰
 1	18¹²
+1	P Revill Mél p. 295⁵
 1	CPHerm 45⁹
 1	Chrest. II. p. 117
 1	Chrest. II. 78⁹
@@ -112,7 +114,7 @@ count	citation_prefix
 1	Ost 1319
 1	Ost 1577
 1	CPHerm 6²⁴
-1	X. 1295⁴·⁵
+1	X. 1295⁴·⁶
 1	P Revill Mél
 1	Coptic Ostraca 72
 1	CPHerm 101⁸
@@ -122,7 +124,6 @@ count	citation_prefix
 1	a papyrus of Magdola
 1	Paris magical papyrus 1245
 1	no. 563
-1	Syll². 533
 1	P Said Khan 1²·⁴⁶
 1	P Théad 8¹⁴
 1	Paris papyrus 574³²⁴⁵
@@ -130,10 +131,10 @@ count	citation_prefix
 1	P Théad 18⁸
 1	P Théad 20¹⁵
 1	Chrest. II. 361⁸
-1	P Grenf. I. 1⁸
+1	P Grenf. I. 1⁶
 1	IX. 114
 1	IX. 224
-1	W xiii ⁸
+1	W xvi. 8 ᶠ
 1	CPHerm 15
 1	I. 38
 1	Vettius, p. 89¹⁵
@@ -145,9 +146,9 @@ count	citation_prefix
 1	IosPE i. 22²⁴
 1	Athenaeus, Deipnos. X. 419⁴
 1	and 44 verso ii.¹⁸¹
-1	P Said Khan 1·²⁶
+1	P Said Khan 1ᵃ·²⁶
 1	CPHerm 119 verso ⁵·¹⁵
-1	Cl'Herm 7¹⁶
+1	Cl'Herm 7ⁱⁱⁱ·⁶
 1	Papiers du Louvre
 1	Wilcken Chrest. I. p. 128
 1	P Brem 7³⁵
@@ -156,20 +157,20 @@ count	citation_prefix
 1	248⁵
 1	90
 1	P Saïd Khan 1
-1	CPHerm 125⁴
+1	CPHerm 125ⁱⁱ·³
 1	l.³⁹
-1	P Brit Mus 372⁸⁰
+1	P Brit Mus 372⁵⁰
 1	Wilcken Archiv i. p. 431 ff.
-1	P Brem 9
+1	P Brem⁹
 1	no. 43⁵
-1	I Amh II. 33¹⁵
-1	IGI VII. 496⁸
+1	I Amh II. 33¹⁹
+1	IGI VII. 496³
 1	Preis 99¹⁹
 1	Chrest. II. 196²ᶠ·
-1	Chrest. II. 372ⁱⁱ·²⁰
+1	Chrest. II. 372ⁱⁱ·¹⁹
 1	Paris Zauberpapyrus 662
 1	Chrest. II. 142
-1	CPHerm 7⁶
+1	CPHerm 7ⁱⁱ·¹⁸
 1	I. 105¹⁹
 1	l. 235
 1	xxv. 28
@@ -180,40 +181,40 @@ count	citation_prefix
 1	no. 26³⁹
 1	Aïto vii. p. 285 ff.
 1	P Saʿid Khan 1 b. 34
-1	X. 1262²⁸
+1	X. 1262¹⁶
 1	χ· ⁸
 1	CPHerm 27
-1	IX. 1210⁸
+1	IX. 1210⁵
 1	P Cattaoui⁶·¹⁶
 1	Wisc 7¹⁵
-1	Poimandres 10⁴
-1	I. 75¹⁶
+1	Poimandres 10¹⁵
+1	I. 75³¹
 1	III. 478¹¹
-1	VIII. 1121⁹
+1	VIII. 1121¹¹
 1	Rainer Pap. 215 in Führer durch die Auss
 1	Paris Great Magical Papyrus, Leaf 33⁰⁰²
 1	ib 119 verso ⁱⁱⁱ ¹
-1	P Gizeh 10271⁷
+1	P Gizeh 10271¹²
 1	III. 523
 1	VI. 926
 1	CPHerm 52¹·¹⁵
-1	P Passalacqua¹
+1	P Passalacqua¹³
 1	Mithrasliturgie, p. 18⁸
 1	Leipzig papyrus of Hadrian's reign
 1	e.g. P Oxy II. 268⁷
 1	IV. 774¹
 1	I.⁸
 1	Didache 9⁴
-1	so⁶²
-1	III. 494⁷⁶
+1	so³²
+1	III. 494¹⁶
 1	Chrest. II. 88¹·⁸
-1	ib. 26 verso²
-1	ib. recto¹⁷
+1	ib. 26 verso⁴
+1	ib. recto¹²
 1	Leyden magic papyrus
 1	P Bremen 18
 1	Lips. 13¹·³
 1	P Brem 73¹
-1	Rev L. 18¹⁹
+1	Rev L. 18¹⁰
 1	CPHerm I. 25¹¹·⁸
 1	I. 71¹·⁴
 1	VI. 904²
@@ -225,28 +226,29 @@ count	citation_prefix
 1	xii⁹
 1	P
 1	great Paris magical papyrus, 1275 ff.
+1	P Revill Mél p. 295⁹
 1	47⁸
-1	CPHerm 121¹⁸
-1	Vett. Valens p. 355³⁰
+1	CPHerm 121¹³
+1	Vett. Valens p. 355²⁹
 1	Vett. Valens p. 91⁵
 1	Ramsay C. and B. ii. p. 720 No. 655
 1	M. Anton. v. 19
-1	P Sa‘id Khan I. A¹¹
+1	P Sa‘id Khan I. A²¹ f.
 1	IV. 791⁷
 1	cf. ib. 1¹⁷
 1	cf. ¹¹
 1	Chrest. II. i. p. 287f.
 1	Oenoanda col. 29, 7
 1	Hadrumetum inscription of iii/A.D.
-1	the great magical Paris papyrus ¹¹⁶
+1	the great magical Paris papyrus 3076
 1	cf.¹⁷
 1	P Catt¹·²
 1	Expt xxvi. p. 248 ff.
 1	ZAE, p. 186
 1	Vett. Val. p. 59⁷
-1	cP Hermes I. 5²·¹¹
-1	Rev L⁵⁹ˣˣᵛⁱⁱⁱ· ¹
-1	cf.⁵⁶
+1	cP Hermes I. 52·¹⁷
+1	Rev Lˣˣˣᵛⁱⁱⁱ· ¹
+1	cf.³⁶
 1	Vett. Val. p. 226⁷
 1	Vett. Val. p. 264¹³
 1	Vett. Val. p. 276¹¹
@@ -264,11 +266,11 @@ count	citation_prefix
 1	Catalogus codd. astr. gr. VIII. 3, 169. 
 1	Dessau 7843
 1	Dessau 7864
-1	Vett. Val. p. 362³
+1	Vett. Val. p. 362²⁰
 1	al. II. 266¹⁶,²²
 1	Wilcken Cstr 113¹
 1	IV. 247⁵⁵
-1	P Grenf. I. 33⁶
+1	P Grenf. I. 33³³
 1	I. 50¹⁸
 1	Petr II. 21
 1	Milne Theb. Ostr. p. 153 f.
@@ -276,9 +278,9 @@ count	citation_prefix
 1	Preuschen Mönchtum, p. 65
 1	Od. ix. 148, 546
 1	P Fly II. 426 Fr. 4
-1	P Revill Mel p. 295¹⁸
+1	P Revill Mel p. 295¹²
 1	so⁸⁴
-1	Vett. Val. p. 73³⁰
+1	Vett. Val. p. 73²⁰
 1	Chrest. II. 372⁻⁴
 1	P Sa'id Khan 1⁸⁻¹¹
 1	Alterthümer von Hierapolis iv. p. 87, No
@@ -288,14 +290,14 @@ count	citation_prefix
 1	Catal. VII. 170, 21
 1	Catal. VII. 171, 14
 1	P Jand I. 21²
-1	Vett. Val. p. 331¹⁸
+1	Vett. Val. p. 331¹³
 1	Vett. Val. p. 79¹⁸
 1	Revillout 276² p. 295⁵
 1	iii/A.D. pap. letter cited s.v. γνώστης 
 1	CIGrIns I. 1, No. 675⁶
 1	Mittheilungen des athen. Instituts 15, p
 1	P [Iand] II. 43⁹
-1	Vett. Val. p. 340⁵
+1	Vett. Val. p. 340⁹
 1	cf. ¹²⁵
 1	Ev. Petr. 6
 1	Ost. 1153
@@ -309,7 +311,7 @@ count	citation_prefix
 1	Vett. Val. p. 62
 1	Crum's Coptic Ostraca 435¹⁸
 1	Theb Ostr 134⁸
-1	P Rev L⁴⁷· ⁸
+1	P Rev Lˡᵛⁱ· ⁸
 1	¹⁵
 1	Wünsch AP 2¹
 1	I. 47¹³
@@ -317,12 +319,11 @@ count	citation_prefix
 1	I. p. 34
 1	P Grenf
 1	I. 33⁵⁸
-1	P Rev Lⁱⁱⁱ· ⁵
+1	P Rev Lxiii. 5
 1	Bacchylides Fragm. 16²
 1	Vett. Val. p. 225⁷
 1	p. 237⁷
 1	P Cairo Goodsp 15¹³
-1	Mide III. 1064
 1	Chrest. II. 68⁴⁰
 1	Paris papyrus, p. 422¹³
 1	Rainer papyrus published by Wessely
@@ -338,7 +339,7 @@ count	citation_prefix
 1	Bull. Soc. Alex. xi.
 1	l. 11, 456²⁸
 1	Ephemeris Epigraphica, 1881, p. 537 ff.
-1	London papyrus, Inv. 1885iii· of A.D. 12
+1	London papyrus, Inv. 1885iii. of A.D. 12
 1	P Revill Mél 295¹⁰
 1	IAS iii. 612
 1	CPHerm I. 86¹⁹
@@ -413,8 +414,6 @@ count	citation_prefix
 1	P Rev Lˣˣᵛⁱ·¹—B.C. 258
 1	P Sa'íd Khan 1²⁵
 1	CPHerm I. 125⁷
-1	P Rev Lˣˡⁱ· ¹²
-1	P Rev Lˣˡⁱ· ¹³
 1	P Rev L¹ˣᵛ. ¹¹
 1	Papyrus No. 6085
 1	Dessau 7566
@@ -447,17 +446,16 @@ count	citation_prefix
 1	P Rev L¹·¹³
 1	Chrest. II. 6⁹
 1	ḄGU III. 1364²
-1	P Sakkakini 26. 90. 94 verso
+1	P Sakkakini 59. 60. 94 verso
 1	Wünsch AP p. 15³
 1	P Sl II. 126⁵⁰⁻⁵¹
-1	Pretzigke 358¹³
 1	Syria, revue d'art oriental et d'archéol
 1	P Reinach 11¹⁹
 1	Tebtunis ostracon 3¹
 1	Deissmann LAE, p. 186
 1	P Cairo Masp 67158¹⁷
 1	Vett. Val. p. 264¹⁰
-1	Xen. Oxon. xvii. 4
+1	Xen. Oecon. xvii. 4
 1	Cleant. I. 70⁹⁵
 1	P Hyl II. 132⁸
 1	Cl. OGIS 728⁴
@@ -505,7 +503,7 @@ count	citation_prefix
 1	cf.²¹
 1	Teles p. 27³
 1	Epict.iii. 16. 7
-1	Vett. Val. p. 36⁶ al.
+1	Vett. Val. p. 36³⁰ al.
 1	cf. ⁷
 1	cf. ⁶
 1	Pliny H.N. xxxvii. 23
@@ -586,7 +584,7 @@ count	citation_prefix
 1	Vett. Val. p. 341¹⁴
 1	Dessau 8002
 1	Dessau 7998
-1	P Rev Lˡ·¹⁷
+1	P Rev LL¹⁷
 1	P Magn 67⁷
 1	Inscr. Délos 365-53
 1	P Bilabel 35⁵
@@ -619,7 +617,7 @@ count	citation_prefix
 1	l.²⁷
 1	Vett. Val. p. 11¹
 1	l⁵
-1	P Reinach 54¹¹·¹³
+1	P Reinach 54¹¹,¹³
 1	Chrest. II.ᵛⁱ· ¹⁴
 1	l.¹⁴
 1	Chrest. II. 361¹⁶
