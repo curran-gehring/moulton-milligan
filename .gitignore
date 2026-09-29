@@ -21,3 +21,8 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Spot-check crops from manual audits
+out/_*.png
+tmp_crop/
+tmp_*.png
